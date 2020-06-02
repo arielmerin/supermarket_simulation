@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>util</OriginalElement>
+  <nodes>
+    <node x="1175.5" y="1154.0">util.ArbolAVL</node>
+    <node x="468.0" y="1054.0">util.ArbolBinario</node>
+    <node x="-34.5" y="768.5">util.Pila.IteradorPila</node>
+    <node x="245.5" y="368.5">util.Heap.Iterador</node>
+    <node x="1693.5" y="791.0">util.Cola.Nodo</node>
+    <node x="473.0" y="181.0">util.Heap</node>
+    <node x="192.0" y="658.0">util.Pila</node>
+    <node x="496.5" y="-31.0">util.MaxHeap</node>
+    <node x="1445.5" y="1088.5">util.Cola.IteradorCola</node>
+    <node x="885.5" y="899.5">util.ArbolBinarioBusqueda.Iterador</node>
+    <node x="2000.0" y="878.5">util.Listable</node>
+    <node x="512.0" y="1571.5">util.ArbolBinario.Nodo</node>
+    <node x="817.5" y="369.0">util.MinHeap</node>
+    <node x="2005.5" y="-31.5">util.Lista.IteradorLista</node>
+    <node x="-20.0" y="2002.5">util.Utilidades</node>
+    <node x="1192.0" y="1648.5">util.ArbolAVL.NodoAVL</node>
+    <node x="520.0" y="769.0">util.Coleccionable</node>
+    <node x="2291.0" y="408.5">util.Lista.Nodo</node>
+    <node x="820.0" y="1109.5">util.ArbolBinarioBusqueda</node>
+    <node x="1959.0" y="199.5">util.Lista</node>
+    <node x="213.5" y="1111.0">util.Pila.Nodo</node>
+    <node x="1430.0" y="658.0">util.Cola</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="util.Lista" target="util.Listable">
+      <point x="0.0" y="280.5" />
+      <point x="0.0" y="-81.5" />
+    </edge>
+    <edge source="util.ArbolAVL.NodoAVL" target="util.ArbolBinario.Nodo">
+      <point x="-88.0" y="-0.0" />
+      <point x="88.0" y="-0.0" />
+    </edge>
+    <edge source="util.MaxHeap" target="util.Heap">
+      <point x="0.0" y="71.0" />
+      <point x="0.0" y="-259.0" />
+    </edge>
+    <edge source="util.Lista.Nodo" target="util.Lista">
+      <point x="-69.0" y="-0.0" />
+      <point x="121.0" y="-0.0" />
+    </edge>
+    <edge source="util.Heap.Iterador" target="util.Heap">
+      <point x="74.5" y="-0.0" />
+      <point x="-127.0" y="-0.0" />
+    </edge>
+    <edge source="util.Pila.IteradorPila" target="util.Pila">
+      <point x="74.5" y="-0.0" />
+      <point x="-88.0" y="-0.0" />
+    </edge>
+    <edge source="util.ArbolBinarioBusqueda.Iterador" target="util.ArbolBinarioBusqueda">
+      <point x="0.0" y="60.5" />
+      <point x="0.0" y="-170.5" />
+    </edge>
+    <edge source="util.Heap" target="util.Coleccionable">
+      <point x="0.0" y="259.0" />
+      <point x="0.0" y="-71.0" />
+    </edge>
+    <edge source="util.Pila" target="util.Coleccionable">
+      <point x="88.0" y="-0.0" />
+      <point x="-80.0" y="-0.0" />
+    </edge>
+    <edge source="util.ArbolBinario.Nodo" target="util.ArbolBinario">
+      <point x="0.0" y="-148.5" />
+      <point x="0.0" y="226.0" />
+    </edge>
+    <edge source="util.ArbolAVL" target="util.ArbolBinarioBusqueda">
+      <point x="-104.5" y="-0.0" />
+      <point x="140.0" y="-0.0" />
+    </edge>
+    <edge source="util.ArbolBinarioBusqueda" target="util.ArbolBinario">
+      <point x="-140.0" y="-0.0" />
+      <point x="132.0" y="-0.0" />
+    </edge>
+    <edge source="util.MinHeap" target="util.Heap">
+      <point x="-102.5" y="-0.0" />
+      <point x="127.0" y="-0.0" />
+    </edge>
+    <edge source="util.Lista.IteradorLista" target="util.Lista">
+      <point x="0.0" y="71.5" />
+      <point x="0.0" y="-280.5" />
+    </edge>
+    <edge source="util.ArbolAVL.NodoAVL" target="util.ArbolAVL">
+      <point x="0.0" y="-71.5" />
+      <point x="0.0" y="126.0" />
+    </edge>
+    <edge source="util.Cola" target="util.Coleccionable">
+      <point x="-90.0" y="-0.0" />
+      <point x="80.0" y="-0.0" />
+    </edge>
+    <edge source="util.Pila.Nodo" target="util.Pila">
+      <point x="0.0" y="-49.0" />
+      <point x="0.0" y="182.0" />
+    </edge>
+    <edge source="util.ArbolBinario" target="util.Coleccionable">
+      <point x="0.0" y="-226.0" />
+      <point x="0.0" y="71.0" />
+    </edge>
+    <edge source="util.Cola.Nodo" target="util.Cola">
+      <point x="-66.5" y="-0.0" />
+      <point x="90.0" y="-0.0" />
+    </edge>
+    <edge source="util.Cola.IteradorCola" target="util.Cola">
+      <point x="0.0" y="-71.5" />
+      <point x="0.0" y="182.0" />
+    </edge>
+  </edges>
+  <settings layout="Directed Orthogonal" zoom="1.6493765586034919" x="1527.6168580270646" y="981.5719415827928" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
