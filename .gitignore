@@ -25,3 +25,9 @@ hs_err_pid*
 # IDE intellij
 .idea/
 out/
+
+# For IDE in LaTeX
+*.aux
+*.log
+*.synctex.gz
+
