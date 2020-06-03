@@ -33,7 +33,9 @@ public class Wharehouse implements Serializable {
         Product aModificar = almacen.buscandoElem(product);
         almacen.elimina(aModificar);
         Product agreando = aModificar;
-        agreando.setUnits(aModificar.getUnits() + cantidad);
+        int veces = aModificar.getUnits() + cantidad;
+        System.out.println("estas unidades " + veces);
+        agreando.setUnits(veces);
         almacen.agrega(agreando);
         return true;
     }

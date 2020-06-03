@@ -10,9 +10,11 @@ public class Main {
         //menu.principal();
         SuperMarket superMarket = new SuperMarket(3,12,15);
         superMarket.getWharehouse().agregarProducto(new Product(25, "algas", (float) 583.6));
-        superMarket.getWharehouse().agregarProducto(new Product(14, "marinas", 4));
+        superMarket.getWharehouse().agregarProducto(new Product(13, "marinas", 4));
         Client client = new Client();
+
         System.out.println(superMarket.getWharehouse().getAlmacen());
+
         superMarket.asignaProducto(client, 2, 11);
         System.out.println(superMarket.getWharehouse().modificarExistencias(-11,2));
         System.out.println(superMarket.getWharehouse().getAlmacen());
