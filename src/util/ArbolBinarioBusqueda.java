@@ -1,5 +1,7 @@
 package util;
 
+import market.admin.Product;
+
 import java.io.Serializable;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
@@ -282,5 +284,10 @@ public class ArbolBinarioBusqueda<T extends Comparable<T>> extends ArbolBinario<
     @Override
     public String toString() {
         return super.toString();
+    }
+
+    public void actualizar(Product product, int valor ){
+        Product product1 = (Product) buscando((T) product).elemento;
+        product1.setUnits(valor);
     }
 }
