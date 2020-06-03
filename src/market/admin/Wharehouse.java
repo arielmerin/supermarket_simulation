@@ -28,7 +28,7 @@ public class Wharehouse implements Serializable {
     public boolean modificarExistencias(int cantidad, int id){
         Product product = new Product(id);
         if (product.getUnits() - cantidad < 0 && cantidad < 0) {
-            throw new NegativeArraySizeException("ta mal");
+            return false;
         }
         Product aModificar = almacen.buscandoElem(product);
         almacen.elimina(aModificar);

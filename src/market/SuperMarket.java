@@ -48,11 +48,13 @@ public class SuperMarket implements Serializable, Runnable {
 
     public void asignaProducto(Client client, int id, int cantidad){
         Product agregar = wharehouse.getAlmacen().buscandoElem(new Product((id)));
+        Product alCarrito = new Product(id);
+        alCarrito.setUnits(cantidad);
+        alCarrito.setName(agregar.getName());
+        alCarrito.setPrice(agregar.getPrice());
         if (agregar.getUnits() >= cantidad){
-            System.out.println("tiene " + agregar.getUnits());
-            agregar.setUnits(cantidad);
-            agregar.setTimes(cantidad);
-            client.agregarAlCarrito(agregar);
+            client.agregarAlCarrito(alCarrito);
+            wharehouse.modificarExistencias(-cantidad, id);
         }
     }
 

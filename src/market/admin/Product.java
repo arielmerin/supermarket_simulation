@@ -105,4 +105,13 @@ public class Product implements Comparable<Product>, Serializable {
     public float getTotal() {
         return total;
     }
+
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
 }

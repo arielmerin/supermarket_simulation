@@ -48,10 +48,13 @@ public class Client {
         return purchase.shoppingCart.getTamanio();
     }
 
-    public void agregarAlCarrito(Product product){
+    public void agregarAlCarrito(Product product) {
         purchase.total = product.getTotal();
+
         purchase.shoppingCart.agrega(product);
     }
+
+
 
     @Override
     public String toString() {
