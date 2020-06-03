@@ -223,17 +223,16 @@ public class Pila<T> implements Coleccionable<T> {
 
     @Override
     public String toString() {
-        String s = "[";
+        String s = "";
         Nodo n = this.tope;
         while (n != null) {
             if (n.siguiente == null) {
                 s += n.elemento;
             } else {
-                s += n.elemento + ",";
+                s += n.elemento + "\n";
             }
             n = n.siguiente;
         }
-        s += "]";
         return s;
     }
 }

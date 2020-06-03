@@ -1,28 +1,30 @@
 package market.admin;
 
 import util.Lista;
+import util.Pila;
 
 public class Client {
 
-    private Purchase purchase;
+    private Purchase purchase = new Purchase();
 
     private int waitingTime;
 
     private class Purchase implements Comparable{
-        private Lista<Product> shoppingCart;
-        private double sutotal;
-        private double total;
+
+        Pila<Product> shoppingCart = new Pila<>();
+        double sutotal;
+         double total;
         private double iva;
 
         @Override
         public String toString() {
             return "TICKET DE COMPRA"+
                     "\n----------------------------------------------------\n" +
-                    "#Producto Cantidad Nombre Precio Total\n"+
+                    "#Producto Cantidad     Nombre  Precio  Total\n"+
                     shoppingCart +
-                    "                   Subtotal: " + total + "\n"+
-                    "                   iva: " + iva + "\n"+
-                    "                   total: " + total + "\n"+
+                    "\n\n                           Subtotal:   " + total + "\n"+
+                    "                           iva:        " + iva + "\n"+
+                    "                           total:      " + total + "\n"+
                     "----------------------------------------------------\n"+
                     "¡GRACIAS POR TU COMPRA, VUELVE PRONTO!\n" +
                     "----------------------------------------------------\n";
@@ -40,5 +42,19 @@ public class Client {
                 return 0;
             }
         }
+    }
+
+    public int getItems(){
+        return purchase.shoppingCart.getTamanio();
+    }
+
+    public void agregarAlCarrito(Product product){
+        purchase.total = product.getTotal();
+        purchase.shoppingCart.agrega(product);
+    }
+
+    @Override
+    public String toString() {
+        return purchase.toString();
     }
 }

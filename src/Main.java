@@ -1,11 +1,23 @@
 import UImenu.Menu;
+import market.SuperMarket;
+import market.admin.Client;
 import market.admin.Product;
-import util.ArbolAVL;
+
 
 public class Main {
     public static void main(String[] args) {
         Menu menu = new Menu();
-        menu.principal();
+        //menu.principal();
+        SuperMarket superMarket = new SuperMarket(3,12,15);
+        superMarket.getWharehouse().agregarProducto(new Product(14, "algas", 4));
+        superMarket.getWharehouse().agregarProducto(new Product(14, "marinas", 4));
+        Client client = new Client();
+        System.out.println(superMarket.getWharehouse().getAlmacen());
+        superMarket.asignaProducto(client, 2, 11);
+        System.out.println(superMarket.getWharehouse().modificarExistencias(-11,2));
+        System.out.println(superMarket.getWharehouse().getAlmacen());
+
+        System.out.println(client);
 
     }
 }

@@ -206,6 +206,9 @@ public class ArbolBinarioBusqueda<T extends Comparable<T>> extends ArbolBinario<
         return buscaNodo(raiz,elemento);
     }
 
+    public T buscandoElem(T elemento){
+        return buscando(elemento).elemento;
+    }
 
     /**
      * Gira el árbol a la derecha sobre el nodo recibido. Si el nodo no
