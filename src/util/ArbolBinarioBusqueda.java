@@ -276,4 +276,8 @@ public class ArbolBinarioBusqueda<T extends Comparable<T>> extends ArbolBinario<
         return new Iterador();
     }
 
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }

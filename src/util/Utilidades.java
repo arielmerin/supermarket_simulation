@@ -39,6 +39,35 @@ public class Utilidades {
         }while(conti);
         return entero;
     }
+    /**
+     * Este método sirve para controlar que en las entradas de enteros
+     * lo único que se pueda ingresar sean justo sólo valores numéricos y nada de cadenas
+     *
+     * @param msg mensaje de instrucciones al usuario o indicaciones
+     * @param error mensaje de error al detectar que la entrada no es un valor nummérico
+     *
+     * @return entero que validó y ahora puede ser utilizado
+     */
+    public static float getFloat(String msg, String error){
+        float entero = 0;
+        Scanner scan = new Scanner(System.in);
+        String librearBuffer;
+        boolean conti = true;
+        do{
+            System.out.print(msg);
+            if(scan.hasNextFloat())
+            {
+                entero = scan.nextInt();
+                if (entero > 0){
+                    conti = false;
+                }
+            }else{
+                librearBuffer = scan.next();
+                System.out.println(error);
+            }
+        }while(conti);
+        return entero;
+    }
 
     /**
      * Este metodo se encarga de pedirle al usuario a traves de la terminal una cadena que sera modificada, se le

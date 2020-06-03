@@ -6,19 +6,21 @@ public class Product implements Comparable<Product>, Serializable {
     int id;
     int units;
     String name;
-    int price;
+    float price;
     int times = 1;
 
-    public Product(int id, int units, String name, int price){
+    public Product(int id, int units, String name, float price){
         this.id = id;
-        this.units= id;
+        this.units= units;
         this.name = name;
         this.price = price;
     }
 
     @Override
     public String toString() {
-        return String.format("{} {} {} ${} ${} ",id,units,name,price, price * times);
+        float total = price * times;
+        String fina = String.format("%d %d %s %f %f",id,units,name,price, total);
+        return fina;
     }
 
 
@@ -46,11 +48,11 @@ public class Product implements Comparable<Product>, Serializable {
         this.name = name;
     }
 
-    public int getPrice() {
+    public float getPrice() {
         return price;
     }
 
-    public void setPrice(int price) {
+    public void setPrice(float price) {
         this.price = price;
     }
 

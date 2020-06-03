@@ -122,7 +122,7 @@ public abstract class ArbolBinario<T> implements Coleccionable<T>, Serializable 
 
         @Override
         public String toString() {
-            return (String) elemento;
+            return elemento.toString();
         }
     }
 

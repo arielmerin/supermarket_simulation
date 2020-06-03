@@ -10,9 +10,9 @@ public class Client {
 
     private class Purchase implements Comparable{
         private Lista<Product> shoppingCart;
-        private int sutotal;
-        private int total;
-        private int iva;
+        private double sutotal;
+        private double total;
+        private double iva;
 
         @Override
         public String toString() {
