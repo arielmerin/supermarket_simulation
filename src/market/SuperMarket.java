@@ -52,6 +52,7 @@ public class SuperMarket implements Serializable, Runnable {
         alCarrito.setUnits(cantidad);
         alCarrito.setName(agregar.getName());
         alCarrito.setPrice(agregar.getPrice());
+        alCarrito.setTimes(cantidad);
         if (agregar.getUnits() >= cantidad){
             client.agregarAlCarrito(alCarrito);
         }

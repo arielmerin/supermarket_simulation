@@ -30,7 +30,7 @@ public class Product implements Comparable<Product>, Serializable {
     @Override
     public String toString() {
         total = price * times;
-        String fina = String.format("\t%d \t\t %d \t\t%s\t %2.2f\t%2.2f",id,units,name,price, total);
+        String fina = String.format("\t%d \t\t %d\t\t%s\t %2.2f\t%2.2f",id,units,name,price, total);
         return fina;
     }
 

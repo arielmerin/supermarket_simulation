@@ -22,9 +22,9 @@ public class Client {
                     "\n----------------------------------------------------\n" +
                     "#Producto Cantidad     Nombre  Precio  Total\n"+
                     shoppingCart +
-                    "\n\n                           Subtotal:   " + total + "\n"+
-                    "                           iva:        " + iva + "\n"+
-                    "                           total:      " + total + "\n"+
+                    String.format("\n\n                           Subtotal:   %2.2f", calculaTotal() - calculaIva(calculaTotal())) + "\n"+
+                    String.format("                           iva:        %2.2f", calculaIva(calculaTotal())) + "\n"+
+                    String.format("                           total:      %2.2f", calculaTotal()) + "\n"+
                     "----------------------------------------------------\n"+
                     "¡GRACIAS POR TU COMPRA, VUELVE PRONTO!\n" +
                     "----------------------------------------------------\n";
@@ -44,6 +44,14 @@ public class Client {
         }
     }
 
+    public double calculaTotal(){
+        double sumatoria = 0;
+        for (Product product: purchase.shoppingCart){
+            sumatoria+= product.total;
+        }
+        return sumatoria;
+    }
+
     public int getItems(){
         return purchase.shoppingCart.getTamanio();
     }
@@ -52,6 +60,11 @@ public class Client {
         purchase.total = product.getTotal();
 
         purchase.shoppingCart.agrega(product);
+    }
+
+    public double calculaIva(double total){
+
+        return total * 0.16;
     }
 
 

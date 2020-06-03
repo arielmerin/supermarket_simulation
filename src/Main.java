@@ -16,6 +16,7 @@ public class Main {
         System.out.println(superMarket.getWharehouse().getAlmacen());
 
         superMarket.asignaProducto(client, 2, 11);
+        superMarket.asignaProducto(client, 1, 3);
         System.out.println(superMarket.getWharehouse().modificarExistencias(-11,2));
         System.out.println(superMarket.getWharehouse().getAlmacen());
 
