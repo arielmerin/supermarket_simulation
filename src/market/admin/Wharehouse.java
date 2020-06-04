@@ -1,8 +1,10 @@
 package market.admin;
 
 import util.ArbolAVL;
+import util.Lista;
 
 import java.io.Serializable;
+import java.util.Iterator;
 
 /**
  * <h1>Almacén</h1>
@@ -50,5 +52,20 @@ public class Wharehouse implements Serializable {
      */
     public ArbolAVL<Product> getAlmacen() {
         return almacen;
+    }
+
+
+
+    public Lista<String> pocasExistencias(){
+        Lista<String> faltantes = new Lista<>();
+        Iterator it = almacen.iterator();
+        while (it.hasNext()){
+
+            Product elemento = (Product) it.next();
+            if (elemento.getUnits() < 10){
+                faltantes.agregar(elemento.información());
+            }
+        }
+        return faltantes;
     }
 }
