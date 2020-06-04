@@ -20,10 +20,14 @@ public class Lista<T> implements Listable<T>, Iterable<T>{
          *  Referencias a los nodos anterior y siguiente
          **/
         public Nodo anterior, siguiente;
-        /* El elemento que almacena un nodo */
+        /**
+         *  El elemento que almacena un nodo
+         **/
         public T elemento;
 
-        /* Unico constructor de la clase */
+        /**
+         *  Unico constructor de la clase
+         **/
         public Nodo(T elemento){
             this.elemento=elemento;
         }

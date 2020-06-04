@@ -12,14 +12,13 @@ import java.util.Scanner;
 
 import static util.Utilidades.ranInt;
 
-public class SuperMarket implements Serializable, Runnable {
+/**
+ *
+ */
+public class SuperMarket extends Thread implements Serializable {
 
 
-    private Wharehouse almacenPrincipal;
-
-    public Lista<Client> getTickets() {
-        return tickets;
-    }
+    private final Wharehouse almacenPrincipal;
 
     private Lista<Client> tickets;
 
@@ -33,7 +32,8 @@ public class SuperMarket implements Serializable, Runnable {
 
     private Lista<LargeCheckout> cajas;
 
-    private SimpleDateFormat formatter = new SimpleDateFormat(("dd/MM/yyyy - HH:mm:ss"));
+    private final SimpleDateFormat formatter = new SimpleDateFormat(("dd/MM/yyyy - HH:mm:ss"));
+
     private Date fecha = new Date();
 
     /**
@@ -58,8 +58,8 @@ public class SuperMarket implements Serializable, Runnable {
         this.tickets = new Lista<>();
     }
 
-    public void darAltaProducto(Product product) {
-        almacenPrincipal.agregarProducto(product);
+    public Lista<Client> getTickets() {
+        return tickets;
     }
 
     public Wharehouse getAlmacen() {
@@ -70,11 +70,29 @@ public class SuperMarket implements Serializable, Runnable {
         return unifila;
     }
 
-    @Override
-    public void run() {
-
+    /**
+     * Proporciona el número total de ventas del supermercado entre ambos tipos de cajas
+     * @return la suma de cada cantidad que se vendió
+     */
+    public double getTotalVentas() {
+        double suma = 0;
+        for (QuickCheckout cajaRapida: unifila) {
+            suma += cajaRapida.calculaVentaTotal();
+        }
+        for (LargeCheckout cajaNormal: cajas){
+            suma+= cajaNormal.calculaVentaTotal();
+        }
+        return Math.round(suma);
     }
 
+    public void darAltaProducto(Product product) {
+        almacenPrincipal.agregarProducto(product);
+    }
+
+    /**
+     *
+     * @param esRapida
+     */
     public void abreCaja(boolean esRapida){
         if (esRapida){
             QuickCheckout quickCheckout = new QuickCheckout();
@@ -105,7 +123,12 @@ public class SuperMarket implements Serializable, Runnable {
         }
     }
 
-
+    /**
+     *
+     * @param client
+     * @param id
+     * @param cantidad
+     */
     private void asignaProducto(Client client, int id, int cantidad){
         Product agregar = almacenPrincipal.getAlmacen().buscandoElem(new Product((id)));
         Product alCarrito = new Product(id);
@@ -166,37 +189,22 @@ public class SuperMarket implements Serializable, Runnable {
     }
 
 
-    /**
-     * Proporciona el número total de ventas del supermercado entre ambos tipos de cajas
-     * @return la suma de cada cantidad que se vendió
-     */
-    public double getTotalVentas() {
-        double suma = 0;
-        for (QuickCheckout cajaRapida: unifila) {
-            suma += cajaRapida.calculaVentaTotal();
-        }
-        for (LargeCheckout cajaNormal: cajas){
-            suma+= cajaNormal.calculaVentaTotal();
-        }
-        return Math.round(suma);
-    }
-
     @Override
     public String toString() {
-
         String now = formatter.format(fecha);
         return String.format(":::  SUPERMERCADO  :::\n\nFecha: %s\nTotal de ingresos: $%.2f\nCon las siguientes cajas: \n%s\n %s" +
                         "\n\n La caja que más clientes atendió fue: \n %s",
                 now,getTotalVentas(), cajas, unifila, cajas.getElemento(2));
     }
 
-
+    /**
+     *
+     * @return
+     */
     public String reportePocasExistencias(){
-        StringBuilder sb = new StringBuilder();
-        sb.append( "   :::    REPORTE DE POCAS EXISTENCIAS   :::\nFecha: "+ formatter.format(fecha) +
-                "\n\n");
-        sb.append("\nID   Cantidad   Nombre  Precio \n");
-        sb . append(almacenPrincipal.pocasExistencias());
-        return sb.toString();
+        return "   :::    REPORTE DE POCAS EXISTENCIAS   :::\nFecha: " + formatter.format(fecha) +
+                "\n\n" +
+                "\nID   Cantidad   Nombre  Precio \n" +
+                almacenPrincipal.pocasExistencias();
     }
 }

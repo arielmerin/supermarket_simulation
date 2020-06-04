@@ -13,9 +13,20 @@ import java.util.Iterator;
  */
 public class Wharehouse implements Serializable {
 
+
+    /**
+     *
+     */
     private static int contador;
+
+    /**
+     *
+     */
     private ArbolAVL<Product> almacen;
 
+    /**
+     *
+     */
     public Wharehouse() {
         almacen = new ArbolAVL<>();
     }
@@ -54,8 +65,10 @@ public class Wharehouse implements Serializable {
         return almacen;
     }
 
-
-
+    /**
+     *
+     * @return
+     */
     public Lista<String> pocasExistencias(){
         Lista<String> faltantes = new Lista<>();
         Iterator it = almacen.iterator();

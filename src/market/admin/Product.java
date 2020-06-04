@@ -3,15 +3,47 @@ package market.admin;
 import java.io.Serializable;
 import java.util.Objects;
 
+/**
+ *
+ */
 public class Product implements Comparable<Product>, Serializable {
-    private int id;
-    private int units;
-    private String name;
-    private float price;
-    private int times = 1;
-    private boolean available;
-    float total;
 
+    /**
+     *
+     */
+    private int id;
+
+    /**
+     *
+     */
+    private int units;
+
+    /**
+     *
+     */
+    private String name;
+
+    /**
+     *
+     */
+    private float price;
+
+    /**
+     *
+     */
+    private int times = 1;
+
+    /**
+     *
+     */
+    private boolean available;
+
+    /**
+     *
+     * @param units
+     * @param name
+     * @param price
+     */
     public Product(int units, String name, float price){
         this.units= units;
         this.name = name;
@@ -20,57 +52,94 @@ public class Product implements Comparable<Product>, Serializable {
     }
 
 
-
+    /**
+     *
+     * @param id
+     */
     public Product(int id){
         this.id = id;
     }
 
-    @Override
-    public String toString() {
-        total = price * times;
-        String fina = String.format(" %d\t\t%d\t\t%s\t\t\t\t%2.2f\t%2.2f",id,units,name,price, total);
-        return fina;
+
+
+    /**
+     *
+     * @return
+     */
+    public String getName() {
+        return name;
     }
 
-    public String información(){
-        String fina = String.format("%d\t\t%s\t\t%2.2f\n",id,name,price);
-        return fina;
+    /**
+     *
+     * @return
+     */
+    public float getTotal() {
+        return times * price;
     }
 
-
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
+    /**
+     *
+     * @return
+     */
     public int getUnits() {
         return units;
     }
 
+    /**
+     *
+     * @return
+     */
+    public float getPrice() {
+        return price;
+    }
+
+    /**
+     *
+     * @param id
+     */
+    public void setId(int id) {
+        this.id = id;
+    }
+
+
+
+    /**
+     *
+     * @param units
+     */
     public void setUnits(int units) {
         checkUnits();
         this.units = units;
     }
 
-    public float getPrice() {
-        return price;
-    }
-
+    /**
+     *
+     * @param price
+     */
     public void setPrice(float price) {
         this.price = price;
     }
 
-    public int getTimes() {
-        return times;
+    /**
+     *
+     * @param name
+     */
+    public void setName(String name) {
+        this.name = name;
     }
 
+    /**
+     *
+     * @param times
+     */
     public void setTimes(int times) {
         this.times = times;
     }
 
+    /**
+     *
+     */
     private void checkUnits(){
         if (units <= 0 ){
             available = false;
@@ -78,18 +147,29 @@ public class Product implements Comparable<Product>, Serializable {
     }
 
 
+    /**
+     *
+     * @return
+     */
     public boolean isAvailable(){
         return available;
     }
 
 
+    /**
+     *
+     * @return
+     */
+    public String información(){
+        String fina = String.format("%d\t\t%s\t\t%2.2f\n",id,name,price);
+        return fina;
+    }
 
     @Override
     public int compareTo(Product o) {
-        Product p = (Product)o;
-        if (id - p.id > 0){
+        if (id - o.id > 0){
             return  1;
-        } if (id - p.id < 0){
+        } if (id - o.id < 0){
             return -1;
         }
         return 0;
@@ -108,16 +188,10 @@ public class Product implements Comparable<Product>, Serializable {
         return Objects.hash(id);
     }
 
-    public float getTotal() {
-        return times * price;
-    }
-
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getName() {
-        return name;
+    @Override
+    public String toString() {
+        float total = price * times;
+        String fina = String.format(" %d\t\t%d\t\t%s\t\t\t\t%2.2f\t%2.2f",id,units,name,price, total);
+        return fina;
     }
 }
