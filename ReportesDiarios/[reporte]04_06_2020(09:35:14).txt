@@ -1,0 +1,130 @@
+:::  SUPERMERCADO  :::
+
+Fecha: 04/06/2020 - 09:35:14
+Total de ingresos: $16983807.00
+Con las siguientes cajas: 
+
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2131882.84
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2397976.42
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2025233.10
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2395132.27
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2499341.67
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2601541.67
+Clientes atendidos: 6
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2807352.21
+Clientes atendidos: 6
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2874011.55
+Clientes atendidos: 6
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2553954.09
+Clientes atendidos: 6
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2447406.85
+Clientes atendidos: 6
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2832876.88
+Clientes atendidos: 6
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2740090.05
+Clientes atendidos:
+ 
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $446750.71
+Clientes atendidos: 2
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $128296.02
+Clientes atendidos: 2
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $301682.00
+Clientes atendidos: 2
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $297071.35
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $513549.07
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $355622.89
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $236198.98
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $412242.95
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $402867.27
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $303259.23
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $263273.39
+Clientes atendidos:
+
+ La caja que más clientes atendió fue: 
+ 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $3197824.26
+Clientes atendidos: 5
