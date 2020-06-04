@@ -1,6 +1,7 @@
 import UImenu.Menu;
 import market.SuperMarket;
 import market.admin.Client;
+import market.admin.Product;
 import serializer.Serializer;
 
 import java.text.SimpleDateFormat;
@@ -11,14 +12,18 @@ public class Main {
     public static void main(String[] args) {
         Menu menu = new Menu();
         //menu.principal();
-        for (int i = 0; i < 8800; i++) {
 
             SuperMarket superMarket = new SuperMarket(11,12,15);
             superMarket.cargarProductos("productos.txt");
-
+            superMarket.getAlmacen().agregarProducto(new Product(3,"pug", (float) 2.2));
+            superMarket.getAlmacen().agregarProducto(new Product(2,"perro Salchicha", (float) 2.2));
+            superMarket.getAlmacen().agregarProducto(new Product(1,"alimento para perro", (float) 2.2));
             for (int j = 0; j < 97; j++) {
                 superMarket.formandoCliente();
             }
+
+            System.out.println("Estos son los productos con pocas existas");
+            System.out.println(superMarket.getAlmacen().pocasExistencias());
             Serializer serializer = new Serializer();
             Date fecha = new Date();
             SimpleDateFormat sdt = new SimpleDateFormat(("dd_MM_yyyy(HH:mm:ss)"));
@@ -27,8 +32,8 @@ public class Main {
             serializer.creaCarpeta("ReportesDiarios");
             serializer.escribeTXT(superMarket, "ReportesDiarios"+ "/"+ "[reporte]"+nombre+".txt");
             serializer.escribeTXT(superMarket.getTickets(), "Tickets"+ "/"+ "[tickets]" +nombre+".txt");
-            System.out.println("lleva "+i);
-        }
+            System.out.println("lleva ");
+
 
     }
 }

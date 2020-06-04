@@ -32,6 +32,11 @@ public class Product implements Comparable<Product>, Serializable {
         return fina;
     }
 
+    public String información(){
+        String fina = String.format("%d\t\t%s\t\t%2.2f\n",id,name,price);
+        return fina;
+    }
+
 
     public int getId() {
         return id;

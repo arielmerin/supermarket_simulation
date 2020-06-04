@@ -374,12 +374,12 @@ public class Lista<T> implements Listable<T>, Iterable<T>{
         Iterator it = iterator();
         StringBuilder sb = new StringBuilder();
         while (it.hasNext()){
-            sb.append(it.next().toString() + ", ");
+            sb.append(it.next().toString());
         }
         String result = "";
         if (sb.length() > 1){
             result = sb.substring(0,sb.length() - 2);
         }
-        return "[" + result + "]";
+        return result ;
     }
 }
