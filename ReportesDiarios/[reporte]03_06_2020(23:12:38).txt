@@ -1,0 +1,130 @@
+:::  SUPERMERCADO  :::
+
+Fecha: 03/06/2020 - 23:12:38
+Total de ingresos: $19468357.00
+Con las siguientes cajas: 
+[
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2641203.63
+Clientes atendidos: 5, 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $3257776.07
+Clientes atendidos: 6, 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2669616.54
+Clientes atendidos: 6, 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $3111486.97
+Clientes atendidos: 6, 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $3170504.46
+Clientes atendidos: 6, 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2453037.81
+Clientes atendidos: 6, 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $3171390.86
+Clientes atendidos: 6, 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2881707.51
+Clientes atendidos: 6, 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2633074.88
+Clientes atendidos: 6, 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $3270016.74
+Clientes atendidos: 6, 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2803160.13
+Clientes atendidos: 6, 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $3022480.97
+Clientes atendidos: 6]
+ [
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $219225.94
+Clientes atendidos: 2, 
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $417655.23
+Clientes atendidos: 2, 
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $422886.75
+Clientes atendidos: 2, 
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $261169.78
+Clientes atendidos: 2, 
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $276228.99
+Clientes atendidos: 2, 
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $346854.96
+Clientes atendidos: 2, 
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $369551.40
+Clientes atendidos: 2, 
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $511202.45
+Clientes atendidos: 3, 
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $433665.97
+Clientes atendidos: 3, 
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $299187.10
+Clientes atendidos: 3, 
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $293629.39
+Clientes atendidos: 3]
+
+ La caja que más clientes atendió fue: 
+ 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $3961805.45
+Clientes atendidos: 5

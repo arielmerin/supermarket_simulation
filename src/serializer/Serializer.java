@@ -39,6 +39,40 @@ public class Serializer {
         }
     }
 
+
+    public void escribeTXT(Object object, String path){
+        FileWriter fichero = null;
+        PrintWriter pw = null;
+        try
+        {
+            fichero = new FileWriter(path);
+            pw = new PrintWriter(fichero);
+            pw.println(object);
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (null != fichero)
+                    fichero.close();
+            } catch (Exception e2) {
+                e2.printStackTrace();
+            }
+        }
+
+    }
+
+    public void creaCarpeta(String nombre) {
+        File directorio = new File( nombre);
+        if (!directorio.exists()) {
+            if (directorio.mkdir()) {
+                System.out.println("Directorio creado");
+            } else {
+                System.out.println("Error al crear directorio");
+            }
+        }
+    }
+
     /**
      * Metodo que crea un flujo de entrada para leer objetos almacenados
      * @param cadena Nombre donde estan almacenados los objetos a los que queremos acceder

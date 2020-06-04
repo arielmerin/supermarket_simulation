@@ -1,0 +1,3811 @@
+[TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 14		99		 Rice cakes				86.10	8523.90
+ 22		107		 Ezekiel				63.10	6751.70
+ 4		89		 Zanahoria				26.90	2394.10
+ 23		108		 Champiñones				64.17	6930.36
+ 26		111		 Salsa de soya				93.46	10374.06
+ 21		106		 Portobellos				3.10	328.60
+ 5		90		 Pepino				97.00	8730.00
+ 16		101		 Repollo				63.30	6393.30
+ 14		99		 Rice cakes				86.10	8523.90
+ 26		111		 Salsa de soya				93.46	10374.06
+ 2		87		 Plátano				98.20	8543.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 9		94		 Papa				93.80	8817.20
+ 16		101		 Repollo				63.30	6393.30
+ 5		90		 Pepino				97.00	8730.00
+ 21		106		 Portobellos				3.10	328.60
+ 4		89		 Zanahoria				26.90	2394.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 5		90		 Pepino				97.00	8730.00
+ 8		93		 Pitaya				33.86	3148.98
+ 6		91		 Papaya				63.10	5742.10
+ 2		87		 Plátano				98.20	8543.40
+ 10		95		 Pan integral				63.99	6079.05
+ 8		93		 Pitaya				33.86	3148.98
+
+                           Subtotal:   136974.86
+                           iva:        26090.45
+                           total:      163065.31
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 25		110		 Tahini				43.67	4803.70
+ 8		93		 Pitaya				33.86	3148.98
+ 16		101		 Repollo				63.30	6393.30
+ 18		103		 Brócoli				46.70	4810.10
+ 22		107		 Ezekiel				63.10	6751.70
+ 4		89		 Zanahoria				26.90	2394.10
+ 10		95		 Pan integral				63.99	6079.05
+ 19		104		 Jitomate				64.10	6666.40
+ 24		109		 Setas				74.72	8144.48
+ 18		103		 Brócoli				46.70	4810.10
+ 21		106		 Portobellos				3.10	328.60
+ 11		96		 Pan pita				63.35	6081.60
+ 23		108		 Champiñones				64.17	6930.36
+ 5		90		 Pepino				97.00	8730.00
+ 2		87		 Plátano				98.20	8543.40
+ 19		104		 Jitomate				64.10	6666.40
+ 8		93		 Pitaya				33.86	3148.98
+ 10		95		 Pan integral				63.99	6079.05
+ 9		94		 Papa				93.80	8817.20
+ 14		99		 Rice cakes				86.10	8523.90
+ 8		93		 Pitaya				33.86	3148.98
+ 12		97		 Peter Pan				63.10	6120.70
+ 7		92		 Calabaza				83.54	7685.68
+ 12		97		 Peter Pan				63.10	6120.70
+ 14		99		 Rice cakes				86.10	8523.90
+ 3		88		 Camote				55.20	4857.60
+ 19		104		 Jitomate				64.10	6666.40
+ 7		92		 Calabaza				83.54	7685.68
+ 8		93		 Pitaya				33.86	3148.98
+ 24		109		 Setas				74.72	8144.48
+ 26		111		 Salsa de soya				93.46	10374.06
+
+                           Subtotal:   159875.99
+                           iva:        30452.57
+                           total:      190328.56
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 18		103		 Brócoli				46.70	4810.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 13		98		 Rice paper				68.30	6693.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 2		87		 Plátano				98.20	8543.40
+ 17		102		 Colifor				63.60	6487.20
+ 1		86		 Soya				58.60	5039.60
+ 11		96		 Pan pita				63.35	6081.60
+ 9		94		 Papa				93.80	8817.20
+ 16		101		 Repollo				63.30	6393.30
+ 15		100		 Rosas				63.50	6350.00
+ 16		101		 Repollo				63.30	6393.30
+
+                           Subtotal:   62264.07
+                           iva:        11859.82
+                           total:      74123.90
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 20		105		 Tomate				37.10	3895.50
+ 6		91		 Papaya				63.10	5742.10
+ 21		106		 Portobellos				3.10	328.60
+ 4		89		 Zanahoria				26.90	2394.10
+ 7		92		 Calabaza				83.54	7685.68
+ 24		109		 Setas				74.72	8144.48
+ 2		87		 Plátano				98.20	8543.40
+ 9		94		 Papa				93.80	8817.20
+ 4		89		 Zanahoria				26.90	2394.10
+ 16		101		 Repollo				63.30	6393.30
+ 12		97		 Peter Pan				63.10	6120.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 25		110		 Tahini				43.67	4803.70
+ 25		110		 Tahini				43.67	4803.70
+ 4		89		 Zanahoria				26.90	2394.10
+ 10		95		 Pan integral				63.99	6079.05
+ 7		92		 Calabaza				83.54	7685.68
+ 3		88		 Camote				55.20	4857.60
+ 2		87		 Plátano				98.20	8543.40
+ 11		96		 Pan pita				63.35	6081.60
+ 27		112		 Aroz				53.20	5958.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 25		110		 Tahini				43.67	4803.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 8		93		 Pitaya				33.86	3148.98
+ 8		93		 Pitaya				33.86	3148.98
+ 20		105		 Tomate				37.10	3895.50
+ 12		97		 Peter Pan				63.10	6120.70
+ 16		101		 Repollo				63.30	6393.30
+ 26		111		 Salsa de soya				93.46	10374.06
+ 16		101		 Repollo				63.30	6393.30
+ 11		96		 Pan pita				63.35	6081.60
+ 23		108		 Champiñones				64.17	6930.36
+ 22		107		 Ezekiel				63.10	6751.70
+ 23		108		 Champiñones				64.17	6930.36
+ 9		94		 Papa				93.80	8817.20
+ 7		92		 Calabaza				83.54	7685.68
+ 23		108		 Champiñones				64.17	6930.36
+ 21		106		 Portobellos				3.10	328.60
+ 20		105		 Tomate				37.10	3895.50
+ 23		108		 Champiñones				64.17	6930.36
+ 19		104		 Jitomate				64.10	6666.40
+ 27		112		 Aroz				53.20	5958.40
+ 10		95		 Pan integral				63.99	6079.05
+ 1		86		 Soya				58.60	5039.60
+ 10		95		 Pan integral				63.99	6079.05
+ 9		94		 Papa				93.80	8817.20
+ 3		88		 Camote				55.20	4857.60
+ 18		103		 Brócoli				46.70	4810.10
+ 20		105		 Tomate				37.10	3895.50
+ 5		90		 Pepino				97.00	8730.00
+ 13		98		 Rice paper				68.30	6693.40
+
+                           Subtotal:   255230.66
+                           iva:        48615.36
+                           total:      303846.02
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 22		107		 Ezekiel				63.10	6751.70
+ 16		101		 Repollo				63.30	6393.30
+ 2		87		 Plátano				98.20	8543.40
+ 19		104		 Jitomate				64.10	6666.40
+ 15		100		 Rosas				63.50	6350.00
+ 16		101		 Repollo				63.30	6393.30
+ 1		86		 Soya				58.60	5039.60
+ 19		104		 Jitomate				64.10	6666.40
+ 14		99		 Rice cakes				86.10	8523.90
+ 3		88		 Camote				55.20	4857.60
+ 9		94		 Papa				93.80	8817.20
+ 23		108		 Champiñones				64.17	6930.36
+ 18		103		 Brócoli				46.70	4810.10
+ 27		112		 Aroz				53.20	5958.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 27		112		 Aroz				53.20	5958.40
+ 2		87		 Plátano				98.20	8543.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 7		92		 Calabaza				83.54	7685.68
+ 9		94		 Papa				93.80	8817.20
+ 19		104		 Jitomate				64.10	6666.40
+ 11		96		 Pan pita				63.35	6081.60
+ 9		94		 Papa				93.80	8817.20
+ 3		88		 Camote				55.20	4857.60
+ 2		87		 Plátano				98.20	8543.40
+ 11		96		 Pan pita				63.35	6081.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 13		98		 Rice paper				68.30	6693.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 4		89		 Zanahoria				26.90	2394.10
+ 27		112		 Aroz				53.20	5958.40
+ 18		103		 Brócoli				46.70	4810.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 18		103		 Brócoli				46.70	4810.10
+ 27		112		 Aroz				53.20	5958.40
+ 1		86		 Soya				58.60	5039.60
+ 13		98		 Rice paper				68.30	6693.40
+ 19		104		 Jitomate				64.10	6666.40
+ 5		90		 Pepino				97.00	8730.00
+ 10		95		 Pan integral				63.99	6079.05
+ 1		86		 Soya				58.60	5039.60
+ 20		105		 Tomate				37.10	3895.50
+ 2		87		 Plátano				98.20	8543.40
+ 25		110		 Tahini				43.67	4803.70
+ 23		108		 Champiñones				64.17	6930.36
+ 1		86		 Soya				58.60	5039.60
+ 15		100		 Rosas				63.50	6350.00
+ 10		95		 Pan integral				63.99	6079.05
+ 2		87		 Plátano				98.20	8543.40
+ 23		108		 Champiñones				64.17	6930.36
+
+                           Subtotal:   291991.59
+                           iva:        55617.45
+                           total:      347609.03
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 17		102		 Colifor				63.60	6487.20
+ 16		101		 Repollo				63.30	6393.30
+ 11		96		 Pan pita				63.35	6081.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 24		109		 Setas				74.72	8144.48
+ 2		87		 Plátano				98.20	8543.40
+ 1		86		 Soya				58.60	5039.60
+ 20		105		 Tomate				37.10	3895.50
+ 22		107		 Ezekiel				63.10	6751.70
+ 14		99		 Rice cakes				86.10	8523.90
+ 19		104		 Jitomate				64.10	6666.40
+ 15		100		 Rosas				63.50	6350.00
+ 17		102		 Colifor				63.60	6487.20
+ 16		101		 Repollo				63.30	6393.30
+ 19		104		 Jitomate				64.10	6666.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 2		87		 Plátano				98.20	8543.40
+ 20		105		 Tomate				37.10	3895.50
+ 12		97		 Peter Pan				63.10	6120.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 6		91		 Papaya				63.10	5742.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 7		92		 Calabaza				83.54	7685.68
+ 11		96		 Pan pita				63.35	6081.60
+ 20		105		 Tomate				37.10	3895.50
+ 10		95		 Pan integral				63.99	6079.05
+ 2		87		 Plátano				98.20	8543.40
+ 18		103		 Brócoli				46.70	4810.10
+ 17		102		 Colifor				63.60	6487.20
+ 13		98		 Rice paper				68.30	6693.40
+ 18		103		 Brócoli				46.70	4810.10
+ 23		108		 Champiñones				64.17	6930.36
+ 24		109		 Setas				74.72	8144.48
+ 4		89		 Zanahoria				26.90	2394.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 21		106		 Portobellos				3.10	328.60
+ 19		104		 Jitomate				64.10	6666.40
+ 13		98		 Rice paper				68.30	6693.40
+
+                           Subtotal:   203876.62
+                           iva:        38833.64
+                           total:      242710.26
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 18		103		 Brócoli				46.70	4810.10
+ 25		110		 Tahini				43.67	4803.70
+ 18		103		 Brócoli				46.70	4810.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 18		103		 Brócoli				46.70	4810.10
+ 19		104		 Jitomate				64.10	6666.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 17		102		 Colifor				63.60	6487.20
+ 18		103		 Brócoli				46.70	4810.10
+ 23		108		 Champiñones				64.17	6930.36
+
+                           Subtotal:   44220.00
+                           iva:        8422.86
+                           total:      52642.86
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 26		111		 Salsa de soya				93.46	10374.06
+ 18		103		 Brócoli				46.70	4810.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 10		95		 Pan integral				63.99	6079.05
+ 12		97		 Peter Pan				63.10	6120.70
+ 8		93		 Pitaya				33.86	3148.98
+ 25		110		 Tahini				43.67	4803.70
+ 11		96		 Pan pita				63.35	6081.60
+ 8		93		 Pitaya				33.86	3148.98
+ 5		90		 Pepino				97.00	8730.00
+ 15		100		 Rosas				63.50	6350.00
+ 5		90		 Pepino				97.00	8730.00
+ 9		94		 Papa				93.80	8817.20
+ 6		91		 Papaya				63.10	5742.10
+ 10		95		 Pan integral				63.99	6079.05
+ 18		103		 Brócoli				46.70	4810.10
+ 17		102		 Colifor				63.60	6487.20
+ 6		91		 Papaya				63.10	5742.10
+ 1		86		 Soya				58.60	5039.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 14		99		 Rice cakes				86.10	8523.90
+ 21		106		 Portobellos				3.10	328.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 1		86		 Soya				58.60	5039.60
+ 19		104		 Jitomate				64.10	6666.40
+ 8		93		 Pitaya				33.86	3148.98
+ 7		92		 Calabaza				83.54	7685.68
+ 26		111		 Salsa de soya				93.46	10374.06
+ 4		89		 Zanahoria				26.90	2394.10
+ 27		112		 Aroz				53.20	5958.40
+ 6		91		 Papaya				63.10	5742.10
+ 7		92		 Calabaza				83.54	7685.68
+ 11		96		 Pan pita				63.35	6081.60
+ 7		92		 Calabaza				83.54	7685.68
+ 2		87		 Plátano				98.20	8543.40
+ 5		90		 Pepino				97.00	8730.00
+ 4		89		 Zanahoria				26.90	2394.10
+ 18		103		 Brócoli				46.70	4810.10
+
+                           Subtotal:   198352.02
+                           iva:        37781.34
+                           total:      236133.36
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 15		100		 Rosas				63.50	6350.00
+ 27		112		 Aroz				53.20	5958.40
+ 16		101		 Repollo				63.30	6393.30
+ 24		109		 Setas				74.72	8144.48
+ 16		101		 Repollo				63.30	6393.30
+ 5		90		 Pepino				97.00	8730.00
+ 8		93		 Pitaya				33.86	3148.98
+ 25		110		 Tahini				43.67	4803.70
+ 2		87		 Plátano				98.20	8543.40
+ 20		105		 Tomate				37.10	3895.50
+ 8		93		 Pitaya				33.86	3148.98
+ 24		109		 Setas				74.72	8144.48
+ 8		93		 Pitaya				33.86	3148.98
+ 6		91		 Papaya				63.10	5742.10
+ 10		95		 Pan integral				63.99	6079.05
+ 3		88		 Camote				55.20	4857.60
+ 8		93		 Pitaya				33.86	3148.98
+ 16		101		 Repollo				63.30	6393.30
+ 2		87		 Plátano				98.20	8543.40
+ 2		87		 Plátano				98.20	8543.40
+ 24		109		 Setas				74.72	8144.48
+ 20		105		 Tomate				37.10	3895.50
+ 17		102		 Colifor				63.60	6487.20
+ 13		98		 Rice paper				68.30	6693.40
+ 8		93		 Pitaya				33.86	3148.98
+ 27		112		 Aroz				53.20	5958.40
+ 14		99		 Rice cakes				86.10	8523.90
+ 3		88		 Camote				55.20	4857.60
+ 23		108		 Champiñones				64.17	6930.36
+ 25		110		 Tahini				43.67	4803.70
+ 6		91		 Papaya				63.10	5742.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 8		93		 Pitaya				33.86	3148.98
+ 7		92		 Calabaza				83.54	7685.68
+ 7		92		 Calabaza				83.54	7685.68
+ 17		102		 Colifor				63.60	6487.20
+
+                           Subtotal:   185369.98
+                           iva:        35308.57
+                           total:      220678.55
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 2		87		 Plátano				98.20	8543.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 21		106		 Portobellos				3.10	328.60
+ 16		101		 Repollo				63.30	6393.30
+ 6		91		 Papaya				63.10	5742.10
+ 13		98		 Rice paper				68.30	6693.40
+ 20		105		 Tomate				37.10	3895.50
+ 3		88		 Camote				55.20	4857.60
+ 13		98		 Rice paper				68.30	6693.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 19		104		 Jitomate				64.10	6666.40
+ 3		88		 Camote				55.20	4857.60
+ 16		101		 Repollo				63.30	6393.30
+ 2		87		 Plátano				98.20	8543.40
+ 25		110		 Tahini				43.67	4803.70
+ 8		93		 Pitaya				33.86	3148.98
+ 15		100		 Rosas				63.50	6350.00
+ 2		87		 Plátano				98.20	8543.40
+ 10		95		 Pan integral				63.99	6079.05
+ 16		101		 Repollo				63.30	6393.30
+ 14		99		 Rice cakes				86.10	8523.90
+ 18		103		 Brócoli				46.70	4810.10
+ 15		100		 Rosas				63.50	6350.00
+ 14		99		 Rice cakes				86.10	8523.90
+ 14		99		 Rice cakes				86.10	8523.90
+ 9		94		 Papa				93.80	8817.20
+ 18		103		 Brócoli				46.70	4810.10
+ 5		90		 Pepino				97.00	8730.00
+ 25		110		 Tahini				43.67	4803.70
+ 11		96		 Pan pita				63.35	6081.60
+ 16		101		 Repollo				63.30	6393.30
+ 26		111		 Salsa de soya				93.46	10374.06
+
+                           Subtotal:   173825.14
+                           iva:        33109.55
+                           total:      206934.68
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 14		99		 Rice cakes				86.10	8523.90
+ 24		109		 Setas				74.72	8144.48
+ 26		111		 Salsa de soya				93.46	10374.06
+ 5		90		 Pepino				97.00	8730.00
+ 25		110		 Tahini				43.67	4803.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 10		95		 Pan integral				63.99	6079.05
+ 22		107		 Ezekiel				63.10	6751.70
+ 27		112		 Aroz				53.20	5958.40
+ 3		88		 Camote				55.20	4857.60
+ 6		91		 Papaya				63.10	5742.10
+ 9		94		 Papa				93.80	8817.20
+ 14		99		 Rice cakes				86.10	8523.90
+ 22		107		 Ezekiel				63.10	6751.70
+ 18		103		 Brócoli				46.70	4810.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 23		108		 Champiñones				64.17	6930.36
+ 8		93		 Pitaya				33.86	3148.98
+ 12		97		 Peter Pan				63.10	6120.70
+ 9		94		 Papa				93.80	8817.20
+ 15		100		 Rosas				63.50	6350.00
+ 10		95		 Pan integral				63.99	6079.05
+ 14		99		 Rice cakes				86.10	8523.90
+ 1		86		 Soya				58.60	5039.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 1		86		 Soya				58.60	5039.60
+ 5		90		 Pepino				97.00	8730.00
+ 1		86		 Soya				58.60	5039.60
+ 15		100		 Rosas				63.50	6350.00
+
+                           Subtotal:   165003.87
+                           iva:        31429.31
+                           total:      196433.18
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 7		92		 Calabaza				83.54	7685.68
+ 18		103		 Brócoli				46.70	4810.10
+ 27		112		 Aroz				53.20	5958.40
+ 11		96		 Pan pita				63.35	6081.60
+ 6		91		 Papaya				63.10	5742.10
+ 21		106		 Portobellos				3.10	328.60
+ 21		106		 Portobellos				3.10	328.60
+ 25		110		 Tahini				43.67	4803.70
+ 2		87		 Plátano				98.20	8543.40
+ 17		102		 Colifor				63.60	6487.20
+ 14		99		 Rice cakes				86.10	8523.90
+ 11		96		 Pan pita				63.35	6081.60
+ 20		105		 Tomate				37.10	3895.50
+ 2		87		 Plátano				98.20	8543.40
+ 18		103		 Brócoli				46.70	4810.10
+ 23		108		 Champiñones				64.17	6930.36
+ 14		99		 Rice cakes				86.10	8523.90
+ 21		106		 Portobellos				3.10	328.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 4		89		 Zanahoria				26.90	2394.10
+ 17		102		 Colifor				63.60	6487.20
+ 24		109		 Setas				74.72	8144.48
+ 15		100		 Rosas				63.50	6350.00
+ 9		94		 Papa				93.80	8817.20
+ 18		103		 Brócoli				46.70	4810.10
+ 3		88		 Camote				55.20	4857.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 2		87		 Plátano				98.20	8543.40
+ 23		108		 Champiñones				64.17	6930.36
+ 25		110		 Tahini				43.67	4803.70
+ 9		94		 Papa				93.80	8817.20
+ 26		111		 Salsa de soya				93.46	10374.06
+ 21		106		 Portobellos				3.10	328.60
+ 18		103		 Brócoli				46.70	4810.10
+ 20		105		 Tomate				37.10	3895.50
+ 26		111		 Salsa de soya				93.46	10374.06
+ 18		103		 Brócoli				46.70	4810.10
+ 16		101		 Repollo				63.30	6393.30
+ 14		99		 Rice cakes				86.10	8523.90
+ 22		107		 Ezekiel				63.10	6751.70
+ 17		102		 Colifor				63.60	6487.20
+ 1		86		 Soya				58.60	5039.60
+ 16		101		 Repollo				63.30	6393.30
+ 2		87		 Plátano				98.20	8543.40
+ 1		86		 Soya				58.60	5039.60
+ 9		94		 Papa				93.80	8817.20
+ 19		104		 Jitomate				64.10	6666.40
+ 25		110		 Tahini				43.67	4803.70
+ 11		96		 Pan pita				63.35	6081.60
+ 5		90		 Pepino				97.00	8730.00
+
+                           Subtotal:   259789.48
+                           iva:        49483.71
+                           total:      309273.19
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 18		103		 Brócoli				46.70	4810.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 24		109		 Setas				74.72	8144.48
+ 12		97		 Peter Pan				63.10	6120.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 14		99		 Rice cakes				86.10	8523.90
+ 27		112		 Aroz				53.20	5958.40
+ 2		87		 Plátano				98.20	8543.40
+ 10		95		 Pan integral				63.99	6079.05
+ 3		88		 Camote				55.20	4857.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 1		86		 Soya				58.60	5039.60
+ 1		86		 Soya				58.60	5039.60
+ 27		112		 Aroz				53.20	5958.40
+ 13		98		 Rice paper				68.30	6693.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 18		103		 Brócoli				46.70	4810.10
+ 24		109		 Setas				74.72	8144.48
+ 6		91		 Papaya				63.10	5742.10
+ 7		92		 Calabaza				83.54	7685.68
+ 12		97		 Peter Pan				63.10	6120.70
+ 27		112		 Aroz				53.20	5958.40
+ 23		108		 Champiñones				64.17	6930.36
+ 20		105		 Tomate				37.10	3895.50
+ 2		87		 Plátano				98.20	8543.40
+ 7		92		 Calabaza				83.54	7685.68
+ 24		109		 Setas				74.72	8144.48
+ 11		96		 Pan pita				63.35	6081.60
+ 2		87		 Plátano				98.20	8543.40
+ 19		104		 Jitomate				64.10	6666.40
+ 17		102		 Colifor				63.60	6487.20
+ 22		107		 Ezekiel				63.10	6751.70
+ 8		93		 Pitaya				33.86	3148.98
+ 19		104		 Jitomate				64.10	6666.40
+ 24		109		 Setas				74.72	8144.48
+ 11		96		 Pan pita				63.35	6081.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 19		104		 Jitomate				64.10	6666.40
+ 5		90		 Pepino				97.00	8730.00
+ 8		93		 Pitaya				33.86	3148.98
+ 21		106		 Portobellos				3.10	328.60
+ 6		91		 Papaya				63.10	5742.10
+ 25		110		 Tahini				43.67	4803.70
+
+                           Subtotal:   237957.69
+                           iva:        45325.27
+                           total:      283282.96
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 9		94		 Papa				93.80	8817.20
+ 10		95		 Pan integral				63.99	6079.05
+ 4		89		 Zanahoria				26.90	2394.10
+ 15		100		 Rosas				63.50	6350.00
+ 9		94		 Papa				93.80	8817.20
+ 4		89		 Zanahoria				26.90	2394.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 16		101		 Repollo				63.30	6393.30
+ 13		98		 Rice paper				68.30	6693.40
+ 5		90		 Pepino				97.00	8730.00
+ 26		111		 Salsa de soya				93.46	10374.06
+ 13		98		 Rice paper				68.30	6693.40
+ 13		98		 Rice paper				68.30	6693.40
+ 23		108		 Champiñones				64.17	6930.36
+ 4		89		 Zanahoria				26.90	2394.10
+ 1		86		 Soya				58.60	5039.60
+ 15		100		 Rosas				63.50	6350.00
+ 12		97		 Peter Pan				63.10	6120.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 23		108		 Champiñones				64.17	6930.36
+ 6		91		 Papaya				63.10	5742.10
+ 20		105		 Tomate				37.10	3895.50
+ 19		104		 Jitomate				64.10	6666.40
+ 24		109		 Setas				74.72	8144.48
+ 9		94		 Papa				93.80	8817.20
+ 22		107		 Ezekiel				63.10	6751.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 7		92		 Calabaza				83.54	7685.68
+ 23		108		 Champiñones				64.17	6930.36
+ 7		92		 Calabaza				83.54	7685.68
+ 3		88		 Camote				55.20	4857.60
+ 18		103		 Brócoli				46.70	4810.10
+ 13		98		 Rice paper				68.30	6693.40
+ 1		86		 Soya				58.60	5039.60
+ 19		104		 Jitomate				64.10	6666.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 23		108		 Champiñones				64.17	6930.36
+ 27		112		 Aroz				53.20	5958.40
+ 20		105		 Tomate				37.10	3895.50
+ 22		107		 Ezekiel				63.10	6751.70
+ 7		92		 Calabaza				83.54	7685.68
+ 17		102		 Colifor				63.60	6487.20
+ 24		109		 Setas				74.72	8144.48
+ 22		107		 Ezekiel				63.10	6751.70
+ 25		110		 Tahini				43.67	4803.70
+ 9		94		 Papa				93.80	8817.20
+ 5		90		 Pepino				97.00	8730.00
+ 27		112		 Aroz				53.20	5958.40
+
+                           Subtotal:   261441.30
+                           iva:        49798.34
+                           total:      311239.65
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 14		99		 Rice cakes				86.10	8523.90
+ 12		97		 Peter Pan				63.10	6120.70
+ 18		103		 Brócoli				46.70	4810.10
+ 21		106		 Portobellos				3.10	328.60
+ 23		108		 Champiñones				64.17	6930.36
+ 12		97		 Peter Pan				63.10	6120.70
+ 13		98		 Rice paper				68.30	6693.40
+ 21		106		 Portobellos				3.10	328.60
+ 13		98		 Rice paper				68.30	6693.40
+ 19		104		 Jitomate				64.10	6666.40
+ 10		95		 Pan integral				63.99	6079.05
+
+                           Subtotal:   49807.98
+                           iva:        9487.23
+                           total:      59295.21
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 7		92		 Calabaza				83.54	7685.68
+ 16		101		 Repollo				63.30	6393.30
+ 19		104		 Jitomate				64.10	6666.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 7		92		 Calabaza				83.54	7685.68
+ 22		107		 Ezekiel				63.10	6751.70
+ 17		102		 Colifor				63.60	6487.20
+ 20		105		 Tomate				37.10	3895.50
+ 16		101		 Repollo				63.30	6393.30
+ 26		111		 Salsa de soya				93.46	10374.06
+ 4		89		 Zanahoria				26.90	2394.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 27		112		 Aroz				53.20	5958.40
+ 21		106		 Portobellos				3.10	328.60
+
+                           Subtotal:   70376.95
+                           iva:        13405.13
+                           total:      83782.08
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 10		95		 Pan integral				63.99	6079.05
+ 25		110		 Tahini				43.67	4803.70
+ 15		100		 Rosas				63.50	6350.00
+ 7		92		 Calabaza				83.54	7685.68
+ 16		101		 Repollo				63.30	6393.30
+ 11		96		 Pan pita				63.35	6081.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 6		91		 Papaya				63.10	5742.10
+ 21		106		 Portobellos				3.10	328.60
+ 24		109		 Setas				74.72	8144.48
+ 17		102		 Colifor				63.60	6487.20
+ 26		111		 Salsa de soya				93.46	10374.06
+ 12		97		 Peter Pan				63.10	6120.70
+ 13		98		 Rice paper				68.30	6693.40
+ 21		106		 Portobellos				3.10	328.60
+
+                           Subtotal:   77268.68
+                           iva:        14717.84
+                           total:      91986.53
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 18		103		 Brócoli				46.70	4810.10
+ 5		90		 Pepino				97.00	8730.00
+ 22		107		 Ezekiel				63.10	6751.70
+ 13		98		 Rice paper				68.30	6693.40
+ 21		106		 Portobellos				3.10	328.60
+ 17		102		 Colifor				63.60	6487.20
+ 6		91		 Papaya				63.10	5742.10
+ 6		91		 Papaya				63.10	5742.10
+ 25		110		 Tahini				43.67	4803.70
+ 1		86		 Soya				58.60	5039.60
+ 19		104		 Jitomate				64.10	6666.40
+ 13		98		 Rice paper				68.30	6693.40
+ 20		105		 Tomate				37.10	3895.50
+ 19		104		 Jitomate				64.10	6666.40
+ 2		87		 Plátano				98.20	8543.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 3		88		 Camote				55.20	4857.60
+ 15		100		 Rosas				63.50	6350.00
+ 11		96		 Pan pita				63.35	6081.60
+ 21		106		 Portobellos				3.10	328.60
+ 16		101		 Repollo				63.30	6393.30
+ 20		105		 Tomate				37.10	3895.50
+ 17		102		 Colifor				63.60	6487.20
+ 14		99		 Rice cakes				86.10	8523.90
+ 27		112		 Aroz				53.20	5958.40
+ 24		109		 Setas				74.72	8144.48
+ 6		91		 Papaya				63.10	5742.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 10		95		 Pan integral				63.99	6079.05
+ 20		105		 Tomate				37.10	3895.50
+ 9		94		 Papa				93.80	8817.20
+ 11		96		 Pan pita				63.35	6081.60
+ 11		96		 Pan pita				63.35	6081.60
+ 8		93		 Pitaya				33.86	3148.98
+ 6		91		 Papaya				63.10	5742.10
+ 3		88		 Camote				55.20	4857.60
+ 5		90		 Pepino				97.00	8730.00
+ 7		92		 Calabaza				83.54	7685.68
+ 7		92		 Calabaza				83.54	7685.68
+ 23		108		 Champiñones				64.17	6930.36
+ 22		107		 Ezekiel				63.10	6751.70
+ 23		108		 Champiñones				64.17	6930.36
+ 21		106		 Portobellos				3.10	328.60
+ 16		101		 Repollo				63.30	6393.30
+ 19		104		 Jitomate				64.10	6666.40
+ 10		95		 Pan integral				63.99	6079.05
+ 2		87		 Plátano				98.20	8543.40
+ 19		104		 Jitomate				64.10	6666.40
+ 19		104		 Jitomate				64.10	6666.40
+
+                           Subtotal:   240160.57
+                           iva:        45744.87
+                           total:      285905.44
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 24		109		 Setas				74.72	8144.48
+ 23		108		 Champiñones				64.17	6930.36
+ 2		87		 Plátano				98.20	8543.40
+ 19		104		 Jitomate				64.10	6666.40
+ 10		95		 Pan integral				63.99	6079.05
+ 23		108		 Champiñones				64.17	6930.36
+ 6		91		 Papaya				63.10	5742.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 20		105		 Tomate				37.10	3895.50
+ 6		91		 Papaya				63.10	5742.10
+ 9		94		 Papa				93.80	8817.20
+ 14		99		 Rice cakes				86.10	8523.90
+ 16		101		 Repollo				63.30	6393.30
+ 3		88		 Camote				55.20	4857.60
+ 1		86		 Soya				58.60	5039.60
+ 10		95		 Pan integral				63.99	6079.05
+ 26		111		 Salsa de soya				93.46	10374.06
+ 8		93		 Pitaya				33.86	3148.98
+ 27		112		 Aroz				53.20	5958.40
+ 20		105		 Tomate				37.10	3895.50
+ 9		94		 Papa				93.80	8817.20
+ 21		106		 Portobellos				3.10	328.60
+ 21		106		 Portobellos				3.10	328.60
+ 13		98		 Rice paper				68.30	6693.40
+ 9		94		 Papa				93.80	8817.20
+ 1		86		 Soya				58.60	5039.60
+ 18		103		 Brócoli				46.70	4810.10
+ 25		110		 Tahini				43.67	4803.70
+ 23		108		 Champiñones				64.17	6930.36
+ 20		105		 Tomate				37.10	3895.50
+ 8		93		 Pitaya				33.86	3148.98
+ 19		104		 Jitomate				64.10	6666.40
+ 9		94		 Papa				93.80	8817.20
+ 18		103		 Brócoli				46.70	4810.10
+ 16		101		 Repollo				63.30	6393.30
+ 10		95		 Pan integral				63.99	6079.05
+ 13		98		 Rice paper				68.30	6693.40
+ 3		88		 Camote				55.20	4857.60
+ 6		91		 Papaya				63.10	5742.10
+ 7		92		 Calabaza				83.54	7685.68
+ 2		87		 Plátano				98.20	8543.40
+ 1		86		 Soya				58.60	5039.60
+ 11		96		 Pan pita				63.35	6081.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 1		86		 Soya				58.60	5039.60
+ 19		104		 Jitomate				64.10	6666.40
+ 13		98		 Rice paper				68.30	6693.40
+ 14		99		 Rice cakes				86.10	8523.90
+ 14		99		 Rice cakes				86.10	8523.90
+ 17		102		 Colifor				63.60	6487.20
+ 25		110		 Tahini				43.67	4803.70
+ 1		86		 Soya				58.60	5039.60
+ 11		96		 Pan pita				63.35	6081.60
+
+                           Subtotal:   271753.19
+                           iva:        51762.51
+                           total:      323515.71
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 3		88		 Camote				55.20	4857.60
+ 13		98		 Rice paper				68.30	6693.40
+ 9		94		 Papa				93.80	8817.20
+ 4		89		 Zanahoria				26.90	2394.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 1		86		 Soya				58.60	5039.60
+ 9		94		 Papa				93.80	8817.20
+ 14		99		 Rice cakes				86.10	8523.90
+ 6		91		 Papaya				63.10	5742.10
+ 8		93		 Pitaya				33.86	3148.98
+ 12		97		 Peter Pan				63.10	6120.70
+ 1		86		 Soya				58.60	5039.60
+ 6		91		 Papaya				63.10	5742.10
+ 6		91		 Papaya				63.10	5742.10
+ 7		92		 Calabaza				83.54	7685.68
+ 6		91		 Papaya				63.10	5742.10
+ 2		87		 Plátano				98.20	8543.40
+ 5		90		 Pepino				97.00	8730.00
+ 2		87		 Plátano				98.20	8543.40
+ 1		86		 Soya				58.60	5039.60
+ 18		103		 Brócoli				46.70	4810.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 10		95		 Pan integral				63.99	6079.05
+ 13		98		 Rice paper				68.30	6693.40
+ 7		92		 Calabaza				83.54	7685.68
+ 14		99		 Rice cakes				86.10	8523.90
+ 25		110		 Tahini				43.67	4803.70
+ 6		91		 Papaya				63.10	5742.10
+ 27		112		 Aroz				53.20	5958.40
+ 14		99		 Rice cakes				86.10	8523.90
+ 18		103		 Brócoli				46.70	4810.10
+ 5		90		 Pepino				97.00	8730.00
+ 24		109		 Setas				74.72	8144.48
+ 19		104		 Jitomate				64.10	6666.40
+ 18		103		 Brócoli				46.70	4810.10
+ 1		86		 Soya				58.60	5039.60
+ 18		103		 Brócoli				46.70	4810.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 3		88		 Camote				55.20	4857.60
+
+                           Subtotal:   207093.79
+                           iva:        39446.44
+                           total:      246540.23
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 22		107		 Ezekiel				63.10	6751.70
+ 5		90		 Pepino				97.00	8730.00
+ 27		112		 Aroz				53.20	5958.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 27		112		 Aroz				53.20	5958.40
+ 20		105		 Tomate				37.10	3895.50
+ 23		108		 Champiñones				64.17	6930.36
+ 11		96		 Pan pita				63.35	6081.60
+
+                           Subtotal:   39228.05
+                           iva:        7472.01
+                           total:      46700.06
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 15		100		 Rosas				63.50	6350.00
+ 4		89		 Zanahoria				26.90	2394.10
+ 10		95		 Pan integral				63.99	6079.05
+ 23		108		 Champiñones				64.17	6930.36
+ 24		109		 Setas				74.72	8144.48
+ 24		109		 Setas				74.72	8144.48
+ 7		92		 Calabaza				83.54	7685.68
+
+                           Subtotal:   38411.65
+                           iva:        7316.50
+                           total:      45728.15
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 22		107		 Ezekiel				63.10	6751.70
+ 11		96		 Pan pita				63.35	6081.60
+ 21		106		 Portobellos				3.10	328.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 5		90		 Pepino				97.00	8730.00
+ 6		91		 Papaya				63.10	5742.10
+ 19		104		 Jitomate				64.10	6666.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 7		92		 Calabaza				83.54	7685.68
+ 2		87		 Plátano				98.20	8543.40
+ 7		92		 Calabaza				83.54	7685.68
+ 8		93		 Pitaya				33.86	3148.98
+ 9		94		 Papa				93.80	8817.20
+ 2		87		 Plátano				98.20	8543.40
+ 3		88		 Camote				55.20	4857.60
+ 13		98		 Rice paper				68.30	6693.40
+ 15		100		 Rosas				63.50	6350.00
+ 23		108		 Champiñones				64.17	6930.36
+ 6		91		 Papaya				63.10	5742.10
+ 6		91		 Papaya				63.10	5742.10
+ 20		105		 Tomate				37.10	3895.50
+ 19		104		 Jitomate				64.10	6666.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 24		109		 Setas				74.72	8144.48
+ 8		93		 Pitaya				33.86	3148.98
+ 13		98		 Rice paper				68.30	6693.40
+ 25		110		 Tahini				43.67	4803.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 24		109		 Setas				74.72	8144.48
+ 9		94		 Papa				93.80	8817.20
+ 18		103		 Brócoli				46.70	4810.10
+ 24		109		 Setas				74.72	8144.48
+ 4		89		 Zanahoria				26.90	2394.10
+ 22		107		 Ezekiel				63.10	6751.70
+ 13		98		 Rice paper				68.30	6693.40
+ 2		87		 Plátano				98.20	8543.40
+
+                           Subtotal:   203643.58
+                           iva:        38789.25
+                           total:      242432.84
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 21		106		 Portobellos				3.10	328.60
+ 27		112		 Aroz				53.20	5958.40
+ 17		102		 Colifor				63.60	6487.20
+ 15		100		 Rosas				63.50	6350.00
+
+                           Subtotal:   16064.33
+                           iva:        3059.87
+                           total:      19124.20
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 26		111		 Salsa de soya				93.46	10374.06
+ 17		102		 Colifor				63.60	6487.20
+ 19		104		 Jitomate				64.10	6666.40
+ 8		93		 Pitaya				33.86	3148.98
+ 11		96		 Pan pita				63.35	6081.60
+
+                           Subtotal:   27516.92
+                           iva:        5241.32
+                           total:      32758.24
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 17		102		 Colifor				63.60	6487.20
+ 8		93		 Pitaya				33.86	3148.98
+ 4		89		 Zanahoria				26.90	2394.10
+ 11		96		 Pan pita				63.35	6081.60
+ 10		95		 Pan integral				63.99	6079.05
+ 25		110		 Tahini				43.67	4803.70
+ 9		94		 Papa				93.80	8817.20
+ 23		108		 Champiñones				64.17	6930.36
+ 22		107		 Ezekiel				63.10	6751.70
+ 25		110		 Tahini				43.67	4803.70
+
+                           Subtotal:   47289.97
+                           iva:        9007.61
+                           total:      56297.59
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 17		102		 Colifor				63.60	6487.20
+ 15		100		 Rosas				63.50	6350.00
+ 5		90		 Pepino				97.00	8730.00
+ 17		102		 Colifor				63.60	6487.20
+ 7		92		 Calabaza				83.54	7685.68
+ 25		110		 Tahini				43.67	4803.70
+ 3		88		 Camote				55.20	4857.60
+ 2		87		 Plátano				98.20	8543.40
+ 2		87		 Plátano				98.20	8543.40
+ 5		90		 Pepino				97.00	8730.00
+ 18		103		 Brócoli				46.70	4810.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 1		86		 Soya				58.60	5039.60
+ 15		100		 Rosas				63.50	6350.00
+ 6		91		 Papaya				63.10	5742.10
+ 5		90		 Pepino				97.00	8730.00
+ 15		100		 Rosas				63.50	6350.00
+ 20		105		 Tomate				37.10	3895.50
+ 23		108		 Champiñones				64.17	6930.36
+ 5		90		 Pepino				97.00	8730.00
+ 24		109		 Setas				74.72	8144.48
+ 16		101		 Repollo				63.30	6393.30
+ 10		95		 Pan integral				63.99	6079.05
+ 26		111		 Salsa de soya				93.46	10374.06
+ 15		100		 Rosas				63.50	6350.00
+ 12		97		 Peter Pan				63.10	6120.70
+ 5		90		 Pepino				97.00	8730.00
+ 18		103		 Brócoli				46.70	4810.10
+ 25		110		 Tahini				43.67	4803.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 19		104		 Jitomate				64.10	6666.40
+ 2		87		 Plátano				98.20	8543.40
+ 8		93		 Pitaya				33.86	3148.98
+ 18		103		 Brócoli				46.70	4810.10
+
+                           Subtotal:   186409.36
+                           iva:        35506.55
+                           total:      221915.91
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 1		86		 Soya				58.60	5039.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 10		95		 Pan integral				63.99	6079.05
+ 22		107		 Ezekiel				63.10	6751.70
+ 17		102		 Colifor				63.60	6487.20
+ 4		89		 Zanahoria				26.90	2394.10
+ 19		104		 Jitomate				64.10	6666.40
+ 10		95		 Pan integral				63.99	6079.05
+ 4		89		 Zanahoria				26.90	2394.10
+ 9		94		 Papa				93.80	8817.20
+ 7		92		 Calabaza				83.54	7685.68
+ 6		91		 Papaya				63.10	5742.10
+ 24		109		 Setas				74.72	8144.48
+
+                           Subtotal:   69429.96
+                           iva:        13224.76
+                           total:      82654.72
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 3		88		 Camote				55.20	4857.60
+ 4		89		 Zanahoria				26.90	2394.10
+ 17		102		 Colifor				63.60	6487.20
+ 27		112		 Aroz				53.20	5958.40
+ 2		87		 Plátano				98.20	8543.40
+ 18		103		 Brócoli				46.70	4810.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 25		110		 Tahini				43.67	4803.70
+ 11		96		 Pan pita				63.35	6081.60
+ 4		89		 Zanahoria				26.90	2394.10
+ 19		104		 Jitomate				64.10	6666.40
+ 8		93		 Pitaya				33.86	3148.98
+ 21		106		 Portobellos				3.10	328.60
+ 2		87		 Plátano				98.20	8543.40
+ 2		87		 Plátano				98.20	8543.40
+ 3		88		 Camote				55.20	4857.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 25		110		 Tahini				43.67	4803.70
+ 5		90		 Pepino				97.00	8730.00
+ 4		89		 Zanahoria				26.90	2394.10
+ 10		95		 Pan integral				63.99	6079.05
+ 27		112		 Aroz				53.20	5958.40
+ 13		98		 Rice paper				68.30	6693.40
+ 1		86		 Soya				58.60	5039.60
+
+                           Subtotal:   115092.42
+                           iva:        21922.37
+                           total:      137014.79
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 21		106		 Portobellos				3.10	328.60
+ 1		86		 Soya				58.60	5039.60
+ 21		106		 Portobellos				3.10	328.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 26		111		 Salsa de soya				93.46	10374.06
+ 4		89		 Zanahoria				26.90	2394.10
+ 20		105		 Tomate				37.10	3895.50
+ 23		108		 Champiñones				64.17	6930.36
+ 8		93		 Pitaya				33.86	3148.98
+ 16		101		 Repollo				63.30	6393.30
+ 21		106		 Portobellos				3.10	328.60
+ 13		98		 Rice paper				68.30	6693.40
+ 13		98		 Rice paper				68.30	6693.40
+ 19		104		 Jitomate				64.10	6666.40
+ 10		95		 Pan integral				63.99	6079.05
+ 20		105		 Tomate				37.10	3895.50
+ 19		104		 Jitomate				64.10	6666.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 18		103		 Brócoli				46.70	4810.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 14		99		 Rice cakes				86.10	8523.90
+ 6		91		 Papaya				63.10	5742.10
+
+                           Subtotal:   110612.72
+                           iva:        21069.09
+                           total:      131681.81
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 4		89		 Zanahoria				26.90	2394.10
+ 17		102		 Colifor				63.60	6487.20
+ 20		105		 Tomate				37.10	3895.50
+ 6		91		 Papaya				63.10	5742.10
+ 16		101		 Repollo				63.30	6393.30
+ 2		87		 Plátano				98.20	8543.40
+ 27		112		 Aroz				53.20	5958.40
+ 16		101		 Repollo				63.30	6393.30
+ 24		109		 Setas				74.72	8144.48
+ 9		94		 Papa				93.80	8817.20
+ 26		111		 Salsa de soya				93.46	10374.06
+ 24		109		 Setas				74.72	8144.48
+ 23		108		 Champiñones				64.17	6930.36
+
+                           Subtotal:   74103.02
+                           iva:        14114.86
+                           total:      88217.88
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 25		110		 Tahini				43.67	4803.70
+ 4		89		 Zanahoria				26.90	2394.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 25		110		 Tahini				43.67	4803.70
+ 25		110		 Tahini				43.67	4803.70
+ 1		86		 Soya				58.60	5039.60
+ 1		86		 Soya				58.60	5039.60
+ 11		96		 Pan pita				63.35	6081.60
+ 16		101		 Repollo				63.30	6393.30
+ 10		95		 Pan integral				63.99	6079.05
+ 2		87		 Plátano				98.20	8543.40
+ 5		90		 Pepino				97.00	8730.00
+ 22		107		 Ezekiel				63.10	6751.70
+ 7		92		 Calabaza				83.54	7685.68
+ 5		90		 Pepino				97.00	8730.00
+ 15		100		 Rosas				63.50	6350.00
+ 18		103		 Brócoli				46.70	4810.10
+ 8		93		 Pitaya				33.86	3148.98
+ 26		111		 Salsa de soya				93.46	10374.06
+ 12		97		 Peter Pan				63.10	6120.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 24		109		 Setas				74.72	8144.48
+ 21		106		 Portobellos				3.10	328.60
+ 19		104		 Jitomate				64.10	6666.40
+ 18		103		 Brócoli				46.70	4810.10
+ 19		104		 Jitomate				64.10	6666.40
+ 23		108		 Champiñones				64.17	6930.36
+ 18		103		 Brócoli				46.70	4810.10
+ 2		87		 Plátano				98.20	8543.40
+ 21		106		 Portobellos				3.10	328.60
+ 27		112		 Aroz				53.20	5958.40
+ 2		87		 Plátano				98.20	8543.40
+ 10		95		 Pan integral				63.99	6079.05
+ 8		93		 Pitaya				33.86	3148.98
+ 11		96		 Pan pita				63.35	6081.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 3		88		 Camote				55.20	4857.60
+ 1		86		 Soya				58.60	5039.60
+ 9		94		 Papa				93.80	8817.20
+ 19		104		 Jitomate				64.10	6666.40
+ 8		93		 Pitaya				33.86	3148.98
+ 26		111		 Salsa de soya				93.46	10374.06
+ 9		94		 Papa				93.80	8817.20
+ 4		89		 Zanahoria				26.90	2394.10
+ 18		103		 Brócoli				46.70	4810.10
+ 6		91		 Papaya				63.10	5742.10
+ 23		108		 Champiñones				64.17	6930.36
+ 20		105		 Tomate				37.10	3895.50
+ 12		97		 Peter Pan				63.10	6120.70
+ 15		100		 Rosas				63.50	6350.00
+ 22		107		 Ezekiel				63.10	6751.70
+
+                           Subtotal:   258367.75
+                           iva:        49212.90
+                           total:      307580.65
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 22		107		 Ezekiel				63.10	6751.70
+ 8		93		 Pitaya				33.86	3148.98
+ 13		98		 Rice paper				68.30	6693.40
+ 15		100		 Rosas				63.50	6350.00
+ 11		96		 Pan pita				63.35	6081.60
+ 21		106		 Portobellos				3.10	328.60
+ 8		93		 Pitaya				33.86	3148.98
+ 9		94		 Papa				93.80	8817.20
+ 27		112		 Aroz				53.20	5958.40
+ 23		108		 Champiñones				64.17	6930.36
+ 26		111		 Salsa de soya				93.46	10374.06
+ 26		111		 Salsa de soya				93.46	10374.06
+ 16		101		 Repollo				63.30	6393.30
+ 2		87		 Plátano				98.20	8543.40
+ 5		90		 Pepino				97.00	8730.00
+ 16		101		 Repollo				63.30	6393.30
+ 6		91		 Papaya				63.10	5742.10
+ 9		94		 Papa				93.80	8817.20
+ 27		112		 Aroz				53.20	5958.40
+ 2		87		 Plátano				98.20	8543.40
+ 17		102		 Colifor				63.60	6487.20
+ 24		109		 Setas				74.72	8144.48
+ 9		94		 Papa				93.80	8817.20
+ 16		101		 Repollo				63.30	6393.30
+ 18		103		 Brócoli				46.70	4810.10
+ 2		87		 Plátano				98.20	8543.40
+ 17		102		 Colifor				63.60	6487.20
+ 8		93		 Pitaya				33.86	3148.98
+ 1		86		 Soya				58.60	5039.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 15		100		 Rosas				63.50	6350.00
+ 25		110		 Tahini				43.67	4803.70
+ 21		106		 Portobellos				3.10	328.60
+ 23		108		 Champiñones				64.17	6930.36
+ 20		105		 Tomate				37.10	3895.50
+ 6		91		 Papaya				63.10	5742.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 12		97		 Peter Pan				63.10	6120.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 7		92		 Calabaza				83.54	7685.68
+ 16		101		 Repollo				63.30	6393.30
+ 7		92		 Calabaza				83.54	7685.68
+ 12		97		 Peter Pan				63.10	6120.70
+ 14		99		 Rice cakes				86.10	8523.90
+ 20		105		 Tomate				37.10	3895.50
+ 8		93		 Pitaya				33.86	3148.98
+ 3		88		 Camote				55.20	4857.60
+ 5		90		 Pepino				97.00	8730.00
+ 6		91		 Papaya				63.10	5742.10
+ 21		106		 Portobellos				3.10	328.60
+ 1		86		 Soya				58.60	5039.60
+ 18		103		 Brócoli				46.70	4810.10
+ 17		102		 Colifor				63.60	6487.20
+
+                           Subtotal:   285449.90
+                           iva:        54371.41
+                           total:      339821.31
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 9		94		 Papa				93.80	8817.20
+ 5		90		 Pepino				97.00	8730.00
+ 20		105		 Tomate				37.10	3895.50
+ 6		91		 Papaya				63.10	5742.10
+ 24		109		 Setas				74.72	8144.48
+ 16		101		 Repollo				63.30	6393.30
+ 17		102		 Colifor				63.60	6487.20
+ 24		109		 Setas				74.72	8144.48
+ 11		96		 Pan pita				63.35	6081.60
+ 9		94		 Papa				93.80	8817.20
+ 13		98		 Rice paper				68.30	6693.40
+ 7		92		 Calabaza				83.54	7685.68
+ 19		104		 Jitomate				64.10	6666.40
+ 14		99		 Rice cakes				86.10	8523.90
+ 4		89		 Zanahoria				26.90	2394.10
+ 22		107		 Ezekiel				63.10	6751.70
+ 9		94		 Papa				93.80	8817.20
+ 6		91		 Papaya				63.10	5742.10
+ 20		105		 Tomate				37.10	3895.50
+ 10		95		 Pan integral				63.99	6079.05
+ 9		94		 Papa				93.80	8817.20
+ 22		107		 Ezekiel				63.10	6751.70
+ 11		96		 Pan pita				63.35	6081.60
+ 4		89		 Zanahoria				26.90	2394.10
+ 15		100		 Rosas				63.50	6350.00
+ 20		105		 Tomate				37.10	3895.50
+ 12		97		 Peter Pan				63.10	6120.70
+ 9		94		 Papa				93.80	8817.20
+ 2		87		 Plátano				98.20	8543.40
+ 13		98		 Rice paper				68.30	6693.40
+ 16		101		 Repollo				63.30	6393.30
+ 17		102		 Colifor				63.60	6487.20
+ 3		88		 Camote				55.20	4857.60
+ 1		86		 Soya				58.60	5039.60
+ 9		94		 Papa				93.80	8817.20
+ 1		86		 Soya				58.60	5039.60
+ 27		112		 Aroz				53.20	5958.40
+ 5		90		 Pepino				97.00	8730.00
+ 24		109		 Setas				74.72	8144.48
+ 27		112		 Aroz				53.20	5958.40
+ 17		102		 Colifor				63.60	6487.20
+ 18		103		 Brócoli				46.70	4810.10
+ 13		98		 Rice paper				68.30	6693.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 17		102		 Colifor				63.60	6487.20
+ 16		101		 Repollo				63.30	6393.30
+ 22		107		 Ezekiel				63.10	6751.70
+ 24		109		 Setas				74.72	8144.48
+ 2		87		 Plátano				98.20	8543.40
+ 5		90		 Pepino				97.00	8730.00
+
+                           Subtotal:   277055.14
+                           iva:        52772.41
+                           total:      329827.55
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 19		104		 Jitomate				64.10	6666.40
+ 2		87		 Plátano				98.20	8543.40
+ 2		87		 Plátano				98.20	8543.40
+ 20		105		 Tomate				37.10	3895.50
+ 10		95		 Pan integral				63.99	6079.05
+ 8		93		 Pitaya				33.86	3148.98
+ 19		104		 Jitomate				64.10	6666.40
+ 24		109		 Setas				74.72	8144.48
+ 23		108		 Champiñones				64.17	6930.36
+ 27		112		 Aroz				53.20	5958.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 1		86		 Soya				58.60	5039.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 4		89		 Zanahoria				26.90	2394.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 23		108		 Champiñones				64.17	6930.36
+ 20		105		 Tomate				37.10	3895.50
+ 4		89		 Zanahoria				26.90	2394.10
+ 27		112		 Aroz				53.20	5958.40
+ 20		105		 Tomate				37.10	3895.50
+ 17		102		 Colifor				63.60	6487.20
+ 6		91		 Papaya				63.10	5742.10
+ 3		88		 Camote				55.20	4857.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 16		101		 Repollo				63.30	6393.30
+ 23		108		 Champiñones				64.17	6930.36
+ 4		89		 Zanahoria				26.90	2394.10
+ 22		107		 Ezekiel				63.10	6751.70
+ 2		87		 Plátano				98.20	8543.40
+ 24		109		 Setas				74.72	8144.48
+ 6		91		 Papaya				63.10	5742.10
+ 20		105		 Tomate				37.10	3895.50
+ 25		110		 Tahini				43.67	4803.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 1		86		 Soya				58.60	5039.60
+ 19		104		 Jitomate				64.10	6666.40
+ 15		100		 Rosas				63.50	6350.00
+ 7		92		 Calabaza				83.54	7685.68
+ 13		98		 Rice paper				68.30	6693.40
+ 8		93		 Pitaya				33.86	3148.98
+ 12		97		 Peter Pan				63.10	6120.70
+ 5		90		 Pepino				97.00	8730.00
+ 16		101		 Repollo				63.30	6393.30
+ 1		86		 Soya				58.60	5039.60
+ 8		93		 Pitaya				33.86	3148.98
+ 7		92		 Calabaza				83.54	7685.68
+ 5		90		 Pepino				97.00	8730.00
+ 17		102		 Colifor				63.60	6487.20
+ 18		103		 Brócoli				46.70	4810.10
+ 5		90		 Pepino				97.00	8730.00
+
+                           Subtotal:   257353.36
+                           iva:        49019.69
+                           total:      306373.04
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 17		102		 Colifor				63.60	6487.20
+ 11		96		 Pan pita				63.35	6081.60
+ 20		105		 Tomate				37.10	3895.50
+ 26		111		 Salsa de soya				93.46	10374.06
+ 26		111		 Salsa de soya				93.46	10374.06
+ 19		104		 Jitomate				64.10	6666.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 1		86		 Soya				58.60	5039.60
+ 8		93		 Pitaya				33.86	3148.98
+ 23		108		 Champiñones				64.17	6930.36
+ 20		105		 Tomate				37.10	3895.50
+ 10		95		 Pan integral				63.99	6079.05
+ 24		109		 Setas				74.72	8144.48
+
+                           Subtotal:   70449.53
+                           iva:        13418.96
+                           total:      83868.49
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 19		104		 Jitomate				64.10	6666.40
+ 18		103		 Brócoli				46.70	4810.10
+ 14		99		 Rice cakes				86.10	8523.90
+ 16		101		 Repollo				63.30	6393.30
+ 14		99		 Rice cakes				86.10	8523.90
+ 22		107		 Ezekiel				63.10	6751.70
+ 17		102		 Colifor				63.60	6487.20
+ 26		111		 Salsa de soya				93.46	10374.06
+ 23		108		 Champiñones				64.17	6930.36
+ 20		105		 Tomate				37.10	3895.50
+ 5		90		 Pepino				97.00	8730.00
+ 5		90		 Pepino				97.00	8730.00
+ 17		102		 Colifor				63.60	6487.20
+ 2		87		 Plátano				98.20	8543.40
+ 5		90		 Pepino				97.00	8730.00
+ 27		112		 Aroz				53.20	5958.40
+ 15		100		 Rosas				63.50	6350.00
+ 7		92		 Calabaza				83.54	7685.68
+ 15		100		 Rosas				63.50	6350.00
+ 6		91		 Papaya				63.10	5742.10
+ 21		106		 Portobellos				3.10	328.60
+ 21		106		 Portobellos				3.10	328.60
+ 24		109		 Setas				74.72	8144.48
+ 11		96		 Pan pita				63.35	6081.60
+ 7		92		 Calabaza				83.54	7685.68
+ 1		86		 Soya				58.60	5039.60
+ 8		93		 Pitaya				33.86	3148.98
+ 10		95		 Pan integral				63.99	6079.05
+ 20		105		 Tomate				37.10	3895.50
+ 13		98		 Rice paper				68.30	6693.40
+ 13		98		 Rice paper				68.30	6693.40
+ 27		112		 Aroz				53.20	5958.40
+ 10		95		 Pan integral				63.99	6079.05
+ 27		112		 Aroz				53.20	5958.40
+ 23		108		 Champiñones				64.17	6930.36
+ 12		97		 Peter Pan				63.10	6120.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 14		99		 Rice cakes				86.10	8523.90
+ 22		107		 Ezekiel				63.10	6751.70
+
+                           Subtotal:   209349.25
+                           iva:        39876.05
+                           total:      249225.30
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 10		95		 Pan integral				63.99	6079.05
+ 15		100		 Rosas				63.50	6350.00
+ 8		93		 Pitaya				33.86	3148.98
+ 21		106		 Portobellos				3.10	328.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 10		95		 Pan integral				63.99	6079.05
+ 12		97		 Peter Pan				63.10	6120.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 5		90		 Pepino				97.00	8730.00
+ 7		92		 Calabaza				83.54	7685.68
+ 15		100		 Rosas				63.50	6350.00
+ 26		111		 Salsa de soya				93.46	10374.06
+ 9		94		 Papa				93.80	8817.20
+ 21		106		 Portobellos				3.10	328.60
+ 3		88		 Camote				55.20	4857.60
+ 16		101		 Repollo				63.30	6393.30
+ 26		111		 Salsa de soya				93.46	10374.06
+ 18		103		 Brócoli				46.70	4810.10
+ 11		96		 Pan pita				63.35	6081.60
+
+                           Subtotal:   97256.02
+                           iva:        18524.96
+                           total:      115780.98
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 21		106		 Portobellos				3.10	328.60
+ 23		108		 Champiñones				64.17	6930.36
+ 18		103		 Brócoli				46.70	4810.10
+ 13		98		 Rice paper				68.30	6693.40
+ 25		110		 Tahini				43.67	4803.70
+ 24		109		 Setas				74.72	8144.48
+ 9		94		 Papa				93.80	8817.20
+ 5		90		 Pepino				97.00	8730.00
+ 1		86		 Soya				58.60	5039.60
+ 19		104		 Jitomate				64.10	6666.40
+ 3		88		 Camote				55.20	4857.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 22		107		 Ezekiel				63.10	6751.70
+ 15		100		 Rosas				63.50	6350.00
+ 14		99		 Rice cakes				86.10	8523.90
+ 19		104		 Jitomate				64.10	6666.40
+ 13		98		 Rice paper				68.30	6693.40
+ 20		105		 Tomate				37.10	3895.50
+ 9		94		 Papa				93.80	8817.20
+ 10		95		 Pan integral				63.99	6079.05
+ 18		103		 Brócoli				46.70	4810.10
+ 23		108		 Champiñones				64.17	6930.36
+ 17		102		 Colifor				63.60	6487.20
+ 2		87		 Plátano				98.20	8543.40
+ 27		112		 Aroz				53.20	5958.40
+ 11		96		 Pan pita				63.35	6081.60
+ 10		95		 Pan integral				63.99	6079.05
+ 13		98		 Rice paper				68.30	6693.40
+ 13		98		 Rice paper				68.30	6693.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 24		109		 Setas				74.72	8144.48
+ 24		109		 Setas				74.72	8144.48
+ 24		109		 Setas				74.72	8144.48
+ 6		91		 Papaya				63.10	5742.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 20		105		 Tomate				37.10	3895.50
+ 8		93		 Pitaya				33.86	3148.98
+ 10		95		 Pan integral				63.99	6079.05
+
+                           Subtotal:   200099.15
+                           iva:        38114.12
+                           total:      238213.27
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 18		103		 Brócoli				46.70	4810.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 11		96		 Pan pita				63.35	6081.60
+ 9		94		 Papa				93.80	8817.20
+ 18		103		 Brócoli				46.70	4810.10
+ 22		107		 Ezekiel				63.10	6751.70
+ 24		109		 Setas				74.72	8144.48
+ 19		104		 Jitomate				64.10	6666.40
+ 8		93		 Pitaya				33.86	3148.98
+ 13		98		 Rice paper				68.30	6693.40
+ 2		87		 Plátano				98.20	8543.40
+ 2		87		 Plátano				98.20	8543.40
+ 17		102		 Colifor				63.60	6487.20
+ 26		111		 Salsa de soya				93.46	10374.06
+ 21		106		 Portobellos				3.10	328.60
+
+                           Subtotal:   84482.73
+                           iva:        16091.95
+                           total:      100574.68
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 4		89		 Zanahoria				26.90	2394.10
+
+                           Subtotal:   2011.04
+                           iva:        383.06
+                           total:      2394.10
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 15		100		 Rosas				63.50	6350.00
+ 24		109		 Setas				74.72	8144.48
+ 27		112		 Aroz				53.20	5958.40
+
+                           Subtotal:   17180.42
+                           iva:        3272.46
+                           total:      20452.88
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 16		101		 Repollo				63.30	6393.30
+ 5		90		 Pepino				97.00	8730.00
+ 6		91		 Papaya				63.10	5742.10
+ 25		110		 Tahini				43.67	4803.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 7		92		 Calabaza				83.54	7685.68
+ 4		89		 Zanahoria				26.90	2394.10
+ 8		93		 Pitaya				33.86	3148.98
+ 23		108		 Champiñones				64.17	6930.36
+ 21		106		 Portobellos				3.10	328.60
+ 23		108		 Champiñones				64.17	6930.36
+ 10		95		 Pan integral				63.99	6079.05
+ 18		103		 Brócoli				46.70	4810.10
+ 6		91		 Papaya				63.10	5742.10
+ 2		87		 Plátano				98.20	8543.40
+ 10		95		 Pan integral				63.99	6079.05
+ 4		89		 Zanahoria				26.90	2394.10
+ 14		99		 Rice cakes				86.10	8523.90
+ 23		108		 Champiñones				64.17	6930.36
+ 18		103		 Brócoli				46.70	4810.10
+ 27		112		 Aroz				53.20	5958.40
+ 8		93		 Pitaya				33.86	3148.98
+ 1		86		 Soya				58.60	5039.60
+ 7		92		 Calabaza				83.54	7685.68
+ 2		87		 Plátano				98.20	8543.40
+ 6		91		 Papaya				63.10	5742.10
+ 25		110		 Tahini				43.67	4803.70
+ 10		95		 Pan integral				63.99	6079.05
+ 21		106		 Portobellos				3.10	328.60
+ 3		88		 Camote				55.20	4857.60
+ 6		91		 Papaya				63.10	5742.10
+ 11		96		 Pan pita				63.35	6081.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 1		86		 Soya				58.60	5039.60
+ 6		91		 Papaya				63.10	5742.10
+
+                           Subtotal:   172762.22
+                           iva:        32907.09
+                           total:      205669.31
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 4		89		 Zanahoria				26.90	2394.10
+
+                           Subtotal:   2011.04
+                           iva:        383.06
+                           total:      2394.10
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 13		98		 Rice paper				68.30	6693.40
+ 18		103		 Brócoli				46.70	4810.10
+ 7		92		 Calabaza				83.54	7685.68
+ 21		106		 Portobellos				3.10	328.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 2		87		 Plátano				98.20	8543.40
+ 11		96		 Pan pita				63.35	6081.60
+ 7		92		 Calabaza				83.54	7685.68
+ 11		96		 Pan pita				63.35	6081.60
+ 1		86		 Soya				58.60	5039.60
+ 4		89		 Zanahoria				26.90	2394.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 13		98		 Rice paper				68.30	6693.40
+ 25		110		 Tahini				43.67	4803.70
+ 19		104		 Jitomate				64.10	6666.40
+ 13		98		 Rice paper				68.30	6693.40
+ 23		108		 Champiñones				64.17	6930.36
+ 17		102		 Colifor				63.60	6487.20
+ 22		107		 Ezekiel				63.10	6751.70
+ 5		90		 Pepino				97.00	8730.00
+ 27		112		 Aroz				53.20	5958.40
+ 15		100		 Rosas				63.50	6350.00
+ 19		104		 Jitomate				64.10	6666.40
+ 24		109		 Setas				74.72	8144.48
+ 25		110		 Tahini				43.67	4803.70
+ 21		106		 Portobellos				3.10	328.60
+ 1		86		 Soya				58.60	5039.60
+ 19		104		 Jitomate				64.10	6666.40
+ 18		103		 Brócoli				46.70	4810.10
+ 7		92		 Calabaza				83.54	7685.68
+ 12		97		 Peter Pan				63.10	6120.70
+ 20		105		 Tomate				37.10	3895.50
+ 12		97		 Peter Pan				63.10	6120.70
+ 17		102		 Colifor				63.60	6487.20
+ 10		95		 Pan integral				63.99	6079.05
+ 12		97		 Peter Pan				63.10	6120.70
+ 11		96		 Pan pita				63.35	6081.60
+ 1		86		 Soya				58.60	5039.60
+ 21		106		 Portobellos				3.10	328.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 23		108		 Champiñones				64.17	6930.36
+ 11		96		 Pan pita				63.35	6081.60
+ 13		98		 Rice paper				68.30	6693.40
+
+                           Subtotal:   207841.02
+                           iva:        39588.77
+                           total:      247429.79
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 3		88		 Camote				55.20	4857.60
+ 10		95		 Pan integral				63.99	6079.05
+ 11		96		 Pan pita				63.35	6081.60
+ 3		88		 Camote				55.20	4857.60
+ 1		86		 Soya				58.60	5039.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 20		105		 Tomate				37.10	3895.50
+ 1		86		 Soya				58.60	5039.60
+ 4		89		 Zanahoria				26.90	2394.10
+ 20		105		 Tomate				37.10	3895.50
+ 26		111		 Salsa de soya				93.46	10374.06
+ 23		108		 Champiñones				64.17	6930.36
+ 17		102		 Colifor				63.60	6487.20
+ 19		104		 Jitomate				64.10	6666.40
+ 13		98		 Rice paper				68.30	6693.40
+ 18		103		 Brócoli				46.70	4810.10
+ 10		95		 Pan integral				63.99	6079.05
+ 6		91		 Papaya				63.10	5742.10
+ 15		100		 Rosas				63.50	6350.00
+ 19		104		 Jitomate				64.10	6666.40
+ 3		88		 Camote				55.20	4857.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 7		92		 Calabaza				83.54	7685.68
+ 6		91		 Papaya				63.10	5742.10
+ 17		102		 Colifor				63.60	6487.20
+ 21		106		 Portobellos				3.10	328.60
+ 20		105		 Tomate				37.10	3895.50
+ 16		101		 Repollo				63.30	6393.30
+ 17		102		 Colifor				63.60	6487.20
+ 20		105		 Tomate				37.10	3895.50
+ 27		112		 Aroz				53.20	5958.40
+ 7		92		 Calabaza				83.54	7685.68
+ 20		105		 Tomate				37.10	3895.50
+ 11		96		 Pan pita				63.35	6081.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 21		106		 Portobellos				3.10	328.60
+ 16		101		 Repollo				63.30	6393.30
+ 3		88		 Camote				55.20	4857.60
+ 10		95		 Pan integral				63.99	6079.05
+ 25		110		 Tahini				43.67	4803.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 7		92		 Calabaza				83.54	7685.68
+ 11		96		 Pan pita				63.35	6081.60
+ 20		105		 Tomate				37.10	3895.50
+ 8		93		 Pitaya				33.86	3148.98
+ 2		87		 Plátano				98.20	8543.40
+ 25		110		 Tahini				43.67	4803.70
+ 8		93		 Pitaya				33.86	3148.98
+ 23		108		 Champiñones				64.17	6930.36
+ 1		86		 Soya				58.60	5039.60
+ 18		103		 Brócoli				46.70	4810.10
+
+                           Subtotal:   247484.53
+                           iva:        47139.91
+                           total:      294624.44
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 27		112		 Aroz				53.20	5958.40
+ 2		87		 Plátano				98.20	8543.40
+ 6		91		 Papaya				63.10	5742.10
+ 15		100		 Rosas				63.50	6350.00
+ 24		109		 Setas				74.72	8144.48
+ 14		99		 Rice cakes				86.10	8523.90
+ 25		110		 Tahini				43.67	4803.70
+ 18		103		 Brócoli				46.70	4810.10
+ 1		86		 Soya				58.60	5039.60
+ 1		86		 Soya				58.60	5039.60
+ 18		103		 Brócoli				46.70	4810.10
+ 18		103		 Brócoli				46.70	4810.10
+ 15		100		 Rosas				63.50	6350.00
+ 11		96		 Pan pita				63.35	6081.60
+ 5		90		 Pepino				97.00	8730.00
+ 23		108		 Champiñones				64.17	6930.36
+ 25		110		 Tahini				43.67	4803.70
+ 25		110		 Tahini				43.67	4803.70
+ 16		101		 Repollo				63.30	6393.30
+ 7		92		 Calabaza				83.54	7685.68
+ 12		97		 Peter Pan				63.10	6120.70
+ 23		108		 Champiñones				64.17	6930.36
+ 18		103		 Brócoli				46.70	4810.10
+ 11		96		 Pan pita				63.35	6081.60
+ 7		92		 Calabaza				83.54	7685.68
+ 14		99		 Rice cakes				86.10	8523.90
+ 23		108		 Champiñones				64.17	6930.36
+ 17		102		 Colifor				63.60	6487.20
+ 9		94		 Papa				93.80	8817.20
+ 26		111		 Salsa de soya				93.46	10374.06
+ 24		109		 Setas				74.72	8144.48
+ 1		86		 Soya				58.60	5039.60
+ 19		104		 Jitomate				64.10	6666.40
+ 3		88		 Camote				55.20	4857.60
+ 25		110		 Tahini				43.67	4803.70
+ 24		109		 Setas				74.72	8144.48
+ 1		86		 Soya				58.60	5039.60
+ 5		90		 Pepino				97.00	8730.00
+ 8		93		 Pitaya				33.86	3148.98
+ 27		112		 Aroz				53.20	5958.40
+ 2		87		 Plátano				98.20	8543.40
+ 10		95		 Pan integral				63.99	6079.05
+ 23		108		 Champiñones				64.17	6930.36
+ 8		93		 Pitaya				33.86	3148.98
+ 8		93		 Pitaya				33.86	3148.98
+ 24		109		 Setas				74.72	8144.48
+ 1		86		 Soya				58.60	5039.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 18		103		 Brócoli				46.70	4810.10
+ 24		109		 Setas				74.72	8144.48
+ 10		95		 Pan integral				63.99	6079.05
+ 2		87		 Plátano				98.20	8543.40
+ 7		92		 Calabaza				83.54	7685.68
+
+                           Subtotal:   285655.84
+                           iva:        54410.64
+                           total:      340066.48
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 14		99		 Rice cakes				86.10	8523.90
+ 5		90		 Pepino				97.00	8730.00
+ 21		106		 Portobellos				3.10	328.60
+ 11		96		 Pan pita				63.35	6081.60
+ 16		101		 Repollo				63.30	6393.30
+
+                           Subtotal:   25248.21
+                           iva:        4809.18
+                           total:      30057.40
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 19		104		 Jitomate				64.10	6666.40
+ 11		96		 Pan pita				63.35	6081.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 27		112		 Aroz				53.20	5958.40
+ 23		108		 Champiñones				64.17	6930.36
+ 23		108		 Champiñones				64.17	6930.36
+
+                           Subtotal:   34516.46
+                           iva:        6574.56
+                           total:      41091.02
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 5		90		 Pepino				97.00	8730.00
+ 21		106		 Portobellos				3.10	328.60
+ 8		93		 Pitaya				33.86	3148.98
+ 15		100		 Rosas				63.50	6350.00
+ 23		108		 Champiñones				64.17	6930.36
+ 19		104		 Jitomate				64.10	6666.40
+ 8		93		 Pitaya				33.86	3148.98
+ 23		108		 Champiñones				64.17	6930.36
+ 25		110		 Tahini				43.67	4803.70
+ 5		90		 Pepino				97.00	8730.00
+ 19		104		 Jitomate				64.10	6666.40
+ 18		103		 Brócoli				46.70	4810.10
+ 13		98		 Rice paper				68.30	6693.40
+ 27		112		 Aroz				53.20	5958.40
+ 2		87		 Plátano				98.20	8543.40
+ 11		96		 Pan pita				63.35	6081.60
+ 5		90		 Pepino				97.00	8730.00
+ 26		111		 Salsa de soya				93.46	10374.06
+ 3		88		 Camote				55.20	4857.60
+ 8		93		 Pitaya				33.86	3148.98
+ 6		91		 Papaya				63.10	5742.10
+ 2		87		 Plátano				98.20	8543.40
+ 18		103		 Brócoli				46.70	4810.10
+ 9		94		 Papa				93.80	8817.20
+ 26		111		 Salsa de soya				93.46	10374.06
+ 5		90		 Pepino				97.00	8730.00
+ 25		110		 Tahini				43.67	4803.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 7		92		 Calabaza				83.54	7685.68
+ 19		104		 Jitomate				64.10	6666.40
+ 16		101		 Repollo				63.30	6393.30
+ 4		89		 Zanahoria				26.90	2394.10
+ 24		109		 Setas				74.72	8144.48
+ 5		90		 Pepino				97.00	8730.00
+ 16		101		 Repollo				63.30	6393.30
+
+                           Subtotal:   193395.88
+                           iva:        36837.31
+                           total:      230233.20
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 4		89		 Zanahoria				26.90	2394.10
+ 9		94		 Papa				93.80	8817.20
+ 4		89		 Zanahoria				26.90	2394.10
+ 17		102		 Colifor				63.60	6487.20
+ 11		96		 Pan pita				63.35	6081.60
+ 18		103		 Brócoli				46.70	4810.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 5		90		 Pepino				97.00	8730.00
+ 3		88		 Camote				55.20	4857.60
+ 3		88		 Camote				55.20	4857.60
+ 9		94		 Papa				93.80	8817.20
+ 21		106		 Portobellos				3.10	328.60
+ 13		98		 Rice paper				68.30	6693.40
+ 15		100		 Rosas				63.50	6350.00
+ 17		102		 Colifor				63.60	6487.20
+ 25		110		 Tahini				43.67	4803.70
+ 17		102		 Colifor				63.60	6487.20
+ 12		97		 Peter Pan				63.10	6120.70
+ 10		95		 Pan integral				63.99	6079.05
+ 11		96		 Pan pita				63.35	6081.60
+ 19		104		 Jitomate				64.10	6666.40
+ 10		95		 Pan integral				63.99	6079.05
+ 5		90		 Pepino				97.00	8730.00
+ 12		97		 Peter Pan				63.10	6120.70
+
+                           Subtotal:   115641.45
+                           iva:        22026.94
+                           total:      137668.40
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 5		90		 Pepino				97.00	8730.00
+ 16		101		 Repollo				63.30	6393.30
+ 18		103		 Brócoli				46.70	4810.10
+ 21		106		 Portobellos				3.10	328.60
+ 23		108		 Champiñones				64.17	6930.36
+ 10		95		 Pan integral				63.99	6079.05
+ 8		93		 Pitaya				33.86	3148.98
+ 1		86		 Soya				58.60	5039.60
+ 8		93		 Pitaya				33.86	3148.98
+ 1		86		 Soya				58.60	5039.60
+ 21		106		 Portobellos				3.10	328.60
+ 16		101		 Repollo				63.30	6393.30
+ 10		95		 Pan integral				63.99	6079.05
+ 22		107		 Ezekiel				63.10	6751.70
+ 27		112		 Aroz				53.20	5958.40
+ 15		100		 Rosas				63.50	6350.00
+ 14		99		 Rice cakes				86.10	8523.90
+ 12		97		 Peter Pan				63.10	6120.70
+ 11		96		 Pan pita				63.35	6081.60
+ 27		112		 Aroz				53.20	5958.40
+ 5		90		 Pepino				97.00	8730.00
+ 2		87		 Plátano				98.20	8543.40
+ 19		104		 Jitomate				64.10	6666.40
+ 23		108		 Champiñones				64.17	6930.36
+ 18		103		 Brócoli				46.70	4810.10
+ 2		87		 Plátano				98.20	8543.40
+ 13		98		 Rice paper				68.30	6693.40
+ 16		101		 Repollo				63.30	6393.30
+ 25		110		 Tahini				43.67	4803.70
+ 8		93		 Pitaya				33.86	3148.98
+ 10		95		 Pan integral				63.99	6079.05
+ 4		89		 Zanahoria				26.90	2394.10
+ 16		101		 Repollo				63.30	6393.30
+
+                           Subtotal:   158191.91
+                           iva:        30131.79
+                           total:      188323.71
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 7		92		 Calabaza				83.54	7685.68
+ 3		88		 Camote				55.20	4857.60
+ 16		101		 Repollo				63.30	6393.30
+ 12		97		 Peter Pan				63.10	6120.70
+ 4		89		 Zanahoria				26.90	2394.10
+ 5		90		 Pepino				97.00	8730.00
+
+                           Subtotal:   30392.36
+                           iva:        5789.02
+                           total:      36181.38
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 16		101		 Repollo				63.30	6393.30
+ 27		112		 Aroz				53.20	5958.40
+ 2		87		 Plátano				98.20	8543.40
+ 25		110		 Tahini				43.67	4803.70
+ 18		103		 Brócoli				46.70	4810.10
+ 2		87		 Plátano				98.20	8543.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 19		104		 Jitomate				64.10	6666.40
+ 8		93		 Pitaya				33.86	3148.98
+ 10		95		 Pan integral				63.99	6079.05
+ 18		103		 Brócoli				46.70	4810.10
+ 3		88		 Camote				55.20	4857.60
+ 16		101		 Repollo				63.30	6393.30
+ 15		100		 Rosas				63.50	6350.00
+ 21		106		 Portobellos				3.10	328.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 11		96		 Pan pita				63.35	6081.60
+
+                           Subtotal:   81090.31
+                           iva:        15445.77
+                           total:      96536.09
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 17		102		 Colifor				63.60	6487.20
+ 21		106		 Portobellos				3.10	328.60
+ 18		103		 Brócoli				46.70	4810.10
+ 10		95		 Pan integral				63.99	6079.05
+ 23		108		 Champiñones				64.17	6930.36
+ 10		95		 Pan integral				63.99	6079.05
+ 9		94		 Papa				93.80	8817.20
+
+                           Subtotal:   33206.51
+                           iva:        6325.05
+                           total:      39531.56
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 26		111		 Salsa de soya				93.46	10374.06
+ 23		108		 Champiñones				64.17	6930.36
+ 22		107		 Ezekiel				63.10	6751.70
+ 11		96		 Pan pita				63.35	6081.60
+ 24		109		 Setas				74.72	8144.48
+ 18		103		 Brócoli				46.70	4810.10
+ 24		109		 Setas				74.72	8144.48
+ 19		104		 Jitomate				64.10	6666.40
+ 8		93		 Pitaya				33.86	3148.98
+ 9		94		 Papa				93.80	8817.20
+ 7		92		 Calabaza				83.54	7685.68
+ 26		111		 Salsa de soya				93.46	10374.06
+ 25		110		 Tahini				43.67	4803.70
+ 2		87		 Plátano				98.20	8543.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 13		98		 Rice paper				68.30	6693.40
+ 6		91		 Papaya				63.10	5742.10
+ 7		92		 Calabaza				83.54	7685.68
+ 12		97		 Peter Pan				63.10	6120.70
+ 19		104		 Jitomate				64.10	6666.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 17		102		 Colifor				63.60	6487.20
+ 14		99		 Rice cakes				86.10	8523.90
+ 6		91		 Papaya				63.10	5742.10
+ 21		106		 Portobellos				3.10	328.60
+ 5		90		 Pepino				97.00	8730.00
+ 17		102		 Colifor				63.60	6487.20
+ 9		94		 Papa				93.80	8817.20
+ 13		98		 Rice paper				68.30	6693.40
+ 7		92		 Calabaza				83.54	7685.68
+ 16		101		 Repollo				63.30	6393.30
+ 4		89		 Zanahoria				26.90	2394.10
+ 23		108		 Champiñones				64.17	6930.36
+ 18		103		 Brócoli				46.70	4810.10
+ 7		92		 Calabaza				83.54	7685.68
+ 19		104		 Jitomate				64.10	6666.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 19		104		 Jitomate				64.10	6666.40
+ 18		103		 Brócoli				46.70	4810.10
+ 25		110		 Tahini				43.67	4803.70
+ 23		108		 Champiñones				64.17	6930.36
+ 21		106		 Portobellos				3.10	328.60
+ 4		89		 Zanahoria				26.90	2394.10
+ 25		110		 Tahini				43.67	4803.70
+ 7		92		 Calabaza				83.54	7685.68
+
+                           Subtotal:   243792.19
+                           iva:        46436.61
+                           total:      290228.80
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 25		110		 Tahini				43.67	4803.70
+ 16		101		 Repollo				63.30	6393.30
+ 14		99		 Rice cakes				86.10	8523.90
+ 19		104		 Jitomate				64.10	6666.40
+ 25		110		 Tahini				43.67	4803.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 16		101		 Repollo				63.30	6393.30
+ 5		90		 Pepino				97.00	8730.00
+ 14		99		 Rice cakes				86.10	8523.90
+ 13		98		 Rice paper				68.30	6693.40
+ 5		90		 Pepino				97.00	8730.00
+ 27		112		 Aroz				53.20	5958.40
+ 13		98		 Rice paper				68.30	6693.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 2		87		 Plátano				98.20	8543.40
+ 23		108		 Champiñones				64.17	6930.36
+ 5		90		 Pepino				97.00	8730.00
+ 17		102		 Colifor				63.60	6487.20
+
+                           Subtotal:   102580.09
+                           iva:        19539.07
+                           total:      122119.16
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 13		98		 Rice paper				68.30	6693.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 19		104		 Jitomate				64.10	6666.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 17		102		 Colifor				63.60	6487.20
+ 6		91		 Papaya				63.10	5742.10
+ 7		92		 Calabaza				83.54	7685.68
+ 24		109		 Setas				74.72	8144.48
+ 14		99		 Rice cakes				86.10	8523.90
+ 26		111		 Salsa de soya				93.46	10374.06
+ 27		112		 Aroz				53.20	5958.40
+ 20		105		 Tomate				37.10	3895.50
+ 11		96		 Pan pita				63.35	6081.60
+ 11		96		 Pan pita				63.35	6081.60
+ 20		105		 Tomate				37.10	3895.50
+ 11		96		 Pan pita				63.35	6081.60
+ 6		91		 Papaya				63.10	5742.10
+ 21		106		 Portobellos				3.10	328.60
+ 24		109		 Setas				74.72	8144.48
+ 10		95		 Pan integral				63.99	6079.05
+ 26		111		 Salsa de soya				93.46	10374.06
+ 25		110		 Tahini				43.67	4803.70
+ 25		110		 Tahini				43.67	4803.70
+ 15		100		 Rosas				63.50	6350.00
+ 24		109		 Setas				74.72	8144.48
+ 12		97		 Peter Pan				63.10	6120.70
+ 10		95		 Pan integral				63.99	6079.05
+ 21		106		 Portobellos				3.10	328.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 24		109		 Setas				74.72	8144.48
+ 17		102		 Colifor				63.60	6487.20
+ 7		92		 Calabaza				83.54	7685.68
+ 15		100		 Rosas				63.50	6350.00
+ 4		89		 Zanahoria				26.90	2394.10
+ 7		92		 Calabaza				83.54	7685.68
+ 7		92		 Calabaza				83.54	7685.68
+ 23		108		 Champiñones				64.17	6930.36
+ 3		88		 Camote				55.20	4857.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 19		104		 Jitomate				64.10	6666.40
+ 13		98		 Rice paper				68.30	6693.40
+ 24		109		 Setas				74.72	8144.48
+ 4		89		 Zanahoria				26.90	2394.10
+ 24		109		 Setas				74.72	8144.48
+ 18		103		 Brócoli				46.70	4810.10
+ 7		92		 Calabaza				83.54	7685.68
+ 9		94		 Papa				93.80	8817.20
+ 5		90		 Pepino				97.00	8730.00
+ 7		92		 Calabaza				83.54	7685.68
+ 7		92		 Calabaza				83.54	7685.68
+ 8		93		 Pitaya				33.86	3148.98
+ 9		94		 Papa				93.80	8817.20
+
+                           Subtotal:   276058.69
+                           iva:        52582.61
+                           total:      328641.30
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 19		104		 Jitomate				64.10	6666.40
+ 6		91		 Papaya				63.10	5742.10
+ 21		106		 Portobellos				3.10	328.60
+ 7		92		 Calabaza				83.54	7685.68
+ 6		91		 Papaya				63.10	5742.10
+ 7		92		 Calabaza				83.54	7685.68
+ 11		96		 Pan pita				63.35	6081.60
+ 13		98		 Rice paper				68.30	6693.40
+ 3		88		 Camote				55.20	4857.60
+ 25		110		 Tahini				43.67	4803.70
+ 17		102		 Colifor				63.60	6487.20
+ 25		110		 Tahini				43.67	4803.70
+ 4		89		 Zanahoria				26.90	2394.10
+ 6		91		 Papaya				63.10	5742.10
+ 15		100		 Rosas				63.50	6350.00
+ 26		111		 Salsa de soya				93.46	10374.06
+ 7		92		 Calabaza				83.54	7685.68
+ 22		107		 Ezekiel				63.10	6751.70
+ 15		100		 Rosas				63.50	6350.00
+ 6		91		 Papaya				63.10	5742.10
+ 25		110		 Tahini				43.67	4803.70
+ 9		94		 Papa				93.80	8817.20
+ 6		91		 Papaya				63.10	5742.10
+ 16		101		 Repollo				63.30	6393.30
+ 17		102		 Colifor				63.60	6487.20
+ 8		93		 Pitaya				33.86	3148.98
+ 8		93		 Pitaya				33.86	3148.98
+ 6		91		 Papaya				63.10	5742.10
+ 15		100		 Rosas				63.50	6350.00
+ 1		86		 Soya				58.60	5039.60
+ 23		108		 Champiñones				64.17	6930.36
+ 24		109		 Setas				74.72	8144.48
+ 14		99		 Rice cakes				86.10	8523.90
+ 12		97		 Peter Pan				63.10	6120.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 20		105		 Tomate				37.10	3895.50
+ 15		100		 Rosas				63.50	6350.00
+ 7		92		 Calabaza				83.54	7685.68
+ 2		87		 Plátano				98.20	8543.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 10		95		 Pan integral				63.99	6079.05
+ 24		109		 Setas				74.72	8144.48
+ 10		95		 Pan integral				63.99	6079.05
+ 22		107		 Ezekiel				63.10	6751.70
+ 3		88		 Camote				55.20	4857.60
+ 19		104		 Jitomate				64.10	6666.40
+ 14		99		 Rice cakes				86.10	8523.90
+ 12		97		 Peter Pan				63.10	6120.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 4		89		 Zanahoria				26.90	2394.10
+ 18		103		 Brócoli				46.70	4810.10
+ 25		110		 Tahini				43.67	4803.70
+ 2		87		 Plátano				98.20	8543.40
+ 18		103		 Brócoli				46.70	4810.10
+
+                           Subtotal:   276308.60
+                           iva:        52630.21
+                           total:      328938.81
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 1		86		 Soya				58.60	5039.60
+ 16		101		 Repollo				63.30	6393.30
+ 7		92		 Calabaza				83.54	7685.68
+ 3		88		 Camote				55.20	4857.60
+ 16		101		 Repollo				63.30	6393.30
+ 9		94		 Papa				93.80	8817.20
+ 5		90		 Pepino				97.00	8730.00
+ 6		91		 Papaya				63.10	5742.10
+ 5		90		 Pepino				97.00	8730.00
+
+                           Subtotal:   52406.58
+                           iva:        9982.20
+                           total:      62388.78
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 4		89		 Zanahoria				26.90	2394.10
+ 13		98		 Rice paper				68.30	6693.40
+ 10		95		 Pan integral				63.99	6079.05
+ 24		109		 Setas				74.72	8144.48
+ 25		110		 Tahini				43.67	4803.70
+ 21		106		 Portobellos				3.10	328.60
+ 9		94		 Papa				93.80	8817.20
+ 1		86		 Soya				58.60	5039.60
+
+                           Subtotal:   35532.11
+                           iva:        6768.02
+                           total:      42300.13
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 24		109		 Setas				74.72	8144.48
+ 2		87		 Plátano				98.20	8543.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 16		101		 Repollo				63.30	6393.30
+ 12		97		 Peter Pan				63.10	6120.70
+ 8		93		 Pitaya				33.86	3148.98
+ 11		96		 Pan pita				63.35	6081.60
+ 19		104		 Jitomate				64.10	6666.40
+ 19		104		 Jitomate				64.10	6666.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 26		111		 Salsa de soya				93.46	10374.06
+ 24		109		 Setas				74.72	8144.48
+ 18		103		 Brócoli				46.70	4810.10
+ 18		103		 Brócoli				46.70	4810.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 19		104		 Jitomate				64.10	6666.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 20		105		 Tomate				37.10	3895.50
+ 10		95		 Pan integral				63.99	6079.05
+ 11		96		 Pan pita				63.35	6081.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 19		104		 Jitomate				64.10	6666.40
+ 13		98		 Rice paper				68.30	6693.40
+ 18		103		 Brócoli				46.70	4810.10
+ 17		102		 Colifor				63.60	6487.20
+ 2		87		 Plátano				98.20	8543.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 11		96		 Pan pita				63.35	6081.60
+ 1		86		 Soya				58.60	5039.60
+ 2		87		 Plátano				98.20	8543.40
+ 7		92		 Calabaza				83.54	7685.68
+ 12		97		 Peter Pan				63.10	6120.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 23		108		 Champiñones				64.17	6930.36
+ 8		93		 Pitaya				33.86	3148.98
+ 2		87		 Plátano				98.20	8543.40
+ 9		94		 Papa				93.80	8817.20
+ 13		98		 Rice paper				68.30	6693.40
+ 9		94		 Papa				93.80	8817.20
+ 10		95		 Pan integral				63.99	6079.05
+ 19		104		 Jitomate				64.10	6666.40
+ 19		104		 Jitomate				64.10	6666.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 13		98		 Rice paper				68.30	6693.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 1		86		 Soya				58.60	5039.60
+ 18		103		 Brócoli				46.70	4810.10
+ 10		95		 Pan integral				63.99	6079.05
+
+                           Subtotal:   263295.89
+                           iva:        50151.60
+                           total:      313447.48
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 27		112		 Aroz				53.20	5958.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 20		105		 Tomate				37.10	3895.50
+ 23		108		 Champiñones				64.17	6930.36
+ 25		110		 Tahini				43.67	4803.70
+ 19		104		 Jitomate				64.10	6666.40
+ 8		93		 Pitaya				33.86	3148.98
+ 14		99		 Rice cakes				86.10	8523.90
+ 15		100		 Rosas				63.50	6350.00
+ 2		87		 Plátano				98.20	8543.40
+ 23		108		 Champiñones				64.17	6930.36
+ 10		95		 Pan integral				63.99	6079.05
+ 25		110		 Tahini				43.67	4803.70
+ 19		104		 Jitomate				64.10	6666.40
+ 15		100		 Rosas				63.50	6350.00
+ 16		101		 Repollo				63.30	6393.30
+ 16		101		 Repollo				63.30	6393.30
+ 14		99		 Rice cakes				86.10	8523.90
+ 1		86		 Soya				58.60	5039.60
+ 27		112		 Aroz				53.20	5958.40
+ 24		109		 Setas				74.72	8144.48
+ 6		91		 Papaya				63.10	5742.10
+
+                           Subtotal:   112761.03
+                           iva:        21478.29
+                           total:      134239.33
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 7		92		 Calabaza				83.54	7685.68
+ 25		110		 Tahini				43.67	4803.70
+ 3		88		 Camote				55.20	4857.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 24		109		 Setas				74.72	8144.48
+ 3		88		 Camote				55.20	4857.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 15		100		 Rosas				63.50	6350.00
+ 13		98		 Rice paper				68.30	6693.40
+
+                           Subtotal:   50835.30
+                           iva:        9682.92
+                           total:      60518.22
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 7		92		 Calabaza				83.54	7685.68
+ 24		109		 Setas				74.72	8144.48
+ 14		99		 Rice cakes				86.10	8523.90
+ 26		111		 Salsa de soya				93.46	10374.06
+ 14		99		 Rice cakes				86.10	8523.90
+ 1		86		 Soya				58.60	5039.60
+ 8		93		 Pitaya				33.86	3148.98
+ 14		99		 Rice cakes				86.10	8523.90
+ 10		95		 Pan integral				63.99	6079.05
+ 25		110		 Tahini				43.67	4803.70
+ 3		88		 Camote				55.20	4857.60
+ 16		101		 Repollo				63.30	6393.30
+ 18		103		 Brócoli				46.70	4810.10
+ 2		87		 Plátano				98.20	8543.40
+ 3		88		 Camote				55.20	4857.60
+ 7		92		 Calabaza				83.54	7685.68
+ 27		112		 Aroz				53.20	5958.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 5		90		 Pepino				97.00	8730.00
+ 5		90		 Pepino				97.00	8730.00
+ 26		111		 Salsa de soya				93.46	10374.06
+ 12		97		 Peter Pan				63.10	6120.70
+ 5		90		 Pepino				97.00	8730.00
+ 17		102		 Colifor				63.60	6487.20
+
+                           Subtotal:   142166.63
+                           iva:        27079.36
+                           total:      169245.99
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 26		111		 Salsa de soya				93.46	10374.06
+ 16		101		 Repollo				63.30	6393.30
+ 2		87		 Plátano				98.20	8543.40
+ 6		91		 Papaya				63.10	5742.10
+ 13		98		 Rice paper				68.30	6693.40
+ 15		100		 Rosas				63.50	6350.00
+ 17		102		 Colifor				63.60	6487.20
+ 21		106		 Portobellos				3.10	328.60
+ 23		108		 Champiñones				64.17	6930.36
+ 3		88		 Camote				55.20	4857.60
+ 9		94		 Papa				93.80	8817.20
+ 14		99		 Rice cakes				86.10	8523.90
+ 24		109		 Setas				74.72	8144.48
+ 8		93		 Pitaya				33.86	3148.98
+ 1		86		 Soya				58.60	5039.60
+ 25		110		 Tahini				43.67	4803.70
+ 18		103		 Brócoli				46.70	4810.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 5		90		 Pepino				97.00	8730.00
+
+                           Subtotal:   105077.31
+                           iva:        20014.73
+                           total:      125092.04
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 6		91		 Papaya				63.10	5742.10
+ 2		87		 Plátano				98.20	8543.40
+ 9		94		 Papa				93.80	8817.20
+ 14		99		 Rice cakes				86.10	8523.90
+ 5		90		 Pepino				97.00	8730.00
+ 19		104		 Jitomate				64.10	6666.40
+ 23		108		 Champiñones				64.17	6930.36
+ 1		86		 Soya				58.60	5039.60
+ 4		89		 Zanahoria				26.90	2394.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 12		97		 Peter Pan				63.10	6120.70
+ 21		106		 Portobellos				3.10	328.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 5		90		 Pepino				97.00	8730.00
+ 24		109		 Setas				74.72	8144.48
+ 14		99		 Rice cakes				86.10	8523.90
+ 24		109		 Setas				74.72	8144.48
+ 3		88		 Camote				55.20	4857.60
+ 7		92		 Calabaza				83.54	7685.68
+ 21		106		 Portobellos				3.10	328.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 27		112		 Aroz				53.20	5958.40
+ 25		110		 Tahini				43.67	4803.70
+ 3		88		 Camote				55.20	4857.60
+ 10		95		 Pan integral				63.99	6079.05
+ 9		94		 Papa				93.80	8817.20
+ 27		112		 Aroz				53.20	5958.40
+ 15		100		 Rosas				63.50	6350.00
+ 23		108		 Champiñones				64.17	6930.36
+ 2		87		 Plátano				98.20	8543.40
+ 25		110		 Tahini				43.67	4803.70
+ 18		103		 Brócoli				46.70	4810.10
+ 13		98		 Rice paper				68.30	6693.40
+ 3		88		 Camote				55.20	4857.60
+ 9		94		 Papa				93.80	8817.20
+
+                           Subtotal:   191671.93
+                           iva:        36508.94
+                           total:      228180.87
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 21		106		 Portobellos				3.10	328.60
+ 19		104		 Jitomate				64.10	6666.40
+ 7		92		 Calabaza				83.54	7685.68
+ 17		102		 Colifor				63.60	6487.20
+ 19		104		 Jitomate				64.10	6666.40
+ 27		112		 Aroz				53.20	5958.40
+ 2		87		 Plátano				98.20	8543.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 19		104		 Jitomate				64.10	6666.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 16		101		 Repollo				63.30	6393.30
+ 1		86		 Soya				58.60	5039.60
+ 8		93		 Pitaya				33.86	3148.98
+ 17		102		 Colifor				63.60	6487.20
+ 4		89		 Zanahoria				26.90	2394.10
+ 25		110		 Tahini				43.67	4803.70
+ 10		95		 Pan integral				63.99	6079.05
+ 25		110		 Tahini				43.67	4803.70
+ 6		91		 Papaya				63.10	5742.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 11		96		 Pan pita				63.35	6081.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 17		102		 Colifor				63.60	6487.20
+ 13		98		 Rice paper				68.30	6693.40
+ 13		98		 Rice paper				68.30	6693.40
+ 17		102		 Colifor				63.60	6487.20
+ 19		104		 Jitomate				64.10	6666.40
+ 3		88		 Camote				55.20	4857.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 16		101		 Repollo				63.30	6393.30
+ 16		101		 Repollo				63.30	6393.30
+ 4		89		 Zanahoria				26.90	2394.10
+ 16		101		 Repollo				63.30	6393.30
+ 5		90		 Pepino				97.00	8730.00
+ 5		90		 Pepino				97.00	8730.00
+ 6		91		 Papaya				63.10	5742.10
+ 17		102		 Colifor				63.60	6487.20
+ 4		89		 Zanahoria				26.90	2394.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 13		98		 Rice paper				68.30	6693.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 27		112		 Aroz				53.20	5958.40
+ 16		101		 Repollo				63.30	6393.30
+ 24		109		 Setas				74.72	8144.48
+ 21		106		 Portobellos				3.10	328.60
+ 16		101		 Repollo				63.30	6393.30
+ 9		94		 Papa				93.80	8817.20
+ 16		101		 Repollo				63.30	6393.30
+ 22		107		 Ezekiel				63.10	6751.70
+
+                           Subtotal:   240617.15
+                           iva:        45831.84
+                           total:      286448.98
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 5		90		 Pepino				97.00	8730.00
+ 10		95		 Pan integral				63.99	6079.05
+ 16		101		 Repollo				63.30	6393.30
+ 7		92		 Calabaza				83.54	7685.68
+ 11		96		 Pan pita				63.35	6081.60
+ 10		95		 Pan integral				63.99	6079.05
+ 26		111		 Salsa de soya				93.46	10374.06
+ 5		90		 Pepino				97.00	8730.00
+ 23		108		 Champiñones				64.17	6930.36
+ 25		110		 Tahini				43.67	4803.70
+ 23		108		 Champiñones				64.17	6930.36
+ 8		93		 Pitaya				33.86	3148.98
+ 8		93		 Pitaya				33.86	3148.98
+ 15		100		 Rosas				63.50	6350.00
+ 18		103		 Brócoli				46.70	4810.10
+ 19		104		 Jitomate				64.10	6666.40
+ 20		105		 Tomate				37.10	3895.50
+ 26		111		 Salsa de soya				93.46	10374.06
+ 27		112		 Aroz				53.20	5958.40
+ 6		91		 Papaya				63.10	5742.10
+ 9		94		 Papa				93.80	8817.20
+ 3		88		 Camote				55.20	4857.60
+ 1		86		 Soya				58.60	5039.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 27		112		 Aroz				53.20	5958.40
+ 3		88		 Camote				55.20	4857.60
+ 15		100		 Rosas				63.50	6350.00
+ 14		99		 Rice cakes				86.10	8523.90
+ 13		98		 Rice paper				68.30	6693.40
+
+                           Subtotal:   158367.95
+                           iva:        30165.32
+                           total:      188533.28
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 23		108		 Champiñones				64.17	6930.36
+ 25		110		 Tahini				43.67	4803.70
+ 27		112		 Aroz				53.20	5958.40
+ 5		90		 Pepino				97.00	8730.00
+ 15		100		 Rosas				63.50	6350.00
+ 12		97		 Peter Pan				63.10	6120.70
+ 2		87		 Plátano				98.20	8543.40
+ 25		110		 Tahini				43.67	4803.70
+ 6		91		 Papaya				63.10	5742.10
+ 5		90		 Pepino				97.00	8730.00
+ 27		112		 Aroz				53.20	5958.40
+ 6		91		 Papaya				63.10	5742.10
+ 19		104		 Jitomate				64.10	6666.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 25		110		 Tahini				43.67	4803.70
+
+                           Subtotal:   77512.73
+                           iva:        14764.33
+                           total:      92277.06
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 25		110		 Tahini				43.67	4803.70
+ 27		112		 Aroz				53.20	5958.40
+ 2		87		 Plátano				98.20	8543.40
+ 9		94		 Papa				93.80	8817.20
+ 26		111		 Salsa de soya				93.46	10374.06
+ 18		103		 Brócoli				46.70	4810.10
+ 25		110		 Tahini				43.67	4803.70
+ 17		102		 Colifor				63.60	6487.20
+ 19		104		 Jitomate				64.10	6666.40
+ 18		103		 Brócoli				46.70	4810.10
+ 22		107		 Ezekiel				63.10	6751.70
+ 25		110		 Tahini				43.67	4803.70
+
+                           Subtotal:   65208.91
+                           iva:        12420.75
+                           total:      77629.66
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 11		96		 Pan pita				63.35	6081.60
+ 11		96		 Pan pita				63.35	6081.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 4		89		 Zanahoria				26.90	2394.10
+ 27		112		 Aroz				53.20	5958.40
+ 25		110		 Tahini				43.67	4803.70
+ 13		98		 Rice paper				68.30	6693.40
+ 25		110		 Tahini				43.67	4803.70
+ 2		87		 Plátano				98.20	8543.40
+ 1		86		 Soya				58.60	5039.60
+ 16		101		 Repollo				63.30	6393.30
+ 9		94		 Papa				93.80	8817.20
+ 14		99		 Rice cakes				86.10	8523.90
+ 8		93		 Pitaya				33.86	3148.98
+ 23		108		 Champiñones				64.17	6930.36
+ 6		91		 Papaya				63.10	5742.10
+ 10		95		 Pan integral				63.99	6079.05
+ 11		96		 Pan pita				63.35	6081.60
+ 16		101		 Repollo				63.30	6393.30
+ 4		89		 Zanahoria				26.90	2394.10
+ 14		99		 Rice cakes				86.10	8523.90
+ 13		98		 Rice paper				68.30	6693.40
+ 6		91		 Papaya				63.10	5742.10
+ 7		92		 Calabaza				83.54	7685.68
+ 2		87		 Plátano				98.20	8543.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 14		99		 Rice cakes				86.10	8523.90
+ 7		92		 Calabaza				83.54	7685.68
+ 13		98		 Rice paper				68.30	6693.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 10		95		 Pan integral				63.99	6079.05
+ 17		102		 Colifor				63.60	6487.20
+ 10		95		 Pan integral				63.99	6079.05
+ 25		110		 Tahini				43.67	4803.70
+ 16		101		 Repollo				63.30	6393.30
+ 27		112		 Aroz				53.20	5958.40
+ 24		109		 Setas				74.72	8144.48
+ 20		105		 Tomate				37.10	3895.50
+ 17		102		 Colifor				63.60	6487.20
+ 24		109		 Setas				74.72	8144.48
+ 7		92		 Calabaza				83.54	7685.68
+ 1		86		 Soya				58.60	5039.60
+ 10		95		 Pan integral				63.99	6079.05
+ 20		105		 Tomate				37.10	3895.50
+
+                           Subtotal:   234707.34
+                           iva:        44706.16
+                           total:      279413.50
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 23		108		 Champiñones				64.17	6930.36
+ 25		110		 Tahini				43.67	4803.70
+ 8		93		 Pitaya				33.86	3148.98
+ 6		91		 Papaya				63.10	5742.10
+ 25		110		 Tahini				43.67	4803.70
+ 17		102		 Colifor				63.60	6487.20
+ 16		101		 Repollo				63.30	6393.30
+ 23		108		 Champiñones				64.17	6930.36
+ 15		100		 Rosas				63.50	6350.00
+ 20		105		 Tomate				37.10	3895.50
+ 24		109		 Setas				74.72	8144.48
+ 8		93		 Pitaya				33.86	3148.98
+ 5		90		 Pepino				97.00	8730.00
+ 1		86		 Soya				58.60	5039.60
+ 4		89		 Zanahoria				26.90	2394.10
+ 18		103		 Brócoli				46.70	4810.10
+ 16		101		 Repollo				63.30	6393.30
+ 20		105		 Tomate				37.10	3895.50
+ 24		109		 Setas				74.72	8144.48
+ 17		102		 Colifor				63.60	6487.20
+ 12		97		 Peter Pan				63.10	6120.70
+ 5		90		 Pepino				97.00	8730.00
+ 11		96		 Pan pita				63.35	6081.60
+ 9		94		 Papa				93.80	8817.20
+ 13		98		 Rice paper				68.30	6693.40
+ 10		95		 Pan integral				63.99	6079.05
+ 1		86		 Soya				58.60	5039.60
+ 21		106		 Portobellos				3.10	328.60
+ 25		110		 Tahini				43.67	4803.70
+ 25		110		 Tahini				43.67	4803.70
+
+                           Subtotal:   142943.21
+                           iva:        27227.28
+                           total:      170170.49
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 17		102		 Colifor				63.60	6487.20
+ 17		102		 Colifor				63.60	6487.20
+ 10		95		 Pan integral				63.99	6079.05
+ 13		98		 Rice paper				68.30	6693.40
+ 2		87		 Plátano				98.20	8543.40
+ 9		94		 Papa				93.80	8817.20
+ 24		109		 Setas				74.72	8144.48
+ 25		110		 Tahini				43.67	4803.70
+ 21		106		 Portobellos				3.10	328.60
+ 3		88		 Camote				55.20	4857.60
+ 18		103		 Brócoli				46.70	4810.10
+ 2		87		 Plátano				98.20	8543.40
+ 2		87		 Plátano				98.20	8543.40
+ 2		87		 Plátano				98.20	8543.40
+ 13		98		 Rice paper				68.30	6693.40
+ 9		94		 Papa				93.80	8817.20
+ 17		102		 Colifor				63.60	6487.20
+ 8		93		 Pitaya				33.86	3148.98
+ 20		105		 Tomate				37.10	3895.50
+ 4		89		 Zanahoria				26.90	2394.10
+ 19		104		 Jitomate				64.10	6666.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 11		96		 Pan pita				63.35	6081.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 5		90		 Pepino				97.00	8730.00
+ 16		101		 Repollo				63.30	6393.30
+ 25		110		 Tahini				43.67	4803.70
+ 8		93		 Pitaya				33.86	3148.98
+ 6		91		 Papaya				63.10	5742.10
+ 18		103		 Brócoli				46.70	4810.10
+ 3		88		 Camote				55.20	4857.60
+ 21		106		 Portobellos				3.10	328.60
+ 16		101		 Repollo				63.30	6393.30
+ 2		87		 Plátano				98.20	8543.40
+ 1		86		 Soya				58.60	5039.60
+ 13		98		 Rice paper				68.30	6693.40
+ 6		91		 Papaya				63.10	5742.10
+ 11		96		 Pan pita				63.35	6081.60
+ 7		92		 Calabaza				83.54	7685.68
+ 5		90		 Pepino				97.00	8730.00
+ 11		96		 Pan pita				63.35	6081.60
+ 18		103		 Brócoli				46.70	4810.10
+ 8		93		 Pitaya				33.86	3148.98
+ 1		86		 Soya				58.60	5039.60
+ 12		97		 Peter Pan				63.10	6120.70
+
+                           Subtotal:   224749.65
+                           iva:        42809.46
+                           total:      267559.11
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 24		109		 Setas				74.72	8144.48
+ 2		87		 Plátano				98.20	8543.40
+ 25		110		 Tahini				43.67	4803.70
+ 15		100		 Rosas				63.50	6350.00
+ 16		101		 Repollo				63.30	6393.30
+ 20		105		 Tomate				37.10	3895.50
+ 16		101		 Repollo				63.30	6393.30
+ 21		106		 Portobellos				3.10	328.60
+ 23		108		 Champiñones				64.17	6930.36
+ 15		100		 Rosas				63.50	6350.00
+ 8		93		 Pitaya				33.86	3148.98
+ 16		101		 Repollo				63.30	6393.30
+ 10		95		 Pan integral				63.99	6079.05
+ 23		108		 Champiñones				64.17	6930.36
+ 5		90		 Pepino				97.00	8730.00
+ 21		106		 Portobellos				3.10	328.60
+ 16		101		 Repollo				63.30	6393.30
+ 20		105		 Tomate				37.10	3895.50
+ 10		95		 Pan integral				63.99	6079.05
+ 23		108		 Champiñones				64.17	6930.36
+ 14		99		 Rice cakes				86.10	8523.90
+ 2		87		 Plátano				98.20	8543.40
+ 16		101		 Repollo				63.30	6393.30
+ 14		99		 Rice cakes				86.10	8523.90
+ 2		87		 Plátano				98.20	8543.40
+ 3		88		 Camote				55.20	4857.60
+ 19		104		 Jitomate				64.10	6666.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 23		108		 Champiñones				64.17	6930.36
+ 14		99		 Rice cakes				86.10	8523.90
+ 19		104		 Jitomate				64.10	6666.40
+ 25		110		 Tahini				43.67	4803.70
+ 5		90		 Pepino				97.00	8730.00
+ 7		92		 Calabaza				83.54	7685.68
+ 19		104		 Jitomate				64.10	6666.40
+ 25		110		 Tahini				43.67	4803.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 24		109		 Setas				74.72	8144.48
+ 16		101		 Repollo				63.30	6393.30
+ 26		111		 Salsa de soya				93.46	10374.06
+ 3		88		 Camote				55.20	4857.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 4		89		 Zanahoria				26.90	2394.10
+ 5		90		 Pepino				97.00	8730.00
+ 12		97		 Peter Pan				63.10	6120.70
+ 8		93		 Pitaya				33.86	3148.98
+ 26		111		 Salsa de soya				93.46	10374.06
+ 9		94		 Papa				93.80	8817.20
+ 10		95		 Pan integral				63.99	6079.05
+ 14		99		 Rice cakes				86.10	8523.90
+ 20		105		 Tomate				37.10	3895.50
+ 22		107		 Ezekiel				63.10	6751.70
+ 5		90		 Pepino				97.00	8730.00
+
+                           Subtotal:   299760.99
+                           iva:        57097.33
+                           total:      356858.32
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 6		91		 Papaya				63.10	5742.10
+ 24		109		 Setas				74.72	8144.48
+ 1		86		 Soya				58.60	5039.60
+ 3		88		 Camote				55.20	4857.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 8		93		 Pitaya				33.86	3148.98
+ 26		111		 Salsa de soya				93.46	10374.06
+ 18		103		 Brócoli				46.70	4810.10
+ 11		96		 Pan pita				63.35	6081.60
+ 5		90		 Pepino				97.00	8730.00
+ 6		91		 Papaya				63.10	5742.10
+ 20		105		 Tomate				37.10	3895.50
+ 27		112		 Aroz				53.20	5958.40
+ 14		99		 Rice cakes				86.10	8523.90
+ 21		106		 Portobellos				3.10	328.60
+ 18		103		 Brócoli				46.70	4810.10
+ 8		93		 Pitaya				33.86	3148.98
+ 24		109		 Setas				74.72	8144.48
+ 18		103		 Brócoli				46.70	4810.10
+ 11		96		 Pan pita				63.35	6081.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 22		107		 Ezekiel				63.10	6751.70
+ 4		89		 Zanahoria				26.90	2394.10
+ 2		87		 Plátano				98.20	8543.40
+ 6		91		 Papaya				63.10	5742.10
+ 10		95		 Pan integral				63.99	6079.05
+ 14		99		 Rice cakes				86.10	8523.90
+ 25		110		 Tahini				43.67	4803.70
+ 7		92		 Calabaza				83.54	7685.68
+ 14		99		 Rice cakes				86.10	8523.90
+ 27		112		 Aroz				53.20	5958.40
+ 20		105		 Tomate				37.10	3895.50
+ 19		104		 Jitomate				64.10	6666.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 14		99		 Rice cakes				86.10	8523.90
+ 12		97		 Peter Pan				63.10	6120.70
+ 27		112		 Aroz				53.20	5958.40
+ 5		90		 Pepino				97.00	8730.00
+ 1		86		 Soya				58.60	5039.60
+ 9		94		 Papa				93.80	8817.20
+ 24		109		 Setas				74.72	8144.48
+ 14		99		 Rice cakes				86.10	8523.90
+ 26		111		 Salsa de soya				93.46	10374.06
+ 1		86		 Soya				58.60	5039.60
+ 16		101		 Repollo				63.30	6393.30
+ 27		112		 Aroz				53.20	5958.40
+ 24		109		 Setas				74.72	8144.48
+ 10		95		 Pan integral				63.99	6079.05
+ 3		88		 Camote				55.20	4857.60
+ 13		98		 Rice paper				68.30	6693.40
+ 14		99		 Rice cakes				86.10	8523.90
+ 25		110		 Tahini				43.67	4803.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 4		89		 Zanahoria				26.90	2394.10
+ 2		87		 Plátano				98.20	8543.40
+ 19		104		 Jitomate				64.10	6666.40
+ 10		95		 Pan integral				63.99	6079.05
+
+                           Subtotal:   312601.50
+                           iva:        59543.14
+                           total:      372144.64
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 11		96		 Pan pita				63.35	6081.60
+ 10		95		 Pan integral				63.99	6079.05
+ 19		104		 Jitomate				64.10	6666.40
+ 21		106		 Portobellos				3.10	328.60
+ 5		90		 Pepino				97.00	8730.00
+ 10		95		 Pan integral				63.99	6079.05
+ 13		98		 Rice paper				68.30	6693.40
+ 17		102		 Colifor				63.60	6487.20
+ 17		102		 Colifor				63.60	6487.20
+ 21		106		 Portobellos				3.10	328.60
+ 1		86		 Soya				58.60	5039.60
+ 3		88		 Camote				55.20	4857.60
+ 25		110		 Tahini				43.67	4803.70
+ 14		99		 Rice cakes				86.10	8523.90
+ 26		111		 Salsa de soya				93.46	10374.06
+ 26		111		 Salsa de soya				93.46	10374.06
+ 23		108		 Champiñones				64.17	6930.36
+ 17		102		 Colifor				63.60	6487.20
+ 22		107		 Ezekiel				63.10	6751.70
+ 27		112		 Aroz				53.20	5958.40
+ 1		86		 Soya				58.60	5039.60
+ 17		102		 Colifor				63.60	6487.20
+ 19		104		 Jitomate				64.10	6666.40
+ 24		109		 Setas				74.72	8144.48
+ 26		111		 Salsa de soya				93.46	10374.06
+ 3		88		 Camote				55.20	4857.60
+ 17		102		 Colifor				63.60	6487.20
+ 6		91		 Papaya				63.10	5742.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 24		109		 Setas				74.72	8144.48
+ 10		95		 Pan integral				63.99	6079.05
+
+                           Subtotal:   170064.64
+                           iva:        32393.27
+                           total:      202457.91
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 1		86		 Soya				58.60	5039.60
+ 6		91		 Papaya				63.10	5742.10
+ 10		95		 Pan integral				63.99	6079.05
+ 14		99		 Rice cakes				86.10	8523.90
+ 27		112		 Aroz				53.20	5958.40
+ 3		88		 Camote				55.20	4857.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 5		90		 Pepino				97.00	8730.00
+ 12		97		 Peter Pan				63.10	6120.70
+ 3		88		 Camote				55.20	4857.60
+ 19		104		 Jitomate				64.10	6666.40
+ 18		103		 Brócoli				46.70	4810.10
+ 23		108		 Champiñones				64.17	6930.36
+ 19		104		 Jitomate				64.10	6666.40
+ 2		87		 Plátano				98.20	8543.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 9		94		 Papa				93.80	8817.20
+ 20		105		 Tomate				37.10	3895.50
+ 19		104		 Jitomate				64.10	6666.40
+ 14		99		 Rice cakes				86.10	8523.90
+ 20		105		 Tomate				37.10	3895.50
+ 11		96		 Pan pita				63.35	6081.60
+ 16		101		 Repollo				63.30	6393.30
+ 18		103		 Brócoli				46.70	4810.10
+ 1		86		 Soya				58.60	5039.60
+ 1		86		 Soya				58.60	5039.60
+ 6		91		 Papaya				63.10	5742.10
+
+                           Subtotal:   147149.96
+                           iva:        28028.56
+                           total:      175178.53
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 3		88		 Camote				55.20	4857.60
+ 24		109		 Setas				74.72	8144.48
+ 23		108		 Champiñones				64.17	6930.36
+ 26		111		 Salsa de soya				93.46	10374.06
+ 5		90		 Pepino				97.00	8730.00
+ 21		106		 Portobellos				3.10	328.60
+ 8		93		 Pitaya				33.86	3148.98
+ 23		108		 Champiñones				64.17	6930.36
+ 19		104		 Jitomate				64.10	6666.40
+ 25		110		 Tahini				43.67	4803.70
+ 9		94		 Papa				93.80	8817.20
+ 10		95		 Pan integral				63.99	6079.05
+ 25		110		 Tahini				43.67	4803.70
+ 6		91		 Papaya				63.10	5742.10
+ 14		99		 Rice cakes				86.10	8523.90
+ 1		86		 Soya				58.60	5039.60
+ 4		89		 Zanahoria				26.90	2394.10
+ 6		91		 Papaya				63.10	5742.10
+ 4		89		 Zanahoria				26.90	2394.10
+ 27		112		 Aroz				53.20	5958.40
+ 5		90		 Pepino				97.00	8730.00
+ 10		95		 Pan integral				63.99	6079.05
+ 27		112		 Aroz				53.20	5958.40
+ 8		93		 Pitaya				33.86	3148.98
+ 3		88		 Camote				55.20	4857.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 5		90		 Pepino				97.00	8730.00
+ 26		111		 Salsa de soya				93.46	10374.06
+ 14		99		 Rice cakes				86.10	8523.90
+ 25		110		 Tahini				43.67	4803.70
+ 16		101		 Repollo				63.30	6393.30
+ 24		109		 Setas				74.72	8144.48
+ 24		109		 Setas				74.72	8144.48
+ 17		102		 Colifor				63.60	6487.20
+ 16		101		 Repollo				63.30	6393.30
+ 13		98		 Rice paper				68.30	6693.40
+ 8		93		 Pitaya				33.86	3148.98
+ 19		104		 Jitomate				64.10	6666.40
+ 5		90		 Pepino				97.00	8730.00
+ 10		95		 Pan integral				63.99	6079.05
+ 21		106		 Portobellos				3.10	328.60
+ 10		95		 Pan integral				63.99	6079.05
+ 3		88		 Camote				55.20	4857.60
+ 20		105		 Tomate				37.10	3895.50
+ 4		89		 Zanahoria				26.90	2394.10
+ 5		90		 Pepino				97.00	8730.00
+ 5		90		 Pepino				97.00	8730.00
+ 15		100		 Rosas				63.50	6350.00
+ 14		99		 Rice cakes				86.10	8523.90
+
+                           Subtotal:   255996.62
+                           iva:        48761.26
+                           total:      304757.88
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 13		98		 Rice paper				68.30	6693.40
+ 16		101		 Repollo				63.30	6393.30
+ 25		110		 Tahini				43.67	4803.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 13		98		 Rice paper				68.30	6693.40
+ 9		94		 Papa				93.80	8817.20
+ 11		96		 Pan pita				63.35	6081.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 1		86		 Soya				58.60	5039.60
+ 6		91		 Papaya				63.10	5742.10
+ 6		91		 Papaya				63.10	5742.10
+ 2		87		 Plátano				98.20	8543.40
+ 17		102		 Colifor				63.60	6487.20
+ 21		106		 Portobellos				3.10	328.60
+ 18		103		 Brócoli				46.70	4810.10
+ 25		110		 Tahini				43.67	4803.70
+ 1		86		 Soya				58.60	5039.60
+ 24		109		 Setas				74.72	8144.48
+ 7		92		 Calabaza				83.54	7685.68
+ 7		92		 Calabaza				83.54	7685.68
+ 6		91		 Papaya				63.10	5742.10
+ 21		106		 Portobellos				3.10	328.60
+ 6		91		 Papaya				63.10	5742.10
+ 6		91		 Papaya				63.10	5742.10
+ 6		91		 Papaya				63.10	5742.10
+ 25		110		 Tahini				43.67	4803.70
+ 11		96		 Pan pita				63.35	6081.60
+ 19		104		 Jitomate				64.10	6666.40
+ 7		92		 Calabaza				83.54	7685.68
+ 10		95		 Pan integral				63.99	6079.05
+ 21		106		 Portobellos				3.10	328.60
+ 15		100		 Rosas				63.50	6350.00
+ 16		101		 Repollo				63.30	6393.30
+ 12		97		 Peter Pan				63.10	6120.70
+ 14		99		 Rice cakes				86.10	8523.90
+ 22		107		 Ezekiel				63.10	6751.70
+ 7		92		 Calabaza				83.54	7685.68
+ 11		96		 Pan pita				63.35	6081.60
+ 4		89		 Zanahoria				26.90	2394.10
+ 23		108		 Champiñones				64.17	6930.36
+ 23		108		 Champiñones				64.17	6930.36
+ 16		101		 Repollo				63.30	6393.30
+ 19		104		 Jitomate				64.10	6666.40
+
+                           Subtotal:   216882.14
+                           iva:        41310.88
+                           total:      258193.03
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 12		97		 Peter Pan				63.10	6120.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 20		105		 Tomate				37.10	3895.50
+ 27		112		 Aroz				53.20	5958.40
+ 9		94		 Papa				93.80	8817.20
+ 9		94		 Papa				93.80	8817.20
+ 10		95		 Pan integral				63.99	6079.05
+ 10		95		 Pan integral				63.99	6079.05
+ 6		91		 Papaya				63.10	5742.10
+ 13		98		 Rice paper				68.30	6693.40
+ 23		108		 Champiñones				64.17	6930.36
+ 10		95		 Pan integral				63.99	6079.05
+ 7		92		 Calabaza				83.54	7685.68
+ 21		106		 Portobellos				3.10	328.60
+ 13		98		 Rice paper				68.30	6693.40
+ 3		88		 Camote				55.20	4857.60
+ 8		93		 Pitaya				33.86	3148.98
+ 25		110		 Tahini				43.67	4803.70
+ 2		87		 Plátano				98.20	8543.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 23		108		 Champiñones				64.17	6930.36
+ 27		112		 Aroz				53.20	5958.40
+ 25		110		 Tahini				43.67	4803.70
+ 11		96		 Pan pita				63.35	6081.60
+ 7		92		 Calabaza				83.54	7685.68
+ 11		96		 Pan pita				63.35	6081.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 23		108		 Champiñones				64.17	6930.36
+ 16		101		 Repollo				63.30	6393.30
+ 5		90		 Pepino				97.00	8730.00
+ 7		92		 Calabaza				83.54	7685.68
+ 4		89		 Zanahoria				26.90	2394.10
+
+                           Subtotal:   166609.34
+                           iva:        31735.11
+                           total:      198344.45
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 20		105		 Tomate				37.10	3895.50
+ 24		109		 Setas				74.72	8144.48
+ 27		112		 Aroz				53.20	5958.40
+ 16		101		 Repollo				63.30	6393.30
+ 25		110		 Tahini				43.67	4803.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 6		91		 Papaya				63.10	5742.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 3		88		 Camote				55.20	4857.60
+ 8		93		 Pitaya				33.86	3148.98
+ 6		91		 Papaya				63.10	5742.10
+ 17		102		 Colifor				63.60	6487.20
+ 26		111		 Salsa de soya				93.46	10374.06
+ 12		97		 Peter Pan				63.10	6120.70
+ 25		110		 Tahini				43.67	4803.70
+ 7		92		 Calabaza				83.54	7685.68
+ 24		109		 Setas				74.72	8144.48
+ 21		106		 Portobellos				3.10	328.60
+ 3		88		 Camote				55.20	4857.60
+ 19		104		 Jitomate				64.10	6666.40
+ 27		112		 Aroz				53.20	5958.40
+ 26		111		 Salsa de soya				93.46	10374.06
+
+                           Subtotal:   120736.14
+                           iva:        22997.36
+                           total:      143733.50
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 25		110		 Tahini				43.67	4803.70
+ 15		100		 Rosas				63.50	6350.00
+ 12		97		 Peter Pan				63.10	6120.70
+ 23		108		 Champiñones				64.17	6930.36
+ 14		99		 Rice cakes				86.10	8523.90
+ 23		108		 Champiñones				64.17	6930.36
+ 13		98		 Rice paper				68.30	6693.40
+ 24		109		 Setas				74.72	8144.48
+ 21		106		 Portobellos				3.10	328.60
+ 21		106		 Portobellos				3.10	328.60
+ 13		98		 Rice paper				68.30	6693.40
+ 20		105		 Tomate				37.10	3895.50
+ 13		98		 Rice paper				68.30	6693.40
+ 21		106		 Portobellos				3.10	328.60
+ 8		93		 Pitaya				33.86	3148.98
+ 4		89		 Zanahoria				26.90	2394.10
+ 14		99		 Rice cakes				86.10	8523.90
+ 15		100		 Rosas				63.50	6350.00
+ 24		109		 Setas				74.72	8144.48
+ 2		87		 Plátano				98.20	8543.40
+ 5		90		 Pepino				97.00	8730.00
+ 22		107		 Ezekiel				63.10	6751.70
+ 6		91		 Papaya				63.10	5742.10
+ 27		112		 Aroz				53.20	5958.40
+ 9		94		 Papa				93.80	8817.20
+ 21		106		 Portobellos				3.10	328.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 18		103		 Brócoli				46.70	4810.10
+ 26		111		 Salsa de soya				93.46	10374.06
+ 7		92		 Calabaza				83.54	7685.68
+ 6		91		 Papaya				63.10	5742.10
+ 19		104		 Jitomate				64.10	6666.40
+ 15		100		 Rosas				63.50	6350.00
+ 25		110		 Tahini				43.67	4803.70
+ 13		98		 Rice paper				68.30	6693.40
+
+                           Subtotal:   172572.96
+                           iva:        32871.04
+                           total:      205444.00
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 17		102		 Colifor				63.60	6487.20
+ 22		107		 Ezekiel				63.10	6751.70
+ 19		104		 Jitomate				64.10	6666.40
+ 17		102		 Colifor				63.60	6487.20
+ 1		86		 Soya				58.60	5039.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 2		87		 Plátano				98.20	8543.40
+ 1		86		 Soya				58.60	5039.60
+ 23		108		 Champiñones				64.17	6930.36
+
+                           Subtotal:   48775.57
+                           iva:        9290.59
+                           total:      58066.16
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 13		98		 Rice paper				68.30	6693.40
+ 3		88		 Camote				55.20	4857.60
+ 10		95		 Pan integral				63.99	6079.05
+ 2		87		 Plátano				98.20	8543.40
+ 17		102		 Colifor				63.60	6487.20
+ 21		106		 Portobellos				3.10	328.60
+ 20		105		 Tomate				37.10	3895.50
+ 24		109		 Setas				74.72	8144.48
+ 26		111		 Salsa de soya				93.46	10374.06
+ 1		86		 Soya				58.60	5039.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 11		96		 Pan pita				63.35	6081.60
+ 5		90		 Pepino				97.00	8730.00
+ 3		88		 Camote				55.20	4857.60
+ 13		98		 Rice paper				68.30	6693.40
+ 13		98		 Rice paper				68.30	6693.40
+ 17		102		 Colifor				63.60	6487.20
+ 21		106		 Portobellos				3.10	328.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 8		93		 Pitaya				33.86	3148.98
+ 12		97		 Peter Pan				63.10	6120.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 16		101		 Repollo				63.30	6393.30
+ 2		87		 Plátano				98.20	8543.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 22		107		 Ezekiel				63.10	6751.70
+ 21		106		 Portobellos				3.10	328.60
+ 1		86		 Soya				58.60	5039.60
+ 13		98		 Rice paper				68.30	6693.40
+ 19		104		 Jitomate				64.10	6666.40
+
+                           Subtotal:   144495.93
+                           iva:        27523.03
+                           total:      172018.97
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 1		86		 Soya				58.60	5039.60
+ 21		106		 Portobellos				3.10	328.60
+ 8		93		 Pitaya				33.86	3148.98
+ 18		103		 Brócoli				46.70	4810.10
+ 9		94		 Papa				93.80	8817.20
+ 1		86		 Soya				58.60	5039.60
+ 1		86		 Soya				58.60	5039.60
+ 21		106		 Portobellos				3.10	328.60
+ 25		110		 Tahini				43.67	4803.70
+ 17		102		 Colifor				63.60	6487.20
+ 3		88		 Camote				55.20	4857.60
+ 9		94		 Papa				93.80	8817.20
+ 19		104		 Jitomate				64.10	6666.40
+ 2		87		 Plátano				98.20	8543.40
+
+                           Subtotal:   61091.33
+                           iva:        11636.44
+                           total:      72727.78
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 25		110		 Tahini				43.67	4803.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 4		89		 Zanahoria				26.90	2394.10
+ 27		112		 Aroz				53.20	5958.40
+ 13		98		 Rice paper				68.30	6693.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 13		98		 Rice paper				68.30	6693.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 9		94		 Papa				93.80	8817.20
+ 24		109		 Setas				74.72	8144.48
+ 10		95		 Pan integral				63.99	6079.05
+ 11		96		 Pan pita				63.35	6081.60
+ 18		103		 Brócoli				46.70	4810.10
+ 16		101		 Repollo				63.30	6393.30
+ 15		100		 Rosas				63.50	6350.00
+ 19		104		 Jitomate				64.10	6666.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 21		106		 Portobellos				3.10	328.60
+ 10		95		 Pan integral				63.99	6079.05
+ 4		89		 Zanahoria				26.90	2394.10
+ 10		95		 Pan integral				63.99	6079.05
+ 6		91		 Papaya				63.10	5742.10
+ 3		88		 Camote				55.20	4857.60
+ 21		106		 Portobellos				3.10	328.60
+ 18		103		 Brócoli				46.70	4810.10
+ 2		87		 Plátano				98.20	8543.40
+
+                           Subtotal:   121095.68
+                           iva:        23065.84
+                           total:      144161.53
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 22		107		 Ezekiel				63.10	6751.70
+ 3		88		 Camote				55.20	4857.60
+ 5		90		 Pepino				97.00	8730.00
+ 6		91		 Papaya				63.10	5742.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 2		87		 Plátano				98.20	8543.40
+ 25		110		 Tahini				43.67	4803.70
+ 1		86		 Soya				58.60	5039.60
+ 18		103		 Brócoli				46.70	4810.10
+ 8		93		 Pitaya				33.86	3148.98
+ 23		108		 Champiñones				64.17	6930.36
+ 7		92		 Calabaza				83.54	7685.68
+ 19		104		 Jitomate				64.10	6666.40
+ 18		103		 Brócoli				46.70	4810.10
+ 16		101		 Repollo				63.30	6393.30
+ 22		107		 Ezekiel				63.10	6751.70
+ 26		111		 Salsa de soya				93.46	10374.06
+ 21		106		 Portobellos				3.10	328.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 14		99		 Rice cakes				86.10	8523.90
+ 12		97		 Peter Pan				63.10	6120.70
+ 16		101		 Repollo				63.30	6393.30
+ 27		112		 Aroz				53.20	5958.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 13		98		 Rice paper				68.30	6693.40
+ 1		86		 Soya				58.60	5039.60
+ 25		110		 Tahini				43.67	4803.70
+ 15		100		 Rosas				63.50	6350.00
+ 5		90		 Pepino				97.00	8730.00
+ 24		109		 Setas				74.72	8144.48
+ 11		96		 Pan pita				63.35	6081.60
+ 5		90		 Pepino				97.00	8730.00
+
+                           Subtotal:   172479.51
+                           iva:        32853.24
+                           total:      205332.76
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 19		104		 Jitomate				64.10	6666.40
+ 5		90		 Pepino				97.00	8730.00
+ 22		107		 Ezekiel				63.10	6751.70
+ 17		102		 Colifor				63.60	6487.20
+ 22		107		 Ezekiel				63.10	6751.70
+ 27		112		 Aroz				53.20	5958.40
+ 27		112		 Aroz				53.20	5958.40
+ 20		105		 Tomate				37.10	3895.50
+ 16		101		 Repollo				63.30	6393.30
+ 10		95		 Pan integral				63.99	6079.05
+ 1		86		 Soya				58.60	5039.60
+ 13		98		 Rice paper				68.30	6693.40
+ 7		92		 Calabaza				83.54	7685.68
+ 9		94		 Papa				93.80	8817.20
+ 4		89		 Zanahoria				26.90	2394.10
+ 24		109		 Setas				74.72	8144.48
+ 2		87		 Plátano				98.20	8543.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 10		95		 Pan integral				63.99	6079.05
+ 16		101		 Repollo				63.30	6393.30
+ 12		97		 Peter Pan				63.10	6120.70
+ 5		90		 Pepino				97.00	8730.00
+ 20		105		 Tomate				37.10	3895.50
+ 22		107		 Ezekiel				63.10	6751.70
+ 16		101		 Repollo				63.30	6393.30
+ 25		110		 Tahini				43.67	4803.70
+ 5		90		 Pepino				97.00	8730.00
+ 2		87		 Plátano				98.20	8543.40
+ 27		112		 Aroz				53.20	5958.40
+ 26		111		 Salsa de soya				93.46	10374.06
+ 16		101		 Repollo				63.30	6393.30
+ 16		101		 Repollo				63.30	6393.30
+ 5		90		 Pepino				97.00	8730.00
+ 26		111		 Salsa de soya				93.46	10374.06
+ 25		110		 Tahini				43.67	4803.70
+ 13		98		 Rice paper				68.30	6693.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 25		110		 Tahini				43.67	4803.70
+ 25		110		 Tahini				43.67	4803.70
+ 18		103		 Brócoli				46.70	4810.10
+ 1		86		 Soya				58.60	5039.60
+ 3		88		 Camote				55.20	4857.60
+ 25		110		 Tahini				43.67	4803.70
+ 1		86		 Soya				58.60	5039.60
+ 10		95		 Pan integral				63.99	6079.05
+
+                           Subtotal:   243730.69
+                           iva:        46424.89
+                           total:      290155.58
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 10		95		 Pan integral				63.99	6079.05
+ 18		103		 Brócoli				46.70	4810.10
+ 8		93		 Pitaya				33.86	3148.98
+ 20		105		 Tomate				37.10	3895.50
+ 24		109		 Setas				74.72	8144.48
+ 18		103		 Brócoli				46.70	4810.10
+ 10		95		 Pan integral				63.99	6079.05
+ 5		90		 Pepino				97.00	8730.00
+ 27		112		 Aroz				53.20	5958.40
+ 5		90		 Pepino				97.00	8730.00
+ 18		103		 Brócoli				46.70	4810.10
+ 6		91		 Papaya				63.10	5742.10
+ 11		96		 Pan pita				63.35	6081.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 2		87		 Plátano				98.20	8543.40
+ 24		109		 Setas				74.72	8144.48
+ 24		109		 Setas				74.72	8144.48
+ 25		110		 Tahini				43.67	4803.70
+ 15		100		 Rosas				63.50	6350.00
+ 15		100		 Rosas				63.50	6350.00
+ 15		100		 Rosas				63.50	6350.00
+ 3		88		 Camote				55.20	4857.60
+ 20		105		 Tomate				37.10	3895.50
+ 21		106		 Portobellos				3.10	328.60
+ 20		105		 Tomate				37.10	3895.50
+ 2		87		 Plátano				98.20	8543.40
+ 20		105		 Tomate				37.10	3895.50
+ 5		90		 Pepino				97.00	8730.00
+ 9		94		 Papa				93.80	8817.20
+ 22		107		 Ezekiel				63.10	6751.70
+ 1		86		 Soya				58.60	5039.60
+ 16		101		 Repollo				63.30	6393.30
+ 27		112		 Aroz				53.20	5958.40
+ 1		86		 Soya				58.60	5039.60
+ 17		102		 Colifor				63.60	6487.20
+ 16		101		 Repollo				63.30	6393.30
+ 6		91		 Papaya				63.10	5742.10
+ 6		91		 Papaya				63.10	5742.10
+ 3		88		 Camote				55.20	4857.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 18		103		 Brócoli				46.70	4810.10
+ 27		112		 Aroz				53.20	5958.40
+ 2		87		 Plátano				98.20	8543.40
+ 21		106		 Portobellos				3.10	328.60
+ 18		103		 Brócoli				46.70	4810.10
+ 22		107		 Ezekiel				63.10	6751.70
+ 13		98		 Rice paper				68.30	6693.40
+ 11		96		 Pan pita				63.35	6081.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 11		96		 Pan pita				63.35	6081.60
+ 24		109		 Setas				74.72	8144.48
+
+                           Subtotal:   259624.34
+                           iva:        49452.26
+                           total:      309076.59
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 15		100		 Rosas				63.50	6350.00
+
+                           Subtotal:   5334.00
+                           iva:        1016.00
+                           total:      6350.00
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 15		100		 Rosas				63.50	6350.00
+ 1		86		 Soya				58.60	5039.60
+ 16		101		 Repollo				63.30	6393.30
+ 6		91		 Papaya				63.10	5742.10
+ 5		90		 Pepino				97.00	8730.00
+ 6		91		 Papaya				63.10	5742.10
+ 3		88		 Camote				55.20	4857.60
+ 20		105		 Tomate				37.10	3895.50
+ 22		107		 Ezekiel				63.10	6751.70
+ 11		96		 Pan pita				63.35	6081.60
+ 3		88		 Camote				55.20	4857.60
+ 8		93		 Pitaya				33.86	3148.98
+ 9		94		 Papa				93.80	8817.20
+ 2		87		 Plátano				98.20	8543.40
+ 7		92		 Calabaza				83.54	7685.68
+ 19		104		 Jitomate				64.10	6666.40
+ 16		101		 Repollo				63.30	6393.30
+ 1		86		 Soya				58.60	5039.60
+ 1		86		 Soya				58.60	5039.60
+ 6		91		 Papaya				63.10	5742.10
+ 15		100		 Rosas				63.50	6350.00
+ 13		98		 Rice paper				68.30	6693.40
+ 21		106		 Portobellos				3.10	328.60
+ 6		91		 Papaya				63.10	5742.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 13		98		 Rice paper				68.30	6693.40
+ 15		100		 Rosas				63.50	6350.00
+ 8		93		 Pitaya				33.86	3148.98
+ 4		89		 Zanahoria				26.90	2394.10
+ 3		88		 Camote				55.20	4857.60
+ 11		96		 Pan pita				63.35	6081.60
+ 14		99		 Rice cakes				86.10	8523.90
+ 3		88		 Camote				55.20	4857.60
+ 5		90		 Pepino				97.00	8730.00
+ 3		88		 Camote				55.20	4857.60
+ 25		110		 Tahini				43.67	4803.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 3		88		 Camote				55.20	4857.60
+ 8		93		 Pitaya				33.86	3148.98
+ 6		91		 Papaya				63.10	5742.10
+ 24		109		 Setas				74.72	8144.48
+ 13		98		 Rice paper				68.30	6693.40
+ 4		89		 Zanahoria				26.90	2394.10
+ 22		107		 Ezekiel				63.10	6751.70
+ 15		100		 Rosas				63.50	6350.00
+ 22		107		 Ezekiel				63.10	6751.70
+ 3		88		 Camote				55.20	4857.60
+ 16		101		 Repollo				63.30	6393.30
+ 10		95		 Pan integral				63.99	6079.05
+ 1		86		 Soya				58.60	5039.60
+ 27		112		 Aroz				53.20	5958.40
+ 5		90		 Pepino				97.00	8730.00
+
+                           Subtotal:   254263.25
+                           iva:        48431.10
+                           total:      302694.35
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 5		90		 Pepino				97.00	8730.00
+ 13		98		 Rice paper				68.30	6693.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 25		110		 Tahini				43.67	4803.70
+ 19		104		 Jitomate				64.10	6666.40
+ 24		109		 Setas				74.72	8144.48
+ 2		87		 Plátano				98.20	8543.40
+ 13		98		 Rice paper				68.30	6693.40
+ 2		87		 Plátano				98.20	8543.40
+ 23		108		 Champiñones				64.17	6930.36
+ 25		110		 Tahini				43.67	4803.70
+ 19		104		 Jitomate				64.10	6666.40
+ 14		99		 Rice cakes				86.10	8523.90
+ 25		110		 Tahini				43.67	4803.70
+ 11		96		 Pan pita				63.35	6081.60
+ 24		109		 Setas				74.72	8144.48
+ 3		88		 Camote				55.20	4857.60
+ 8		93		 Pitaya				33.86	3148.98
+ 2		87		 Plátano				98.20	8543.40
+ 6		91		 Papaya				63.10	5742.10
+ 19		104		 Jitomate				64.10	6666.40
+ 1		86		 Soya				58.60	5039.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 15		100		 Rosas				63.50	6350.00
+ 8		93		 Pitaya				33.86	3148.98
+ 25		110		 Tahini				43.67	4803.70
+ 10		95		 Pan integral				63.99	6079.05
+ 26		111		 Salsa de soya				93.46	10374.06
+ 13		98		 Rice paper				68.30	6693.40
+ 2		87		 Plátano				98.20	8543.40
+ 11		96		 Pan pita				63.35	6081.60
+ 8		93		 Pitaya				33.86	3148.98
+ 26		111		 Salsa de soya				93.46	10374.06
+ 25		110		 Tahini				43.67	4803.70
+ 8		93		 Pitaya				33.86	3148.98
+
+                           Subtotal:   189691.91
+                           iva:        36131.79
+                           total:      225823.70
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 11		96		 Pan pita				63.35	6081.60
+ 20		105		 Tomate				37.10	3895.50
+ 22		107		 Ezekiel				63.10	6751.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 8		93		 Pitaya				33.86	3148.98
+ 26		111		 Salsa de soya				93.46	10374.06
+
+                           Subtotal:   31082.97
+                           iva:        5920.57
+                           total:      37003.54
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 7		92		 Calabaza				83.54	7685.68
+ 11		96		 Pan pita				63.35	6081.60
+ 3		88		 Camote				55.20	4857.60
+ 8		93		 Pitaya				33.86	3148.98
+ 26		111		 Salsa de soya				93.46	10374.06
+ 18		103		 Brócoli				46.70	4810.10
+ 15		100		 Rosas				63.50	6350.00
+ 17		102		 Colifor				63.60	6487.20
+ 10		95		 Pan integral				63.99	6079.05
+ 22		107		 Ezekiel				63.10	6751.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 4		89		 Zanahoria				26.90	2394.10
+ 1		86		 Soya				58.60	5039.60
+ 18		103		 Brócoli				46.70	4810.10
+ 3		88		 Camote				55.20	4857.60
+ 25		110		 Tahini				43.67	4803.70
+ 14		99		 Rice cakes				86.10	8523.90
+ 8		93		 Pitaya				33.86	3148.98
+ 25		110		 Tahini				43.67	4803.70
+ 20		105		 Tomate				37.10	3895.50
+ 11		96		 Pan pita				63.35	6081.60
+ 7		92		 Calabaza				83.54	7685.68
+ 14		99		 Rice cakes				86.10	8523.90
+ 13		98		 Rice paper				68.30	6693.40
+ 1		86		 Soya				58.60	5039.60
+ 3		88		 Camote				55.20	4857.60
+ 24		109		 Setas				74.72	8144.48
+ 18		103		 Brócoli				46.70	4810.10
+ 7		92		 Calabaza				83.54	7685.68
+ 10		95		 Pan integral				63.99	6079.05
+ 21		106		 Portobellos				3.10	328.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 2		87		 Plátano				98.20	8543.40
+ 21		106		 Portobellos				3.10	328.60
+ 25		110		 Tahini				43.67	4803.70
+ 7		92		 Calabaza				83.54	7685.68
+ 18		103		 Brócoli				46.70	4810.10
+ 24		109		 Setas				74.72	8144.48
+
+                           Subtotal:   186180.59
+                           iva:        35462.97
+                           total:      221643.56
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 20		105		 Tomate				37.10	3895.50
+ 12		97		 Peter Pan				63.10	6120.70
+ 5		90		 Pepino				97.00	8730.00
+ 18		103		 Brócoli				46.70	4810.10
+ 25		110		 Tahini				43.67	4803.70
+ 27		112		 Aroz				53.20	5958.40
+ 22		107		 Ezekiel				63.10	6751.70
+ 7		92		 Calabaza				83.54	7685.68
+ 1		86		 Soya				58.60	5039.60
+ 9		94		 Papa				93.80	8817.20
+ 13		98		 Rice paper				68.30	6693.40
+ 12		97		 Peter Pan				63.10	6120.70
+ 22		107		 Ezekiel				63.10	6751.70
+ 18		103		 Brócoli				46.70	4810.10
+ 25		110		 Tahini				43.67	4803.70
+ 23		108		 Champiñones				64.17	6930.36
+ 7		92		 Calabaza				83.54	7685.68
+ 18		103		 Brócoli				46.70	4810.10
+ 7		92		 Calabaza				83.54	7685.68
+ 11		96		 Pan pita				63.35	6081.60
+ 13		98		 Rice paper				68.30	6693.40
+ 16		101		 Repollo				63.30	6393.30
+ 6		91		 Papaya				63.10	5742.10
+
+                           Subtotal:   120804.10
+                           iva:        23010.30
+                           total:      143814.40
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+, TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 17		102		 Colifor				63.60	6487.20
+ 14		99		 Rice cakes				86.10	8523.90
+ 3		88		 Camote				55.20	4857.60
+ 26		111		 Salsa de soya				93.46	10374.06
+ 10		95		 Pan integral				63.99	6079.05
+ 7		92		 Calabaza				83.54	7685.68
+ 23		108		 Champiñones				64.17	6930.36
+ 16		101		 Repollo				63.30	6393.30
+ 15		100		 Rosas				63.50	6350.00
+ 13		98		 Rice paper				68.30	6693.40
+ 25		110		 Tahini				43.67	4803.70
+ 21		106		 Portobellos				3.10	328.60
+ 24		109		 Setas				74.72	8144.48
+ 3		88		 Camote				55.20	4857.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 24		109		 Setas				74.72	8144.48
+ 24		109		 Setas				74.72	8144.48
+ 3		88		 Camote				55.20	4857.60
+ 2		87		 Plátano				98.20	8543.40
+ 3		88		 Camote				55.20	4857.60
+ 22		107		 Ezekiel				63.10	6751.70
+ 6		91		 Papaya				63.10	5742.10
+ 9		94		 Papa				93.80	8817.20
+ 22		107		 Ezekiel				63.10	6751.70
+ 12		97		 Peter Pan				63.10	6120.70
+ 6		91		 Papaya				63.10	5742.10
+ 12		97		 Peter Pan				63.10	6120.70
+ 9		94		 Papa				93.80	8817.20
+ 22		107		 Ezekiel				63.10	6751.70
+ 7		92		 Calabaza				83.54	7685.68
+ 21		106		 Portobellos				3.10	328.60
+ 12		97		 Peter Pan				63.10	6120.70
+ 17		102		 Colifor				63.60	6487.20
+ 27		112		 Aroz				53.20	5958.40
+ 24		109		 Setas				74.72	8144.48
+ 13		98		 Rice paper				68.30	6693.40
+ 20		105		 Tomate				37.10	3895.50
+ 1		86		 Soya				58.60	5039.60
+ 24		109		 Setas				74.72	8144.48
+ 19		104		 Jitomate				64.10	6666.40
+ 9		94		 Papa				93.80	8817.20
+ 21		106		 Portobellos				3.10	328.60
+ 3		88		 Camote				55.20	4857.60
+ 18		103		 Brócoli				46.70	4810.10
+ 7		92		 Calabaza				83.54	7685.68
+ 13		98		 Rice paper				68.30	6693.40
+ 13		98		 Rice paper				68.30	6693.40
+ 8		93		 Pitaya				33.86	3148.98
+ 17		102		 Colifor				63.60	6487.20
+
+                           Subtotal:   256602.27
+                           iva:        48876.62
+                           total:      305478.89
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+]

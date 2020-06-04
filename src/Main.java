@@ -1,29 +1,34 @@
 import UImenu.Menu;
 import market.SuperMarket;
 import market.admin.Client;
-import market.admin.Product;
+import serializer.Serializer;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 
 public class Main {
     public static void main(String[] args) {
         Menu menu = new Menu();
         //menu.principal();
-        SuperMarket superMarket = new SuperMarket(3,12,15);
-        superMarket.getWharehouse().agregarProducto(new Product(25, "algas", (float) 583.6));
-        superMarket.getWharehouse().agregarProducto(new Product(13, "marinas", 4));
-        Client client = new Client();
+        for (int i = 0; i < 8800; i++) {
 
-        System.out.println(superMarket.getWharehouse().getAlmacen());
+            SuperMarket superMarket = new SuperMarket(11,12,15);
+            superMarket.cargarProductos("productos.txt");
 
-        superMarket.asignaProducto(client, 2, 11);
-        superMarket.asignaProducto(client, 1, 3);
-        System.out.println(superMarket.getWharehouse().modificarExistencias(-11,2));
-        System.out.println(superMarket.getWharehouse().modificarExistencias(-3,1));
-
-
-        System.out.println(superMarket.getWharehouse().getAlmacen());
-
-        System.out.println(client);
+            for (int j = 0; j < 97; j++) {
+                superMarket.formandoCliente();
+            }
+            Serializer serializer = new Serializer();
+            Date fecha = new Date();
+            SimpleDateFormat sdt = new SimpleDateFormat(("dd_MM_yyyy(HH:mm:ss)"));
+            String nombre = sdt.format(fecha);
+            serializer.creaCarpeta("Tickets");
+            serializer.creaCarpeta("ReportesDiarios");
+            serializer.escribeTXT(superMarket, "ReportesDiarios"+ "/"+ "[reporte]"+nombre+".txt");
+            serializer.escribeTXT(superMarket.getTickets(), "Tickets"+ "/"+ "[tickets]" +nombre+".txt");
+            System.out.println("lleva "+i);
+        }
 
     }
 }

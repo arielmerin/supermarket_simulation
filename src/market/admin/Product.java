@@ -19,9 +19,7 @@ public class Product implements Comparable<Product>, Serializable {
         this.available = true;
     }
 
-    public Product(Product product){
 
-    }
 
     public Product(int id){
         this.id = id;
@@ -30,7 +28,7 @@ public class Product implements Comparable<Product>, Serializable {
     @Override
     public String toString() {
         total = price * times;
-        String fina = String.format("\t%d \t\t %d\t\t%s\t %2.2f\t%2.2f",id,units,name,price, total);
+        String fina = String.format(" %d\t\t%d\t\t%s\t\t\t\t%2.2f\t%2.2f",id,units,name,price, total);
         return fina;
     }
 
@@ -74,9 +72,12 @@ public class Product implements Comparable<Product>, Serializable {
         }
     }
 
+
     public boolean isAvailable(){
         return available;
     }
+
+
 
     @Override
     public int compareTo(Product o) {
@@ -103,7 +104,7 @@ public class Product implements Comparable<Product>, Serializable {
     }
 
     public float getTotal() {
-        return total;
+        return times * price;
     }
 
 

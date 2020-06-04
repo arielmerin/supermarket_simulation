@@ -1,26 +1,33 @@
 package market.admin;
 
-import util.Lista;
 import util.Pila;
 
-public class Client {
+public class Client implements Comparable<Client> {
 
     private Purchase purchase = new Purchase();
 
     private int waitingTime;
 
+    @Override
+    public int compareTo(Client o) {
+        if (o.calculaTotal() > calculaTotal()){
+            return 1;
+        }if (o.calculaTotal() < calculaTotal()){
+            return -1;
+        }
+        return 0;
+    }
+
     private class Purchase implements Comparable{
 
         Pila<Product> shoppingCart = new Pila<>();
-        double sutotal;
-         double total;
-        private double iva;
+        double total;
 
         @Override
         public String toString() {
             return "TICKET DE COMPRA"+
                     "\n----------------------------------------------------\n" +
-                    "#Producto Cantidad     Nombre  Precio  Total\n"+
+                    "#Producto Cantidad     Nombre    Precio   Total\n"+
                     shoppingCart +
                     String.format("\n\n                           Subtotal:   %2.2f", calculaTotal() - calculaIva(calculaTotal())) + "\n"+
                     String.format("                           iva:        %2.2f", calculaIva(calculaTotal())) + "\n"+
@@ -47,7 +54,7 @@ public class Client {
     public double calculaTotal(){
         double sumatoria = 0;
         for (Product product: purchase.shoppingCart){
-            sumatoria+= product.total;
+            sumatoria+= product.getTotal();
         }
         return sumatoria;
     }
@@ -57,16 +64,12 @@ public class Client {
     }
 
     public void agregarAlCarrito(Product product) {
-        purchase.total = product.getTotal();
-
         purchase.shoppingCart.agrega(product);
     }
 
     public double calculaIva(double total){
-
         return total * 0.16;
     }
-
 
 
     @Override

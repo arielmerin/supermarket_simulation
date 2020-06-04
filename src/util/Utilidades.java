@@ -1,5 +1,7 @@
 package util;
 
+import java.io.File;
+import java.util.Random;
 import java.util.Scanner;
 
 /**
@@ -94,6 +96,12 @@ public class Utilidades {
             }
         }while (continuar);
         return cadena;
+    }
+
+    public static int ranInt(int cotaInferior, int cotaSuperior){
+
+        Random random = new Random();
+        return cotaInferior + random.nextInt(cotaSuperior);
     }
 
 }

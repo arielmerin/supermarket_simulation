@@ -3,7 +3,6 @@ package UImenu;
 import market.SuperMarket;
 import market.admin.Product;
 import serializer.Serializer;
-import util.ArbolBinario;
 
 
 import java.io.File;
@@ -102,7 +101,7 @@ public class Menu {
                     guardar();
                     break;
                 case 3:
-                    System.out.println(walmar.getWharehouse().getAlmacen());
+                    System.out.println(walmar.getAlmacen().getAlmacen());
                     break;
                 case 4:
                     continua = false;
@@ -158,9 +157,9 @@ public class Menu {
     private boolean resurtirProducto(){
         int numero = getInt("Ingrese el id del producto a resurtir: ", "Error, intente de nuevo");
         Product enCuestion = new Product(numero);
-        if (walmar.getWharehouse().getAlmacen().contiene(enCuestion)){
+        if (walmar.getAlmacen().getAlmacen().contiene(enCuestion)){
             int nuevo = getInt("Ingrese el número de elementos a agregar: ", "Error, intente de nuevo");
-            return walmar.getWharehouse().modificarExistencias(nuevo, numero);
+            return walmar.getAlmacen().modificarExistencias(nuevo, numero);
         }
         return false;
     }
