@@ -1,6 +1,5 @@
 import UImenu.Menu;
 import market.SuperMarket;
-import market.admin.Client;
 import market.admin.Product;
 import serializer.Serializer;
 
@@ -23,14 +22,15 @@ public class Main {
             }
 
             System.out.println("Estos son los productos con pocas existas");
-            System.out.println(superMarket.getAlmacen().pocasExistencias());
             Serializer serializer = new Serializer();
             Date fecha = new Date();
             SimpleDateFormat sdt = new SimpleDateFormat(("dd_MM_yyyy(HH:mm:ss)"));
             String nombre = sdt.format(fecha);
             serializer.creaCarpeta("Tickets");
             serializer.creaCarpeta("ReportesDiarios");
+            serializer.creaCarpeta("Faltantes");
             serializer.escribeTXT(superMarket, "ReportesDiarios"+ "/"+ "[reporte]"+nombre+".txt");
+            serializer.escribeTXT(superMarket.reportePocasExistencias(), "Faltantes"+ "/"+ "[faltantes]"+nombre+".txt");
             serializer.escribeTXT(superMarket.getTickets(), "Tickets"+ "/"+ "[tickets]" +nombre+".txt");
             System.out.println("lleva ");
 
