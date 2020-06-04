@@ -33,6 +33,9 @@ public class SuperMarket implements Serializable, Runnable {
 
     private Lista<LargeCheckout> cajas;
 
+    private SimpleDateFormat formatter = new SimpleDateFormat(("dd/MM/yyyy - HH:mm:ss"));
+    private Date fecha = new Date();
+
     /**
      * La creación de un supermercado, su apertura, está sujeta al número de cajas rápidas, el número de cajas normales
      * y el número de clientes
@@ -180,11 +183,20 @@ public class SuperMarket implements Serializable, Runnable {
 
     @Override
     public String toString() {
-        SimpleDateFormat formatter = new SimpleDateFormat(("dd/MM/yyyy - HH:mm:ss"));
-        Date fecha = new Date();
+
         String now = formatter.format(fecha);
         return String.format(":::  SUPERMERCADO  :::\n\nFecha: %s\nTotal de ingresos: $%.2f\nCon las siguientes cajas: \n%s\n %s" +
                         "\n\n La caja que más clientes atendió fue: \n %s",
                 now,getTotalVentas(), cajas, unifila, cajas.getElemento(2));
+    }
+
+
+    public String reportePocasExistencias(){
+        StringBuilder sb = new StringBuilder();
+        sb.append( "   :::    REPORTE DE POCAS EXISTENCIAS   :::\nFecha: "+ formatter.format(fecha) +
+                "\n\n");
+        sb.append("\nID   Cantidad   Nombre  Precio \n");
+        sb . append(almacenPrincipal.pocasExistencias());
+        return sb.toString();
     }
 }
