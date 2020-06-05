@@ -1,0 +1,130 @@
+:::  SUPERMERCADO  :::
+
+Fecha: 04/06/2020 - 18:52:12
+Total de ingresos: $14973698.00
+Con las siguientes cajas: 
+
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2112061.40
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $1872536.32
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $1797495.10
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $1799662.60
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2062319.64
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $1395165.69
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2182657.23
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2450416.09
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2413451.95
+Clientes atendidos: 5
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2544530.10
+Clientes atendidos: 6
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2566039.28
+Clientes atendidos: 6
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $2528201.77
+Clientes atendidos:
+ 
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $369235.58
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $256682.56
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $428116.31
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $462978.89
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $487292.43
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $393465.33
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $288353.13
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $156243.80
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $451010.43
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $341994.67
+Clientes atendidos: 3
+
+ ::: CAJA RÁPIDA ::: 
+Caja
+Venta total: $587486.63
+Clientes atendidos:
+
+ La caja que más clientes atendió fue: 
+ 
+
+ ::: CAJA NORMAL :::
+Caja
+Venta total: $3168092.11
+Clientes atendidos: 5

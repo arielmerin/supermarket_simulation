@@ -18,22 +18,47 @@ import static util.Utilidades.ranInt;
 public class SuperMarket extends Thread implements Serializable {
 
 
+    /**
+     *
+     */
     private final Wharehouse almacenPrincipal;
 
+    /**
+     *
+     */
     private Lista<Client> tickets;
 
+    /**
+     *
+     */
     private int clientes;
 
+    /**
+     *
+     */
     private Lista<QuickCheckout> unifila;
 
+    /**
+     *
+     * @return
+     */
     public Lista<LargeCheckout> getCajas() {
         return cajas;
     }
 
+    /**
+     *
+     */
     private Lista<LargeCheckout> cajas;
 
+    /**
+     *
+     */
     private final SimpleDateFormat formatter = new SimpleDateFormat(("dd/MM/yyyy - HH:mm:ss"));
 
+    /**
+     *
+     */
     private Date fecha = new Date();
 
     /**
@@ -188,6 +213,45 @@ public class SuperMarket extends Thread implements Serializable {
         return client;
     }
 
+
+    /**
+     *
+     */
+    public void inicializaCajas(){
+        for (Checkout caja: cajas){
+            caja.start();
+        }
+    }
+
+    /**
+     *
+     */
+    public void esperaCajas(){
+        for (Checkout caja: cajas){
+            try {
+                caja.join();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    /**
+     *
+     * @param caja
+     */
+    public void dormirCaja(Checkout caja){
+        caja.dormirCaja((long) (500 * Math.random()));
+    }
+
+    @Override
+    public void run() {
+        while (cajas.esVacia()){
+            for (Checkout caja : cajas){
+                caja.run();
+            }
+        }
+    }
 
     @Override
     public String toString() {

@@ -1,7 +1,9 @@
 import UImenu.Menu;
 import market.SuperMarket;
 import market.admin.Product;
+import util.generator.ProductoBuilder;
 import serializer.Serializer;
+import util.Lista;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -13,6 +15,7 @@ public class Main {
         //menu.principal();
 
             SuperMarket superMarket = new SuperMarket(11,12,15);
+
             superMarket.cargarProductos("productos.txt");
             superMarket.getAlmacen().agregarProducto(new Product(3,"pug", (float) 2.2));
             superMarket.getAlmacen().agregarProducto(new Product(2,"perro Salchicha", (float) 2.2));
@@ -34,6 +37,12 @@ public class Main {
             serializer.escribeTXT(superMarket.getTickets(), "Tickets"+ "/"+ "[tickets]" +nombre+".txt");
             System.out.println("lleva ");
 
+        ProductoBuilder productoBuilder = new ProductoBuilder();
+        Lista<String> textos = new Lista<>();
+        for (int i = 0; i < 10000; i++) {
+            textos.agregar(String.valueOf(productoBuilder.next()));
+        }
+        serializer.escribeTXT(textos,"prodctosAlea.txt");
 
     }
 }
