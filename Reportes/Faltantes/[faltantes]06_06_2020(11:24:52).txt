@@ -1,0 +1,66 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:24:51
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 110		5		 Salsa de soya gluten free				1771.56	1771.56
+ 196		3		 Frijoles gluten free				749.29	749.29
+ 384		2		 Calabaza bolsa grande				200.22	200.22
+ 408		1		 Chiles secos con aceite de coco				162.37	162.37
+ 476		4		 Café orgánico				546.82	546.82
+ 482		4		 Mango con jarabe de agave				922.81	922.81
+ 560		5		 Garbanzos integral				1142.97	1142.97
+ 654		8		 Café orgánico				418.04	418.04
+ 783		7		 Nueces veggie				427.41	427.41
+ 843		7		 Edamames de baño				1072.80	1072.80
+ 882		1		 Alubias veggie				1850.47	1850.47
+ 951		5		 Splenda veggie				1889.90	1889.90
+ 999		3		 Pepino vegan				965.91	965.91
+ 1021		9		 Mango integral				1856.22	1856.22
+ 1107		3		 Harina de garbanzo de baño				391.79	391.79
+ 1269		4		 Vinagre de Arroz con aceite de coco				1380.56	1380.56
+ 1400		8		 Harina de trigo veggie				1700.78	1700.78
+ 1527		3		 Harina integral de baño				2.74	2.74
+ 1606		1		 Garbanzos con jarabe de agave				111.36	111.36
+ 1717		1		 Chayotes con jarabe de agave				255.99	255.99
+ 1722		1		 Arroz con aceite de coco				1399.87	1399.87
+ 1732		5		 Edamames bolsa grande				1890.17	1890.17
+ 1994		7		 Almendras veggie				957.25	957.25
+ 1996		2		 Pasta vegan				1684.85	1684.85
+ 2011		9		 Cereales orgánico				1876.81	1876.81
+ 2244		3		 Harina de trigo con jarabe de agave				188.11	188.11
+ 2252		2		 Splenda bolsa grande				721.98	721.98
+ 2267		4		 Pasta con jarabe de agave				1178.20	1178.20
+ 2467		1		 Cereales con aceite de coco				149.37	149.37
+ 2537		4		 Harina integral orgánico				453.16	453.16
+ 2542		2		 Spaghetti gluten free				598.13	598.13
+ 2885		9		 Papaya gluten free				1351.01	1351.01
+ 2933		7		 Jabón orgánico				408.49	408.49
+ 3017		1		 Harina de avena con jarabe de agave				78.88	78.88
+ 3036		4		 Harina de avena bolsa grande				1349.37	1349.37
+ 3156		4		 Café bolsa grande				378.19	378.19
+ 3193		5		 Lentejas gluten free				1567.76	1567.76
+ 3213		3		 Nueces veggie				684.46	684.46
+ 3227		1		 Mango orgánico				888.01	888.01
+ 3295		8		 Pasta gluten free				845.74	845.74
+ 3697		5		 Quinoa vegan				1557.62	1557.62
+ 3702		1		 Garbanzos con aceite de coco				1315.05	1315.05
+ 3758		7		 Pera gluten free				1785.09	1785.09
+ 3781		3		 Harina de quinoa gluten free				1856.46	1856.46
+ 4019		8		 Sopa vegan				1428.78	1428.78
+ 4043		4		 Pasta veggie				1822.38	1822.38
+ 4174		2		 Manzana veggie				1864.30	1864.30
+ 4358		7		 Splenda con aceite de coco				309.90	309.90
+ 4463		7		 Camote orgánico				227.24	227.24
+ 4491		2		 Pasta con jarabe de agave				1307.10	1307.10
+ 4595		8		 Harina de avena integral				827.08	827.08
+ 4671		7		 Chayotes con jarabe de agave				47.16	47.16
+ 4868		2		 Cereales vegan				1401.26	1401.26
+ 4908		1		 Harina integral veggie				169.74	169.74
+ 4936		6		 Ezekiel vegan				1650.40	1650.4
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 1411		0		 Almendras vegan				1207.14	1207.14
+ 2079		0		 Salsa de soya de baño				1247.01	1247.01
+ 4427		0		 Harina integral bolsa grande				595.30	595.30
+ 4806		0		 Chayotes con jarabe de agave				1032.35	1032.3

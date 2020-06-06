@@ -11,6 +11,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 import static util.Utilidades.ranInt;
+import static util.Utilidades.random;
 
 /**
  *
@@ -133,18 +134,22 @@ public class SuperMarket extends Thread implements Serializable {
      *
      */
     public void formandoCliente(){
-        int aleatorio = ranInt(1,57);
+        int aleatorio = 25;
         Client client = generaClienteAleatorio(aleatorio);
-        if (client.getItems() <= 20){
-            QuickCheckout cajara = unifila.getElemento(1);
-            cajara.formarCliente(client);
-            unifila.eliminar(cajara);
-            unifila.agregar(cajara);
-        }else {
-            LargeCheckout caja = cajas.getElemento(1);
-            caja.formarCliente(client);
-            cajas.eliminar(caja);
-            cajas.agregar(caja);
+        if (client.getItems() != 0){
+            tickets.agregar(client);
+            System.out.println(client);
+            if (client.getItems() <= 20){
+                QuickCheckout cajara = unifila.getElemento(1);
+                cajara.formarCliente(client);
+                unifila.eliminar(cajara);
+                unifila.agregar(cajara);
+            }else {
+                LargeCheckout caja = cajas.getElemento(1);
+                caja.formarCliente(client);
+                cajas.eliminar(caja);
+                cajas.agregar(caja);
+            }
         }
     }
 
@@ -205,11 +210,12 @@ public class SuperMarket extends Thread implements Serializable {
      */
     public Client generaClienteAleatorio(int productosCliente){
         Client client = new Client();
-        for (int i = 0; i < productosCliente; i++) {
-            int ran = ranInt(1, almacenPrincipal.getAlmacen().getTamanio());
-            asignaProducto(client,ran,ran + 85);
+        int productos = random(productosCliente) + 2;
+        for (int i = 0; i < productos; i++) {
+            int ran = random(almacenPrincipal.getAlmacen().getTamanio() - 1);
+            asignaProducto(client,ran+ 1,random(15) + 1);
         }
-        tickets.agregar(client);
+        System.out.println("El cliente lleva productos " + client.getItems());
         return client;
     }
 
@@ -266,9 +272,13 @@ public class SuperMarket extends Thread implements Serializable {
      * @return
      */
     public String reportePocasExistencias(){
-        return "   :::    REPORTE DE POCAS EXISTENCIAS   :::\nFecha: " + formatter.format(fecha) +
+        return "   :::    REPORTE DE POCAS EXISTENCIAS   :::\n    Fecha: " + formatter.format(fecha) +
                 "\n\n" +
-                "\nID   Cantidad   Nombre  Precio \n" +
-                almacenPrincipal.pocasExistencias();
+                " ----------------- QUEDAN POCOS ------------------" +
+                "\n   ID    Cantidad         Nombre         Precio \n" +
+                almacenPrincipal.pocasExistencias() +
+                "\n ---------------- FALTAN ----------------------" +
+                "\n   ID    Cantidad         Nombre         Precio \n" +
+                almacenPrincipal.faltantes();
     }
 }

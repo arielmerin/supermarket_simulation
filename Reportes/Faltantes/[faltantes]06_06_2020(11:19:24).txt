@@ -1,0 +1,60 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:19:23
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 47		1		 Harina de garbanzo con jarabe de agave				1201.37	1201.37
+ 73		4		 Papaya orgánico				1734.86	1734.86
+ 125		8		 Edamames vegan				1081.48	1081.48
+ 146		8		 Jabón bolsa grande				1468.79	1468.79
+ 222		4		 Almendras gluten free				1177.31	1177.31
+ 368		5		 Almendras bolsa grande				1292.13	1292.13
+ 428		1		 Cereales orgánico				1152.37	1152.37
+ 470		3		 Splenda vegan				1672.30	1672.30
+ 510		5		 Chicharos con jarabe de agave				1742.21	1742.21
+ 543		9		 Spaghetti con jarabe de agave				513.67	513.67
+ 573		3		 Harina integral vegan				303.97	303.97
+ 637		6		 Harina de trigo orgánico				445.73	445.73
+ 668		2		 Chayotes gluten free				1839.00	1839.00
+ 734		4		 Almendras integral				1211.64	1211.64
+ 760		4		 Chayotes de baño				1215.10	1215.10
+ 843		1		 Habas de baño				312.00	312.00
+ 868		8		 Lentejas con aceite de coco				719.91	719.91
+ 900		3		 Avena bolsa grande				359.32	359.32
+ 994		6		 Sopa de baño				571.81	571.81
+ 1459		8		 Camote orgánico				46.88	46.88
+ 1501		5		 Mandarina orgánico				1611.36	1611.36
+ 1825		5		 Pera veggie				1103.26	1103.26
+ 1826		7		 Harina integral con jarabe de agave				1661.46	1661.46
+ 1880		5		 Garbanzos integral				339.94	339.94
+ 1926		3		 Lentejas con jarabe de agave				1156.36	1156.36
+ 2051		4		 Jabón gluten free				1011.52	1011.52
+ 2662		2		 Garbanzos bolsa grande				552.66	552.66
+ 2722		8		 Limones veggie				1772.95	1772.95
+ 2868		5		 Garbanzos gluten free				1742.32	1742.32
+ 3168		3		 Chayotes vegan				477.30	477.30
+ 3331		5		 Arroz orgánico				1699.05	1699.05
+ 3339		9		 Harina de garbanzo con jarabe de agave				717.20	717.20
+ 3576		9		 Mango con aceite de coco				137.18	137.18
+ 3617		3		 Almendras vegan				324.44	324.44
+ 3621		8		 Pera vegan				62.50	62.50
+ 3654		1		 Pera gluten free				336.93	336.93
+ 3891		2		 Harina de quinoa con aceite de coco				1190.01	1190.01
+ 3911		6		 Harina de garbanzo integral				1311.17	1311.17
+ 4070		5		 Papaya vegan				530.97	530.97
+ 4108		2		 Harina integral gluten free				572.21	572.21
+ 4119		1		 Spaghetti orgánico				833.62	833.62
+ 4134		9		 Harina integral con aceite de coco				133.73	133.73
+ 4206		8		 Limones con jarabe de agave				1713.26	1713.26
+ 4411		6		 Harina integral vegan				1746.61	1746.61
+ 4491		5		 Mandarina con jarabe de agave				943.66	943.66
+ 4734		2		 Sopa de baño				1339.59	1339.59
+ 4952		7		 Calabaza vegan				108.60	108.6
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 1152		0		 Pera bolsa grande				579.46	579.46
+ 1484		0		 Mango integral				1427.79	1427.79
+ 3210		0		 Sopa integral				809.41	809.41
+ 3844		0		 Chicharos veggie				485.57	485.57
+ 4049		0		 Sopa con aceite de coco				99.41	99.41
+ 4351		0		 Pan gluten free				334.75	334.7

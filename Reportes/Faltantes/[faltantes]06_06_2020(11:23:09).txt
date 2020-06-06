@@ -1,0 +1,51 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:23:08
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 47		1		 Chayotes bolsa grande				1666.37	1666.37
+ 349		2		 Harina de trigo orgánico				1639.98	1639.98
+ 386		3		 Salsa de soya integral				1675.07	1675.07
+ 403		1		 Harina de garbanzo con jarabe de agave				1652.83	1652.83
+ 512		9		 Sopa con jarabe de agave				954.79	954.79
+ 513		1		 Salsa de soya veggie				881.30	881.30
+ 818		3		 Splenda de baño				211.50	211.50
+ 1019		7		 Pasta vegan				133.85	133.85
+ 1266		5		 Pan con jarabe de agave				768.07	768.07
+ 1418		6		 Manzana integral				389.21	389.21
+ 1495		4		 Manzana con jarabe de agave				1639.91	1639.91
+ 1533		4		 Alubias bolsa grande				1790.75	1790.75
+ 1708		8		 Harina de trigo con aceite de coco				185.44	185.44
+ 2213		8		 Lentejas de baño				855.33	855.33
+ 2257		4		 Harina de garbanzo orgánico				442.26	442.26
+ 2263		7		 Pera con jarabe de agave				1252.72	1252.72
+ 2275		6		 Cereales integral				159.81	159.81
+ 2369		9		 Pera de baño				1521.47	1521.47
+ 2402		6		 Papaya de baño				45.70	45.70
+ 2561		7		 Habas de baño				823.43	823.43
+ 2913		7		 Frijoles integral				694.05	694.05
+ 3198		8		 Frijoles veggie				398.21	398.21
+ 3262		2		 Frijoles bolsa grande				993.40	993.40
+ 3267		8		 Café integral				498.98	498.98
+ 3425		3		 Nueces con aceite de coco				495.84	495.84
+ 3427		1		 Limones integral				1530.95	1530.95
+ 3590		8		 Salsa de soya vegan				593.27	593.27
+ 3660		6		 Edamames vegan				1195.31	1195.31
+ 3926		3		 Quinoa de baño				1456.77	1456.77
+ 4079		6		 Alubias bolsa grande				1519.22	1519.22
+ 4219		7		 Arroz vegan				903.21	903.21
+ 4245		1		 Pasta orgánico				488.02	488.02
+ 4284		9		 Quinoa integral				466.83	466.83
+ 4519		7		 Lentejas vegan				1652.98	1652.98
+ 4620		9		 Café bolsa grande				424.08	424.08
+ 4668		6		 Calabaza veggie				408.73	408.73
+ 4689		5		 Harina de avena con jarabe de agave				740.15	740.15
+ 4744		1		 Splenda orgánico				207.71	207.71
+ 4967		3		 Jabón gluten free				201.35	201.3
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 135		0		 Chicharos integral				620.92	620.92
+ 193		0		 Manzana bolsa grande				1899.12	1899.12
+ 2506		0		 Calabaza orgánico				443.04	443.04
+ 3310		0		 Almendras orgánico				1856.82	1856.82
+ 4247		0		 Papaya gluten free				1117.96	1117.9

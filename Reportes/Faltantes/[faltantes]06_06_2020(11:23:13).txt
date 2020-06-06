@@ -1,0 +1,57 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:23:12
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 32		4		 Edamames de baño				850.94	850.94
+ 70		1		 Nueces orgánico				1462.36	1462.36
+ 205		8		 Chayotes veggie				7.97	7.97
+ 302		5		 Edamames veggie				1608.00	1608.00
+ 318		1		 Avena vegan				1882.25	1882.25
+ 382		7		 Edamames gluten free				18.04	18.04
+ 501		7		 Papaya con jarabe de agave				32.69	32.69
+ 515		5		 Ezekiel integral				1107.85	1107.85
+ 519		8		 Avena veggie				1786.49	1786.49
+ 587		7		 Harina de garbanzo con jarabe de agave				428.83	428.83
+ 669		6		 Manzana bolsa grande				1805.28	1805.28
+ 751		3		 Jabón bolsa grande				1881.64	1881.64
+ 883		6		 Salsa de soya gluten free				1444.78	1444.78
+ 949		1		 Mango integral				1791.51	1791.51
+ 1044		6		 Ezekiel vegan				1820.25	1820.25
+ 1086		3		 Garbanzos bolsa grande				1068.68	1068.68
+ 1227		5		 Harina de quinoa integral				1107.26	1107.26
+ 1287		2		 Ezekiel con jarabe de agave				899.53	899.53
+ 1364		6		 Arroz integral				1333.87	1333.87
+ 1686		7		 Harina de quinoa bolsa grande				437.66	437.66
+ 1687		5		 Garbanzos orgánico				534.79	534.79
+ 1773		1		 Mandarina con aceite de coco				626.46	626.46
+ 1993		9		 Arroz vegan				537.98	537.98
+ 2001		8		 Avena veggie				1860.49	1860.49
+ 2069		4		 Lentejas gluten free				653.95	653.95
+ 2157		8		 Alubias con aceite de coco				220.31	220.31
+ 2606		8		 Edamames con jarabe de agave				241.68	241.68
+ 2835		7		 Vinagre de Arroz veggie				1190.89	1190.89
+ 2958		6		 Splenda veggie				771.63	771.63
+ 3009		9		 Papaya gluten free				1376.84	1376.84
+ 3052		2		 Café vegan				129.81	129.81
+ 3089		1		 Quinoa con aceite de coco				46.18	46.18
+ 3107		2		 Harina de avena veggie				593.61	593.61
+ 3248		1		 Harina integral orgánico				406.85	406.85
+ 3508		8		 Ezekiel integral				725.88	725.88
+ 3600		7		 Café con jarabe de agave				1597.60	1597.60
+ 3785		6		 Papaya integral				1868.16	1868.16
+ 3810		2		 Spaghetti con aceite de coco				226.03	226.03
+ 3895		9		 Spaghetti bolsa grande				1046.01	1046.01
+ 4152		1		 Almendras veggie				153.64	153.64
+ 4178		8		 Mandarina con aceite de coco				1791.24	1791.24
+ 4191		7		 Café veggie				1821.27	1821.27
+ 4391		7		 Edamames orgánico				1261.61	1261.61
+ 4402		4		 Limones bolsa grande				1680.95	1680.95
+ 4462		6		 Pepino de baño				1758.13	1758.13
+ 4508		7		 Splenda de baño				1811.95	1811.95
+ 4661		7		 Limones vegan				1550.20	1550.20
+ 4796		7		 Salsa de soya gluten free				512.28	512.2
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 540		0		 Frijoles orgánico				977.03	977.03
+ 3397		0		 Cereales integral				225.02	225.0

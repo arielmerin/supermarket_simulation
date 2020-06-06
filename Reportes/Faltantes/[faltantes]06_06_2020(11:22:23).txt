@@ -1,0 +1,56 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:22:22
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 118		1		 Calabaza de baño				1388.12	1388.12
+ 195		2		 Cereales veggie				1226.88	1226.88
+ 265		8		 Manzana de baño				795.34	795.34
+ 314		9		 Harina de garbanzo con jarabe de agave				1600.44	1600.44
+ 389		8		 Harina de quinoa orgánico				1487.13	1487.13
+ 540		6		 Arroz vegan				1710.64	1710.64
+ 648		4		 Pera orgánico				552.47	552.47
+ 671		5		 Sopa de baño				402.38	402.38
+ 788		1		 Harina integral vegan				284.56	284.56
+ 1095		7		 Edamames orgánico				1038.12	1038.12
+ 1135		3		 Ezekiel gluten free				991.24	991.24
+ 1227		3		 Arroz con aceite de coco				859.71	859.71
+ 1608		1		 Almendras orgánico				264.58	264.58
+ 1820		6		 Quinoa bolsa grande				1568.93	1568.93
+ 1890		2		 Spaghetti orgánico				193.48	193.48
+ 2010		9		 Lentejas vegan				981.03	981.03
+ 2044		3		 Mandarina de baño				397.99	397.99
+ 2342		1		 Camote vegan				64.02	64.02
+ 2430		4		 Lentejas con jarabe de agave				619.49	619.49
+ 2561		9		 Alubias vegan				808.08	808.08
+ 2755		9		 Chiles secos gluten free				670.00	670.00
+ 2783		3		 Almendras con aceite de coco				1019.00	1019.00
+ 3025		6		 Pasta bolsa grande				1034.02	1034.02
+ 3026		4		 Salsa de soya integral				335.30	335.30
+ 3167		6		 Café con aceite de coco				1657.83	1657.83
+ 3412		9		 Salsa de soya bolsa grande				498.96	498.96
+ 3455		4		 Habas gluten free				1448.84	1448.84
+ 3577		3		 Pera con jarabe de agave				477.44	477.44
+ 3648		9		 Harina de garbanzo vegan				1719.51	1719.51
+ 3709		5		 Sopa integral				75.85	75.85
+ 3853		4		 Manzana bolsa grande				1289.62	1289.62
+ 3906		4		 Splenda con jarabe de agave				1522.61	1522.61
+ 3929		2		 Harina de trigo vegan				1728.99	1728.99
+ 3948		6		 Chicharos con aceite de coco				859.26	859.26
+ 4010		4		 Edamames de baño				1844.38	1844.38
+ 4459		1		 Edamames orgánico				1349.07	1349.07
+ 4467		3		 Pan de baño				1697.52	1697.52
+ 4531		4		 Garbanzos con aceite de coco				14.38	14.38
+ 4733		1		 Sopa integral				1178.39	1178.39
+ 4792		4		 Edamames con jarabe de agave				988.25	988.25
+ 4843		3		 Spaghetti de baño				559.11	559.11
+ 4935		9		 Pera gluten free				355.22	355.22
+ 4963		5		 Jabón gluten free				1625.57	1625.5
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 180		0		 Harina de quinoa con jarabe de agave				1239.53	1239.53
+ 760		0		 Almendras con aceite de coco				717.19	717.19
+ 1756		0		 Mango con aceite de coco				1477.27	1477.27
+ 2443		0		 Chicharos integral				1770.00	1770.00
+ 2711		0		 Café de baño				910.42	910.42
+ 3963		0		 Chiles secos veggie				1004.05	1004.0

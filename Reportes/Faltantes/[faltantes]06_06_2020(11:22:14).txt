@@ -1,0 +1,71 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:22:13
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 15		6		 Harina de trigo bolsa grande				1156.07	1156.07
+ 142		3		 Chayotes orgánico				0.53	0.53
+ 180		3		 Sopa orgánico				996.86	996.86
+ 183		5		 Salsa de soya de baño				169.60	169.60
+ 198		2		 Café veggie				1144.43	1144.43
+ 238		9		 Pan con aceite de coco				744.52	744.52
+ 242		2		 Arroz veggie				1492.25	1492.25
+ 252		3		 Vinagre de Arroz gluten free				1041.01	1041.01
+ 293		9		 Chicharos con aceite de coco				1494.12	1494.12
+ 401		2		 Nueces con aceite de coco				658.84	658.84
+ 414		7		 Harina de avena con aceite de coco				924.66	924.66
+ 584		2		 Café con jarabe de agave				1215.10	1215.10
+ 645		2		 Ezekiel gluten free				96.03	96.03
+ 720		1		 Manzana gluten free				598.06	598.06
+ 863		1		 Cereales integral				1311.88	1311.88
+ 911		4		 Papaya gluten free				414.98	414.98
+ 915		9		 Chicharos con aceite de coco				173.83	173.83
+ 1012		5		 Pasta vegan				912.87	912.87
+ 1148		5		 Garbanzos vegan				1715.89	1715.89
+ 1157		6		 Limones vegan				278.32	278.32
+ 1242		4		 Mango veggie				1823.69	1823.69
+ 1272		7		 Chicharos con aceite de coco				401.47	401.47
+ 1343		5		 Chiles secos con aceite de coco				825.90	825.90
+ 1345		2		 Vinagre de Arroz gluten free				1396.68	1396.68
+ 1349		3		 Quinoa con jarabe de agave				430.86	430.86
+ 1457		4		 Habas vegan				931.26	931.26
+ 1756		2		 Café con aceite de coco				459.90	459.90
+ 1781		1		 Camote integral				730.83	730.83
+ 1895		9		 Ezekiel gluten free				283.11	283.11
+ 2186		1		 Pepino bolsa grande				841.62	841.62
+ 2251		5		 Mango de baño				75.33	75.33
+ 2336		5		 Calabaza con jarabe de agave				585.29	585.29
+ 2352		7		 Harina de quinoa orgánico				27.31	27.31
+ 2354		5		 Pera orgánico				404.36	404.36
+ 2425		4		 Pera vegan				1783.88	1783.88
+ 2436		5		 Papaya integral				209.13	209.13
+ 2452		6		 Harina de avena integral				882.63	882.63
+ 2526		5		 Pan orgánico				255.27	255.27
+ 2621		8		 Pan gluten free				1389.95	1389.95
+ 2914		1		 Mango vegan				391.95	391.95
+ 3107		2		 Edamames integral				830.97	830.97
+ 3197		7		 Manzana veggie				1608.63	1608.63
+ 3255		9		 Garbanzos vegan				1448.50	1448.50
+ 3413		8		 Harina de trigo gluten free				295.89	295.89
+ 3486		4		 Ezekiel orgánico				46.77	46.77
+ 3654		7		 Chicharos veggie				1730.40	1730.40
+ 3706		8		 Alubias vegan				1320.27	1320.27
+ 3821		6		 Chiles secos con jarabe de agave				419.86	419.86
+ 3840		5		 Spaghetti integral				321.97	321.97
+ 3996		8		 Pan bolsa grande				196.01	196.01
+ 4000		9		 Vinagre de Arroz integral				870.99	870.99
+ 4021		2		 Splenda gluten free				496.32	496.32
+ 4186		1		 Sopa bolsa grande				62.09	62.09
+ 4456		9		 Garbanzos gluten free				674.63	674.63
+ 4505		1		 Harina de trigo veggie				1305.05	1305.05
+ 4553		8		 Chiles secos veggie				45.65	45.65
+ 4717		1		 Limones orgánico				1382.80	1382.80
+ 4855		3		 Harina de quinoa orgánico				1688.27	1688.27
+ 4893		5		 Harina de avena bolsa grande				671.68	671.68
+ 4957		9		 Lentejas vegan				920.98	920.9
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 891		0		 Splenda de baño				977.70	977.70
+ 1361		0		 Mandarina gluten free				806.63	806.63
+ 3259		0		 Limones con aceite de coco				857.33	857.33
+ 3643		0		 Chiles secos con aceite de coco				1561.20	1561.2

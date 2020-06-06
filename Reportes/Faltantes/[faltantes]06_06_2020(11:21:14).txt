@@ -1,0 +1,60 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:21:13
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 95		1		 Salsa de soya bolsa grande				1435.58	1435.58
+ 341		3		 Ezekiel vegan				1615.70	1615.70
+ 450		1		 Jabón vegan				1888.05	1888.05
+ 472		5		 Vinagre de Arroz integral				1401.55	1401.55
+ 474		5		 Pasta orgánico				580.02	580.02
+ 487		2		 Harina de quinoa veggie				346.59	346.59
+ 524		5		 Arroz integral				768.70	768.70
+ 533		9		 Harina de garbanzo de baño				302.59	302.59
+ 722		8		 Ezekiel veggie				1831.29	1831.29
+ 775		8		 Avena con aceite de coco				1258.75	1258.75
+ 1181		7		 Papaya con aceite de coco				895.19	895.19
+ 1294		1		 Habas con jarabe de agave				1872.45	1872.45
+ 1302		9		 Harina integral bolsa grande				90.34	90.34
+ 1304		8		 Frijoles veggie				1389.33	1389.33
+ 1344		5		 Splenda con jarabe de agave				15.13	15.13
+ 1378		6		 Cereales con jarabe de agave				804.87	804.87
+ 1387		3		 Ezekiel integral				1237.15	1237.15
+ 1413		2		 Quinoa de baño				934.46	934.46
+ 1451		2		 Edamames vegan				1079.64	1079.64
+ 1676		5		 Harina de quinoa con jarabe de agave				776.52	776.52
+ 1794		3		 Pepino bolsa grande				769.59	769.59
+ 1980		8		 Habas con aceite de coco				753.39	753.39
+ 2017		3		 Alubias integral				593.58	593.58
+ 2223		1		 Quinoa gluten free				625.38	625.38
+ 2348		9		 Chayotes veggie				1877.39	1877.39
+ 2369		4		 Pan vegan				1732.30	1732.30
+ 2477		7		 Alubias vegan				918.14	918.14
+ 2603		8		 Alubias vegan				865.90	865.90
+ 2689		1		 Splenda integral				131.69	131.69
+ 3052		8		 Edamames orgánico				1153.94	1153.94
+ 3267		8		 Vinagre de Arroz integral				1897.25	1897.25
+ 3394		6		 Pepino gluten free				1511.57	1511.57
+ 3428		3		 Café integral				1604.95	1604.95
+ 3474		9		 Alubias con aceite de coco				1674.75	1674.75
+ 3489		3		 Nueces bolsa grande				1049.26	1049.26
+ 3651		5		 Harina de avena bolsa grande				409.89	409.89
+ 3921		4		 Mandarina con aceite de coco				337.06	337.06
+ 3923		9		 Mandarina vegan				1191.84	1191.84
+ 3972		8		 Splenda integral				1313.33	1313.33
+ 4013		8		 Harina de avena orgánico				752.90	752.90
+ 4022		6		 Almendras orgánico				1151.29	1151.29
+ 4263		2		 Camote gluten free				1304.64	1304.64
+ 4286		3		 Mandarina integral				529.24	529.24
+ 4339		1		 Calabaza de baño				1015.28	1015.28
+ 4459		8		 Calabaza gluten free				1899.02	1899.02
+ 4587		7		 Habas orgánico				632.62	632.62
+ 4965		3		 Papaya orgánico				968.77	968.7
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 80		0		 Pepino con aceite de coco				1340.07	1340.07
+ 128		0		 Mandarina con aceite de coco				1724.52	1724.52
+ 236		0		 Cereales orgánico				259.20	259.20
+ 786		0		 Pepino vegan				468.70	468.70
+ 1260		0		 Mandarina bolsa grande				1380.48	1380.48
+ 4163		0		 Limones bolsa grande				1216.17	1216.1

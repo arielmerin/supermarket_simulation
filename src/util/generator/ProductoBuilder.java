@@ -2,6 +2,9 @@ package util.generator;
 import java.util.Iterator;
 import java.util.Random;
 
+import static util.Utilidades.random;
+import static util.Utilidades.randomD;
+
 public class ProductoBuilder implements Iterator<Producto> {
 
 
@@ -15,19 +18,6 @@ public class ProductoBuilder implements Iterator<Producto> {
             " vegan", " veggie", " con aceite de coco", " bolsa grande"};
 
 
-    private static int random(int k){
-        Random rdm = new Random();
-        int i = rdm.nextInt();
-        i = i < 0 ? -i : i;
-        return i % k;
-    }
-
-    private static double randomD(int k){
-        Random rdm = new Random();
-        double i = rdm.nextDouble();
-        i = i < 0 ? -i : i;
-        return i % k;
-    }
 
     @Override
     public boolean hasNext() {

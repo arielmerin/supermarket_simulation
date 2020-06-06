@@ -1,0 +1,60 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:24:29
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 248		9		 Quinoa con jarabe de agave				292.20	292.20
+ 307		6		 Harina de avena veggie				1565.43	1565.43
+ 361		9		 Habas orgánico				570.62	570.62
+ 546		3		 Jabón vegan				1690.53	1690.53
+ 574		9		 Chicharos vegan				1303.85	1303.85
+ 645		9		 Sopa de baño				1568.97	1568.97
+ 818		4		 Harina de trigo con aceite de coco				335.45	335.45
+ 928		4		 Mango con aceite de coco				1190.01	1190.01
+ 964		7		 Mango gluten free				1624.05	1624.05
+ 1092		7		 Arroz con jarabe de agave				472.92	472.92
+ 1108		9		 Splenda integral				113.93	113.93
+ 1203		9		 Spaghetti de baño				1275.55	1275.55
+ 1867		8		 Pera veggie				102.88	102.88
+ 1891		3		 Lentejas orgánico				484.90	484.90
+ 1959		3		 Harina integral gluten free				990.75	990.75
+ 1966		4		 Spaghetti veggie				1041.86	1041.86
+ 2037		5		 Habas gluten free				650.25	650.25
+ 2117		7		 Calabaza con jarabe de agave				183.49	183.49
+ 2140		8		 Arroz integral				631.54	631.54
+ 2144		2		 Splenda con jarabe de agave				803.15	803.15
+ 2150		9		 Manzana gluten free				502.75	502.75
+ 2346		5		 Camote con aceite de coco				118.81	118.81
+ 2362		6		 Manzana bolsa grande				536.76	536.76
+ 2735		8		 Calabaza de baño				757.77	757.77
+ 2742		8		 Manzana orgánico				467.37	467.37
+ 2961		8		 Lentejas gluten free				703.56	703.56
+ 3069		4		 Mango de baño				756.28	756.28
+ 3154		7		 Ezekiel vegan				671.20	671.20
+ 3406		9		 Ezekiel gluten free				1329.06	1329.06
+ 3519		4		 Camote con aceite de coco				1426.07	1426.07
+ 3556		8		 Salsa de soya veggie				535.58	535.58
+ 3659		3		 Almendras con aceite de coco				456.10	456.10
+ 3784		4		 Harina de avena con jarabe de agave				1875.03	1875.03
+ 3999		2		 Jabón vegan				853.84	853.84
+ 4140		1		 Chiles secos con aceite de coco				1108.86	1108.86
+ 4158		5		 Habas con aceite de coco				652.83	652.83
+ 4161		1		 Lentejas orgánico				264.52	264.52
+ 4287		6		 Almendras vegan				1593.53	1593.53
+ 4429		2		 Cereales gluten free				710.71	710.71
+ 4444		8		 Avena gluten free				464.68	464.68
+ 4451		9		 Camote bolsa grande				647.60	647.60
+ 4452		6		 Chicharos con jarabe de agave				945.16	945.16
+ 4608		1		 Harina de trigo gluten free				896.76	896.76
+ 4662		5		 Alubias con jarabe de agave				1224.26	1224.26
+ 4693		5		 Café bolsa grande				610.14	610.14
+ 4712		1		 Harina de trigo con aceite de coco				101.58	101.58
+ 4733		3		 Habas bolsa grande				76.37	76.37
+ 4912		2		 Pepino de baño				185.67	185.6
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 795		0		 Quinoa orgánico				1413.39	1413.39
+ 886		0		 Camote vegan				1338.15	1338.15
+ 2021		0		 Pera bolsa grande				1460.07	1460.07
+ 3185		0		 Salsa de soya vegan				38.88	38.88
+ 3321		0		 Cereales veggie				1259.21	1259.2

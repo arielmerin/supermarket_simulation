@@ -1,0 +1,84 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:24:06
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 49		5		 Chiles secos veggie				1109.58	1109.58
+ 138		6		 Spaghetti bolsa grande				892.15	892.15
+ 158		6		 Limones vegan				193.77	193.77
+ 173		3		 Garbanzos veggie				389.64	389.64
+ 246		5		 Arroz con jarabe de agave				701.30	701.30
+ 279		7		 Harina de trigo con aceite de coco				1679.29	1679.29
+ 281		7		 Vinagre de Arroz de baño				715.37	715.37
+ 308		6		 Sopa veggie				1788.17	1788.17
+ 340		6		 Lentejas vegan				1892.28	1892.28
+ 345		5		 Harina de quinoa vegan				263.99	263.99
+ 360		7		 Garbanzos gluten free				574.82	574.82
+ 654		1		 Café orgánico				1700.98	1700.98
+ 765		3		 Salsa de soya gluten free				313.49	313.49
+ 864		1		 Spaghetti vegan				446.35	446.35
+ 956		1		 Nueces veggie				1708.24	1708.24
+ 962		3		 Jabón veggie				1358.36	1358.36
+ 1131		3		 Harina de garbanzo gluten free				720.70	720.70
+ 1202		6		 Avena con jarabe de agave				262.88	262.88
+ 1269		5		 Pan integral				318.88	318.88
+ 1286		5		 Chicharos bolsa grande				1488.41	1488.41
+ 1297		3		 Pera bolsa grande				173.73	173.73
+ 1429		1		 Vinagre de Arroz con aceite de coco				644.89	644.89
+ 1620		6		 Pan integral				339.14	339.14
+ 1743		3		 Harina de trigo orgánico				866.52	866.52
+ 1812		6		 Ezekiel vegan				926.62	926.62
+ 1894		5		 Salsa de soya de baño				7.43	7.43
+ 2029		4		 Spaghetti integral				1100.41	1100.41
+ 2073		3		 Alubias veggie				1792.98	1792.98
+ 2097		3		 Camote de baño				704.11	704.11
+ 2130		5		 Cereales vegan				1431.11	1431.11
+ 2189		8		 Spaghetti gluten free				1042.46	1042.46
+ 2345		6		 Chicharos orgánico				1750.53	1750.53
+ 2362		6		 Harina de quinoa de baño				110.55	110.55
+ 2404		3		 Mango vegan				1807.89	1807.89
+ 2577		4		 Almendras de baño				344.42	344.42
+ 2660		5		 Pasta veggie				1132.66	1132.66
+ 2716		2		 Chayotes integral				705.51	705.51
+ 2971		9		 Ezekiel gluten free				1351.78	1351.78
+ 3515		7		 Avena de baño				1384.11	1384.11
+ 3577		9		 Limones con aceite de coco				1454.28	1454.28
+ 3649		4		 Splenda integral				1131.03	1131.03
+ 3655		2		 Manzana bolsa grande				945.20	945.20
+ 3718		5		 Pan con aceite de coco				842.47	842.47
+ 3791		3		 Almendras integral				1336.90	1336.90
+ 3814		9		 Spaghetti veggie				1217.72	1217.72
+ 3868		7		 Harina de avena con aceite de coco				1672.01	1672.01
+ 3889		3		 Lentejas de baño				890.77	890.77
+ 3922		9		 Lentejas gluten free				156.46	156.46
+ 3935		5		 Calabaza orgánico				1146.21	1146.21
+ 3996		2		 Nueces orgánico				1779.19	1779.19
+ 4065		2		 Almendras gluten free				1358.26	1358.26
+ 4162		3		 Lentejas veggie				964.10	964.10
+ 4181		2		 Papaya de baño				1436.58	1436.58
+ 4194		3		 Spaghetti bolsa grande				373.78	373.78
+ 4247		6		 Alubias orgánico				1319.00	1319.00
+ 4332		6		 Manzana gluten free				44.23	44.23
+ 4354		1		 Harina de garbanzo vegan				306.47	306.47
+ 4355		9		 Arroz bolsa grande				1894.93	1894.93
+ 4364		4		 Café con jarabe de agave				1095.26	1095.26
+ 4417		1		 Sopa integral				1282.12	1282.12
+ 4435		7		 Vinagre de Arroz gluten free				853.39	853.39
+ 4436		9		 Garbanzos orgánico				1388.78	1388.78
+ 4605		5		 Pera gluten free				135.59	135.59
+ 4609		7		 Salsa de soya bolsa grande				1771.78	1771.78
+ 4683		5		 Chayotes integral				1858.78	1858.78
+ 4693		1		 Ezekiel veggie				1701.66	1701.66
+ 4703		8		 Ezekiel con aceite de coco				324.23	324.23
+ 4720		5		 Harina integral veggie				565.64	565.64
+ 4747		6		 Garbanzos vegan				1842.97	1842.97
+ 4753		2		 Harina de trigo con aceite de coco				1596.63	1596.63
+ 4810		7		 Lentejas bolsa grande				1128.02	1128.02
+ 4909		2		 Salsa de soya con jarabe de agave				202.04	202.04
+ 4929		8		 Spaghetti de baño				877.36	877.36
+ 4950		3		 Alubias con jarabe de agave				132.09	132.0
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 2999		0		 Limones integral				1732.61	1732.61
+ 3209		0		 Harina de trigo de baño				14.22	14.22
+ 3704		0		 Vinagre de Arroz gluten free				1580.25	1580.2

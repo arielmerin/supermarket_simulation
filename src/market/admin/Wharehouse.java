@@ -80,10 +80,22 @@ public class Wharehouse implements Serializable {
         while (it.hasNext()){
 
             Product elemento = (Product) it.next();
-            if (elemento.getUnits() < 10){
-                faltantes.agregar(elemento.información());
+            if ( elemento.getUnits() > 0 && elemento.getUnits() < 10 ){
+                faltantes.agregar(String.valueOf(elemento) + "\n");
             }
         }
         return faltantes;
+    }
+
+    public Lista<String> faltantes(){
+        Lista<String> falta = new Lista<>();
+        Iterator it = almacen.iterator();
+        while (it.hasNext()){
+            Product elemento = (Product) it.next();
+            if ( elemento.getUnits() == 0){
+                falta.agregar(String.valueOf(elemento) + "\n");
+            }
+        }
+        return falta;
     }
 }

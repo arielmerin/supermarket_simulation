@@ -1,0 +1,53 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:22:26
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 69		6		 Manzana gluten free				1781.40	1781.40
+ 86		5		 Arroz bolsa grande				9.35	9.35
+ 233		8		 Harina de quinoa integral				888.46	888.46
+ 329		1		 Chayotes orgánico				698.72	698.72
+ 347		6		 Mandarina vegan				509.81	509.81
+ 465		5		 Chayotes con jarabe de agave				317.50	317.50
+ 1021		1		 Salsa de soya bolsa grande				1001.10	1001.10
+ 1112		7		 Chicharos integral				871.03	871.03
+ 1142		3		 Vinagre de Arroz bolsa grande				145.89	145.89
+ 1223		5		 Nueces de baño				741.30	741.30
+ 1435		4		 Harina de avena veggie				1345.30	1345.30
+ 1545		7		 Mango de baño				1429.87	1429.87
+ 1613		6		 Alubias integral				1689.12	1689.12
+ 1840		6		 Harina de quinoa con aceite de coco				175.18	175.18
+ 1894		7		 Pepino con jarabe de agave				582.08	582.08
+ 1993		4		 Harina de quinoa vegan				1496.80	1496.80
+ 2029		3		 Harina de trigo bolsa grande				1597.47	1597.47
+ 2151		3		 Alubias vegan				388.13	388.13
+ 2156		9		 Chiles secos bolsa grande				1793.49	1793.49
+ 2292		8		 Nueces con jarabe de agave				821.20	821.20
+ 2373		1		 Chiles secos veggie				1274.22	1274.22
+ 2606		5		 Garbanzos con jarabe de agave				1698.80	1698.80
+ 2769		3		 Harina de quinoa integral				493.98	493.98
+ 2878		7		 Sopa bolsa grande				769.14	769.14
+ 3059		7		 Camote con aceite de coco				1602.32	1602.32
+ 3061		3		 Splenda veggie				440.76	440.76
+ 3237		4		 Café veggie				1537.62	1537.62
+ 3256		5		 Almendras con aceite de coco				549.27	549.27
+ 3452		2		 Chayotes vegan				1083.86	1083.86
+ 3575		9		 Harina integral veggie				1411.16	1411.16
+ 3643		9		 Salsa de soya orgánico				1175.32	1175.32
+ 3732		3		 Avena gluten free				1521.13	1521.13
+ 3815		5		 Café integral				517.44	517.44
+ 4317		2		 Camote vegan				0.14	0.14
+ 4324		2		 Mandarina de baño				1299.07	1299.07
+ 4497		6		 Manzana veggie				349.16	349.16
+ 4655		2		 Pepino bolsa grande				752.58	752.58
+ 4783		8		 Salsa de soya con jarabe de agave				1626.76	1626.76
+ 4811		8		 Manzana con jarabe de agave				452.80	452.80
+ 4960		9		 Harina de quinoa integral				515.36	515.36
+ 4980		2		 Sopa veggie				576.16	576.1
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 2331		0		 Salsa de soya gluten free				1096.32	1096.32
+ 3291		0		 Chicharos de baño				739.43	739.43
+ 3662		0		 Calabaza con aceite de coco				1523.50	1523.50
+ 4445		0		 Splenda con aceite de coco				238.98	238.98
+ 4894		0		 Harina de avena integral				18.77	18.7

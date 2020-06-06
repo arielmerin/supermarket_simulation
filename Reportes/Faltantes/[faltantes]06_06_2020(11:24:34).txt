@@ -1,0 +1,54 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:24:33
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 73		2		 Chayotes con aceite de coco				814.61	814.61
+ 83		7		 Harina de quinoa con jarabe de agave				158.31	158.31
+ 84		9		 Harina de garbanzo orgánico				784.19	784.19
+ 91		6		 Ezekiel integral				386.69	386.69
+ 241		1		 Arroz gluten free				89.56	89.56
+ 325		9		 Pan con jarabe de agave				1439.19	1439.19
+ 366		9		 Cereales con aceite de coco				47.46	47.46
+ 393		7		 Edamames con jarabe de agave				1282.67	1282.67
+ 455		1		 Vinagre de Arroz vegan				469.43	469.43
+ 578		7		 Mango con jarabe de agave				1320.42	1320.42
+ 585		3		 Vinagre de Arroz con jarabe de agave				1144.11	1144.11
+ 738		5		 Splenda con aceite de coco				760.57	760.57
+ 760		7		 Lentejas gluten free				692.20	692.20
+ 842		5		 Chicharos de baño				1018.73	1018.73
+ 874		1		 Jabón orgánico				1449.73	1449.73
+ 902		3		 Camote orgánico				1543.64	1543.64
+ 1000		4		 Café orgánico				1642.49	1642.49
+ 1198		4		 Chayotes veggie				1074.54	1074.54
+ 1682		9		 Lentejas gluten free				1359.22	1359.22
+ 1943		6		 Camote gluten free				519.52	519.52
+ 1972		3		 Mango veggie				149.24	149.24
+ 2026		5		 Quinoa veggie				1291.41	1291.41
+ 2072		8		 Harina de garbanzo veggie				1688.01	1688.01
+ 2237		5		 Pepino de baño				661.25	661.25
+ 2243		6		 Manzana vegan				1306.07	1306.07
+ 2272		6		 Ezekiel con aceite de coco				115.95	115.95
+ 2300		2		 Harina integral gluten free				54.05	54.05
+ 2964		8		 Cereales integral				1853.19	1853.19
+ 3015		7		 Frijoles bolsa grande				681.39	681.39
+ 3096		6		 Chicharos de baño				1191.17	1191.17
+ 3151		1		 Arroz vegan				358.85	358.85
+ 3194		3		 Harina integral veggie				1357.60	1357.60
+ 3207		9		 Pasta con aceite de coco				108.01	108.01
+ 3439		4		 Mandarina veggie				1186.59	1186.59
+ 3576		3		 Spaghetti de baño				948.85	948.85
+ 3648		3		 Vinagre de Arroz con aceite de coco				30.25	30.25
+ 3767		7		 Chiles secos con aceite de coco				1742.07	1742.07
+ 3808		6		 Lentejas integral				315.79	315.79
+ 3880		3		 Papaya vegan				1628.47	1628.47
+ 3986		8		 Quinoa vegan				1494.93	1494.93
+ 4537		9		 Calabaza orgánico				1830.84	1830.8
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 743		0		 Pera veggie				781.31	781.31
+ 2588		0		 Calabaza vegan				1482.97	1482.97
+ 3462		0		 Calabaza con jarabe de agave				1182.18	1182.18
+ 3519		0		 Harina de garbanzo veggie				113.96	113.96
+ 3669		0		 Manzana con aceite de coco				938.76	938.76
+ 4357		0		 Sopa orgánico				393.92	393.9

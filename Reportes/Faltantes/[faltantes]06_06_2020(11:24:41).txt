@@ -1,0 +1,49 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:24:40
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 117		2		 Limones vegan				963.11	963.11
+ 274		9		 Quinoa con jarabe de agave				1219.37	1219.37
+ 465		9		 Almendras gluten free				936.52	936.52
+ 601		2		 Spaghetti de baño				1191.99	1191.99
+ 751		4		 Café con jarabe de agave				1229.22	1229.22
+ 795		9		 Chicharos vegan				175.46	175.46
+ 812		9		 Jabón integral				1610.08	1610.08
+ 1138		4		 Harina integral con jarabe de agave				1380.99	1380.99
+ 1204		4		 Pan de baño				1011.01	1011.01
+ 1228		2		 Vinagre de Arroz vegan				583.19	583.19
+ 1665		1		 Chicharos gluten free				863.44	863.44
+ 1708		1		 Alubias con jarabe de agave				445.11	445.11
+ 1765		9		 Edamames con aceite de coco				705.53	705.53
+ 1865		4		 Sopa vegan				632.92	632.92
+ 1960		4		 Arroz gluten free				1508.91	1508.91
+ 2192		4		 Sopa veggie				890.36	890.36
+ 2554		4		 Alubias orgánico				1789.96	1789.96
+ 2682		5		 Harina de trigo con jarabe de agave				1056.58	1056.58
+ 2740		3		 Cereales gluten free				1598.32	1598.32
+ 2747		1		 Harina integral integral				1047.78	1047.78
+ 2847		4		 Jabón orgánico				1032.78	1032.78
+ 2870		1		 Chicharos veggie				523.81	523.81
+ 2895		1		 Sopa orgánico				989.98	989.98
+ 2925		2		 Harina integral bolsa grande				1424.87	1424.87
+ 2948		5		 Limones orgánico				1895.08	1895.08
+ 3184		4		 Avena gluten free				1687.62	1687.62
+ 3201		4		 Ezekiel veggie				1460.31	1460.31
+ 3503		9		 Cereales bolsa grande				745.19	745.19
+ 3622		6		 Spaghetti integral				633.96	633.96
+ 3638		8		 Manzana integral				70.07	70.07
+ 3748		9		 Frijoles de baño				900.89	900.89
+ 3776		8		 Nueces vegan				1145.11	1145.11
+ 3820		2		 Avena con jarabe de agave				1557.37	1557.37
+ 3907		6		 Pan gluten free				1138.54	1138.54
+ 4017		2		 Quinoa orgánico				1826.04	1826.04
+ 4182		1		 Limones bolsa grande				1547.19	1547.19
+ 4460		6		 Camote integral				1563.82	1563.82
+ 4483		5		 Chiles secos vegan				1125.64	1125.64
+ 4543		3		 Chiles secos veggie				706.27	706.27
+ 4567		2		 Limones con aceite de coco				77.18	77.1
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 2081		0		 Mango gluten free				1835.19	1835.19
+ 3846		0		 Quinoa gluten free				893.74	893.7

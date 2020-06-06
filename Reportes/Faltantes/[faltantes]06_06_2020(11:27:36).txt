@@ -1,0 +1,72 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:27:35
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 165		5		 Frijoles bolsa grande				901.37	901.37
+ 226		7		 Quinoa orgánico				425.28	425.28
+ 243		6		 Harina de trigo gluten free				1557.64	1557.64
+ 287		7		 Pasta gluten free				1366.47	1366.47
+ 322		9		 Avena de baño				261.62	261.62
+ 323		3		 Garbanzos orgánico				331.77	331.77
+ 338		8		 Chicharos gluten free				22.71	22.71
+ 350		6		 Habas bolsa grande				1323.65	1323.65
+ 503		8		 Frijoles vegan				534.40	534.40
+ 550		4		 Camote vegan				1684.50	1684.50
+ 634		8		 Salsa de soya de baño				511.33	511.33
+ 686		4		 Chicharos con jarabe de agave				671.74	671.74
+ 922		8		 Calabaza bolsa grande				958.45	958.45
+ 1157		3		 Camote de baño				123.23	123.23
+ 1358		9		 Camote integral				371.74	371.74
+ 1378		6		 Chiles secos orgánico				1774.71	1774.71
+ 1439		5		 Habas veggie				1583.16	1583.16
+ 1772		6		 Harina de quinoa de baño				1704.31	1704.31
+ 2145		2		 Pera integral				1596.19	1596.19
+ 2181		8		 Pasta orgánico				855.02	855.02
+ 2213		6		 Spaghetti con aceite de coco				1244.76	1244.76
+ 2225		7		 Limones de baño				878.59	878.59
+ 2265		7		 Chiles secos bolsa grande				118.32	118.32
+ 2301		1		 Pan orgánico				1006.44	1006.44
+ 2416		6		 Harina de quinoa orgánico				1308.35	1308.35
+ 2479		1		 Chayotes vegan				347.73	347.73
+ 2696		7		 Almendras vegan				1353.62	1353.62
+ 2709		9		 Chayotes con jarabe de agave				1690.15	1690.15
+ 2997		5		 Alubias integral				1726.61	1726.61
+ 3113		9		 Spaghetti con jarabe de agave				1092.85	1092.85
+ 3343		2		 Limones gluten free				1756.68	1756.68
+ 3364		8		 Pera veggie				1738.52	1738.52
+ 3431		4		 Nueces de baño				471.90	471.90
+ 3435		4		 Lentejas con aceite de coco				1684.48	1684.48
+ 3436		1		 Mandarina gluten free				53.99	53.99
+ 3440		5		 Pera orgánico				894.70	894.70
+ 3462		9		 Garbanzos veggie				1214.18	1214.18
+ 3568		5		 Arroz de baño				233.69	233.69
+ 3610		6		 Harina de avena con aceite de coco				278.61	278.61
+ 3789		1		 Mandarina gluten free				1725.16	1725.16
+ 3798		3		 Arroz con jarabe de agave				415.54	415.54
+ 3835		3		 Papaya con jarabe de agave				551.81	551.81
+ 3839		5		 Pera orgánico				947.05	947.05
+ 3930		5		 Chiles secos gluten free				1163.04	1163.04
+ 3948		4		 Harina de trigo con aceite de coco				1537.32	1537.32
+ 4034		7		 Salsa de soya vegan				1826.17	1826.17
+ 4177		6		 Harina de avena integral				102.41	102.41
+ 4221		6		 Café veggie				1095.68	1095.68
+ 4281		3		 Sopa con jarabe de agave				1646.21	1646.21
+ 4372		4		 Nueces de baño				230.66	230.66
+ 4421		1		 Pan bolsa grande				583.11	583.11
+ 4533		8		 Quinoa de baño				67.52	67.52
+ 4647		7		 Edamames de baño				1567.18	1567.18
+ 4700		7		 Nueces con jarabe de agave				88.06	88.06
+ 4761		6		 Almendras vegan				926.89	926.89
+ 4844		2		 Pera con aceite de coco				1351.75	1351.75
+ 4874		5		 Pepino integral				117.06	117.06
+ 4905		2		 Café orgánico				297.37	297.37
+ 4932		9		 Pasta de baño				158.67	158.67
+ 4981		8		 Garbanzos bolsa grande				1655.99	1655.9
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 454		0		 Café de baño				990.27	990.27
+ 546		0		 Pan integral				301.52	301.52
+ 2163		0		 Calabaza integral				194.75	194.75
+ 2640		0		 Spaghetti bolsa grande				939.86	939.86
+ 3237		0		 Nueces de baño				1238.10	1238.1

@@ -1,0 +1,55 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 11:25:58
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 180		1		 Habas vegan				738.68	738.68
+ 204		3		 Papaya con jarabe de agave				1654.10	1654.10
+ 212		7		 Camote de baño				1453.95	1453.95
+ 258		8		 Sopa gluten free				933.58	933.58
+ 491		4		 Habas orgánico				1641.26	1641.26
+ 556		9		 Spaghetti con aceite de coco				321.23	321.23
+ 704		1		 Chayotes bolsa grande				113.84	113.84
+ 735		6		 Habas con aceite de coco				188.44	188.44
+ 905		5		 Harina de avena con jarabe de agave				1213.35	1213.35
+ 953		7		 Vinagre de Arroz gluten free				1573.27	1573.27
+ 1069		5		 Cereales gluten free				904.12	904.12
+ 1106		9		 Harina de trigo con aceite de coco				708.08	708.08
+ 1222		3		 Vinagre de Arroz bolsa grande				827.79	827.79
+ 1289		2		 Arroz de baño				353.63	353.63
+ 1295		1		 Harina de garbanzo con jarabe de agave				846.02	846.02
+ 1360		5		 Spaghetti de baño				647.33	647.33
+ 1454		4		 Camote bolsa grande				1396.63	1396.63
+ 1786		8		 Cereales de baño				1185.62	1185.62
+ 1860		6		 Cereales veggie				193.25	193.25
+ 1971		8		 Papaya integral				1550.93	1550.93
+ 2048		1		 Frijoles bolsa grande				1538.06	1538.06
+ 2454		6		 Garbanzos con aceite de coco				359.52	359.52
+ 2568		5		 Edamames integral				850.40	850.40
+ 2684		8		 Habas vegan				151.19	151.19
+ 2874		9		 Café de baño				1194.51	1194.51
+ 3021		7		 Pasta gluten free				222.72	222.72
+ 3092		7		 Pepino veggie				912.58	912.58
+ 3557		3		 Almendras con jarabe de agave				915.89	915.89
+ 3595		5		 Arroz gluten free				1551.25	1551.25
+ 3677		2		 Edamames gluten free				84.02	84.02
+ 3729		5		 Ezekiel con aceite de coco				1258.08	1258.08
+ 3851		9		 Jabón gluten free				68.16	68.16
+ 3867		4		 Almendras con jarabe de agave				1416.19	1416.19
+ 3939		9		 Pan gluten free				1223.93	1223.93
+ 4070		1		 Pepino de baño				938.49	938.49
+ 4196		3		 Camote gluten free				1479.12	1479.12
+ 4283		5		 Harina de quinoa con jarabe de agave				1215.15	1215.15
+ 4400		4		 Lentejas bolsa grande				769.28	769.28
+ 4543		4		 Pepino con jarabe de agave				1389.07	1389.07
+ 4722		6		 Habas orgánico				508.18	508.1
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 811		0		 Sopa bolsa grande				584.16	584.16
+ 1559		0		 Camote de baño				509.46	509.46
+ 1753		0		 Papaya veggie				1165.26	1165.26
+ 2085		0		 Manzana con jarabe de agave				947.56	947.56
+ 2527		0		 Cereales con jarabe de agave				177.46	177.46
+ 2753		0		 Quinoa integral				147.74	147.74
+ 4233		0		 Harina de garbanzo vegan				375.26	375.26
+ 4696		0		 Alubias veggie				65.99	65.9

@@ -99,9 +99,23 @@ public class Utilidades {
     }
 
     public static int ranInt(int cotaInferior, int cotaSuperior){
-
         Random random = new Random();
-        return cotaInferior + random.nextInt(cotaSuperior);
+        int resultado = cotaInferior + random.nextInt(cotaSuperior);
+        return resultado < 0?  -resultado: resultado;
+    }
+
+    public static int random(int k){
+        Random rdm = new Random();
+        int i = rdm.nextInt();
+        i = i < 0 ? -i : i;
+        return i % k;
+    }
+
+    public static double randomD(int k){
+        Random rdm = new Random();
+        double i = rdm.nextDouble();
+        i = i < 0 ? -i : i;
+        return i % k;
     }
 
 }
