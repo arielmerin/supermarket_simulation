@@ -39,7 +39,11 @@ public class Serializer {
         }
     }
 
-
+    /**
+     *
+     * @param object
+     * @param path
+     */
     public void escribeTXT(Object object, String path){
         FileWriter fichero = null;
         PrintWriter pw = null;
@@ -62,6 +66,10 @@ public class Serializer {
 
     }
 
+    /**
+     *
+     * @param nombre
+     */
     public void creaCarpeta(String nombre) {
         File directorio = new File( nombre);
         if (!directorio.exists()) {

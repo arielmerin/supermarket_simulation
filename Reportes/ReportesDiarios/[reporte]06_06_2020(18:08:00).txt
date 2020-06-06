@@ -1,0 +1,44 @@
+:::  SUPERMERCADO  :::
+
+Fecha: 06/06/2020 - 18:08:00
+Total de ingresos: $22520982.00
+Con las siguientes cajas: 
+[Caja
+Venta total: $1248888.48
+Clientes atendidos: 2|Caja
+Venta total: $1441912.85
+Clientes atendidos: 3|Caja
+Venta total: $1411377.94
+Clientes atendidos: 3|Caja
+Venta total: $1592280.48
+Clientes atendidos: 3|Caja
+Venta total: $1472655.57
+Clientes atendidos: 3|Caja
+Venta total: $1406340.34
+Clientes atendidos: 3|Caja
+Venta total: $1792334.61
+Clientes atendidos: 3|Caja
+Venta total: $1331626.26
+Clientes atendidos: 3|Caja
+Venta total: $1385770.17
+Clientes atendidos: 3|Caja
+Venta total: $1506584.18
+Clientes atendidos: 3|Caja
+Venta total: $1845113.32
+Clientes atendidos: 3]
+ [Caja
+Venta total: $4087407.36
+Clientes atendidos: 23|Caja
+Venta total: $5011758.37
+Clientes atendidos: 23|Caja
+Venta total: $4057444.75
+Clientes atendidos: 23|Caja
+Venta total: $3472408.46
+Clientes atendidos: 23|Caja
+Venta total: $4958941.76
+Clientes atendidos: 24]
+
+ La caja que más clientes atendió fue: 
+ Caja
+Venta total: $1155617.96
+Clientes atendidos: 2
