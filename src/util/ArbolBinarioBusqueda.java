@@ -204,14 +204,6 @@ public class ArbolBinarioBusqueda<T extends Comparable<T>> extends ArbolBinario<
         return izq != null ? izq : der;
     }
 
-    public Nodo<T> buscando(T elemento){
-        return buscaNodo(raiz,elemento);
-    }
-
-    public T buscandoElem(T elemento){
-        return buscando(elemento).elemento;
-    }
-
     /**
      * Gira el árbol a la derecha sobre el nodo recibido. Si el nodo no
      * tiene hijo izquierdo, el método no hace nada.
@@ -267,11 +259,8 @@ public class ArbolBinarioBusqueda<T extends Comparable<T>> extends ArbolBinario<
         aux.izquierdo = nodo;
         nodo.padre = aux;
     }
-    protected Nodo last;
 
-    public Nodo getFinal() {
-        return last;
-    }
+    protected Nodo last;
 
     /**
      * Regresa un iterador para iterar el árbol. El árbol se itera en orden.
@@ -280,14 +269,17 @@ public class ArbolBinarioBusqueda<T extends Comparable<T>> extends ArbolBinario<
     @Override public Iterator<T> iterator() {
         return new Iterador();
     }
-
     @Override
     public String toString() {
         return super.toString();
     }
 
-    public void actualizar(Product product, int valor ){
-        Product product1 = (Product) buscando((T) product).elemento;
-        product1.setUnits(valor);
+    protected Nodo getFinal() {
+        return last;
+    }
+
+
+    public T busquedaElemento(T elemento){
+        return buscaNodo(raiz,elemento).elemento;
     }
 }

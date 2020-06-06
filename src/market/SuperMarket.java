@@ -155,7 +155,7 @@ public class SuperMarket extends Thread implements Serializable {
      * @param cantidad
      */
     private void asignaProducto(Client client, int id, int cantidad){
-        Product agregar = almacenPrincipal.getAlmacen().buscandoElem(new Product((id)));
+        Product agregar = almacenPrincipal.getAlmacen().busquedaElemento(new Product(id));
         Product alCarrito = new Product(id);
 
         alCarrito.setUnits(cantidad);

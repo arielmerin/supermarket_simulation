@@ -43,10 +43,15 @@ public class Wharehouse implements Serializable {
         if (product.getUnits() - cantidad < 0 && cantidad < 0) {
             return false;
         }
-        almacen.actualizar(product,almacen.buscandoElem(product).getUnits()+ cantidad);
+        actualizar(product,almacen.busquedaElemento(product).getUnits() + cantidad);
         return true;
     }
 
+
+    public void actualizar(Product product, int valor ){
+        Product product1 = almacen.busquedaElemento(product);
+        product1.setUnits(valor);
+    }
     /**
      * Dado un producto permite agregarlo al arbol asignándole un número de id único
      * @param product producto que será añadido

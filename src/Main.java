@@ -14,17 +14,16 @@ public class Main {
         Menu menu = new Menu();
         //menu.principal();
 
-            SuperMarket superMarket = new SuperMarket(11,12,15);
+        SuperMarket superMarket = new SuperMarket(11,12,15);
 
-            superMarket.cargarProductos("productos.txt");
-            superMarket.getAlmacen().agregarProducto(new Product(3,"pug", (float) 2.2));
-            superMarket.getAlmacen().agregarProducto(new Product(2,"perro Salchicha", (float) 2.2));
-            superMarket.getAlmacen().agregarProducto(new Product(1,"alimento para perro", (float) 2.2));
-            for (int j = 0; j < 97; j++) {
-                superMarket.formandoCliente();
-            }
+        //superMarket.cargarProductos("productos.txt");
+        superMarket.getAlmacen().agregarProducto(new Product(3,"pug", (float) 2.2));
+        superMarket.getAlmacen().agregarProducto(new Product(2,"perro Salchicha", (float) 2.2));
+        superMarket.getAlmacen().agregarProducto(new Product(1,"alimento para perro", (float) 2.2));
+        System.out.println(superMarket.getAlmacen().getAlmacen());
+        superMarket.getAlmacen().actualizar(new Product(2), 877);
+        System.out.println(superMarket.getAlmacen().getAlmacen());
 
-            System.out.println("Estos son los productos con pocas existas");
             Serializer serializer = new Serializer();
             Date fecha = new Date();
             SimpleDateFormat sdt = new SimpleDateFormat(("dd_MM_yyyy(HH:mm:ss)"));
