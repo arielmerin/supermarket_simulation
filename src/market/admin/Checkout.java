@@ -72,7 +72,7 @@ public abstract class Checkout extends Thread implements Serializable, Comparabl
     @Override
     public void run() {
         while (porAtender != 0){
-            porAtender--;
+           porAtender--;
         }
         System.out.println("Acabé de atender mis clientes");
     }

@@ -44,5 +44,9 @@ public class Main {
         }
         serializer.escribeTXT(textos,"prodctosAlea.txt");
 
+
+
+
+
     }
 }
