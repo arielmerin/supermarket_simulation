@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  *
  */
-public abstract class Checkout extends Thread implements Serializable, Comparable<Checkout> {
+public class Checkout extends Thread implements Serializable, Comparable<Checkout> {
 
     /**
      *
@@ -29,11 +29,13 @@ public abstract class Checkout extends Thread implements Serializable, Comparabl
      */
     protected int porAtender;
 
+    private boolean esRapida;
     /**
      *
      */
-    public Checkout(){
+    public Checkout(boolean esRapida) {
         clients = new Cola<>();
+        this.esRapida = esRapida;
     }
 
     /**
@@ -41,9 +43,11 @@ public abstract class Checkout extends Thread implements Serializable, Comparabl
      * @param client
      */
     public void formarCliente(Client client) {
-        clients.agrega(client);
-        clientesDelDia++;
-        porAtender++;
+        if((esRapida && client.getItems() <= 20) || (!esRapida)){
+            clients.agrega(client);
+            clientesDelDia++;
+            porAtender++;
+        }
     }
 
     /**
@@ -79,9 +83,9 @@ public abstract class Checkout extends Thread implements Serializable, Comparabl
 
     @Override
     public int compareTo(Checkout o) {
-        if (o.clients.getTamanio() > clients.getTamanio()){
+        if (o.porAtender > porAtender){
             return -1;
-        }if (o.clients.getTamanio() < clients.getTamanio()){
+        }if (o.porAtender < porAtender){
             return 1;
         }
         return 0;
@@ -93,4 +97,5 @@ public abstract class Checkout extends Thread implements Serializable, Comparabl
                 String.format("Venta total: $%2.2f", calculaVentaTotal()) +
                 "\nClientes atendidos: " + clients.getTamanio();
     }
+
 }

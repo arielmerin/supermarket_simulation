@@ -1,0 +1,24 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 06/06/2020 - 17:08:28
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 80		8		 Pan veggie				176.20	176.20
+ 88		1		 Habas de baño				67.22	67.22
+ 164		4		 Mandarina veggie				411.34	411.34
+ 215		1		 Almendras gluten free				1692.45	1692.45
+ 228		5		 Vinagre de Arroz bolsa grande				1373.97	1373.97
+ 264		7		 Pasta gluten free				1592.45	1592.45
+ 268		1		 Chayotes de baño				1455.45	1455.45
+ 270		4		 Camote bolsa grande				869.91	869.91
+ 276		7		 Calabaza integral				1063.15	1063.15
+ 340		4		 Habas con aceite de coco				356.90	356.90
+ 350		2		 Habas integral				199.22	199.22
+ 418		2		 Pan vegan				726.42	726.42
+ 458		3		 Chicharos con jarabe de agave				43.81	43.81
+ 464		8		 Harina de trigo de baño				1084.41	1084.41
+ 465		4		 Mandarina vegan				901.96	901.96
+ 490		8		 Pasta con aceite de coco				1757.20	1757.2
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

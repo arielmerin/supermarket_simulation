@@ -156,14 +156,6 @@ public class Product implements Comparable<Product>, Serializable {
     }
 
 
-    /**
-     *
-     * @return
-     */
-    public String información(){
-        String fina = String.format("%d\t\t%s\t\t%2.2f\n",id,name,price);
-        return fina;
-    }
 
     @Override
     public int compareTo(Product o) {

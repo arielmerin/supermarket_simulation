@@ -2,6 +2,7 @@ package market;
 
 import market.admin.*;
 import util.Lista;
+import util.MinHeap;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -10,7 +11,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-import static util.Utilidades.ranInt;
+import static util.Utilidades.random;
 
 /**
  *
@@ -36,20 +37,20 @@ public class SuperMarket extends Thread implements Serializable {
     /**
      *
      */
-    private Lista<QuickCheckout> unifila;
+    private MinHeap<Checkout> unifila;
 
     /**
      *
      * @return
      */
-    public Lista<LargeCheckout> getCajas() {
+    public MinHeap<Checkout> getCajas() {
         return cajas;
     }
 
     /**
      *
      */
-    private Lista<LargeCheckout> cajas;
+    private MinHeap<Checkout> cajas;
 
     /**
      *
@@ -70,8 +71,8 @@ public class SuperMarket extends Thread implements Serializable {
      */
     public SuperMarket(int rapidas, int normales, int clientes) {
         this.clientes = clientes;
-        this.unifila = new Lista<>();
-        this.cajas = new Lista<>();
+        this.unifila = new MinHeap<>();
+        this.cajas = new MinHeap<>();
         this.almacenPrincipal = new Wharehouse();
         for (int i = 0; i < rapidas; i++) {
             abreCaja(true);
@@ -83,15 +84,27 @@ public class SuperMarket extends Thread implements Serializable {
         this.tickets = new Lista<>();
     }
 
+    /**
+     *
+     * @return
+     */
     public Lista<Client> getTickets() {
         return tickets;
     }
 
+    /**
+     *
+     * @return
+     */
     public Wharehouse getAlmacen() {
         return almacenPrincipal;
     }
 
-    public Lista<QuickCheckout> getUnifila() {
+    /**
+     *
+     * @return
+     */
+    public MinHeap<Checkout> getUnifila() {
         return unifila;
     }
 
@@ -101,15 +114,19 @@ public class SuperMarket extends Thread implements Serializable {
      */
     public double getTotalVentas() {
         double suma = 0;
-        for (QuickCheckout cajaRapida: unifila) {
+        for (Checkout cajaRapida: unifila) {
             suma += cajaRapida.calculaVentaTotal();
         }
-        for (LargeCheckout cajaNormal: cajas){
+        for (Checkout cajaNormal: cajas){
             suma+= cajaNormal.calculaVentaTotal();
         }
         return Math.round(suma);
     }
 
+    /**
+     *
+     * @param product
+     */
     public void darAltaProducto(Product product) {
         almacenPrincipal.agregarProducto(product);
     }
@@ -120,32 +137,35 @@ public class SuperMarket extends Thread implements Serializable {
      */
     public void abreCaja(boolean esRapida){
         if (esRapida){
-            QuickCheckout quickCheckout = new QuickCheckout();
-            unifila.agregarAlFinal(quickCheckout);
+            Checkout quickCheckout = new Checkout(true);
+            unifila.agrega(quickCheckout);
         }else {
-            LargeCheckout largeCheckout = new LargeCheckout();
-            cajas.agregar(largeCheckout);
+            Checkout largeCheckout = new Checkout(false);
+            cajas.agrega(largeCheckout);
         }
     }
 
-
     /**
      *
+     * @return
      */
-    public void formandoCliente(){
-        int aleatorio = ranInt(1,57);
+    public boolean formandoCliente(){
+        int aleatorio = 25;
         Client client = generaClienteAleatorio(aleatorio);
-        if (client.getItems() <= 20){
-            QuickCheckout cajara = unifila.getElemento(1);
-            cajara.formarCliente(client);
-            unifila.eliminar(cajara);
-            unifila.agregar(cajara);
-        }else {
-            LargeCheckout caja = cajas.getElemento(1);
-            caja.formarCliente(client);
-            cajas.eliminar(caja);
-            cajas.agregar(caja);
+        if (client.getItems() != 0){
+            tickets.agregar(client);
+            if (client.getItems() <= 20){
+                Checkout cajara =  unifila.elimina();
+                cajara.formarCliente(client);
+                unifila.agrega(cajara);
+            }else {
+                Checkout caja = cajas.elimina();
+                caja.formarCliente(client);
+                cajas.agrega(caja);
+            }
+            return true;
         }
+        return false;
     }
 
     /**
@@ -155,7 +175,7 @@ public class SuperMarket extends Thread implements Serializable {
      * @param cantidad
      */
     private void asignaProducto(Client client, int id, int cantidad){
-        Product agregar = almacenPrincipal.getAlmacen().buscandoElem(new Product((id)));
+        Product agregar = almacenPrincipal.getAlmacen().busquedaElemento(new Product(id));
         Product alCarrito = new Product(id);
 
         alCarrito.setUnits(cantidad);
@@ -190,9 +210,9 @@ public class SuperMarket extends Thread implements Serializable {
             }
             input.close();
         } catch (FileNotFoundException e){
-            System.out.println("NO se encontro el archivo");
+            System.out.println("NO se encontro el archivo para cargar los productos");
         } catch (Exception ex) {
-            System.out.println("El documento no se pudo abrir, intente de nuevo");
+            System.out.println("El documento de los productos no se pudo abrir, intente de nuevo");
         }
     }
 
@@ -205,11 +225,11 @@ public class SuperMarket extends Thread implements Serializable {
      */
     public Client generaClienteAleatorio(int productosCliente){
         Client client = new Client();
-        for (int i = 0; i < productosCliente; i++) {
-            int ran = ranInt(1, almacenPrincipal.getAlmacen().getTamanio());
-            asignaProducto(client,ran,ran + 85);
+        int productos = random(productosCliente) + 2;
+        for (int i = 0; i < productos; i++) {
+            int ran = random(almacenPrincipal.getAlmacen().getTamanio() - 1);
+            asignaProducto(client,ran+ 1,random(15) + 1);
         }
-        tickets.agregar(client);
         return client;
     }
 
@@ -246,7 +266,7 @@ public class SuperMarket extends Thread implements Serializable {
 
     @Override
     public void run() {
-        while (cajas.esVacia()){
+        while (cajas.esVacio()){
             for (Checkout caja : cajas){
                 caja.run();
             }
@@ -258,7 +278,7 @@ public class SuperMarket extends Thread implements Serializable {
         String now = formatter.format(fecha);
         return String.format(":::  SUPERMERCADO  :::\n\nFecha: %s\nTotal de ingresos: $%.2f\nCon las siguientes cajas: \n%s\n %s" +
                         "\n\n La caja que más clientes atendió fue: \n %s",
-                now,getTotalVentas(), cajas, unifila, cajas.getElemento(2));
+                now,getTotalVentas(), cajas, unifila, cajas.elimina());
     }
 
     /**
@@ -266,9 +286,13 @@ public class SuperMarket extends Thread implements Serializable {
      * @return
      */
     public String reportePocasExistencias(){
-        return "   :::    REPORTE DE POCAS EXISTENCIAS   :::\nFecha: " + formatter.format(fecha) +
+        return "   :::    REPORTE DE POCAS EXISTENCIAS   :::\n    Fecha: " + formatter.format(fecha) +
                 "\n\n" +
-                "\nID   Cantidad   Nombre  Precio \n" +
-                almacenPrincipal.pocasExistencias();
+                " ----------------- QUEDAN POCOS ------------------" +
+                "\n   ID    Cantidad         Nombre         Precio \n" +
+                almacenPrincipal.pocasExistencias() +
+                "\n ---------------- FALTAN ----------------------" +
+                "\n   ID    Cantidad         Nombre         Precio \n" +
+                almacenPrincipal.faltantes();
     }
 }

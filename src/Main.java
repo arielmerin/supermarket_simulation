@@ -1,16 +1,14 @@
 import UImenu.Menu;
-import market.SuperMarket;
-import market.admin.Product;
-import util.generator.ProductoBuilder;
-import serializer.Serializer;
-import util.Lista;
+import market.admin.Checkout;
+import market.admin.Client;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
+import sim.Simulation;
+import util.MinHeap;
 
 
 public class Main {
     public static void main(String[] args) {
+<<<<<<< HEAD
         Menu menu = new Menu();
         //menu.principal();
 
@@ -48,5 +46,10 @@ public class Main {
 
 
 
+=======
+        Simulation simulation = new Simulation(7,8,150,500,2);
+        simulation.simular();
+        simulation.generarReportes();
+>>>>>>> db25dad4ca27a02e12a36e336d9f70a1db26dd35
     }
 }
