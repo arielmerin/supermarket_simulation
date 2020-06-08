@@ -1,0 +1,23 @@
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 2		1		perro Salchicha				2.20	2.20
+ 1		3		pug				2.20	6.60
+
+                           Subtotal:   7.39
+                           iva:        1.41
+                           total:      8.80
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 2		1		perro Salchicha				2.20	2.20
+
+                           Subtotal:   1.85
+                           iva:        0.35
+                           total:      2.20
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+---------------------------------------------------

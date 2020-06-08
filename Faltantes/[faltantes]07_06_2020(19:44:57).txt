@@ -1,0 +1,10 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 07/06/2020 - 19:44:57
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 3		1		alimento para perro				2.20	2.2
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		0		pug				2.20	2.20
+ 2		0		perro Salchicha				2.20	2.2

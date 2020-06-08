@@ -1,14 +1,20 @@
 import UImenu.Menu;
 import market.admin.Checkout;
 import market.admin.Client;
-
+import market.SuperMarket;
 import sim.Simulation;
+import market.admin.Product;
+import serializer.Serializer;
+import util.Lista;
 import util.MinHeap;
+import util.generator.ProductoBuilder;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 
 public class Main {
     public static void main(String[] args) {
-<<<<<<< HEAD
         Menu menu = new Menu();
         //menu.principal();
 
@@ -42,14 +48,9 @@ public class Main {
         }
         serializer.escribeTXT(textos,"prodctosAlea.txt");
 
-
-
-
-
-=======
         Simulation simulation = new Simulation(7,8,150,500,2);
         simulation.simular();
         simulation.generarReportes();
->>>>>>> db25dad4ca27a02e12a36e336d9f70a1db26dd35
+
     }
 }

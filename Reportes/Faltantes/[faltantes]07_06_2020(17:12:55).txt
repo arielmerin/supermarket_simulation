@@ -1,0 +1,34 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 07/06/2020 - 17:12:55
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 16		1		 Quinoa con jarabe de agave				1174.10	1174.10
+ 17		4		 Camote gluten free				304.94	304.94
+ 36		5		 Jabón integral				280.03	280.03
+ 38		3		 Harina de garbanzo integral				1849.27	1849.27
+ 59		8		 Harina de quinoa bolsa grande				424.24	424.24
+ 79		4		 Pera veggie				874.92	874.92
+ 113		5		 Arroz gluten free				1407.19	1407.19
+ 115		6		 Lentejas con aceite de coco				1825.34	1825.34
+ 134		1		 Papaya gluten free				1371.06	1371.06
+ 139		1		 Papaya con aceite de coco				322.04	322.04
+ 140		2		 Harina de quinoa bolsa grande				1118.60	1118.60
+ 143		3		 Avena vegan				778.08	778.08
+ 214		6		 Salsa de soya gluten free				808.96	808.96
+ 225		2		 Lentejas con aceite de coco				999.77	999.77
+ 227		8		 Arroz bolsa grande				804.93	804.93
+ 327		4		 Café bolsa grande				180.97	180.97
+ 343		1		 Nueces vegan				733.47	733.47
+ 403		1		 Pan orgánico				466.38	466.38
+ 434		9		 Alubias bolsa grande				1182.86	1182.86
+ 456		1		 Mango integral				1599.64	1599.64
+ 473		5		 Harina de avena vegan				865.29	865.29
+ 486		3		 Splenda vegan				1379.19	1379.19
+ 492		5		 Pera veggie				1706.58	1706.5
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 7		0		 Harina integral bolsa grande				186.52	186.52
+ 95		0		 Harina de garbanzo vegan				1777.01	1777.01
+ 277		0		 Mandarina con aceite de coco				1735.67	1735.67
+ 444		0		 Alubias bolsa grande				1198.76	1198.7
