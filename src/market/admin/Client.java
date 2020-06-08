@@ -32,6 +32,7 @@ public class Client implements Comparable<Client> {
                     String.format("\n\n                           Subtotal:   %2.2f", calculaTotal() - calculaIva(calculaTotal())) + "\n"+
                     String.format("                           iva:        %2.2f", calculaIva(calculaTotal())) + "\n"+
                     String.format("                           total:      %2.2f", calculaTotal()) + "\n"+
+                    "Total de artículos comprados: "+ shoppingCart.getTamanio() + "\n"+
                     "----------------------------------------------------\n"+
                     "¡GRACIAS POR TU COMPRA, VUELVE PRONTO!\n" +
                     "----------------------------------------------------\n";
@@ -71,6 +72,9 @@ public class Client implements Comparable<Client> {
         return total * 0.16;
     }
 
+    public void setWaitingTime(int waitingTime) {
+        this.waitingTime = waitingTime;
+    }
 
     @Override
     public String toString() {

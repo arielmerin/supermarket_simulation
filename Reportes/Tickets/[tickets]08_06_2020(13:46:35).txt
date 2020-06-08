@@ -1,0 +1,29 @@
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 138		10		 Arroz gluten free				249.14	2491.40
+ 37		11		 Cereales con jarabe de agave				338.66	3725.26
+ 62		3		 Lentejas con aceite de coco				1833.11	5499.33
+ 115		1		 Manzana vegan				1877.62	1877.62
+ 98		4		 Quinoa con aceite de coco				1561.78	6247.12
+ 115		11		 Manzana vegan				1877.62	20653.82
+ 62		5		 Lentejas con aceite de coco				1833.11	9165.55
+ 90		3		 Harina de garbanzo vegan				581.34	1744.02
+ 79		14		 Garbanzos bolsa grande				105.30	1474.20
+ 104		14		 Chiles secos bolsa grande				1308.39	18317.46
+ 97		1		 Sopa gluten free				1713.50	1713.50
+ 8		2		 Pasta integral				14.89	29.78
+ 16		1		 Sopa integral				1814.81	1814.81
+ 66		15		 Arroz orgánico				1433.97	21509.55
+ 117		7		 Mandarina vegan				934.62	6542.34
+ 58		2		 Alubias vegan				1016.18	2032.36
+ 137		7		 Lentejas vegan				470.64	3294.48
+ 111		13		 Mandarina vegan				941.49	12239.37
+ 96		7		 Camote vegan				1363.72	9546.04
+
+                           Subtotal:   109131.13
+                           iva:        20786.88
+                           total:      129918.01
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+---------------------------------------------------

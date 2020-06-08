@@ -1,0 +1,12 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 14:20:34
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 13		6		 Habas bolsa grande				352.89	352.89
+ 55		5		 Avena con jarabe de agave				1696.35	1696.35
+ 83		8		 Jabón orgánico				1408.71	1408.71
+ 99		2		 Harina de garbanzo vegan				475.04	475.0
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

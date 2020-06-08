@@ -1,0 +1,9 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 13:46:35
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 42		7		 Pera orgánico				734.88	734.8
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

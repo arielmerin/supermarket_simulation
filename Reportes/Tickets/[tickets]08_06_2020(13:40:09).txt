@@ -1,0 +1,27 @@
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 34		7		 Harina de quinoa de baño				155.95	1091.65
+ 93		8		 Pepino orgánico				616.40	4931.20
+ 87		7		 Vinagre de Arroz integral				649.57	4546.99
+ 41		15		 Harina de garbanzo con aceite de coco				130.15	1952.25
+ 15		8		 Almendras con jarabe de agave				724.83	5798.64
+ 26		9		 Chayotes veggie				196.00	1764.00
+ 111		12		 Pasta bolsa grande				496.67	5960.04
+ 25		8		 Mango bolsa grande				1045.86	8366.88
+ 101		15		 Mango con aceite de coco				1653.87	24808.05
+ 94		13		 Café veggie				689.45	8962.85
+ 60		7		 Harina de garbanzo integral				998.38	6988.66
+ 10		12		 Quinoa bolsa grande				906.04	10872.48
+ 40		6		 Alubias de baño				890.86	5345.16
+ 123		2		 Harina de quinoa vegan				1311.12	2622.24
+ 149		9		 Nueces de baño				583.21	5248.89
+ 138		15		 Mango bolsa grande				1542.34	23135.10
+ 29		12		 Arroz con jarabe de agave				323.00	3876.00
+
+                           Subtotal:   106067.71
+                           iva:        20203.37
+                           total:      126271.08
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+---------------------------------------------------

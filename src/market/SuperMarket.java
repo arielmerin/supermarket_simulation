@@ -10,6 +10,7 @@ import java.io.Serializable;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
+import java.util.TimerTask;
 
 import static util.Utilidades.random;
 
@@ -137,23 +138,22 @@ public class SuperMarket extends Thread implements Serializable {
      */
     public void abreCaja(boolean esRapida){
         if (esRapida){
-            Checkout quickCheckout = new Checkout(true);
+            Checkout quickCheckout = new Checkout(true, 2);
             unifila.agrega(quickCheckout);
         }else {
-            Checkout largeCheckout = new Checkout(false);
+            Checkout largeCheckout = new Checkout(false, 2);
             cajas.agrega(largeCheckout);
         }
     }
 
     /**
-     *
+     * Genera un cliente aleatorio con un número aleatorio de elementos en su carrito
      * @return
      */
-    public boolean formandoCliente(){
-        int aleatorio = 25;
-        Client client = generaClienteAleatorio(aleatorio);
+    public boolean formandoCliente(Client client){
         if (client.getItems() != 0){
             tickets.agregar(client);
+            System.out.println(client);
             if (client.getItems() <= 20){
                 Checkout cajara =  unifila.elimina();
                 cajara.formarCliente(client);
@@ -167,6 +167,7 @@ public class SuperMarket extends Thread implements Serializable {
         }
         return false;
     }
+
 
     /**
      *
@@ -223,16 +224,19 @@ public class SuperMarket extends Thread implements Serializable {
      * @param productosCliente número de productos que el cliente llevará en su canasta
      * @return Cliente construido
      */
-    public Client generaClienteAleatorio(int productosCliente){
+    private Client cargaCarritoCompras(int productosCliente){
         Client client = new Client();
-        int productos = random(productosCliente) + 2;
-        for (int i = 0; i < productos; i++) {
+        for (int i = 0; i < productosCliente; i++) {
             int ran = random(almacenPrincipal.getAlmacen().getTamanio() - 1);
             asignaProducto(client,ran+ 1,random(15) + 1);
         }
         return client;
     }
 
+
+    public Client generaCliente(){
+        return cargaCarritoCompras(random(10) + 18);
+    }
 
     /**
      *
@@ -268,6 +272,7 @@ public class SuperMarket extends Thread implements Serializable {
     public void run() {
         while (cajas.esVacio()){
             for (Checkout caja : cajas){
+                caja.dormirCaja(caja.getPorAtender() * caja.getTiempoAtiendePProdcuto());
                 caja.run();
             }
         }

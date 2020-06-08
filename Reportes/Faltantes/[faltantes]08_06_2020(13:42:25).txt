@@ -1,0 +1,11 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 13:42:25
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 102		5		 Nueces veggie				1814.67	1814.67
+ 140		6		 Harina de quinoa integral				280.49	280.49
+ 146		4		 Vinagre de Arroz con jarabe de agave				941.96	941.9
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

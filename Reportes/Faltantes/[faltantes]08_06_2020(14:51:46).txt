@@ -1,0 +1,27 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 14:51:22
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 13		1		 Chayotes gluten free				1159.26	1159.26
+ 14		1		 Mandarina con jarabe de agave				390.61	390.61
+ 22		2		 Alubias veggie				630.75	630.75
+ 64		7		 Garbanzos vegan				592.06	592.06
+ 68		1		 Pan gluten free				1889.62	1889.62
+ 75		1		 Alubias de baño				1376.02	1376.02
+ 82		2		 Café de baño				414.43	414.43
+ 103		7		 Mandarina orgánico				1722.11	1722.11
+ 134		1		 Vinagre de Arroz veggie				1129.98	1129.9
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 6		0		 Lentejas con aceite de coco				1765.34	1765.34
+ 25		0		 Ezekiel con aceite de coco				1111.73	1111.73
+ 29		0		 Café orgánico				491.95	491.95
+ 40		0		 Café de baño				957.79	957.79
+ 44		0		 Harina de quinoa integral				302.49	302.49
+ 95		0		 Pepino orgánico				507.31	507.31
+ 100		0		 Splenda bolsa grande				742.00	742.00
+ 105		0		 Mango integral				1086.69	1086.69
+ 106		0		 Limones con aceite de coco				13.02	13.02
+ 113		0		 Jabón gluten free				272.41	272.41
+ 119		0		 Pera gluten free				49.55	49.5

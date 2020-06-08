@@ -1,0 +1,9 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 14:29:08
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 78		0		 Arroz orgánico				303.68	303.6

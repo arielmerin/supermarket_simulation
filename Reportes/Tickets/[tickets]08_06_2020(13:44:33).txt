@@ -1,0 +1,32 @@
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 52		6		 Avena vegan				1429.20	8575.20
+ 35		11		 Nueces de baño				258.56	2844.16
+ 132		2		 Spaghetti orgánico				1046.20	2092.40
+ 71		7		 Mandarina de baño				767.58	5373.06
+ 117		6		 Camote gluten free				1433.54	8601.24
+ 86		6		 Lentejas veggie				1135.15	6810.90
+ 98		8		 Chicharos orgánico				702.07	5616.56
+ 82		13		 Chicharos integral				1130.76	14699.88
+ 77		7		 Vinagre de Arroz con aceite de coco				856.75	5997.25
+ 144		3		 Camote con aceite de coco				1687.45	5062.35
+ 146		8		 Nueces gluten free				410.44	3283.52
+ 22		8		 Calabaza con jarabe de agave				351.55	2812.40
+ 46		2		 Edamames con jarabe de agave				1211.50	2423.00
+ 68		8		 Calabaza con aceite de coco				1320.72	10565.76
+ 35		3		 Nueces de baño				258.56	775.68
+ 138		13		 Café veggie				1211.13	15744.69
+ 131		14		 Jabón integral				914.58	12804.12
+ 9		1		 Spaghetti veggie				1577.67	1577.67
+ 81		1		 Harina de avena con aceite de coco				1734.47	1734.47
+ 66		15		 Habas de baño				1326.43	19896.45
+ 121		11		 Calabaza con jarabe de agave				1138.88	12527.68
+ 45		1		 Harina de quinoa vegan				1785.15	1785.15
+
+                           Subtotal:   127347.02
+                           iva:        24256.57
+                           total:      151603.59
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+---------------------------------------------------

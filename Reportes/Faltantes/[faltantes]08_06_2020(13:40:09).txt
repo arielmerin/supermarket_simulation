@@ -1,0 +1,9 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 13:40:09
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 39		6		 Papaya veggie				1244.72	1244.7
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

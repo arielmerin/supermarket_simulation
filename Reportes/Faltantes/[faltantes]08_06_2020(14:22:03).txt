@@ -1,0 +1,10 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 14:22:03
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 32		3		 Habas integral				1376.50	1376.5
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 8		0		 Alubias de baño				129.74	129.74
+ 92		0		 Lentejas con aceite de coco				1801.02	1801.0

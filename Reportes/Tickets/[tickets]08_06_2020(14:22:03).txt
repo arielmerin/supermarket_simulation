@@ -1,0 +1,20 @@
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 65		8		 Café integral				834.59	6676.72
+ 71		5		 Salsa de soya veggie				306.00	1530.00
+ 90		3		 Nueces vegan				719.46	2158.38
+ 129		5		 Spaghetti con jarabe de agave				1682.95	8414.75
+ 26		15		 Habas vegan				1323.93	19858.95
+ 63		2		 Quinoa con aceite de coco				1502.86	3005.72
+ 120		4		 Lentejas de baño				201.63	806.52
+ 94		3		 Café de baño				572.55	1717.65
+ 116		6		 Mandarina con jarabe de agave				1711.63	10269.78
+ 23		14		 Quinoa con aceite de coco				790.97	11073.58
+
+                           Subtotal:   55030.12
+                           iva:        10481.93
+                           total:      65512.05
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+---------------------------------------------------

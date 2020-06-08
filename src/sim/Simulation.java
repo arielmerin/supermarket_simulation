@@ -12,6 +12,9 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Iterator;
+import java.util.Timer;
+import java.util.TimerTask;
+
 import static util.Utilidades.random;
 /**
  * <h1>Simulación</h1>
@@ -63,18 +66,44 @@ public class Simulation implements Plotable {
     private Serializer serializer;
 
 
+    private class EntraCliente extends TimerTask{
+
+        public Client clientEntrando;
+
+        public EntraCliente(){
+            this.clientEntrando = costco.generaCliente();
+        }
+
+        @Override
+        public void run() {
+            formandoEnCaja();
+            completarAtencion();
+        }
+        public void completarAtencion(){
+            try {
+                long espera = clientEntrando.getItems() * random(3);
+                Thread.sleep(espera);
+                System.out.println("Toy completando la atencion chica, me wa tardar: " + espera );
+            }catch (InterruptedException e){
+                e.printStackTrace();
+            }
+        }
+
+
+        public void formandoEnCaja(){
+            costco.formandoCliente(costco.generaCliente());
+        }
+    }
     /**
      * Constructor principal de la clase para obtener el número de cajas rápidas, normales los clientes y el numero de veces
      * que se hizo el cálculo
      * @param cajasRapidas número de cajas que reciben clientes con menos de 20 artículos
      * @param cajasNormales Número de cajas que recibe clientes con más de 20 artículos
-     * @param clientes El número de clientes que se pensará para el supermercado
      * @param veces Número de veces que se repite dicho cálculo para esta simulación
      */
-    public Simulation(int cajasRapidas, int cajasNormales, int clientes, int productos, int veces){
+    public Simulation(int cajasRapidas, int cajasNormales, int productos, int veces){
         this.numProductos = productos;
         this.cajas = cajasNormales + cajasRapidas;
-        this.clientes = clientes;
         this.veces = veces;
         int rapidas = random(cajas);
         costco = new SuperMarket(rapidas + 2, cajas - rapidas, 100 );
@@ -86,17 +115,24 @@ public class Simulation implements Plotable {
      *
      * @return
      */
-    public double simular(){
+    public double simular() throws InterruptedException {
         generarProductosAleatorios(numProductos);
         cargarProductos("");
+        Timer timer = new Timer(true);
 
-        for (int i = 0; i < clientes;) {
-            if (costco.formandoCliente()){
-                i++;
-            }
+
+        TimerTask entradaClientes = new EntraCliente();
+
+        timer.schedule(entradaClientes, 0,200);
+
+        try {
+            Thread.sleep(24000);
+        }catch (InterruptedException e){
+            e.printStackTrace();
         }
-        System.out.println(costco.getCajas());
+        timer.cancel();
 
+        costco.run();
         return 0;
     }
 

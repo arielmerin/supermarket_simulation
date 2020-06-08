@@ -9,6 +9,8 @@ import java.io.Serializable;
  */
 public class Checkout extends Thread implements Serializable, Comparable<Checkout> {
 
+    private int tiempoAtiendePProdcuto;
+
     /**
      *
      */
@@ -27,15 +29,25 @@ public class Checkout extends Thread implements Serializable, Comparable<Checkou
     /**
      *
      */
-    protected int porAtender;
+    private int porAtender;
 
     private boolean esRapida;
     /**
      *
      */
-    public Checkout(boolean esRapida) {
+    public Checkout(boolean esRapida, int tiempoAtiendePProdcuto) {
         clients = new Cola<>();
         this.esRapida = esRapida;
+        this.tiempoAtiendePProdcuto = tiempoAtiendePProdcuto;
+    }
+
+
+    public int getPorAtender() {
+        return porAtender;
+    }
+
+    public int getTiempoAtiendePProdcuto() {
+        return tiempoAtiendePProdcuto;
     }
 
     /**
@@ -75,7 +87,8 @@ public class Checkout extends Thread implements Serializable, Comparable<Checkou
 
     @Override
     public void run() {
-        while (porAtender != 0){
+
+        for (Client client : clients){
             porAtender--;
         }
         System.out.println("Acabé de atender mis clientes");

@@ -1,0 +1,14 @@
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 9		7		 Pepino con aceite de coco				1251.63	8761.41
+ 149		2		 Calabaza veggie				634.39	1268.78
+ 67		1		 Arroz orgánico				20.44	20.44
+ 61		1		 Papaya orgánico				445.10	445.10
+
+                           Subtotal:   8816.41
+                           iva:        1679.32
+                           total:      10495.73
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+---------------------------------------------------
