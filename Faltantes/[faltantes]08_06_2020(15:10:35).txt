@@ -1,0 +1,9 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 15:10:35
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

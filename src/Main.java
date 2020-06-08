@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import UImenu.Menu;
 import market.admin.Checkout;
 import market.admin.Client;
@@ -12,21 +12,18 @@ import util.generator.ProductoBuilder;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
-=======
 
 
 import sim.Simulation;
->>>>>>> 6cb2e1aec0725550d7ba598623741c533a1706ee
 
 
 public class Main {
     public static void main(String[] args) {
-<<<<<<< HEAD
         Menu menu = new Menu();
         //menu.principal();
 
             SuperMarket superMarket = new SuperMarket(11,12,15);
-
+            /*
             superMarket.cargarProductos("productos.txt");
             superMarket.getAlmacen().agregarProducto(new Product(3,"pug", (float) 2.2));
             superMarket.getAlmacen().agregarProducto(new Product(2,"perro Salchicha", (float) 2.2));
@@ -34,6 +31,8 @@ public class Main {
             for (int j = 0; j < 97; j++) {
                 superMarket.formandoCliente();
             }
+
+             */
 
             System.out.println("Estos son los productos con pocas existas");
             Serializer serializer = new Serializer();
@@ -54,12 +53,11 @@ public class Main {
             textos.agregar(String.valueOf(productoBuilder.next()));
         }
         serializer.escribeTXT(textos,"prodctosAlea.txt");
-
-        Simulation simulation = new Simulation(7,8,150,500,2);
+        /*
+        Simulation simulation = new Simulation(7,8,150,500);
         simulation.simular();
         simulation.generarReportes();
-
-=======
+        */
         Simulation simulation = new Simulation(7,8,150,2);
         try {
             simulation.simular();
@@ -67,6 +65,5 @@ public class Main {
             e.printStackTrace();
         }
         simulation.generarReportes();
->>>>>>> 6cb2e1aec0725550d7ba598623741c533a1706ee
     }
 }
