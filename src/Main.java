@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import UImenu.Menu;
 import market.admin.Checkout;
 import market.admin.Client;
@@ -11,10 +12,16 @@ import util.generator.ProductoBuilder;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
+=======
+
+
+import sim.Simulation;
+>>>>>>> 6cb2e1aec0725550d7ba598623741c533a1706ee
 
 
 public class Main {
     public static void main(String[] args) {
+<<<<<<< HEAD
         Menu menu = new Menu();
         //menu.principal();
 
@@ -52,5 +59,14 @@ public class Main {
         simulation.simular();
         simulation.generarReportes();
 
+=======
+        Simulation simulation = new Simulation(7,8,150,2);
+        try {
+            simulation.simular();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        simulation.generarReportes();
+>>>>>>> 6cb2e1aec0725550d7ba598623741c533a1706ee
     }
 }
