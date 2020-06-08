@@ -88,8 +88,8 @@ public class Checkout extends Thread implements Serializable, Comparable<Checkou
     @Override
     public void run() {
 
-        for (Client client : clients){
-            porAtender--;
+        while (porAtender != 0){
+           porAtender--;
         }
         System.out.println("Acabé de atender mis clientes");
     }
