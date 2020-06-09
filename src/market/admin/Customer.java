@@ -1,7 +1,7 @@
 package market.admin;
 
 import util.Pila;
-import static util.Utilidades.random;
+import static util.Utilities.random;
 
 /**
  * <h1>Customer</h1>
@@ -32,16 +32,16 @@ public class Customer implements Comparable<Customer> {
         private double total;
         @Override
         public String toString() {
-            return "TICKET DE COMPRA"+
+            return "\t\t\tCASH RECEIPT"+
                     "\n----------------------------------------------------\n" +
-                    "#Producto Cantidad     Nombre    Precio   Total\n"+
+                    "#Item  QTY     Description    Price   Total\n"+
                     shoppingCart +
-                    String.format("\n\n                           Subtotal:   %2.2f", computeTotal() - computeIva(computeTotal())) + "\n"+
-                    String.format("                           iva:        %2.2f", computeIva(computeTotal())) + "\n"+
+                    String.format("\n\n                           Subtotal:   %2.2f", computeTotal() - computeTaxes(computeTotal())) + "\n"+
+                    String.format("                           taxes:        %2.2f", computeTaxes(computeTotal())) + "\n"+
                     String.format("                           total:      %2.2f", computeTotal()) + "\n"+
-                    "Total de artículos vendidos: "+ shoppingCart.getTamanio() + "\n"+
+                    "Total number of items sold: "+ shoppingCart.getTamanio() + "\n"+
                     "----------------------------------------------------\n"+
-                    "¡GRACIAS POR TU COMPRA, VUELVE PRONTO!\n" +
+                    "\t\tTHANK YOU FOR SHOPPING!\n" +
                     "----------------------------------------------------\n";
         }
 
@@ -92,7 +92,7 @@ public class Customer implements Comparable<Customer> {
      * @param total
      * @return
      */
-    public double computeIva(double total){
+    public double computeTaxes(double total){
         return total * 0.16;
     }
 

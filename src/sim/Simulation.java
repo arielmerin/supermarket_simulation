@@ -100,16 +100,16 @@ public class Simulation {
 
     /**
      *
-     * @param cajasRapidas
-     * @param cajasNormales
-     * @param veces
+     * @param quickCheckouts
+     * @param largeCheckouts
+     * @param times
      */
-    public Simulation(int cajasRapidas, int cajasNormales, int veces){
-        this.largeCheckout = cajasNormales;
-        this.quickCheckouts = cajasRapidas;
-        this.checkouts = cajasNormales + cajasRapidas;
-        this.times = veces;
-        costco = new SuperMarket(cajasRapidas, cajasNormales );
+    public Simulation(int quickCheckouts, int largeCheckouts, int times){
+        this.largeCheckout = largeCheckouts;
+        this.quickCheckouts = quickCheckouts;
+        this.checkouts = largeCheckouts + quickCheckouts;
+        this.times = times;
+        costco = new SuperMarket(quickCheckouts, largeCheckouts);
         serializer = new Serializer();
         customers = new Lista<>();
     }

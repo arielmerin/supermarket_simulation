@@ -10,7 +10,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-import static util.Utilidades.random;
+import static util.Utilities.random;
 
 /**
  *<h1> Supermarket </h1>

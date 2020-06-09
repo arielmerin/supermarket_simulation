@@ -1,9 +1,8 @@
 package util.generator;
 import java.util.Iterator;
-import java.util.Random;
 
-import static util.Utilidades.random;
-import static util.Utilidades.randomD;
+import static util.Utilities.random;
+import static util.Utilities.randomD;
 
 public class ProductoBuilder implements Iterator<Producto> {
 

@@ -81,9 +81,9 @@ public class Checkout implements Serializable, Comparable<Checkout> {
 
     @Override
     public String toString() {
-        return "CAJA " + (isQuick ? " RÁPIDA\n": " NORMAL\n")+
-                String.format("Venta total: $%2.2f", computeTotalSale()) +
-                "\nClientes atendidos: " + clients.getTamanio() + "\n\n";
+        return  (isQuick ? " QUICK ": " LARGE ")+ "CHECKOUT\n" +
+                String.format("Total sales : $%2.2f", computeTotalSale()) +
+                "\nAttended customers: " + clients.getTamanio() + "\n\n";
     }
 
 }

@@ -12,7 +12,7 @@ import java.util.Objects;
 public class Product implements Comparable<Product>, Serializable {
 
     /**
-     * The only indentificador for each product
+     * The only identifier for each product
      */
     private int id;
 
@@ -142,14 +142,6 @@ public class Product implements Comparable<Product>, Serializable {
         if (units <= 0 ){
             available = false;
         }
-    }
-
-    /**
-     *
-     * @return
-     */
-    public boolean isAvailable(){
-        return available;
     }
 
     @Override

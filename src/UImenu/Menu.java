@@ -5,11 +5,11 @@ import market.admin.Product;
 import serializer.Serializer;
 import java.io.File;
 import java.util.Scanner;
-import static util.Utilidades.getFloat;
-import static util.Utilidades.getInt;
+import static util.Utilities.getFloat;
+import static util.Utilities.getInt;
 
 /**
- * <h1>Menú</h1>
+ * <h1>Menu</h1>
  *
  * @author Ariel Merino & Armando Aquino
  * @version 1.0

@@ -14,15 +14,15 @@ public class Main {
      * @param args
      */
     public static void main(String[] args) {
-        Lista<String> plotear = new Lista<>();
+        Lista<String> plotting = new Lista<>();
         for (int i = 1; i < 15; i++) {
 
             Simulation simulation = new Simulation(i,15-i,2);
             simulation.simulate();
             simulation.getReports();
-            plotear.agregar(simulation.writeLine());
+            plotting.agregar(simulation.writeLine());
         }
         Serializer serializer = new Serializer();
-        serializer.writeTXT(plotear, "datos.dat");
+        serializer.writeTXT(plotting, "datos.dat");
     }
 }

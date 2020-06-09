@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @author Ariel Merino Peña, Armando Aquino Chapa
  * @version 1
  */
-public class Utilidades {
+public class Utilities {
     /**
      * Este método sirve para controlar que en las entradas de enteros
      * lo único que se pueda ingresar sean justo sólo valores numéricos y nada de cadenas
