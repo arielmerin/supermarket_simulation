@@ -1,0 +1,13 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 17:10:35
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 9		1		 Manzana veggie				1534.69	1534.69
+ 14		3		 Pera orgánico				1561.11	1561.11
+ 39		1		 Harina de quinoa vegan				298.19	298.19
+ 53		2		 Avena orgánico				1661.00	1661.00
+ 82		2		 Lentejas orgánico				1210.98	1210.9
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 107		0		 Mango integral				976.04	976.0

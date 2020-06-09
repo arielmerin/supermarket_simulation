@@ -1,0 +1,13 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 16:19:49
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 20		5		 Splenda con aceite de coco				910.14	910.14
+ 34		3		 Café vegan				23.54	23.54
+ 54		6		 Lentejas orgánico				1010.20	1010.20
+ 89		1		 Nueces vegan				203.88	203.88
+ 124		5		 Calabaza veggie				295.70	295.7
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

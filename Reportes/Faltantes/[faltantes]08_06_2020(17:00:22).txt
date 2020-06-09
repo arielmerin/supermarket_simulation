@@ -1,0 +1,14 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 16:59:58
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 9		1		 Ezekiel integral				235.54	235.54
+ 23		1		 Vinagre de Arroz vegan				1714.25	1714.25
+ 80		1		 Habas gluten free				92.81	92.81
+ 123		2		 Café veggie				1752.97	1752.9
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 2		0		 Pasta de baño				1672.53	1672.53
+ 64		0		 Harina de trigo con aceite de coco				1579.18	1579.18
+ 131		0		 Harina de quinoa gluten free				369.67	369.6

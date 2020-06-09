@@ -2,7 +2,6 @@ package sim;
 
 import market.SuperMarket;
 import market.admin.Client;
-import market.admin.Plotable;
 import serializer.Serializer;
 import util.Lista;
 import util.generator.ProductoBuilder;
@@ -23,17 +22,16 @@ import static util.Utilidades.random;
  * @autor Armando Aquino and Ariel Merino
  * @version 1.0
  */
-public class Simulation implements Plotable {
+public class Simulation {
 
-    /**
-     * lista de elementos que serán enviados para su almacenamiento en un .p y gnuplot pueda emplearlos para graficar
-     */
-    private Lista<Plotable> plotables;
 
     /**
      * Número de cajas que tendrá esta simulación
      */
     private int cajas;
+
+    private int cajasRapidas;
+    private int cajasLargas;
 
     /**
      * Número de clientes pensados para la simulación.
@@ -51,12 +49,6 @@ public class Simulation implements Plotable {
     private SuperMarket costco;
 
 
-    private int promedio;
-
-    /**
-     * La cantidad de productos que generará el programa aleatoreamente
-     */
-    private int numProductos;
 
     private Lista<Client> clientesAtendidos;
 
@@ -72,6 +64,7 @@ public class Simulation implements Plotable {
 
         public EntraCliente(){
             this.clientEntrando = costco.generaCliente();
+            clientesAtendidos.agregar(clientEntrando);
         }
 
         @Override
@@ -81,9 +74,8 @@ public class Simulation implements Plotable {
         }
         public void completarAtencion(){
             try {
-                long espera = clientEntrando.getItems() * random(3);
+                long espera = clientEntrando.getWaitingTime();
                 Thread.sleep(espera);
-                System.out.println("Toy completando la atencion chica, me wa tardar: " + espera );
             }catch (InterruptedException e){
                 e.printStackTrace();
             }
@@ -101,13 +93,14 @@ public class Simulation implements Plotable {
      * @param cajasNormales Número de cajas que recibe clientes con más de 20 artículos
      * @param veces Número de veces que se repite dicho cálculo para esta simulación
      */
-    public Simulation(int cajasRapidas, int cajasNormales, int productos, int veces){
-        this.numProductos = productos;
+    public Simulation(int cajasRapidas, int cajasNormales, int veces){
+        this.cajasLargas = cajasNormales;
+        this.cajasRapidas = cajasRapidas;
         this.cajas = cajasNormales + cajasRapidas;
         this.veces = veces;
-        int rapidas = random(cajas);
-        costco = new SuperMarket(rapidas + 2, cajas - rapidas, 100 );
+        costco = new SuperMarket(cajasRapidas, cajasNormales );
         serializer = new Serializer();
+        clientesAtendidos = new Lista<>();
     }
 
 
@@ -115,16 +108,14 @@ public class Simulation implements Plotable {
      *
      * @return
      */
-    public double simular() throws InterruptedException {
-        generarProductosAleatorios(numProductos);
+    public void simular() throws InterruptedException {
+        generarProductosAleatorios(150);
         cargarProductos("");
         Timer timer = new Timer(true);
 
 
         TimerTask entradaClientes = new EntraCliente();
-
-        timer.schedule(entradaClientes, 0,200);
-
+        timer.schedule(entradaClientes, 0, 200);
         try {
             Thread.sleep(24000);
         }catch (InterruptedException e){
@@ -132,36 +123,44 @@ public class Simulation implements Plotable {
         }
         timer.cancel();
 
-        costco.run();
-        return 0;
     }
 
     /**
      *
-     * @param veces
-     * @param cajas
-     * @param clientes
      * @return
      */
-    public double promediar(int veces, int cajas, int clientes) {
+    public double promediar() {
+        int clientesRapidos = 0;
+        int clientesLargos = 0;
+        double sumatiempoLargas = 0.0;
+        double sumatiempoRapidas = 0.0;
 
-        return 0;
-    }
+        for (Client clienteAtendido: costco.getTickets()){
+            if (clienteAtendido.getItems() > 20){
+                clientesLargos++;
+                sumatiempoLargas += clienteAtendido.getWaitingTime();
+            }else {
+                clientesRapidos++;
+                sumatiempoRapidas += clienteAtendido.getWaitingTime();
+            }
 
-    @Override
-    public String escribeLinea() {
-        return clientes + "  " + promedio;
-    }
-
-
-    @Override
-    public void guarda(BufferedWriter out) throws IOException {
-        Iterator it = plotables.iterator();
-        while (it.hasNext()){
-            Plotable elem = (Plotable)it.next();
-            out.write(elem.escribeLinea());
         }
+        sumatiempoLargas = sumatiempoLargas / clientesLargos;
+        sumatiempoRapidas = sumatiempoRapidas / clientesRapidos;
+        return (sumatiempoRapidas + sumatiempoLargas)/2;
     }
+
+    /**
+     *
+     * @return
+     */
+    public String escribeLinea() {
+        String caden = String.format(  "%.2f\t%d\n",promediar(),cajasRapidas);
+        return caden;
+    }
+
+
+
 
     /**
      *

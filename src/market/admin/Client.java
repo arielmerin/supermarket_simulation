@@ -1,12 +1,14 @@
 package market.admin;
 
 import util.Pila;
+import static util.Utilidades.random;
+
 
 public class Client implements Comparable<Client> {
 
     private Purchase purchase = new Purchase();
 
-    private int waitingTime;
+    private int articulos;
 
     @Override
     public int compareTo(Client o) {
@@ -32,7 +34,7 @@ public class Client implements Comparable<Client> {
                     String.format("\n\n                           Subtotal:   %2.2f", calculaTotal() - calculaIva(calculaTotal())) + "\n"+
                     String.format("                           iva:        %2.2f", calculaIva(calculaTotal())) + "\n"+
                     String.format("                           total:      %2.2f", calculaTotal()) + "\n"+
-                    "Total de artículos comprados: "+ shoppingCart.getTamanio() + "\n"+
+                    "Total de artículos vendidos: "+ shoppingCart.getTamanio() + "\n"+
                     "----------------------------------------------------\n"+
                     "¡GRACIAS POR TU COMPRA, VUELVE PRONTO!\n" +
                     "----------------------------------------------------\n";
@@ -66,14 +68,16 @@ public class Client implements Comparable<Client> {
 
     public void agregarAlCarrito(Product product) {
         purchase.shoppingCart.agrega(product);
+        articulos++;
     }
 
     public double calculaIva(double total){
         return total * 0.16;
     }
 
-    public void setWaitingTime(int waitingTime) {
-        this.waitingTime = waitingTime;
+    public long getWaitingTime() {
+        int tiempoTardaPorArticulo = purchase.shoppingCart.getTamanio() >= 20 ? random(9) + 28: random(5) + 1;
+        return purchase.shoppingCart.getTamanio() * tiempoTardaPorArticulo;
     }
 
     @Override

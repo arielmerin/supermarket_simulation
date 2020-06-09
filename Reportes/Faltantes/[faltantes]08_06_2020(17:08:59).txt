@@ -1,0 +1,13 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 17:08:35
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 29		2		 Manzana integral				598.18	598.18
+ 33		9		 Harina integral de baño				578.39	578.39
+ 93		5		 Sopa veggie				674.73	674.7
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 12		0		 Chiles secos bolsa grande				1704.43	1704.43
+ 26		0		 Papaya con jarabe de agave				1309.51	1309.51
+ 72		0		 Manzana veggie				1408.79	1408.7

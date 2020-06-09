@@ -1,0 +1,14 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 17:19:55
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 12		3		 Avena de baño				1294.64	1294.64
+ 29		3		 Café con aceite de coco				119.19	119.19
+ 36		8		 Pasta con jarabe de agave				636.39	636.39
+ 91		1		 Pasta gluten free				1731.96	1731.96
+ 124		2		 Pasta de baño				1341.41	1341.41
+ 144		1		 Edamames orgánico				1395.99	1395.9
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

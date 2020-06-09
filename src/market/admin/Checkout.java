@@ -106,9 +106,9 @@ public class Checkout extends Thread implements Serializable, Comparable<Checkou
 
     @Override
     public String toString() {
-        return "Caja\n" +
+        return "CAJA " + (esRapida? " RÁPIDA\n": " NORMAL\n")+
                 String.format("Venta total: $%2.2f", calculaVentaTotal()) +
-                "\nClientes atendidos: " + clients.getTamanio();
+                "\nClientes atendidos: " + clients.getTamanio() + "\n\n";
     }
 
 }

@@ -1,9 +1,0 @@
-   :::    REPORTE DE POCAS EXISTENCIAS   :::
-    Fecha: 08/06/2020 - 14:44:30
-
- ----------------- QUEDAN POCOS ------------------
-   ID    Cantidad         Nombre         Precio 
- 81		7		 Vinagre de Arroz gluten free				317.47	317.4
- ---------------- FALTAN ----------------------
-   ID    Cantidad         Nombre         Precio 
-

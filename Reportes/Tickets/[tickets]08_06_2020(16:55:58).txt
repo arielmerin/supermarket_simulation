@@ -1,0 +1,997 @@
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 94		3		 Edamames veggie				8.20	24.60
+ 24		4		 Mango con jarabe de agave				1260.45	5041.80
+ 12		7		 Edamames con aceite de coco				1230.93	8616.51
+ 100		1		 Papaya con jarabe de agave				1549.65	1549.65
+ 114		13		 Frijoles con jarabe de agave				359.99	4679.87
+ 70		3		 Garbanzos de baño				1759.36	5278.08
+ 144		4		 Frijoles orgánico				1388.53	5554.12
+ 135		10		 Sopa de baño				452.90	4529.00
+ 119		10		 Harina integral orgánico				358.01	3580.10
+ 84		3		 Harina de avena orgánico				1623.18	4869.54
+ 14		1		 Harina de garbanzo con jarabe de agave				1190.92	1190.92
+ 140		8		 Harina de quinoa vegan				554.73	4437.84
+ 31		9		 Pasta orgánico				1416.16	12745.44
+ 135		15		 Sopa de baño				452.90	6793.50
+ 130		8		 Chayotes veggie				95.51	764.08
+ 117		10		 Papaya gluten free				1548.93	15489.30
+ 102		4		 Garbanzos vegan				530.56	2122.24
+ 91		14		 Ezekiel de baño				1241.48	17380.72
+ 32		13		 Pera integral				1832.34	23820.42
+ 135		5		 Sopa de baño				452.90	2264.50
+ 119		9		 Harina integral orgánico				358.01	3222.09
+ 46		3		 Salsa de soya con aceite de coco				513.79	1541.37
+ 18		15		 Pera gluten free				823.80	12357.00
+ 81		14		 Jabón gluten free				367.73	5148.22
+ 26		15		 Splenda orgánico				1266.62	18999.30
+ 86		6		 Salsa de soya bolsa grande				374.31	2245.86
+
+                           Subtotal:   146366.70
+                           iva:        27879.37
+                           total:      174246.07
+Total de artículos vendidos: 26
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 51		4		 Spaghetti veggie				760.22	3040.88
+ 51		12		 Spaghetti veggie				760.22	9122.64
+ 70		6		 Garbanzos de baño				1759.36	10556.16
+ 123		14		 Pera orgánico				1577.28	22081.92
+ 49		6		 Café veggie				572.80	3436.80
+ 65		6		 Camote integral				870.61	5223.66
+ 19		1		 Pera de baño				1714.95	1714.95
+ 4		4		 Chicharos bolsa grande				1544.45	6177.80
+ 143		1		 Cereales integral				762.12	762.12
+ 20		12		 Camote gluten free				225.77	2709.24
+ 34		2		 Papaya gluten free				290.62	581.24
+ 48		9		 Frijoles vegan				1544.35	13899.15
+ 39		5		 Camote bolsa grande				694.75	3473.75
+ 103		5		 Cereales gluten free				267.76	1338.80
+ 117		11		 Papaya gluten free				1548.93	17038.23
+ 132		9		 Frijoles integral				762.73	6864.57
+ 56		10		 Edamames con aceite de coco				154.23	1542.30
+ 77		15		 Harina de garbanzo con aceite de coco				963.93	14458.95
+ 114		10		 Frijoles con jarabe de agave				359.99	3599.90
+ 21		7		 Mango vegan				2.59	18.13
+ 114		10		 Frijoles con jarabe de agave				359.99	3599.90
+ 67		5		 Harina de garbanzo vegan				329.72	1648.60
+
+                           Subtotal:   111627.34
+                           iva:        21262.35
+                           total:      132889.69
+Total de artículos vendidos: 22
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 93		5		 Spaghetti orgánico				538.78	2693.90
+ 49		15		 Café veggie				572.80	8592.00
+ 119		9		 Harina integral orgánico				358.01	3222.09
+ 141		3		 Splenda bolsa grande				1205.03	3615.09
+ 40		3		 Nueces con aceite de coco				234.62	703.86
+ 108		1		 Quinoa orgánico				671.05	671.05
+ 100		8		 Papaya con jarabe de agave				1549.65	12397.20
+ 65		13		 Camote integral				870.61	11317.93
+ 149		6		 Chicharos bolsa grande				1571.97	9431.82
+ 122		1		 Cereales bolsa grande				683.84	683.84
+ 53		9		 Harina de quinoa con aceite de coco				1400.60	12605.40
+ 78		6		 Spaghetti de baño				1830.59	10983.54
+ 12		4		 Edamames con aceite de coco				1230.93	4923.72
+ 88		9		 Pepino gluten free				1096.45	9868.05
+ 34		8		 Papaya gluten free				290.62	2324.96
+ 116		7		 Quinoa con aceite de coco				1518.77	10631.39
+ 56		1		 Edamames con aceite de coco				154.23	154.23
+ 21		15		 Mango vegan				2.59	38.85
+ 90		9		 Mango con aceite de coco				608.71	5478.39
+ 124		13		 Spaghetti veggie				527.15	6852.95
+ 54		9		 Splenda con aceite de coco				1493.20	13438.80
+ 116		14		 Quinoa con aceite de coco				1518.77	21262.78
+ 90		12		 Mango con aceite de coco				608.71	7304.52
+ 55		7		 Lentejas con jarabe de agave				149.94	1049.58
+
+                           Subtotal:   134606.59
+                           iva:        25639.35
+                           total:      160245.94
+Total de artículos vendidos: 24
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 1		8		 Jabón gluten free				1021.10	8168.80
+ 58		10		 Sopa gluten free				43.50	435.00
+ 66		12		 Mango orgánico				1784.90	21418.80
+ 109		10		 Pasta de baño				1417.66	14176.60
+ 30		15		 Café vegan				1367.74	20516.10
+ 9		14		 Harina de avena integral				1600.49	22406.86
+ 113		11		 Ezekiel integral				1016.21	11178.31
+ 26		12		 Splenda orgánico				1266.62	15199.44
+ 56		13		 Edamames con aceite de coco				154.23	2004.99
+ 146		8		 Vinagre de Arroz gluten free				930.47	7443.76
+ 81		11		 Jabón gluten free				367.73	4045.03
+ 90		5		 Mango con aceite de coco				608.71	3043.55
+ 41		1		 Almendras con aceite de coco				1270.02	1270.02
+ 35		9		 Pepino con jarabe de agave				561.02	5049.18
+ 24		7		 Mango con jarabe de agave				1260.45	8823.15
+ 6		11		 Alubias integral				314.47	3459.17
+ 111		7		 Chayotes con jarabe de agave				576.70	4036.90
+ 135		12		 Sopa de baño				452.90	5434.80
+ 114		13		 Frijoles con jarabe de agave				359.99	4679.87
+ 43		15		 Habas de baño				651.64	9774.60
+
+                           Subtotal:   144954.54
+                           iva:        27610.39
+                           total:      172564.93
+Total de artículos vendidos: 20
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 116		1		 Quinoa con aceite de coco				1518.77	1518.77
+ 17		6		 Garbanzos con aceite de coco				653.29	3919.74
+ 145		6		 Avena vegan				176.72	1060.32
+ 109		7		 Pasta de baño				1417.66	9923.62
+ 68		2		 Arroz bolsa grande				210.54	421.08
+ 90		2		 Mango con aceite de coco				608.71	1217.42
+ 64		7		 Avena vegan				1038.68	7270.76
+ 13		7		 Pepino orgánico				1148.07	8036.49
+ 132		3		 Frijoles integral				762.73	2288.19
+ 76		15		 Pera gluten free				172.81	2592.15
+ 109		4		 Pasta de baño				1417.66	5670.64
+ 54		6		 Splenda con aceite de coco				1493.20	8959.20
+ 134		11		 Harina de trigo con jarabe de agave				944.39	10388.29
+ 88		12		 Pepino gluten free				1096.45	13157.40
+ 13		2		 Pepino orgánico				1148.07	2296.14
+ 134		4		 Harina de trigo con jarabe de agave				944.39	3777.56
+ 139		5		 Salsa de soya orgánico				1655.05	8275.25
+ 62		15		 Edamames con jarabe de agave				749.51	11242.65
+ 126		7		 Salsa de soya gluten free				1110.04	7770.28
+ 97		11		 Pera gluten free				1618.40	17802.40
+
+                           Subtotal:   107174.21
+                           iva:        20414.14
+                           total:      127588.35
+Total de artículos vendidos: 20
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 101		10		 Harina integral veggie				227.44	2274.40
+ 125		12		 Splenda de baño				609.28	7311.36
+ 17		10		 Garbanzos con aceite de coco				653.29	6532.90
+ 105		7		 Limones gluten free				22.01	154.07
+ 101		7		 Harina integral veggie				227.44	1592.08
+ 43		11		 Habas de baño				651.64	7168.04
+ 42		10		 Pepino con aceite de coco				1577.28	15772.80
+ 118		14		 Harina integral orgánico				575.92	8062.88
+ 5		7		 Mandarina gluten free				1203.38	8423.66
+ 17		13		 Garbanzos con aceite de coco				653.29	8492.77
+ 90		11		 Mango con aceite de coco				608.71	6695.81
+ 146		7		 Vinagre de Arroz gluten free				930.47	6513.29
+ 33		2		 Vinagre de Arroz veggie				1574.18	3148.36
+ 119		4		 Harina integral orgánico				358.01	1432.04
+ 139		2		 Salsa de soya orgánico				1655.05	3310.10
+ 72		1		 Nueces integral				761.60	761.60
+ 29		14		 Cereales orgánico				950.38	13305.32
+ 138		8		 Salsa de soya de baño				1104.02	8832.16
+ 30		15		 Café vegan				1367.74	20516.10
+ 144		11		 Frijoles orgánico				1388.53	15273.83
+ 64		15		 Avena vegan				1038.68	15580.20
+ 16		2		 Lentejas de baño				528.02	1056.04
+ 63		10		 Arroz vegan				154.93	1549.30
+ 89		3		 Pasta veggie				989.88	2969.64
+
+                           Subtotal:   140052.15
+                           iva:        26676.60
+                           total:      166728.75
+Total de artículos vendidos: 24
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 106		12		 Frijoles de baño				243.72	2924.64
+ 55		4		 Lentejas con jarabe de agave				149.94	599.76
+ 55		5		 Lentejas con jarabe de agave				149.94	749.70
+ 78		13		 Spaghetti de baño				1830.59	23797.67
+ 84		13		 Harina de avena orgánico				1623.18	21101.34
+ 140		5		 Harina de quinoa vegan				554.73	2773.65
+ 42		12		 Pepino con aceite de coco				1577.28	18927.36
+ 131		12		 Manzana orgánico				917.77	11013.24
+ 92		15		 Quinoa bolsa grande				376.94	5654.10
+ 137		6		 Ezekiel con jarabe de agave				1588.33	9529.98
+ 132		11		 Frijoles integral				762.73	8390.03
+ 133		14		 Harina de quinoa orgánico				876.63	12272.82
+ 12		3		 Edamames con aceite de coco				1230.93	3692.79
+ 38		12		 Jabón de baño				132.07	1584.84
+ 110		14		 Limones veggie				518.61	7260.54
+ 23		9		 Almendras gluten free				1856.55	16708.95
+ 106		11		 Frijoles de baño				243.72	2680.92
+ 55		3		 Lentejas con jarabe de agave				149.94	449.82
+ 132		9		 Frijoles integral				762.73	6864.57
+ 67		14		 Harina de garbanzo vegan				329.72	4616.08
+ 131		14		 Manzana orgánico				917.77	12848.78
+ 79		8		 Habas con aceite de coco				490.89	3927.12
+ 73		1		 Mango veggie				977.90	977.90
+ 39		10		 Camote bolsa grande				694.75	6947.50
+
+                           Subtotal:   156487.04
+                           iva:        29807.06
+                           total:      186294.10
+Total de artículos vendidos: 24
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 44		12		 Vinagre de Arroz con jarabe de agave				850.14	10201.68
+ 101		6		 Harina integral veggie				227.44	1364.64
+ 4		1		 Chicharos bolsa grande				1544.45	1544.45
+ 5		6		 Mandarina gluten free				1203.38	7220.28
+ 84		14		 Harina de avena orgánico				1623.18	22724.52
+ 8		3		 Pera gluten free				1462.55	4387.65
+ 76		8		 Pera gluten free				172.81	1382.48
+ 51		13		 Spaghetti veggie				760.22	9882.86
+ 140		11		 Harina de quinoa vegan				554.73	6102.03
+ 106		8		 Frijoles de baño				243.72	1949.76
+ 53		2		 Harina de quinoa con aceite de coco				1400.60	2801.20
+ 137		6		 Ezekiel con jarabe de agave				1588.33	9529.98
+ 66		6		 Mango orgánico				1784.90	10709.40
+ 27		2		 Pasta gluten free				831.26	1662.52
+ 25		6		 Café de baño				1034.38	6206.28
+ 52		15		 Pasta vegan				551.19	8267.85
+ 122		13		 Cereales bolsa grande				683.84	8889.92
+ 43		9		 Habas de baño				651.64	5864.76
+ 45		11		 Harina de trigo con jarabe de agave				1653.92	18193.12
+ 17		11		 Garbanzos con aceite de coco				653.29	7186.19
+ 66		11		 Mango orgánico				1784.90	19633.90
+ 1		5		 Jabón gluten free				1021.10	5105.50
+ 28		15		 Alubias gluten free				865.86	12987.90
+
+                           Subtotal:   154391.05
+                           iva:        29407.82
+                           total:      183798.87
+Total de artículos vendidos: 23
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 93		15		 Spaghetti orgánico				538.78	8081.70
+ 43		7		 Habas de baño				651.64	4561.48
+ 75		10		 Alubias con aceite de coco				812.83	8128.30
+ 69		8		 Harina de trigo con aceite de coco				457.13	3657.04
+ 142		13		 Café vegan				1531.24	19906.12
+ 106		12		 Frijoles de baño				243.72	2924.64
+ 3		13		 Pera con aceite de coco				253.78	3299.14
+ 34		4		 Papaya gluten free				290.62	1162.48
+ 136		14		 Almendras vegan				204.50	2863.00
+ 90		2		 Mango con aceite de coco				608.71	1217.42
+ 136		3		 Almendras vegan				204.50	613.50
+ 2		11		 Salsa de soya de baño				1835.59	20191.49
+ 27		9		 Pasta gluten free				831.26	7481.34
+ 126		9		 Salsa de soya gluten free				1110.04	9990.36
+ 67		2		 Harina de garbanzo vegan				329.72	659.44
+ 138		10		 Salsa de soya de baño				1104.02	11040.20
+ 72		6		 Nueces integral				761.60	4569.60
+ 128		12		 Avena con jarabe de agave				746.29	8955.48
+ 86		3		 Salsa de soya bolsa grande				374.31	1122.93
+ 103		3		 Cereales gluten free				267.76	803.28
+ 132		4		 Frijoles integral				762.73	3050.92
+
+                           Subtotal:   104395.08
+                           iva:        19884.78
+                           total:      124279.86
+Total de artículos vendidos: 21
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 56		14		 Edamames con aceite de coco				154.23	2159.22
+ 11		11		 Salsa de soya veggie				712.50	7837.50
+ 149		4		 Chicharos bolsa grande				1571.97	6287.88
+ 76		6		 Pera gluten free				172.81	1036.86
+ 27		14		 Pasta gluten free				831.26	11637.64
+ 63		6		 Arroz vegan				154.93	929.58
+ 114		12		 Frijoles con jarabe de agave				359.99	4319.88
+ 23		9		 Almendras gluten free				1856.55	16708.95
+ 50		13		 Sopa bolsa grande				250.06	3250.78
+ 93		4		 Spaghetti orgánico				538.78	2155.12
+ 58		9		 Sopa gluten free				43.50	391.50
+ 56		1		 Edamames con aceite de coco				154.23	154.23
+ 70		13		 Garbanzos de baño				1759.36	22871.68
+ 34		5		 Papaya gluten free				290.62	1453.10
+ 84		10		 Harina de avena orgánico				1623.18	16231.80
+ 97		4		 Pera gluten free				1618.40	6473.60
+ 17		5		 Garbanzos con aceite de coco				653.29	3266.45
+ 97		2		 Pera gluten free				1618.40	3236.80
+ 96		2		 Papaya orgánico				1698.94	3397.88
+ 54		4		 Splenda con aceite de coco				1493.20	5972.80
+ 110		5		 Limones veggie				518.61	2593.05
+ 84		5		 Harina de avena orgánico				1623.18	8115.90
+ 127		5		 Chayotes gluten free				433.69	2168.45
+ 108		9		 Quinoa orgánico				671.05	6039.45
+ 28		8		 Alubias gluten free				865.86	6926.88
+ 100		7		 Papaya con jarabe de agave				1549.65	10847.55
+
+                           Subtotal:   131430.21
+                           iva:        25034.33
+                           total:      156464.53
+Total de artículos vendidos: 26
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 62		3		 Edamames con jarabe de agave				749.51	2248.53
+ 110		4		 Limones veggie				518.61	2074.44
+ 129		15		 Manzana de baño				1064.84	15972.60
+ 44		1		 Vinagre de Arroz con jarabe de agave				850.14	850.14
+ 108		5		 Quinoa orgánico				671.05	3355.25
+ 71		9		 Harina de quinoa gluten free				1224.29	11018.61
+ 82		12		 Pepino gluten free				1024.44	12293.28
+ 32		5		 Pera integral				1832.34	9161.70
+ 44		15		 Vinagre de Arroz con jarabe de agave				850.14	12752.10
+ 138		13		 Salsa de soya de baño				1104.02	14352.26
+ 101		2		 Harina integral veggie				227.44	454.88
+ 104		2		 Almendras con aceite de coco				1200.40	2400.80
+ 64		13		 Avena vegan				1038.68	13502.84
+ 67		5		 Harina de garbanzo vegan				329.72	1648.60
+ 99		14		 Arroz gluten free				654.37	9161.18
+ 22		1		 Camote con jarabe de agave				383.80	383.80
+ 73		5		 Mango veggie				977.90	4889.50
+ 83		14		 Camote gluten free				115.35	1614.90
+ 148		7		 Pepino de baño				1582.14	11074.98
+ 3		1		 Pera con aceite de coco				253.78	253.78
+ 46		10		 Salsa de soya con aceite de coco				513.79	5137.90
+ 44		15		 Vinagre de Arroz con jarabe de agave				850.14	12752.10
+ 8		4		 Pera gluten free				1462.55	5850.20
+
+                           Subtotal:   128691.67
+                           iva:        24512.70
+                           total:      153204.37
+Total de artículos vendidos: 23
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 4		5		 Chicharos bolsa grande				1544.45	7722.25
+ 94		11		 Edamames veggie				8.20	90.20
+ 75		11		 Alubias con aceite de coco				812.83	8941.13
+ 116		10		 Quinoa con aceite de coco				1518.77	15187.70
+ 48		15		 Frijoles vegan				1544.35	23165.25
+ 117		3		 Papaya gluten free				1548.93	4646.79
+ 106		1		 Frijoles de baño				243.72	243.72
+ 39		12		 Camote bolsa grande				694.75	8337.00
+ 33		1		 Vinagre de Arroz veggie				1574.18	1574.18
+ 2		5		 Salsa de soya de baño				1835.59	9177.95
+ 133		7		 Harina de quinoa orgánico				876.63	6136.41
+ 43		10		 Habas de baño				651.64	6516.40
+ 68		10		 Arroz bolsa grande				210.54	2105.40
+ 92		4		 Quinoa bolsa grande				376.94	1507.76
+ 122		15		 Cereales bolsa grande				683.84	10257.60
+ 18		3		 Pera gluten free				823.80	2471.40
+ 136		8		 Almendras vegan				204.50	1636.00
+ 46		15		 Salsa de soya con aceite de coco				513.79	7706.85
+ 31		14		 Pasta orgánico				1416.16	19826.24
+ 16		2		 Lentejas de baño				528.02	1056.04
+ 4		1		 Chicharos bolsa grande				1544.45	1544.45
+ 120		1		 Harina integral orgánico				1350.12	1350.12
+ 113		15		 Ezekiel integral				1016.21	15243.15
+ 69		7		 Harina de trigo con aceite de coco				457.13	3199.91
+ 46		3		 Salsa de soya con aceite de coco				513.79	1541.37
+
+                           Subtotal:   135395.63
+                           iva:        25789.64
+                           total:      161185.27
+Total de artículos vendidos: 25
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 21		2		 Mango vegan				2.59	5.18
+ 148		6		 Pepino de baño				1582.14	9492.84
+ 118		9		 Harina integral orgánico				575.92	5183.28
+ 86		4		 Salsa de soya bolsa grande				374.31	1497.24
+ 81		15		 Jabón gluten free				367.73	5515.95
+ 52		9		 Pasta vegan				551.19	4960.71
+ 31		10		 Pasta orgánico				1416.16	14161.60
+ 76		10		 Pera gluten free				172.81	1728.10
+ 106		2		 Frijoles de baño				243.72	487.44
+ 4		11		 Chicharos bolsa grande				1544.45	16988.95
+ 134		13		 Harina de trigo con jarabe de agave				944.39	12277.07
+ 88		8		 Pepino gluten free				1096.45	8771.60
+ 106		2		 Frijoles de baño				243.72	487.44
+ 133		13		 Harina de quinoa orgánico				876.63	11396.19
+ 137		9		 Ezekiel con jarabe de agave				1588.33	14294.97
+ 130		14		 Chayotes veggie				95.51	1337.14
+ 136		13		 Almendras vegan				204.50	2658.50
+ 58		9		 Sopa gluten free				43.50	391.50
+ 29		9		 Cereales orgánico				950.38	8553.42
+ 67		14		 Harina de garbanzo vegan				329.72	4616.08
+ 137		5		 Ezekiel con jarabe de agave				1588.33	7941.65
+ 42		13		 Pepino con aceite de coco				1577.28	20504.64
+ 149		2		 Chicharos bolsa grande				1571.97	3143.94
+ 111		5		 Chayotes con jarabe de agave				576.70	2883.50
+ 56		10		 Edamames con aceite de coco				154.23	1542.30
+
+                           Subtotal:   135089.83
+                           iva:        25731.40
+                           total:      160821.23
+Total de artículos vendidos: 25
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 116		12		 Quinoa con aceite de coco				1518.77	18225.24
+ 9		8		 Harina de avena integral				1600.49	12803.92
+ 40		3		 Nueces con aceite de coco				234.62	703.86
+ 37		5		 Ezekiel veggie				1583.61	7918.05
+ 145		6		 Avena vegan				176.72	1060.32
+ 70		5		 Garbanzos de baño				1759.36	8796.80
+ 1		12		 Jabón gluten free				1021.10	12253.20
+ 74		2		 Chayotes vegan				621.38	1242.76
+ 136		14		 Almendras vegan				204.50	2863.00
+ 80		14		 Lentejas de baño				1209.93	16939.02
+ 61		8		 Almendras bolsa grande				969.91	7759.28
+ 122		2		 Cereales bolsa grande				683.84	1367.68
+ 74		6		 Chayotes vegan				621.38	3728.28
+ 143		15		 Cereales integral				762.12	11431.80
+ 90		8		 Mango con aceite de coco				608.71	4869.68
+ 114		3		 Frijoles con jarabe de agave				359.99	1079.97
+ 7		1		 Cereales vegan				1651.80	1651.80
+ 50		6		 Sopa bolsa grande				250.06	1500.36
+ 4		2		 Chicharos bolsa grande				1544.45	3088.90
+
+                           Subtotal:   100198.49
+                           iva:        19085.43
+                           total:      119283.92
+Total de artículos vendidos: 19
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 104		6		 Almendras con aceite de coco				1200.40	7202.40
+ 108		14		 Quinoa orgánico				671.05	9394.70
+ 117		15		 Papaya gluten free				1548.93	23233.95
+ 84		12		 Harina de avena orgánico				1623.18	19478.16
+ 113		13		 Ezekiel integral				1016.21	13210.73
+ 117		11		 Papaya gluten free				1548.93	17038.23
+ 113		14		 Ezekiel integral				1016.21	14226.94
+ 16		15		 Lentejas de baño				528.02	7920.30
+ 17		9		 Garbanzos con aceite de coco				653.29	5879.61
+ 15		10		 Mandarina bolsa grande				534.61	5346.10
+ 117		4		 Papaya gluten free				1548.93	6195.72
+ 111		7		 Chayotes con jarabe de agave				576.70	4036.90
+ 91		14		 Ezekiel de baño				1241.48	17380.72
+ 29		9		 Cereales orgánico				950.38	8553.42
+ 49		12		 Café veggie				572.80	6873.60
+ 103		15		 Cereales gluten free				267.76	4016.40
+ 121		9		 Chayotes integral				551.78	4966.02
+ 127		7		 Chayotes gluten free				433.69	3035.83
+ 77		15		 Harina de garbanzo con aceite de coco				963.93	14458.95
+ 110		6		 Limones veggie				518.61	3111.66
+
+                           Subtotal:   164270.69
+                           iva:        31289.65
+                           total:      195560.34
+Total de artículos vendidos: 20
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 65		6		 Camote integral				870.61	5223.66
+ 105		2		 Limones gluten free				22.01	44.02
+ 100		12		 Papaya con jarabe de agave				1549.65	18595.80
+ 127		10		 Chayotes gluten free				433.69	4336.90
+ 47		5		 Avena de baño				400.66	2003.30
+ 20		15		 Camote gluten free				225.77	3386.55
+ 51		10		 Spaghetti veggie				760.22	7602.20
+ 39		11		 Camote bolsa grande				694.75	7642.25
+ 9		15		 Harina de avena integral				1600.49	24007.35
+ 25		12		 Café de baño				1034.38	12412.56
+ 44		2		 Vinagre de Arroz con jarabe de agave				850.14	1700.28
+ 109		8		 Pasta de baño				1417.66	11341.28
+ 43		14		 Habas de baño				651.64	9122.96
+ 53		13		 Harina de quinoa con aceite de coco				1400.60	18207.80
+ 135		3		 Sopa de baño				452.90	1358.70
+ 36		2		 Chicharos gluten free				211.44	422.88
+ 75		4		 Alubias con aceite de coco				812.83	3251.32
+ 99		3		 Arroz gluten free				654.37	1963.11
+ 88		2		 Pepino gluten free				1096.45	2192.90
+
+                           Subtotal:   113245.29
+                           iva:        21570.53
+                           total:      134815.82
+Total de artículos vendidos: 19
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 50		3		 Sopa bolsa grande				250.06	750.18
+ 139		1		 Salsa de soya orgánico				1655.05	1655.05
+ 29		15		 Cereales orgánico				950.38	14255.70
+ 12		10		 Edamames con aceite de coco				1230.93	12309.30
+ 13		5		 Pepino orgánico				1148.07	5740.35
+ 48		4		 Frijoles vegan				1544.35	6177.40
+ 90		12		 Mango con aceite de coco				608.71	7304.52
+ 12		8		 Edamames con aceite de coco				1230.93	9847.44
+ 114		5		 Frijoles con jarabe de agave				359.99	1799.95
+ 126		2		 Salsa de soya gluten free				1110.04	2220.08
+ 61		6		 Almendras bolsa grande				969.91	5819.46
+ 148		12		 Pepino de baño				1582.14	18985.68
+ 10		14		 Harina de avena con aceite de coco				770.10	10781.40
+ 108		11		 Quinoa orgánico				671.05	7381.55
+ 129		2		 Manzana de baño				1064.84	2129.68
+ 36		11		 Chicharos gluten free				211.44	2325.84
+ 52		6		 Pasta vegan				551.19	3307.14
+ 108		2		 Quinoa orgánico				671.05	1342.10
+ 148		2		 Pepino de baño				1582.14	3164.28
+ 148		4		 Pepino de baño				1582.14	6328.56
+ 12		7		 Edamames con aceite de coco				1230.93	8616.51
+ 57		14		 Mandarina gluten free				1423.25	19925.50
+ 41		13		 Almendras con aceite de coco				1270.02	16510.26
+
+                           Subtotal:   141689.46
+                           iva:        26988.47
+                           total:      168677.93
+Total de artículos vendidos: 23
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 71		6		 Harina de quinoa gluten free				1224.29	7345.74
+ 108		12		 Quinoa orgánico				671.05	8052.60
+ 44		5		 Vinagre de Arroz con jarabe de agave				850.14	4250.70
+ 29		12		 Cereales orgánico				950.38	11404.56
+ 111		5		 Chayotes con jarabe de agave				576.70	2883.50
+ 138		4		 Salsa de soya de baño				1104.02	4416.08
+ 53		5		 Harina de quinoa con aceite de coco				1400.60	7003.00
+ 149		1		 Chicharos bolsa grande				1571.97	1571.97
+ 83		2		 Camote gluten free				115.35	230.70
+ 123		12		 Pera orgánico				1577.28	18927.36
+ 51		14		 Spaghetti veggie				760.22	10643.08
+ 21		5		 Mango vegan				2.59	12.95
+ 111		11		 Chayotes con jarabe de agave				576.70	6343.70
+ 123		12		 Pera orgánico				1577.28	18927.36
+ 41		15		 Almendras con aceite de coco				1270.02	19050.30
+ 124		13		 Spaghetti veggie				527.15	6852.95
+ 43		15		 Habas de baño				651.64	9774.60
+ 86		12		 Salsa de soya bolsa grande				374.31	4491.72
+ 43		5		 Habas de baño				651.64	3258.20
+ 76		7		 Pera gluten free				172.81	1209.67
+ 45		12		 Harina de trigo con jarabe de agave				1653.92	19847.04
+ 85		7		 Harina integral gluten free				1657.51	11602.57
+ 121		4		 Chayotes integral				551.78	2207.12
+ 46		8		 Salsa de soya con aceite de coco				513.79	4110.32
+
+                           Subtotal:   154910.95
+                           iva:        29506.85
+                           total:      184417.79
+Total de artículos vendidos: 24
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 101		7		 Harina integral veggie				227.44	1592.08
+ 102		6		 Garbanzos vegan				530.56	3183.36
+ 95		8		 Spaghetti integral				787.91	6303.28
+ 77		15		 Harina de garbanzo con aceite de coco				963.93	14458.95
+ 6		6		 Alubias integral				314.47	1886.82
+ 87		8		 Lentejas veggie				338.15	2705.20
+ 112		12		 Harina de quinoa con aceite de coco				163.30	1959.60
+ 23		8		 Almendras gluten free				1856.55	14852.40
+ 123		3		 Pera orgánico				1577.28	4731.84
+ 79		1		 Habas con aceite de coco				490.89	490.89
+ 46		11		 Salsa de soya con aceite de coco				513.79	5651.69
+ 33		7		 Vinagre de Arroz veggie				1574.18	11019.26
+ 96		3		 Papaya orgánico				1698.94	5096.82
+ 117		2		 Papaya gluten free				1548.93	3097.86
+ 82		7		 Pepino gluten free				1024.44	7171.08
+ 76		8		 Pera gluten free				172.81	1382.48
+ 95		7		 Spaghetti integral				787.91	5515.37
+ 4		4		 Chicharos bolsa grande				1544.45	6177.80
+ 48		8		 Frijoles vegan				1544.35	12354.80
+ 74		10		 Chayotes vegan				621.38	6213.80
+ 66		8		 Mango orgánico				1784.90	14279.20
+ 63		6		 Arroz vegan				154.93	929.58
+
+                           Subtotal:   110085.49
+                           iva:        20968.67
+                           total:      131054.16
+Total de artículos vendidos: 22
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 45		15		 Harina de trigo con jarabe de agave				1653.92	24808.80
+ 41		2		 Almendras con aceite de coco				1270.02	2540.04
+ 25		9		 Café de baño				1034.38	9309.42
+ 79		3		 Habas con aceite de coco				490.89	1472.67
+ 82		12		 Pepino gluten free				1024.44	12293.28
+ 133		9		 Harina de quinoa orgánico				876.63	7889.67
+ 91		13		 Ezekiel de baño				1241.48	16139.24
+ 77		14		 Harina de garbanzo con aceite de coco				963.93	13495.02
+ 132		10		 Frijoles integral				762.73	7627.30
+ 51		13		 Spaghetti veggie				760.22	9882.86
+ 94		6		 Edamames veggie				8.20	49.20
+ 136		12		 Almendras vegan				204.50	2454.00
+ 112		1		 Harina de quinoa con aceite de coco				163.30	163.30
+ 117		5		 Papaya gluten free				1548.93	7744.65
+ 85		2		 Harina integral gluten free				1657.51	3315.02
+ 6		8		 Alubias integral				314.47	2515.76
+ 24		10		 Mango con jarabe de agave				1260.45	12604.50
+ 61		2		 Almendras bolsa grande				969.91	1939.82
+ 106		11		 Frijoles de baño				243.72	2680.92
+ 113		2		 Ezekiel integral				1016.21	2032.42
+ 26		14		 Splenda orgánico				1266.62	17732.68
+ 60		14		 Pan con aceite de coco				1093.16	15304.24
+ 10		2		 Harina de avena con aceite de coco				770.10	1540.20
+ 94		13		 Edamames veggie				8.20	106.60
+ 15		1		 Mandarina bolsa grande				534.61	534.61
+ 90		1		 Mango con aceite de coco				608.71	608.71
+
+                           Subtotal:   148499.34
+                           iva:        28285.59
+                           total:      176784.93
+Total de artículos vendidos: 26
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 6		8		 Alubias integral				314.47	2515.76
+ 115		15		 Quinoa orgánico				1210.94	18164.10
+ 51		2		 Spaghetti veggie				760.22	1520.44
+ 30		7		 Café vegan				1367.74	9574.18
+ 146		8		 Vinagre de Arroz gluten free				930.47	7443.76
+ 11		5		 Salsa de soya veggie				712.50	3562.50
+ 94		10		 Edamames veggie				8.20	82.00
+ 66		13		 Mango orgánico				1784.90	23203.70
+ 73		3		 Mango veggie				977.90	2933.70
+ 62		6		 Edamames con jarabe de agave				749.51	4497.06
+ 96		2		 Papaya orgánico				1698.94	3397.88
+ 26		4		 Splenda orgánico				1266.62	5066.48
+ 1		13		 Jabón gluten free				1021.10	13274.30
+ 8		3		 Pera gluten free				1462.55	4387.65
+ 35		13		 Pepino con jarabe de agave				561.02	7293.26
+ 74		5		 Chayotes vegan				621.38	3106.90
+ 84		1		 Harina de avena orgánico				1623.18	1623.18
+ 96		9		 Papaya orgánico				1698.94	15290.46
+ 32		3		 Pera integral				1832.34	5497.02
+ 13		3		 Pepino orgánico				1148.07	3444.21
+ 142		7		 Café vegan				1531.24	10718.68
+ 119		3		 Harina integral orgánico				358.01	1074.03
+ 44		12		 Vinagre de Arroz con jarabe de agave				850.14	10201.68
+ 12		9		 Edamames con aceite de coco				1230.93	11078.37
+
+                           Subtotal:   141919.09
+                           iva:        27032.21
+                           total:      168951.30
+Total de artículos vendidos: 24
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 29		11		 Cereales orgánico				950.38	10454.18
+ 107		4		 Manzana bolsa grande				262.26	1049.04
+ 99		8		 Arroz gluten free				654.37	5234.96
+ 6		7		 Alubias integral				314.47	2201.29
+ 113		15		 Ezekiel integral				1016.21	15243.15
+ 114		14		 Frijoles con jarabe de agave				359.99	5039.86
+ 53		9		 Harina de quinoa con aceite de coco				1400.60	12605.40
+ 51		6		 Spaghetti veggie				760.22	4561.32
+ 99		1		 Arroz gluten free				654.37	654.37
+ 44		14		 Vinagre de Arroz con jarabe de agave				850.14	11901.96
+ 78		4		 Spaghetti de baño				1830.59	7322.36
+ 8		4		 Pera gluten free				1462.55	5850.20
+ 59		15		 Pasta veggie				512.91	7693.65
+ 77		15		 Harina de garbanzo con aceite de coco				963.93	14458.95
+ 79		1		 Habas con aceite de coco				490.89	490.89
+ 79		2		 Habas con aceite de coco				490.89	981.78
+ 120		12		 Harina integral orgánico				1350.12	16201.44
+ 97		1		 Pera gluten free				1618.40	1618.40
+ 133		6		 Harina de quinoa orgánico				876.63	5259.78
+ 5		4		 Mandarina gluten free				1203.38	4813.52
+ 30		15		 Café vegan				1367.74	20516.10
+ 60		13		 Pan con aceite de coco				1093.16	14211.08
+ 20		6		 Camote gluten free				225.77	1354.62
+ 75		4		 Alubias con aceite de coco				812.83	3251.32
+ 40		10		 Nueces con aceite de coco				234.62	2346.20
+
+                           Subtotal:   147265.29
+                           iva:        28050.53
+                           total:      175315.82
+Total de artículos vendidos: 25
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 64		10		 Avena vegan				1038.68	10386.80
+ 96		5		 Papaya orgánico				1698.94	8494.70
+ 81		12		 Jabón gluten free				367.73	4412.76
+ 78		11		 Spaghetti de baño				1830.59	20136.49
+ 149		8		 Chicharos bolsa grande				1571.97	12575.76
+ 111		10		 Chayotes con jarabe de agave				576.70	5767.00
+ 63		10		 Arroz vegan				154.93	1549.30
+ 115		1		 Quinoa orgánico				1210.94	1210.94
+ 128		14		 Avena con jarabe de agave				746.29	10448.06
+ 47		15		 Avena de baño				400.66	6009.90
+ 38		14		 Jabón de baño				132.07	1848.98
+ 117		8		 Papaya gluten free				1548.93	12391.44
+ 145		6		 Avena vegan				176.72	1060.32
+ 55		15		 Lentejas con jarabe de agave				149.94	2249.10
+ 119		10		 Harina integral orgánico				358.01	3580.10
+ 83		5		 Camote gluten free				115.35	576.75
+ 132		12		 Frijoles integral				762.73	9152.76
+
+                           Subtotal:   93954.97
+                           iva:        17896.19
+                           total:      111851.16
+Total de artículos vendidos: 17
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 40		7		 Nueces con aceite de coco				234.62	1642.34
+ 45		3		 Harina de trigo con jarabe de agave				1653.92	4961.76
+ 139		11		 Salsa de soya orgánico				1655.05	18205.55
+ 7		8		 Cereales vegan				1651.80	13214.40
+ 125		2		 Splenda de baño				609.28	1218.56
+ 94		6		 Edamames veggie				8.20	49.20
+ 14		4		 Harina de garbanzo con jarabe de agave				1190.92	4763.68
+ 147		4		 Calabaza bolsa grande				630.36	2521.44
+ 105		6		 Limones gluten free				22.01	132.06
+ 69		2		 Harina de trigo con aceite de coco				457.13	914.26
+ 15		9		 Mandarina bolsa grande				534.61	4811.49
+ 81		12		 Jabón gluten free				367.73	4412.76
+ 37		13		 Ezekiel veggie				1583.61	20586.93
+ 4		7		 Chicharos bolsa grande				1544.45	10811.15
+ 120		12		 Harina integral orgánico				1350.12	16201.44
+ 5		8		 Mandarina gluten free				1203.38	9627.04
+ 38		14		 Jabón de baño				132.07	1848.98
+ 136		2		 Almendras vegan				204.50	409.00
+ 100		10		 Papaya con jarabe de agave				1549.65	15496.50
+
+                           Subtotal:   110735.97
+                           iva:        21092.57
+                           total:      131828.54
+Total de artículos vendidos: 19
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 120		11		 Harina integral orgánico				1350.12	14851.32
+ 82		1		 Pepino gluten free				1024.44	1024.44
+ 36		11		 Chicharos gluten free				211.44	2325.84
+ 79		9		 Habas con aceite de coco				490.89	4418.01
+ 95		15		 Spaghetti integral				787.91	11818.65
+ 143		10		 Cereales integral				762.12	7621.20
+ 102		14		 Garbanzos vegan				530.56	7427.84
+ 90		5		 Mango con aceite de coco				608.71	3043.55
+ 71		5		 Harina de quinoa gluten free				1224.29	6121.45
+ 34		8		 Papaya gluten free				290.62	2324.96
+ 11		1		 Salsa de soya veggie				712.50	712.50
+ 12		15		 Edamames con aceite de coco				1230.93	18463.95
+ 61		8		 Almendras bolsa grande				969.91	7759.28
+ 140		13		 Harina de quinoa vegan				554.73	7211.49
+ 25		8		 Café de baño				1034.38	8275.04
+ 83		1		 Camote gluten free				115.35	115.35
+ 59		13		 Pasta veggie				512.91	6667.83
+ 38		2		 Jabón de baño				132.07	264.14
+ 54		14		 Splenda con aceite de coco				1493.20	20904.80
+ 1		15		 Jabón gluten free				1021.10	15316.50
+ 19		1		 Pera de baño				1714.95	1714.95
+ 101		13		 Harina integral veggie				227.44	2956.72
+ 31		8		 Pasta orgánico				1416.16	11329.28
+ 80		3		 Lentejas de baño				1209.93	3629.79
+
+                           Subtotal:   139691.06
+                           iva:        26607.82
+                           total:      166298.88
+Total de artículos vendidos: 24
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 114		9		 Frijoles con jarabe de agave				359.99	3239.91
+ 8		5		 Pera gluten free				1462.55	7312.75
+ 70		9		 Garbanzos de baño				1759.36	15834.24
+ 148		10		 Pepino de baño				1582.14	15821.40
+ 21		12		 Mango vegan				2.59	31.08
+ 144		2		 Frijoles orgánico				1388.53	2777.06
+ 112		2		 Harina de quinoa con aceite de coco				163.30	326.60
+ 129		4		 Manzana de baño				1064.84	4259.36
+ 66		12		 Mango orgánico				1784.90	21418.80
+ 68		8		 Arroz bolsa grande				210.54	1684.32
+ 81		10		 Jabón gluten free				367.73	3677.30
+ 107		11		 Manzana bolsa grande				262.26	2884.86
+ 46		11		 Salsa de soya con aceite de coco				513.79	5651.69
+ 91		5		 Ezekiel de baño				1241.48	6207.40
+ 2		9		 Salsa de soya de baño				1835.59	16520.31
+ 76		1		 Pera gluten free				172.81	172.81
+ 2		9		 Salsa de soya de baño				1835.59	16520.31
+ 80		11		 Lentejas de baño				1209.93	13309.23
+ 8		6		 Pera gluten free				1462.55	8775.30
+
+                           Subtotal:   122996.78
+                           iva:        23427.96
+                           total:      146424.73
+Total de artículos vendidos: 19
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 106		10		 Frijoles de baño				243.72	2437.20
+ 121		8		 Chayotes integral				551.78	4414.24
+ 8		6		 Pera gluten free				1462.55	8775.30
+ 138		3		 Salsa de soya de baño				1104.02	3312.06
+ 2		12		 Salsa de soya de baño				1835.59	22027.08
+ 92		4		 Quinoa bolsa grande				376.94	1507.76
+ 61		2		 Almendras bolsa grande				969.91	1939.82
+ 41		14		 Almendras con aceite de coco				1270.02	17780.28
+ 143		12		 Cereales integral				762.12	9145.44
+ 91		5		 Ezekiel de baño				1241.48	6207.40
+ 95		13		 Spaghetti integral				787.91	10242.83
+ 58		8		 Sopa gluten free				43.50	348.00
+ 93		5		 Spaghetti orgánico				538.78	2693.90
+ 94		15		 Edamames veggie				8.20	123.00
+ 29		5		 Cereales orgánico				950.38	4751.90
+ 49		8		 Café veggie				572.80	4582.40
+ 29		10		 Cereales orgánico				950.38	9503.80
+ 117		3		 Papaya gluten free				1548.93	4646.79
+ 49		10		 Café veggie				572.80	5728.00
+ 22		3		 Camote con jarabe de agave				383.80	1151.40
+ 61		11		 Almendras bolsa grande				969.91	10669.01
+ 135		6		 Sopa de baño				452.90	2717.40
+ 141		8		 Splenda bolsa grande				1205.03	9640.24
+ 104		15		 Almendras con aceite de coco				1200.40	18006.00
+ 78		9		 Spaghetti de baño				1830.59	16475.31
+
+                           Subtotal:   150214.31
+                           iva:        28612.25
+                           total:      178826.56
+Total de artículos vendidos: 25
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 93		14		 Spaghetti orgánico				538.78	7542.92
+ 31		15		 Pasta orgánico				1416.16	21242.40
+ 83		3		 Camote gluten free				115.35	346.05
+ 125		4		 Splenda de baño				609.28	2437.12
+ 140		6		 Harina de quinoa vegan				554.73	3328.38
+ 93		1		 Spaghetti orgánico				538.78	538.78
+ 64		3		 Avena vegan				1038.68	3116.04
+ 136		12		 Almendras vegan				204.50	2454.00
+ 21		5		 Mango vegan				2.59	12.95
+ 66		10		 Mango orgánico				1784.90	17849.00
+ 144		12		 Frijoles orgánico				1388.53	16662.36
+ 85		4		 Harina integral gluten free				1657.51	6630.04
+ 36		2		 Chicharos gluten free				211.44	422.88
+ 79		5		 Habas con aceite de coco				490.89	2454.45
+ 56		5		 Edamames con aceite de coco				154.23	771.15
+ 63		10		 Arroz vegan				154.93	1549.30
+ 41		9		 Almendras con aceite de coco				1270.02	11430.18
+ 19		11		 Pera de baño				1714.95	18864.45
+ 78		6		 Spaghetti de baño				1830.59	10983.54
+ 111		8		 Chayotes con jarabe de agave				576.70	4613.60
+
+                           Subtotal:   111929.66
+                           iva:        21319.93
+                           total:      133249.59
+Total de artículos vendidos: 20
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 147		10		 Calabaza bolsa grande				630.36	6303.60
+ 132		3		 Frijoles integral				762.73	2288.19
+ 140		14		 Harina de quinoa vegan				554.73	7766.22
+ 76		1		 Pera gluten free				172.81	172.81
+ 75		4		 Alubias con aceite de coco				812.83	3251.32
+ 79		1		 Habas con aceite de coco				490.89	490.89
+ 119		14		 Harina integral orgánico				358.01	5012.14
+ 107		6		 Manzana bolsa grande				262.26	1573.56
+ 46		11		 Salsa de soya con aceite de coco				513.79	5651.69
+ 100		6		 Papaya con jarabe de agave				1549.65	9297.90
+ 40		1		 Nueces con aceite de coco				234.62	234.62
+ 109		7		 Pasta de baño				1417.66	9923.62
+ 66		6		 Mango orgánico				1784.90	10709.40
+ 54		11		 Splenda con aceite de coco				1493.20	16425.20
+ 130		6		 Chayotes veggie				95.51	573.06
+ 111		13		 Chayotes con jarabe de agave				576.70	7497.10
+ 16		2		 Lentejas de baño				528.02	1056.04
+ 47		8		 Avena de baño				400.66	3205.28
+
+                           Subtotal:   76803.42
+                           iva:        14629.22
+                           total:      91432.64
+Total de artículos vendidos: 18
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+----------------------------------------------------
+TICKET DE COMPRA
+----------------------------------------------------
+#Producto Cantidad     Nombre    Precio   Total
+ 91		8		 Ezekiel de baño				1241.48	9931.84
+ 93		14		 Spaghetti orgánico				538.78	7542.92
+ 40		4		 Nueces con aceite de coco				234.62	938.48
+ 80		13		 Lentejas de baño				1209.93	15729.09
+ 48		1		 Frijoles vegan				1544.35	1544.35
+ 85		9		 Harina integral gluten free				1657.51	14917.59
+ 123		10		 Pera orgánico				1577.28	15772.80
+ 62		14		 Edamames con jarabe de agave				749.51	10493.14
+ 67		14		 Harina de garbanzo vegan				329.72	4616.08
+ 143		10		 Cereales integral				762.12	7621.20
+ 107		10		 Manzana bolsa grande				262.26	2622.60
+ 140		14		 Harina de quinoa vegan				554.73	7766.22
+ 23		4		 Almendras gluten free				1856.55	7426.20
+ 110		11		 Limones veggie				518.61	5704.71
+ 23		4		 Almendras gluten free				1856.55	7426.20
+ 93		9		 Spaghetti orgánico				538.78	4849.02
+ 87		10		 Lentejas veggie				338.15	3381.50
+ 144		5		 Frijoles orgánico				1388.53	6942.65
+ 53		5		 Harina de quinoa con aceite de coco				1400.60	7003.00
+ 123		11		 Pera orgánico				1577.28	17350.08
+
+                           Subtotal:   134046.93
+                           iva:        25532.75
+                           total:      159579.67
+Total de artículos vendidos: 20
+----------------------------------------------------
+¡GRACIAS POR TU COMPRA, VUELVE PRONTO!
+---------------------------------------------------

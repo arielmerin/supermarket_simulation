@@ -1,0 +1,13 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 16:56:46
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 15		5		 Alubias integral				1624.55	1624.55
+ 56		5		 Lentejas de baño				643.93	643.93
+ 84		3		 Nueces vegan				1611.67	1611.67
+ 90		4		 Papaya vegan				379.28	379.28
+ 120		4		 Sopa vegan				228.65	228.6
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 34		0		 Spaghetti orgánico				1737.38	1737.3

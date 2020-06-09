@@ -1,0 +1,13 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 16:57:10
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 12		1		 Papaya orgánico				1864.70	1864.70
+ 33		4		 Camote gluten free				1236.66	1236.66
+ 43		7		 Frijoles con aceite de coco				1828.97	1828.97
+ 49		1		 Alubias con aceite de coco				818.66	818.66
+ 107		4		 Lentejas vegan				6.29	6.2
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

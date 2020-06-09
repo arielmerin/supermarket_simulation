@@ -16,7 +16,7 @@ public class Menu {
     /**
      * Tiene todo el comportamiento del supermercado englobado en un objeto
      */
-    private SuperMarket walmar = new SuperMarket(5,10,100);
+    private SuperMarket walmar = new SuperMarket(5,10);
     /**
      * Objeto para manejar la persistencia de datos dentro del programa
      */

@@ -1,0 +1,17 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 17:09:47
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 65		1		 Harina de trigo de baño				1441.09	1441.09
+ 76		2		 Pera con aceite de coco				735.44	735.44
+ 85		6		 Harina de trigo orgánico				780.44	780.44
+ 101		8		 Avena integral				990.67	990.67
+ 108		4		 Avena gluten free				1694.30	1694.30
+ 120		2		 Arroz veggie				1101.14	1101.14
+ 131		4		 Pan integral				745.58	745.58
+ 133		5		 Frijoles con jarabe de agave				1869.26	1869.26
+ 148		3		 Garbanzos de baño				1272.23	1272.2
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 86		0		 Chayotes orgánico				1305.94	1305.9

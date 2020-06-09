@@ -1,9 +1,0 @@
-   :::    REPORTE DE POCAS EXISTENCIAS   :::
-    Fecha: 08/06/2020 - 14:23:07
-
- ----------------- QUEDAN POCOS ------------------
-   ID    Cantidad         Nombre         Precio 
- 24		9		 Harina de quinoa orgánico				1140.19	1140.1
- ---------------- FALTAN ----------------------
-   ID    Cantidad         Nombre         Precio 
-

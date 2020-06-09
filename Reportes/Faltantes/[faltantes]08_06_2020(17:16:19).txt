@@ -1,0 +1,18 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 17:15:55
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 46		5		 Spaghetti con aceite de coco				1564.75	1564.75
+ 51		2		 Vinagre de Arroz de baño				630.44	630.44
+ 72		3		 Pan con jarabe de agave				613.09	613.09
+ 74		5		 Ezekiel orgánico				309.40	309.40
+ 88		3		 Papaya vegan				1249.18	1249.18
+ 91		7		 Pan de baño				251.10	251.10
+ 118		3		 Lentejas orgánico				1745.43	1745.43
+ 127		1		 Harina de avena orgánico				990.57	990.57
+ 138		2		 Pera orgánico				1556.46	1556.4
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 14		0		 Avena vegan				1844.61	1844.61
+ 60		0		 Mandarina vegan				348.29	348.2

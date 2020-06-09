@@ -1,0 +1,15 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 17:11:47
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 11		5		 Pan integral				923.13	923.13
+ 24		1		 Ezekiel orgánico				419.97	419.97
+ 52		7		 Harina de trigo vegan				1122.38	1122.38
+ 60		1		 Mango vegan				1881.06	1881.06
+ 89		3		 Quinoa de baño				794.98	794.98
+ 110		3		 Chiles secos gluten free				751.66	751.6
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 8		0		 Lentejas con jarabe de agave				364.03	364.03
+ 22		0		 Lentejas integral				876.30	876.3

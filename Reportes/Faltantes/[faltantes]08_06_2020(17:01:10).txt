@@ -1,0 +1,17 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 17:00:46
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 36		3		 Splenda de baño				604.55	604.55
+ 37		4		 Edamames con jarabe de agave				282.49	282.49
+ 70		2		 Spaghetti veggie				760.65	760.65
+ 102		3		 Salsa de soya orgánico				183.96	183.96
+ 113		2		 Almendras bolsa grande				856.46	856.46
+ 138		1		 Frijoles veggie				1433.61	1433.6
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 6		0		 Pasta vegan				392.78	392.78
+ 15		0		 Manzana bolsa grande				1383.81	1383.81
+ 17		0		 Nueces con aceite de coco				835.59	835.59
+ 71		0		 Vinagre de Arroz integral				576.86	576.8

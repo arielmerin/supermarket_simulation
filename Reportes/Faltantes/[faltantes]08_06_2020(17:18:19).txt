@@ -1,0 +1,16 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 17:17:55
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 4		3		 Chiles secos con aceite de coco				782.86	782.86
+ 31		3		 Chicharos integral				1440.43	1440.43
+ 48		3		 Chayotes veggie				73.25	73.25
+ 58		4		 Almendras con jarabe de agave				393.86	393.86
+ 61		7		 Jabón orgánico				1723.77	1723.77
+ 64		4		 Salsa de soya de baño				1335.84	1335.8
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 35		0		 Pasta orgánico				1818.36	1818.36
+ 43		0		 Splenda con aceite de coco				1216.26	1216.26
+ 89		0		 Avena con aceite de coco				1863.11	1863.1

@@ -1,0 +1,14 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 16:55:58
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 30		4		 Chiles secos integral				747.56	747.56
+ 41		7		 Spaghetti bolsa grande				1197.44	1197.44
+ 60		1		 Nueces orgánico				1221.11	1221.11
+ 71		3		 Almendras orgánico				1670.78	1670.78
+ 88		2		 Ezekiel con jarabe de agave				1408.32	1408.32
+ 138		6		 Chiles secos orgánico				1113.47	1113.4
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 106		0		 Harina de quinoa orgánico				1654.39	1654.3

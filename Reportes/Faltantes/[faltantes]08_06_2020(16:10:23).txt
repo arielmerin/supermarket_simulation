@@ -1,0 +1,26 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 16:09:59
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		1		 Harina de avena gluten free				173.74	173.74
+ 2		5		 Ezekiel orgánico				395.88	395.88
+ 3		2		 Pepino con aceite de coco				515.59	515.59
+ 21		6		 Chiles secos de baño				894.87	894.87
+ 28		1		 Frijoles veggie				1074.69	1074.69
+ 41		3		 Arroz gluten free				717.25	717.25
+ 43		1		 Cereales gluten free				690.33	690.33
+ 46		1		 Harina de trigo con jarabe de agave				1483.26	1483.26
+ 70		3		 Spaghetti bolsa grande				668.79	668.79
+ 78		1		 Chayotes gluten free				443.45	443.45
+ 122		7		 Harina integral veggie				371.73	371.7
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 13		0		 Harina de quinoa con aceite de coco				431.63	431.63
+ 49		0		 Splenda de baño				1196.19	1196.19
+ 50		0		 Quinoa de baño				1090.05	1090.05
+ 71		0		 Pepino orgánico				319.98	319.98
+ 95		0		 Harina integral orgánico				1197.73	1197.73
+ 101		0		 Quinoa vegan				1257.64	1257.64
+ 128		0		 Jabón veggie				1006.52	1006.52
+ 140		0		 Alubias veggie				33.17	33.1

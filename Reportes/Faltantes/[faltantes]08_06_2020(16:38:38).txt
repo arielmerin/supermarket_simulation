@@ -1,0 +1,29 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 16:38:14
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 16		1		 Camote veggie				912.13	912.13
+ 18		8		 Harina de garbanzo vegan				67.45	67.45
+ 43		1		 Chicharos de baño				1753.59	1753.59
+ 65		2		 Chiles secos gluten free				919.92	919.92
+ 68		1		 Mandarina con jarabe de agave				834.62	834.62
+ 73		3		 Jabón bolsa grande				1880.22	1880.22
+ 77		1		 Manzana vegan				1889.03	1889.03
+ 79		3		 Arroz gluten free				504.16	504.16
+ 85		4		 Edamames gluten free				1646.69	1646.69
+ 88		1		 Sopa gluten free				851.32	851.32
+ 94		2		 Vinagre de Arroz bolsa grande				1654.29	1654.29
+ 95		1		 Papaya con jarabe de agave				33.62	33.62
+ 134		1		 Lentejas integral				950.85	950.8
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		0		 Cereales con jarabe de agave				878.41	878.41
+ 10		0		 Quinoa con aceite de coco				785.32	785.32
+ 24		0		 Almendras integral				729.64	729.64
+ 27		0		 Frijoles con jarabe de agave				21.01	21.01
+ 70		0		 Mandarina con aceite de coco				167.53	167.53
+ 105		0		 Salsa de soya gluten free				125.18	125.18
+ 107		0		 Habas orgánico				1117.93	1117.93
+ 116		0		 Alubias orgánico				1792.04	1792.04
+ 146		0		 Manzana vegan				688.72	688.7

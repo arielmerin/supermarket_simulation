@@ -1,0 +1,15 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 16:40:25
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 6		9		 Pepino con jarabe de agave				782.32	782.32
+ 60		5		 Papaya de baño				742.72	742.72
+ 97		2		 Spaghetti gluten free				1366.09	1366.09
+ 114		7		 Limones con aceite de coco				127.44	127.44
+ 149		6		 Harina de trigo con aceite de coco				1152.80	1152.8
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 66		0		 Pepino con aceite de coco				880.17	880.17
+ 126		0		 Almendras veggie				1151.81	1151.81
+ 140		0		 Nueces orgánico				1184.16	1184.1

@@ -1,16 +1,25 @@
 
 
+import serializer.Serializer;
 import sim.Simulation;
+import util.Lista;
 
 
 public class Main {
     public static void main(String[] args) {
-        Simulation simulation = new Simulation(7,8,150,2);
-        try {
-            simulation.simular();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
+        Lista<String> plotear = new Lista<>();
+        for (int i = 1; i < 15; i++) {
+
+            Simulation simulation = new Simulation(i,15-i,2);
+            try {
+                simulation.simular();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            simulation.generarReportes();
+            plotear.agregar(simulation.escribeLinea());
         }
-        simulation.generarReportes();
+        Serializer serializer = new Serializer();
+        serializer.escribeTXT(plotear, "datos.p");
     }
 }

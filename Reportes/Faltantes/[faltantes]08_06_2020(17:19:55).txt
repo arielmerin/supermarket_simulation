@@ -1,0 +1,17 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 17:19:31
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 21		4		 Almendras con aceite de coco				493.53	493.53
+ 34		5		 Manzana gluten free				398.66	398.66
+ 55		7		 Calabaza con jarabe de agave				742.89	742.89
+ 98		5		 Nueces de baño				1419.82	1419.82
+ 121		7		 Pasta con aceite de coco				1616.30	1616.30
+ 130		4		 Edamames con aceite de coco				252.77	252.77
+ 140		3		 Mango vegan				1738.73	1738.73
+ 148		1		 Arroz vegan				1180.61	1180.6
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 65		0		 Chicharos vegan				1548.24	1548.24
+ 104		0		 Almendras bolsa grande				707.83	707.8

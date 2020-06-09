@@ -1,0 +1,12 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 16:21:41
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 35		7		 Mandarina con jarabe de agave				78.24	78.24
+ 104		3		 Café orgánico				1141.73	1141.73
+ 118		7		 Lentejas con aceite de coco				1429.34	1429.34
+ 130		7		 Jabón gluten free				333.94	333.9
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

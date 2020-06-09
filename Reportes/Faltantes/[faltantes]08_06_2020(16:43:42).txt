@@ -1,0 +1,15 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 16:43:18
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 34		4		 Nueces integral				1480.34	1480.34
+ 40		2		 Salsa de soya vegan				1825.53	1825.53
+ 76		1		 Splenda veggie				792.57	792.57
+ 125		6		 Edamames bolsa grande				1523.47	1523.47
+ 134		8		 Harina de trigo orgánico				621.90	621.9
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 5		0		 Harina de avena orgánico				763.95	763.95
+ 52		0		 Ezekiel integral				1042.88	1042.88
+ 142		0		 Pepino gluten free				1491.05	1491.0

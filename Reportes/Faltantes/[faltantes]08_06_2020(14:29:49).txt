@@ -1,9 +1,0 @@
-   :::    REPORTE DE POCAS EXISTENCIAS   :::
-    Fecha: 08/06/2020 - 14:29:36
-
- ----------------- QUEDAN POCOS ------------------
-   ID    Cantidad         Nombre         Precio 
- 145		8		 Papaya gluten free				1615.75	1615.7
- ---------------- FALTAN ----------------------
-   ID    Cantidad         Nombre         Precio 
-

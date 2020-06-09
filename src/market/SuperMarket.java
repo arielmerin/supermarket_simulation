@@ -2,6 +2,7 @@ package market;
 
 import market.admin.*;
 import util.Lista;
+import util.MaxHeap;
 import util.MinHeap;
 
 import java.io.File;
@@ -9,6 +10,7 @@ import java.io.FileNotFoundException;
 import java.io.Serializable;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.List;
 import java.util.Scanner;
 import java.util.TimerTask;
 
@@ -17,7 +19,7 @@ import static util.Utilidades.random;
 /**
  *
  */
-public class SuperMarket extends Thread implements Serializable {
+public class SuperMarket  implements Serializable {
 
 
     /**
@@ -25,15 +27,16 @@ public class SuperMarket extends Thread implements Serializable {
      */
     private final Wharehouse almacenPrincipal;
 
+    private int numClientesRapidos;
+
+
+    private int numClientesLargos;
+
     /**
      *
      */
     private Lista<Client> tickets;
 
-    /**
-     *
-     */
-    private int clientes;
 
     /**
      *
@@ -68,17 +71,15 @@ public class SuperMarket extends Thread implements Serializable {
      * y el número de clientes
      * @param rapidas
      * @param normales
-     * @param clientes
      */
-    public SuperMarket(int rapidas, int normales, int clientes) {
-        this.clientes = clientes;
+    public SuperMarket(int rapidas, int normales) {
         this.unifila = new MinHeap<>();
         this.cajas = new MinHeap<>();
         this.almacenPrincipal = new Wharehouse();
-        for (int i = 0; i < rapidas; i++) {
+        for (int i = 1; i <= rapidas; i++) {
             abreCaja(true);
         }
-        for (int i = 0; i < normales; i++) {
+        for (int i = 1; i <= normales; i++) {
             abreCaja(false);
         }
 
@@ -153,12 +154,13 @@ public class SuperMarket extends Thread implements Serializable {
     public boolean formandoCliente(Client client){
         if (client.getItems() != 0){
             tickets.agregar(client);
-            System.out.println(client);
             if (client.getItems() <= 20){
+                numClientesRapidos++;
                 Checkout cajara =  unifila.elimina();
                 cajara.formarCliente(client);
                 unifila.agrega(cajara);
             }else {
+                numClientesLargos++;
                 Checkout caja = cajas.elimina();
                 caja.formarCliente(client);
                 cajas.agrega(caja);
@@ -238,52 +240,24 @@ public class SuperMarket extends Thread implements Serializable {
         return cargaCarritoCompras(random(10) + 18);
     }
 
-    /**
-     *
-     */
-    public void inicializaCajas(){
-        for (Checkout caja: cajas){
-            caja.start();
-        }
-    }
 
-    /**
-     *
-     */
-    public void esperaCajas(){
-        for (Checkout caja: cajas){
-            try {
-                caja.join();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-        }
-    }
 
-    /**
-     *
-     * @param caja
-     */
-    public void dormirCaja(Checkout caja){
-        caja.dormirCaja((long) (500 * Math.random()));
-    }
-
-    @Override
-    public void run() {
-        while (cajas.esVacio()){
-            for (Checkout caja : cajas){
-                caja.dormirCaja(caja.getPorAtender() * caja.getTiempoAtiendePProdcuto());
-                caja.run();
-            }
-        }
-    }
 
     @Override
     public String toString() {
         String now = formatter.format(fecha);
-        return String.format(":::  SUPERMERCADO  :::\n\nFecha: %s\nTotal de ingresos: $%.2f\nCon las siguientes cajas: \n%s\n %s" +
+        Lista<Checkout> cajasOrdenadas = new Lista<>();
+        for (Checkout caja: cajas){
+            cajasOrdenadas.agregar(caja);
+        }
+        Checkout masVendioNormal = cajasOrdenadas.getElemento( cajasOrdenadas.longitud() > 1? cajasOrdenadas.longitud()-1: 1);
+
+        return String.format(":::  SUPERMERCADO  :::\n\nFecha: %s\nTotal de ingresos: $%.2f\nFueron atendidos %d clientes" +
+                        " con a lo más 20 artículos\n\nFueron atendidos %d clientes con más de 20 artículos\n\nTotal de clientes " +
+                        "atendidos: %d \n" +
+                        " \nCon las siguientes cajas: \n%s\n %s" +
                         "\n\n La caja que más clientes atendió fue: \n %s",
-                now,getTotalVentas(), cajas, unifila, cajas.elimina());
+                now,getTotalVentas(), numClientesRapidos, numClientesLargos, tickets.longitud() , cajas, unifila, masVendioNormal);
     }
 
     /**
@@ -300,4 +274,5 @@ public class SuperMarket extends Thread implements Serializable {
                 "\n   ID    Cantidad         Nombre         Precio \n" +
                 almacenPrincipal.faltantes();
     }
+
 }

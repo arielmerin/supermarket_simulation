@@ -1,0 +1,16 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 17:20:19
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 31		1		 Habas integral				443.71	443.71
+ 66		1		 Salsa de soya veggie				109.67	109.67
+ 80		4		 Nueces orgánico				216.99	216.99
+ 92		6		 Mango orgánico				519.16	519.16
+ 100		4		 Spaghetti gluten free				442.79	442.79
+ 120		5		 Chiles secos con jarabe de agave				1349.84	1349.84
+ 127		6		 Splenda orgánico				824.45	824.45
+ 129		1		 Edamames gluten free				1649.76	1649.7
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 75		0		 Nueces integral				1726.41	1726.4

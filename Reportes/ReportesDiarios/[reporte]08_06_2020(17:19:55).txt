@@ -1,0 +1,80 @@
+:::  SUPERMERCADO  :::
+
+Fecha: 08/06/2020 - 17:19:31
+Total de ingresos: $6238190.00
+Fueron atendidos 12 clientes con a lo más 20 artículos
+
+Fueron atendidos 22 clientes con más de 20 artículos
+
+Total de clientes atendidos: 34 
+ 
+Con las siguientes cajas: 
+CAJA  NORMAL
+Venta total: $2744255.01
+Clientes atendidos: 7
+
+|CAJA  NORMAL
+Venta total: $2663043.90
+Clientes atendidos: 7
+
+|CAJA  NORMAL
+Venta total: $3278893.14
+Clientes atendidos: 8
+
+
+ CAJA  RÁPIDA
+Venta total: $303097.44
+Clientes atendidos: 1
+
+|CAJA  RÁPIDA
+Venta total: $356859.02
+Clientes atendidos: 1
+
+|CAJA  RÁPIDA
+Venta total: $333733.03
+Clientes atendidos: 1
+
+|CAJA  RÁPIDA
+Venta total: $385545.45
+Clientes atendidos: 1
+
+|CAJA  RÁPIDA
+Venta total: $347509.10
+Clientes atendidos: 1
+
+|CAJA  RÁPIDA
+Venta total: $153621.56
+Clientes atendidos: 1
+
+|CAJA  RÁPIDA
+Venta total: $356998.79
+Clientes atendidos: 1
+
+|CAJA  RÁPIDA
+Venta total: $313731.10
+Clientes atendidos: 1
+
+|CAJA  RÁPIDA
+Venta total: $331589.08
+Clientes atendidos: 1
+
+|CAJA  RÁPIDA
+Venta total: $271797.40
+Clientes atendidos: 1
+
+|CAJA  RÁPIDA
+Venta total: $311052.02
+Clientes atendidos: 1
+
+|CAJA  RÁPIDA
+Venta total: $324653.58
+Clientes atendidos: 1
+
+
+
+ La caja que más clientes atendió fue: 
+ CAJA  NORMAL
+Venta total: $4116382.51
+Clientes atendidos: 7
+
+

@@ -1,0 +1,30 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 16:11:36
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 7		3		 Mandarina bolsa grande				106.31	106.31
+ 8		4		 Ezekiel bolsa grande				41.82	41.82
+ 25		1		 Almendras integral				782.13	782.13
+ 37		1		 Arroz veggie				215.08	215.08
+ 41		7		 Harina integral de baño				582.75	582.75
+ 59		1		 Chicharos bolsa grande				1667.38	1667.38
+ 64		5		 Nueces bolsa grande				1455.37	1455.37
+ 69		3		 Camote integral				840.35	840.35
+ 89		1		 Camote con aceite de coco				1601.11	1601.11
+ 96		1		 Avena vegan				952.43	952.43
+ 108		5		 Quinoa integral				929.17	929.17
+ 119		1		 Harina de trigo veggie				1635.42	1635.42
+ 135		3		 Nueces integral				16.58	16.58
+ 136		1		 Pasta veggie				1109.59	1109.59
+ 140		1		 Chicharos veggie				1481.16	1481.16
+ 149		4		 Avena gluten free				246.21	246.2
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 40		0		 Sopa vegan				14.79	14.79
+ 46		0		 Lentejas gluten free				1001.22	1001.22
+ 80		0		 Pan integral				1600.02	1600.02
+ 88		0		 Salsa de soya vegan				1620.14	1620.14
+ 103		0		 Lentejas de baño				938.91	938.91
+ 104		0		 Harina de avena integral				757.01	757.01
+ 131		0		 Avena con aceite de coco				107.48	107.4

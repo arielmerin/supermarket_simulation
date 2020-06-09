@@ -1,0 +1,17 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 17:10:59
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 31		4		 Camote con aceite de coco				1842.87	1842.87
+ 38		4		 Vinagre de Arroz vegan				1269.88	1269.88
+ 44		6		 Mandarina orgánico				1206.30	1206.30
+ 97		1		 Cereales vegan				1077.47	1077.47
+ 107		1		 Vinagre de Arroz orgánico				475.74	475.74
+ 108		4		 Nueces orgánico				395.17	395.17
+ 111		2		 Harina de quinoa veggie				299.85	299.85
+ 141		5		 Mango de baño				904.49	904.4
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 65		0		 Lentejas veggie				299.83	299.83
+ 77		0		 Splenda vegan				1212.30	1212.3

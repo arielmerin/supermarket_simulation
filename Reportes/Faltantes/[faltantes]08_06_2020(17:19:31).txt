@@ -1,0 +1,27 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 17:19:07
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		5		 Avena orgánico				1284.28	1284.28
+ 22		1		 Quinoa de baño				65.59	65.59
+ 36		3		 Chiles secos gluten free				1723.64	1723.64
+ 50		1		 Vinagre de Arroz bolsa grande				1796.81	1796.81
+ 53		2		 Limones orgánico				1077.94	1077.94
+ 65		1		 Calabaza integral				1622.80	1622.80
+ 101		9		 Chiles secos vegan				929.22	929.22
+ 103		4		 Camote bolsa grande				938.38	938.38
+ 120		2		 Harina de trigo vegan				1059.83	1059.83
+ 146		1		 Alubias vegan				190.98	190.9
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 6		0		 Harina integral de baño				582.51	582.51
+ 8		0		 Pera orgánico				441.41	441.41
+ 9		0		 Café con jarabe de agave				439.82	439.82
+ 21		0		 Vinagre de Arroz con jarabe de agave				1501.99	1501.99
+ 33		0		 Alubias con jarabe de agave				102.64	102.64
+ 76		0		 Pasta veggie				1532.70	1532.70
+ 86		0		 Arroz de baño				1866.40	1866.40
+ 134		0		 Almendras veggie				350.88	350.88
+ 137		0		 Papaya vegan				631.87	631.87
+ 139		0		 Jabón integral				883.86	883.8

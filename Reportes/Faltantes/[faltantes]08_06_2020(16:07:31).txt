@@ -1,0 +1,27 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 08/06/2020 - 16:07:07
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 6		4		 Mango bolsa grande				1111.60	1111.60
+ 11		2		 Garbanzos con aceite de coco				1140.06	1140.06
+ 13		2		 Chicharos veggie				1046.59	1046.59
+ 20		1		 Salsa de soya veggie				128.54	128.54
+ 24		2		 Chiles secos con aceite de coco				315.22	315.22
+ 34		1		 Arroz gluten free				318.11	318.11
+ 37		1		 Harina integral de baño				670.92	670.92
+ 68		1		 Almendras con aceite de coco				1658.51	1658.51
+ 80		4		 Frijoles gluten free				1558.25	1558.25
+ 86		1		 Splenda gluten free				933.80	933.80
+ 87		6		 Splenda vegan				994.22	994.22
+ 90		4		 Pepino bolsa grande				691.98	691.98
+ 130		2		 Habas de baño				503.12	503.12
+ 138		2		 Limones integral				1346.91	1346.9
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		0		 Sopa vegan				1559.96	1559.96
+ 25		0		 Habas integral				862.31	862.31
+ 46		0		 Harina integral con jarabe de agave				1648.78	1648.78
+ 93		0		 Cereales de baño				1393.58	1393.58
+ 96		0		 Ezekiel vegan				660.22	660.22
+ 112		0		 Calabaza bolsa grande				1723.54	1723.5
