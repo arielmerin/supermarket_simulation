@@ -1,0 +1,25 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 08:24:23
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 10		4		 Limones con aceite de coco				1452.64	1452.64
+ 28		6		 Chayotes con aceite de coco				572.69	572.69
+ 32		1		 Chiles secos con aceite de coco				963.04	963.04
+ 55		1		 Nueces veggie				61.93	61.93
+ 66		2		 Pasta vegan				344.05	344.05
+ 69		3		 Spaghetti con jarabe de agave				919.89	919.89
+ 90		1		 Chiles secos vegan				1807.20	1807.20
+ 101		4		 Lentejas con jarabe de agave				388.03	388.03
+ 138		9		 Mango orgánico				1807.45	1807.4
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 17		0		 Mango con aceite de coco				1720.34	1720.34
+ 31		0		 Cereales con aceite de coco				355.35	355.35
+ 61		0		 Avena orgánico				1187.55	1187.55
+ 70		0		 Papaya gluten free				143.84	143.84
+ 72		0		 Alubias con jarabe de agave				1200.43	1200.43
+ 73		0		 Papaya vegan				1204.88	1204.88
+ 115		0		 Pan bolsa grande				1595.53	1595.5

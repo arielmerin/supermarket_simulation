@@ -5,53 +5,55 @@ import java.io.Serializable;
 
 /**
  *<h1>Checkout</h1>
- * Esta clase modela todo el comportamiento de las cajas como elementos de un supermercado
+ *
+ * @author Ariel Merino & Armando Aquino
+ * @version 1.0
  */
 public class Checkout implements Serializable, Comparable<Checkout> {
 
     /**
      *
      */
-    protected double ventaDelDia;
+    protected double salesOfDay;
 
     /**
      *
      */
-    protected int clientesDelDia;
+    protected int customersOfDay;
 
     /**
      *
      */
-    protected Cola<Client> clients;
+    protected Cola<Customer> clients;
 
     /**
      *
      */
-    private int porAtender;
+    private int forBeingServed;
 
     /**
      *
      */
-    private boolean esRapida;
+    private boolean isQuick;
 
     /**
      *
      */
     public Checkout(boolean esRapida) {
         clients = new Cola<>();
-        this.esRapida = esRapida;
+        this.isQuick = esRapida;
     }
 
 
     /**
      *
-     * @param client
+     * @param customer
      */
-    public void formarCliente(Client client) {
-        if((esRapida && client.getItems() <= 20) || (!esRapida)){
-            clients.agrega(client);
-            clientesDelDia++;
-            porAtender++;
+    public void trainingCustomer(Customer customer) {
+        if((isQuick && customer.getItems() <= 20) || (!isQuick)){
+            clients.agrega(customer);
+            customersOfDay++;
+            forBeingServed++;
         }
     }
 
@@ -59,19 +61,19 @@ public class Checkout implements Serializable, Comparable<Checkout> {
      *
      * @return
      */
-    public double calculaVentaTotal(){
-        for (Client client: clients){
-            ventaDelDia+= client.calculaTotal();
+    public double computeTotalSale(){
+        for (Customer customer : clients){
+            salesOfDay += customer.computeTotal();
         }
-        return ventaDelDia;
+        return salesOfDay;
     }
 
 
     @Override
     public int compareTo(Checkout o) {
-        if (o.porAtender > porAtender){
+        if (o.forBeingServed > forBeingServed){
             return -1;
-        }if (o.porAtender < porAtender){
+        }if (o.forBeingServed < forBeingServed){
             return 1;
         }
         return 0;
@@ -79,8 +81,8 @@ public class Checkout implements Serializable, Comparable<Checkout> {
 
     @Override
     public String toString() {
-        return "CAJA " + (esRapida? " RÁPIDA\n": " NORMAL\n")+
-                String.format("Venta total: $%2.2f", calculaVentaTotal()) +
+        return "CAJA " + (isQuick ? " RÁPIDA\n": " NORMAL\n")+
+                String.format("Venta total: $%2.2f", computeTotalSale()) +
                 "\nClientes atendidos: " + clients.getTamanio() + "\n\n";
     }
 

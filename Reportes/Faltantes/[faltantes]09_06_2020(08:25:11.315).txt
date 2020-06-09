@@ -1,0 +1,30 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 08:24:47
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 7		1		 Pan con aceite de coco				1169.31	1169.31
+ 12		8		 Splenda de baño				1059.40	1059.40
+ 19		7		 Avena veggie				1145.70	1145.70
+ 21		2		 Harina de garbanzo integral				885.59	885.59
+ 40		4		 Arroz integral				1439.76	1439.76
+ 58		1		 Avena integral				386.00	386.00
+ 68		4		 Harina de trigo gluten free				297.97	297.97
+ 70		6		 Camote vegan				298.68	298.68
+ 81		5		 Chayotes bolsa grande				1839.70	1839.70
+ 99		9		 Pepino bolsa grande				401.95	401.95
+ 100		2		 Harina de garbanzo de baño				990.29	990.29
+ 133		2		 Edamames con jarabe de agave				1106.06	1106.0
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 5		0		 Chicharos con jarabe de agave				1308.52	1308.52
+ 18		0		 Arroz gluten free				1459.97	1459.97
+ 44		0		 Cereales bolsa grande				446.96	446.96
+ 50		0		 Papaya con aceite de coco				1306.15	1306.15
+ 53		0		 Harina de trigo orgánico				1583.41	1583.41
+ 108		0		 Mango orgánico				1432.66	1432.66
+ 115		0		 Garbanzos con aceite de coco				1088.84	1088.84
+ 116		0		 Chicharos veggie				853.60	853.60
+ 139		0		 Arroz vegan				271.94	271.9

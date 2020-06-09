@@ -1,7 +1,7 @@
 package sim;
 
 import market.SuperMarket;
-import market.admin.Client;
+import market.admin.Customer;
 import serializer.Serializer;
 import util.Lista;
 import util.generator.ProductoBuilder;
@@ -11,44 +11,42 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
- * <h1>Simulación</h1>
- * En esta clase se combinan todas la anteriores y en general se permite darle sentido a una simulación de compras en
- * un supermercado.
+ * <h1>Simulation</h1>
+ *
  * @autor Armando Aquino and Ariel Merino
  * @version 1.0
  */
 public class Simulation {
 
-
     /**
-     * Número de cajas que tendrá esta simulación
+     *
      */
-    private int cajas;
+    private int checkouts;
 
     /**
      *
      */
-    private int cajasRapidas;
+    private int quickCheckouts;
 
     /**
      *
      */
-    private int cajasLargas;
+    private int largeCheckout;
 
     /**
-     * Número de veces que se ejecutará dicha simulación
+     *
      */
-    private int veces;
+    private int times;
 
     /**
-     * El supermercado que servirá como base para obtener comportamiento de él.
+     *
      */
     private SuperMarket costco;
 
     /**
      *
      */
-    private Lista<Client> clientesAtendidos;
+    private Lista<Customer> customers;
 
     /**
      * Objeto que permitirá guardar archivos y serializarlos
@@ -57,31 +55,29 @@ public class Simulation {
 
     /**
      * <h2>Entrada Cliente</h2>
-     * Esta clase se especializa en proveernos de una tarea para que posteriormente pueda ser empleada en una agende
-     * y con una periocidad asignada
+     *
      */
-    private class EntraCliente extends TimerTask{
+    private class enterClient extends TimerTask{
 
         /**
-         *
-         *
+         * el cliente que será ingresado en la tarea
          */
-        public Client clientEntrando;
+        public Customer customerEntrando;
 
         /**
-         *
+         * Constructor principal para ingresar el clieente
          */
-        public EntraCliente(){
-            this.clientEntrando = costco.generaCliente();
-            clientesAtendidos.agregar(clientEntrando);
+        public enterClient(){
+            this.customerEntrando = costco.genCustomer();
+            customers.agregar(customerEntrando);
         }
 
         /**
-         *
+         * Permite detenerse lo necesario para que sea atendido un cliente
          */
         public void completarAtencion(){
             try {
-                long espera = clientEntrando.getWaitingTime();
+                long espera = customerEntrando.getWaitingTime();
                 Thread.sleep(espera);
             }catch (InterruptedException e){
                 e.printStackTrace();
@@ -89,10 +85,10 @@ public class Simulation {
         }
 
         /**
-         *
+         * Se permite que el supermercado forme a un cliente en alguna caja
          */
         public void formandoEnCaja(){
-            costco.formandoCliente(costco.generaCliente());
+            costco.trainCustumer(costco.genCustomer());
         }
 
         @Override
@@ -101,33 +97,32 @@ public class Simulation {
             completarAtencion();
         }
     }
+
     /**
-     * Constructor principal de la clase para obtener el número de cajas rápidas, normales los clientes y el numero de veces
-     * que se hizo el cálculo
-     * @param cajasRapidas número de cajas que reciben clientes con menos de 20 artículos
-     * @param cajasNormales Número de cajas que recibe clientes con más de 20 artículos
-     * @param veces Número de veces que se repite dicho cálculo para esta simulación
+     *
+     * @param cajasRapidas
+     * @param cajasNormales
+     * @param veces
      */
     public Simulation(int cajasRapidas, int cajasNormales, int veces){
-        this.cajasLargas = cajasNormales;
-        this.cajasRapidas = cajasRapidas;
-        this.cajas = cajasNormales + cajasRapidas;
-        this.veces = veces;
+        this.largeCheckout = cajasNormales;
+        this.quickCheckouts = cajasRapidas;
+        this.checkouts = cajasNormales + cajasRapidas;
+        this.times = veces;
         costco = new SuperMarket(cajasRapidas, cajasNormales );
         serializer = new Serializer();
-        clientesAtendidos = new Lista<>();
+        customers = new Lista<>();
     }
-
 
     /**
      *
      * @return
      */
-    public void simular(){
-        generarProductosAleatorios(150);
-        cargarProductos("");
+    public void simulate(){
+        genRandomProd(150);
+        loadProductsList("");
         Timer timer = new Timer(true);
-        TimerTask entradaClientes = new EntraCliente();
+        TimerTask entradaClientes = new enterClient();
         timer.schedule(entradaClientes, 0, 200);
         try {
             Thread.sleep(24000);
@@ -141,74 +136,73 @@ public class Simulation {
      *
      * @return
      */
-    public double promediar() {
-        int clientesRapidos = 0;
-        int clientesLargos = 0;
-        double sumatiempoLargas = 0.0;
-        double sumatiempoRapidas = 0.0;
+    public double averagingTime() {
+        int fastClients = 0;
+        int largeCustomer = 0;
+        double sumLargeTime = 0.0;
+        double sumQuickTime = 0.0;
 
-        for (Client clienteAtendido: costco.getTickets()){
-            if (clienteAtendido.getItems() > 20){
-                clientesLargos++;
-                sumatiempoLargas += clienteAtendido.getWaitingTime();
+        for (Customer attendedCustomer: costco.getTickets()){
+            if (attendedCustomer.getItems() > 20){
+                largeCustomer++;
+                sumLargeTime += attendedCustomer.getWaitingTime();
             }else {
-                clientesRapidos++;
-                sumatiempoRapidas += clienteAtendido.getWaitingTime();
+                fastClients++;
+                sumQuickTime += attendedCustomer.getWaitingTime();
             }
         }
-        sumatiempoLargas = sumatiempoLargas / clientesLargos;
-        sumatiempoRapidas = sumatiempoRapidas / clientesRapidos;
-        return (sumatiempoRapidas + sumatiempoLargas)/2;
+        sumLargeTime = sumLargeTime / largeCustomer;
+        sumQuickTime = sumQuickTime / fastClients;
+        return (sumQuickTime + sumLargeTime)/2;
     }
 
     /**
      *
      * @return
      */
-    public String escribeLinea() {
-        String caden = String.format(  "%.2f\t%d\n",promediar(),cajasRapidas);
+    public String writeLine() {
+        String caden = String.format("%.2f\t%d\t%d\t%d\n", averagingTime(), quickCheckouts, largeCheckout, customers.longitud());
         return caden;
     }
 
-
     /**
      *
      */
-    public void generarReportes(){
-        SimpleDateFormat sdt = new SimpleDateFormat(("dd_MM_yyyy(HH:mm:ss)"));
-        String nombre = sdt.format(new Date());
-        serializer.creaCarpeta("Reportes");
-        serializer.creaCarpeta("Reportes/Tickets");
-        serializer.creaCarpeta("Reportes/ReportesDiarios");
-        serializer.creaCarpeta("Reportes/Faltantes");
+    public void getReports(){
+        SimpleDateFormat sdt = new SimpleDateFormat(("dd_MM_yyyy(HH:mm:ss.SSS)"));
+        String idFromDate = sdt.format(new Date());
+        serializer.makeDir("Reportes");
+        serializer.makeDir("Reportes/Tickets");
+        serializer.makeDir("Reportes/ReportesDiarios");
+        serializer.makeDir("Reportes/Faltantes");
 
-        serializer.escribeTXT(costco, "Reportes/ReportesDiarios"+ "/"+ "[reporte]"+nombre+".txt");
-        serializer.escribeTXT(costco.reportePocasExistencias(), "Reportes/Faltantes"+ "/"+ "[faltantes]"+nombre+".txt");
-        serializer.escribeTXT(costco.getTickets(), "Reportes/Tickets"+ "/"+ "[tickets]" +nombre+".txt");
+        serializer.writeTXT(costco, "Reportes/ReportesDiarios"+ "/"+ "[reporte]"+idFromDate+".txt");
+        serializer.writeTXT(costco.reportMissingExistences(), "Reportes/Faltantes"+ "/"+ "[faltantes]"+idFromDate+".txt");
+        serializer.writeTXT(costco.getTickets(), "Reportes/Tickets"+ "/"+ "[tickets]" +idFromDate+".txt");
     }
 
     /**
      *
-     * @param productos
+     * @param products
      */
-    public void generarProductosAleatorios(int productos){
+    public void genRandomProd(int products){
         ProductoBuilder productoBuilder = new ProductoBuilder();
-        Lista<String> textos = new Lista<>();
-        for (int i = 0; i < productos; i++) {
-            textos.agregar(String.valueOf(productoBuilder.next()));
+        Lista<String> texts = new Lista<>();
+        for (int i = 0; i < products; i++) {
+            texts.agregar(String.valueOf(productoBuilder.next()));
         }
-        serializer.escribeTXT(textos,"productosGenerados.txt");
+        serializer.writeTXT(texts,"productsGenerated.txt");
     }
 
     /**
      *
      * @param path
      */
-    public void cargarProductos(String path){
+    public void loadProductsList(String path){
         if (path == ""){
-            costco.cargarProductos("productosGenerados.txt");
+            costco.loadProducts("productsGenerated.txt");
         }else {
-            costco.cargarProductos(path);
+            costco.loadProducts(path);
         }
     }
 }

@@ -13,146 +13,147 @@ import java.util.Scanner;
 import static util.Utilidades.random;
 
 /**
- *<h1> Supermercado </h1>
- * Esta clase se encarga de darle todo el compportamiento de un super a los objetos que se empleen en las simulaciones
- * desde el número de cajas rápidas y un almaces hasta un conjunto de tickets diarios pues se considera la simulación
- * de un día
+ *<h1> Supermarket </h1>
+ *
+ * @author Ariel Merino & Armando Aquino
+ * @version 1.0
+ *
  */
 public class SuperMarket  implements Serializable {
 
 
     /**
-     * Alamcén del supermercado, servirá para operar la entrada y salida de productos
+     *
      */
-    private final Wharehouse almacenPrincipal;
+    private final Warehouse mainWarehouse;
 
     /**
-     * lleva un conteo de los clientes que se han formado en una caja rápida
+     *
      */
-    private int numClientesRapidos;
-
-
-    /**
-     * lleva un conteo del número de clientes que se han formado en una caja larga
-     */
-    private int numClientesLargos;
-
-    /**
-     * todos los clientes que fueron atendidios durante la ejecución del supermercado
-     */
-    private Lista<Client> tickets;
+    private int numFastClients;
 
 
     /**
-     * una unifilia ordenada de las cajas con menos clientes primero
+     *
      */
-    private MinHeap<Checkout> unifila;
+    private int numLargeClients;
 
     /**
-     * las cajas largas ordenadas en un montículo
+     *
      */
-    private MinHeap<Checkout> cajas;
+    private Lista<Customer> tickets;
+
 
     /**
-     * permitirá poner la fecha con hora a los reportes
+     *
      */
-    private final SimpleDateFormat formatter = new SimpleDateFormat(("dd/MM/yyyy - HH:mm:ss"));
+    private MinHeap<Checkout> singleLine;
 
     /**
-     * nos permite acceder a la fecha actual para luego darle formato
+     *
      */
-    private Date fecha = new Date();
+    private MinHeap<Checkout> checkouts;
 
     /**
-     * La creación de un supermercado, su apertura, está sujeta al número de cajas rápidas, el número de cajas normales
-     * y el número de clientes
+     *
+     */
+    private final SimpleDateFormat formatter = new SimpleDateFormat(("dd/MM/yyyy - HH:mm:ss.SSS"));
+
+    /**
+     *
+     */
+    private Date date = new Date();
+
+    /**
+     *
      * @param rapidas
      * @param normales
      */
     public SuperMarket(int rapidas, int normales) {
-        this.unifila = new MinHeap<>();
-        this.cajas = new MinHeap<>();
-        this.almacenPrincipal = new Wharehouse();
+        this.singleLine = new MinHeap<>();
+        this.checkouts = new MinHeap<>();
+        this.mainWarehouse = new Warehouse();
         for (int i = 1; i <= rapidas; i++) {
-            abreCaja(true);
+            enableCheckout(true);
         }
         for (int i = 1; i <= normales; i++) {
-            abreCaja(false);
+            enableCheckout(false);
         }
 
         this.tickets = new Lista<>();
     }
 
     /**
-     * Permite acceder a los tickets de las ventas que realizó el supermercado
-     * @return clientes atentidos
+     *
+     * @return
      */
-    public Lista<Client> getTickets() {
+    public Lista<Customer> getTickets() {
         return tickets;
     }
 
     /**
-     * Pemrite acceder al almacén del supermercado desde fuera
-     * @return almacén del super
+     *
+     * @return
      */
-    public Wharehouse getAlmacen() {
-        return almacenPrincipal;
+    public Warehouse getAlmacen() {
+        return mainWarehouse;
     }
 
     /**
-     * Proporciona el número total de ventas del supermercado entre ambos tipos de cajas
-     * @return la suma de cada cantidad que se vendió
+     *
+     * @return
      */
-    public double getTotalVentas() {
+    private double getTotalVentas() {
         double suma = 0;
-        for (Checkout cajaRapida: unifila) {
-            suma += cajaRapida.calculaVentaTotal();
+        for (Checkout cajaRapida: singleLine) {
+            suma += cajaRapida.computeTotalSale();
         }
-        for (Checkout cajaNormal: cajas){
-            suma+= cajaNormal.calculaVentaTotal();
+        for (Checkout cajaNormal: checkouts){
+            suma+= cajaNormal.computeTotalSale();
         }
         return Math.round(suma);
     }
 
     /**
-     * Operación que delega al almacen al ingresar nueva mercancía al supermercado
-     * @param product el artículo que sera añadido
+     *
+     * @param product
      */
     public void darAltaProducto(Product product) {
-        almacenPrincipal.agregarProducto(product);
+        mainWarehouse.addProduct(product);
     }
 
     /**
-     * Permite inicializar y añadir a los montículos de cajas cada que una se abre
-     * @param esRapida saber si la caja a abrir es rápida o larga
+     *
+     * @param isQuick
      */
-    public void abreCaja(boolean esRapida){
-        if (esRapida){
+    public void enableCheckout(boolean isQuick){
+        if (isQuick){
             Checkout quickCheckout = new Checkout(true);
-            unifila.agrega(quickCheckout);
+            singleLine.agrega(quickCheckout);
         }else {
             Checkout largeCheckout = new Checkout(false);
-            cajas.agrega(largeCheckout);
+            checkouts.agrega(largeCheckout);
         }
     }
 
     /**
-     * Genera un cliente aleatorio con un número aleatorio de elementos en su carrito
-     * @return true si el cliente creado tiene al menos un artículo en su carrito, false en cualquier otro caso
+     *
+     * @param customer
+     * @return
      */
-    public boolean formandoCliente(Client client){
-        if (client.getItems() != 0){
-            tickets.agregar(client);
-            if (client.getItems() <= 20){
-                numClientesRapidos++;
-                Checkout cajara =  unifila.elimina();
-                cajara.formarCliente(client);
-                unifila.agrega(cajara);
+    public boolean trainCustumer(Customer customer){
+        if (customer.getItems() != 0){
+            tickets.agregar(customer);
+            if (customer.getItems() <= 20){
+                numFastClients++;
+                Checkout cajara =  singleLine.elimina();
+                cajara.trainingCustomer(customer);
+                singleLine.agrega(cajara);
             }else {
-                numClientesLargos++;
-                Checkout caja = cajas.elimina();
-                caja.formarCliente(client);
-                cajas.agrega(caja);
+                numLargeClients++;
+                Checkout caja = checkouts.elimina();
+                caja.trainingCustomer(customer);
+                checkouts.agrega(caja);
             }
             return true;
         }
@@ -160,59 +161,55 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     * Permite la creación de un cliente y la asignación aleatoria de un producto a través de un número porporcionado de
-     * artículos
-     * @param productosCliente número de productos que el cliente llevará en su canasta
-     * @return Cliente construido
+     *
+     * @param clientsProducts
+     * @return
      */
-    private Client cargaCarritoCompras(int productosCliente){
-        Client client = new Client();
-        for (int i = 0; i < productosCliente; i++) {
-            int ran = random(almacenPrincipal.getAlmacen().getTamanio() - 1);
-            asignaProducto(client,ran+ 1,random(15) + 1);
+    private Customer addShoppingCart(int clientsProducts){
+        Customer customer = new Customer();
+        for (int i = 0; i < clientsProducts; i++) {
+            int ran = random(mainWarehouse.getWhareHouse().getTamanio() - 1);
+            assingProduct(customer,ran+ 1,random(15) + 1);
         }
-        return client;
+        return customer;
     }
 
     /**
-     * Dado un cliente, un identificador del producto y una cantidad se asigna al cliente dicho producto en la cantidad
-     * que se indicó, es lo mismo que añadirlo al carrito en un supermercado ordinario
-     * @param client Cliente al que se le cargará el producto
-     * @param id identificador del producto
-     * @param cantidad número de veces que llevará el producto
+     *
+     * @param customer
+     * @param id
+     * @param quantity
      */
-    private void asignaProducto(Client client, int id, int cantidad){
-        Product agregar = almacenPrincipal.getAlmacen().busquedaElemento(new Product(id));
-        Product alCarrito = new Product(id);
+    private void assingProduct(Customer customer, int id, int quantity){
+        Product toAdd = mainWarehouse.getWhareHouse().busquedaElemento(new Product(id));
+        Product toTheCart = new Product(id);
 
-        alCarrito.setUnits(cantidad);
-        alCarrito.setName(agregar.getName());
-        alCarrito.setPrice(agregar.getPrice());
-        alCarrito.setTimes(cantidad);
+        toTheCart.setUnits(quantity);
+        toTheCart.setName(toAdd.getName());
+        toTheCart.setPrice(toAdd.getPrice());
+        toTheCart.setTimes(quantity);
 
-        if (agregar.getUnits() >= cantidad){
-            client.agregarAlCarrito(alCarrito);
-            almacenPrincipal.modificarExistencias(-cantidad,id);
+        if (toAdd.getUnits() >= quantity){
+            customer.addToCart(toTheCart);
+            mainWarehouse.modifyStock(-quantity,id);
         }
     }
 
     /**
-     * En este metodo se toma el path que se indica al principio para crear un flujo de lectura donde en cada linea que
-     * encuentre dividira la linea en dos, la primera parte antes de que aparezca una coma y la segunda viene despues de
-     * la coma, ademas esta pensado para que las lineas esten entre parentesis por lo que los elimina
-     * @param ruta direccion del archivo a leer
+     *
+     * @param path
      */
-    public void cargarProductos(String ruta){
+    public void loadProducts(String path){
         try {
-            Scanner input = new Scanner(new File(ruta));
+            Scanner input = new Scanner(new File(path));
             while (input.hasNextLine()) {
                 String line = input.nextLine();
-                String[] linea = line.split(",");
-                int cantidad = Integer.parseInt(linea[0]);
-                String nombre = linea[1];
-                float presio = Float.parseFloat(linea[2]);
-                Product nuevo = new Product(cantidad, nombre, presio);
-                almacenPrincipal.agregarProducto(nuevo);
+                String[] lineFromTxt = line.split(",");
+                int quant = Integer.parseInt(lineFromTxt[0]);
+                String name = lineFromTxt[1];
+                float price = Float.parseFloat(lineFromTxt[2]);
+                Product newProduct = new Product(quant, name, price);
+                mainWarehouse.addProduct(newProduct);
             }
             input.close();
         } catch (FileNotFoundException e){
@@ -223,34 +220,33 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     * Permite generar un cliente de manera alearorea con un número de compras mínimo de 18 y máximo de 27
-     * @return cliente con productos asignados
+     *
+     * @return
      */
-    public Client generaCliente(){
-        return cargaCarritoCompras(random(10) + 18);
+    public Customer genCustomer(){
+        return addShoppingCart(random(10) + 18);
     }
 
     /**
-     * Hace una búsqueda en el almacén y encuentra los elementos que tienen pocas existencias o hacen falta
-     * para añadirlos a una cadena y regresarlos con el formato deseado
+     *
      * @return
      */
-    public String reportePocasExistencias(){
-        return "   :::    REPORTE DE POCAS EXISTENCIAS   :::\n    Fecha: " + formatter.format(fecha) +
+    public String reportMissingExistences(){
+        return "   :::    REPORTE DE POCAS EXISTENCIAS   :::\n    Fecha: " + formatter.format(date) +
                 "\n\n" +
                 " ----------------- QUEDAN POCOS ------------------" +
                 "\n   ID    Cantidad         Nombre         Precio \n" +
-                almacenPrincipal.pocasExistencias() +
+                mainWarehouse.limitedStocks() +
                 "\n\n\n ---------------- FALTAN ----------------------" +
                 "\n   ID    Cantidad         Nombre         Precio \n" +
-                almacenPrincipal.faltantes();
+                mainWarehouse.missingStock();
     }
 
     @Override
     public String toString() {
-        String now = formatter.format(fecha);
+        String now = formatter.format(date);
         Lista<Checkout> cajasOrdenadas = new Lista<>();
-        for (Checkout caja: cajas){
+        for (Checkout caja: checkouts){
             cajasOrdenadas.agregar(caja);
         }
         Checkout masVendioNormal = cajasOrdenadas.getElemento( cajasOrdenadas.longitud() > 1? cajasOrdenadas.longitud()-1: 1);
@@ -260,7 +256,7 @@ public class SuperMarket  implements Serializable {
                         "atendidos: %d \n" +
                         " \nCon las siguientes cajas: \n%s\n %s" +
                         "\n\n La caja que más clientes atendió fue: \n %s",
-                now,getTotalVentas(), numClientesRapidos, numClientesLargos, tickets.longitud() , cajas, unifila, masVendioNormal);
+                now,getTotalVentas(), numFastClients, numLargeClients, tickets.longitud() , checkouts, singleLine, masVendioNormal);
     }
 
 }

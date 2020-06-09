@@ -4,21 +4,22 @@ import java.io.*;
 
 /**
  * <h1>Serializer </h1>
- * Permite hacer la inscripcion de objetos en un documento de salida para mantener la persistencia de datos
+ *
  * @author Armando Aquino and Kevin Ariel Merino Peña
  * @version 1
  */
 public class Serializer {
+
     /**
-     * Metodo que crea un flujo de salida y almacena objetos en archivos
-     * @param baseDeDatos Objeto que queremos almacenar
-     * @param ruta Nombre del archivo donde se almacenaran nuestros objetos
+     *
+     * @param objetToSerialize
+     * @param path
      */
-    public void write(Object baseDeDatos, String ruta){
+    public void write(Object objetToSerialize, String path){
         ObjectOutputStream writer = null;
         try{
-            writer = new ObjectOutputStream(new FileOutputStream(ruta));
-            writer.writeObject(baseDeDatos);
+            writer = new ObjectOutputStream(new FileOutputStream(path));
+            writer.writeObject(objetToSerialize);
         }catch(NotSerializableException exc){
             System.out.println(exc);
         }catch(FileNotFoundException e){
@@ -40,19 +41,17 @@ public class Serializer {
     }
 
     /**
-     * Permite guardar un objeto en un archivo de txt en la ruta inidicada
-     * @param object objeto a escribir
-     * @param path dirección donde se va a grabar
+     *
+     * @param object
+     * @param path
      */
-    public void escribeTXT(Object object, String path){
+    public void writeTXT(Object object, String path){
         FileWriter fichero = null;
         PrintWriter pw = null;
-        try
-        {
+        try{
             fichero = new FileWriter(path);
             pw = new PrintWriter(fichero);
             pw.println(object);
-
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
@@ -67,14 +66,13 @@ public class Serializer {
     }
 
     /**
-     * Permite crear una carpeta si es que no existe en la ruta indicada, de ser exitoso muestra un mensaje notificando
-     * su creación en otro caso un error al crearlo
-     * @param nombre dirección donde se creará el directorio
+     *
+     * @param nameDir
      */
-    public void creaCarpeta(String nombre) {
-        File directorio = new File( nombre);
-        if (!directorio.exists()) {
-            if (directorio.mkdir()) {
+    public void makeDir(String nameDir) {
+        File directory = new File(nameDir);
+        if (!directory.exists()) {
+            if (directory.mkdir()) {
                 System.out.println("Directorio creado");
             } else {
                 System.out.println("Error al crear directorio");
@@ -83,15 +81,15 @@ public class Serializer {
     }
 
     /**
-     * Metodo que crea un flujo de entrada para leer objetos almacenados
-     * @param cadena Nombre donde estan almacenados los objetos a los que queremos acceder
-     * @return Conjunto guardado en el archivo
+     *
+     * @param path
+     * @return
      */
-    public Object read(String cadena){
+    public Object read(String path){
         ObjectInputStream in = null;
         Object obj = null;
         try{
-            in = new ObjectInputStream(new FileInputStream(cadena));
+            in = new ObjectInputStream(new FileInputStream(path));
             obj = in.readObject();
         }catch(EOFException e){
             System.out.println("Fin del archivo");
@@ -100,11 +98,11 @@ public class Serializer {
         }catch(IOException e){
             System.out.println(e);
         }catch(ClassNotFoundException e){
-
+            e.printStackTrace();
         }finally{
             if(in == null){
                 System.out.println("Nuevo archivo creado");
-                write(obj, cadena);
+                write(obj, path);
             }else{
                 try{
                     in.close();

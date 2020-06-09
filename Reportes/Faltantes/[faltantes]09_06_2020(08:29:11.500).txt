@@ -1,0 +1,17 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 08:28:47
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 13		1		 Almendras veggie				1447.63	1447.63
+ 28		1		 Garbanzos de baño				140.93	140.93
+ 58		7		 Pera vegan				183.44	183.44
+ 85		2		 Almendras con aceite de coco				1610.17	1610.17
+ 100		6		 Chicharos integral				258.79	258.79
+ 101		2		 Quinoa gluten free				112.31	112.31
+ 150		2		 Avena veggie				1072.30	1072.3
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 2		0		 Harina de garbanzo bolsa grande				1825.51	1825.5

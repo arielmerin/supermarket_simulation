@@ -10,25 +10,28 @@ import static util.Utilidades.getInt;
 
 /**
  * <h1>Menú</h1>
- * Esta clase provee de una interfaz muy sencilla para interactuar con el usuario a través de la terminal
+ *
+ * @author Ariel Merino & Armando Aquino
+ * @version 1.0
  */
 public class Menu {
 
     /**
-     * Tiene todo el comportamiento del supermercado englobado en un objeto
+     *
      */
-    private SuperMarket walmar = new SuperMarket(5,10);
+    private SuperMarket walmart = new SuperMarket(5,10);
+
     /**
-     * Objeto para manejar la persistencia de datos dentro del programa
+     *
      */
     private Serializer serializer = new Serializer();
 
     /**
-     * Método que da la bienvenida al usuario y le presenta el primer menú de opciones
+     *
      */
-    public void principal(){
+    public void mainMenu(){
         System.out.println("Bienvedidx al supermercado");
-        revisaExistencia();
+        checkExistences();
         boolean continuar = true;
         do {
             System.out.println("\n[1]Modo Administrativo");
@@ -53,30 +56,28 @@ public class Menu {
 
         }while (continuar);
     }
+
     /**
-     * Delega la tarea de guardar <i> serializar </i> el objeto de tipo arbol que funge como diccionario
+     *
      */
-    private void guardar(){
-        serializer.write(walmar, "dataD.ser");
+    private void save(){
+        serializer.write(walmart, "dataD.ser");
     }
 
-
     /**
-     * Se encarga de buscar si existe un archivo con información de diccionario, en caso de encontrarlo lo lee para
-     * trabajar con esa información, en otro caso crea un nuevo archivo y lee el archivo txt que se supone
-     * que siempre encontrará
+     *
      */
-    private void revisaExistencia(){
-        File archivo = new File("dataD.ser");
-        if (archivo.exists()){
-            walmar = (SuperMarket) serializer.read("dataD.ser");
+    private void checkExistences(){
+        File file = new File("dataD.ser");
+        if (file.exists()){
+            walmart = (SuperMarket) serializer.read("dataD.ser");
         }else {
-            guardar();
+            save();
         }
     }
 
     /**
-     * Opción secundaria del menú donde se permite a la usuaria dar de alta algún producto o resurtir alguna existencia
+     *
      */
     private void adminMenu(){
         boolean continua = true;
@@ -86,12 +87,12 @@ public class Menu {
             System.out.println("[3]Ver el inventario");
             System.out.println("[4]Regresar al menú principal\n");
 
-            int respuesta = getInt("Ingrese la opción deseada: ", "Error, intente de nuevo");
+            int anInt = getInt("Ingrese la opción deseada: ", "Error, intente de nuevo");
 
-            switch (respuesta){
+            switch (anInt){
                 case 1:
-                    walmar.darAltaProducto(ingresarProducto());
-                    guardar();
+                    walmart.darAltaProducto(addProduct());
+                    save();
                     break;
                 case 2:
                     if (resurtirProducto()){
@@ -99,10 +100,10 @@ public class Menu {
                     }else {
                         System.out.println("intente de nuevo, ocurrió un error");
                     }
-                    guardar();
+                    save();
                     break;
                 case 3:
-                    System.out.println(walmar.getAlmacen().getAlmacen());
+                    System.out.println(walmart.getAlmacen().getWhareHouse());
                     break;
                 case 4:
                     continua = false;
@@ -115,7 +116,7 @@ public class Menu {
     }
 
     /**
-     * Reparte la tarea de mostrar el menú secundario, en su opción para un usuario promedio, las opciones que tiene.
+     *
      */
     private void userMenu(){
         boolean conti = true;
@@ -123,8 +124,8 @@ public class Menu {
             System.out.println("[1]Elaborar una simulación automática");
             System.out.println("[2]Elegir cuántas cajas se quieren simular");
             System.out.println("[3]Regresar el menú principal");
-            int respuesta = getInt("Ingrese la opción deseada: ", "Error, intente de nuevo");
-            switch (respuesta){
+            int answer = getInt("Ingrese la opción deseada: ", "Error, intente de nuevo");
+            switch (answer){
                 case 1:
                     System.out.println("Simulando compras... espere por favor");
                     break;
@@ -141,17 +142,16 @@ public class Menu {
     }
 
     /**
-     * Permite que sea añadido un producto, pide a la usuaria los datos necesarios para crear un nuevo product
-     * @return regresa el producto creado con los datos proporcionados
+     *
+     * @return
      */
-    private Product ingresarProducto(){
+    private Product addProduct(){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese el nombre del producto: ");
-        String nombre = scanner.nextLine();
-        int unidades = getInt("Ingrese el número de existencias del producto: ", "Error, intente de nuevo");
-        float precio = getFloat("Ingrese el precio del producto: ", "Error, intente de nuevo");
-
-        return new Product(unidades,nombre,precio);
+        String name = scanner.nextLine();
+        int units = getInt("Ingrese el número de existencias del producto: ", "Error, intente de nuevo");
+        float price = getFloat("Ingrese el precio del producto: ", "Error, intente de nuevo");
+        return new Product(units,name,price);
     }
 
     /**
@@ -160,10 +160,10 @@ public class Menu {
      */
     private boolean resurtirProducto(){
         int numero = getInt("Ingrese el id del producto a resurtir: ", "Error, intente de nuevo");
-        Product enCuestion = new Product(numero);
-        if (walmar.getAlmacen().getAlmacen().contiene(enCuestion)){
+        Product inCuestion = new Product(numero);
+        if (walmart.getAlmacen().getWhareHouse().contiene(inCuestion)){
             int nuevo = getInt("Ingrese el número de elementos a agregar: ", "Error, intente de nuevo");
-            return walmar.getAlmacen().modificarExistencias(nuevo, numero);
+            return walmart.getAlmacen().modifyStock(nuevo, numero);
         }
         return false;
     }

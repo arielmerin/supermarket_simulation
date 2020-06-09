@@ -5,13 +5,14 @@ import java.util.Objects;
 
 /**
  *<h1>Product</h1>
- * La clase producto se encarga de porporcinar las funciones y propiedades que un artículo tendría en el almacén de
- * un supermercado
+ *
+ * @author Ariel Merino & Armando Aquino
+ * @version 1.1
  */
 public class Product implements Comparable<Product>, Serializable {
 
     /**
-     *
+     * The only indentificador for each product
      */
     private int id;
 

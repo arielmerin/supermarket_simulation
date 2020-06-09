@@ -1,0 +1,17 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 08:26:47
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 2		4		 Limones veggie				663.59	663.59
+ 29		3		 Vinagre de Arroz gluten free				565.97	565.97
+ 35		6		 Camote bolsa grande				1157.89	1157.89
+ 49		5		 Jabón gluten free				117.57	117.57
+ 62		9		 Chayotes gluten free				1683.38	1683.38
+ 90		4		 Sopa gluten free				576.25	576.25
+ 144		2		 Garbanzos con jarabe de agave				1217.31	1217.3
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 105		0		 Vinagre de Arroz gluten free				732.48	732.4

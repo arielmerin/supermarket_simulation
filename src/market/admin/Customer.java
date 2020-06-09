@@ -4,10 +4,12 @@ import util.Pila;
 import static util.Utilidades.random;
 
 /**
- * <h1>Client</h1>
- * Esta clase hace las veces de un cliente que entra a un supermercado, cuenta con un carrito de compra y un ticket
+ * <h1>Customer</h1>
+ *
+ * @author Ariel Merino & Armando Aquino
+ * @version 1.1
  */
-public class Client implements Comparable<Client> {
+public class Customer implements Comparable<Customer> {
 
     /**
      *
@@ -15,7 +17,7 @@ public class Client implements Comparable<Client> {
     private Purchase purchase = new Purchase();
 
     /**
-     *
+     * <h1>Purchase </h1>
      */
     private class Purchase implements Comparable{
 
@@ -34,9 +36,9 @@ public class Client implements Comparable<Client> {
                     "\n----------------------------------------------------\n" +
                     "#Producto Cantidad     Nombre    Precio   Total\n"+
                     shoppingCart +
-                    String.format("\n\n                           Subtotal:   %2.2f", calculaTotal() - calculaIva(calculaTotal())) + "\n"+
-                    String.format("                           iva:        %2.2f", calculaIva(calculaTotal())) + "\n"+
-                    String.format("                           total:      %2.2f", calculaTotal()) + "\n"+
+                    String.format("\n\n                           Subtotal:   %2.2f", computeTotal() - computeIva(computeTotal())) + "\n"+
+                    String.format("                           iva:        %2.2f", computeIva(computeTotal())) + "\n"+
+                    String.format("                           total:      %2.2f", computeTotal()) + "\n"+
                     "Total de artículos vendidos: "+ shoppingCart.getTamanio() + "\n"+
                     "----------------------------------------------------\n"+
                     "¡GRACIAS POR TU COMPRA, VUELVE PRONTO!\n" +
@@ -61,36 +63,53 @@ public class Client implements Comparable<Client> {
      *
      * @return
      */
-    public double calculaTotal(){
-        double sumatoria = 0;
+    public double computeTotal(){
+        double sum = 0;
         for (Product product: purchase.shoppingCart){
-            sumatoria+= product.getTotal();
+            sum+= product.getTotal();
         }
-        return sumatoria;
+        return sum;
     }
 
+    /**
+     *
+     * @return
+     */
     public int getItems(){
         return purchase.shoppingCart.getTamanio();
     }
 
-    public void agregarAlCarrito(Product product) {
+    /**
+     *
+     * @param product
+     */
+    public void addToCart(Product product) {
         purchase.shoppingCart.agrega(product);
     }
 
-    public double calculaIva(double total){
+    /**
+     *
+     * @param total
+     * @return
+     */
+    public double computeIva(double total){
         return total * 0.16;
     }
 
+    /**
+     *
+     * @return
+     */
     public long getWaitingTime() {
         int tiempoTardaPorArticulo = purchase.shoppingCart.getTamanio() >= 20 ? random(9) + 28: random(5) + 1;
         return purchase.shoppingCart.getTamanio() * tiempoTardaPorArticulo;
     }
 
     @Override
-    public int compareTo(Client o) {
-        if (o.calculaTotal() > calculaTotal()){
+    public int compareTo(Customer o) {
+        if (o.computeTotal() > computeTotal()){
             return 1;
-        }if (o.calculaTotal() < calculaTotal()){
+        }if (o.computeTotal() < computeTotal()){
             return -1;
         }
         return 0;

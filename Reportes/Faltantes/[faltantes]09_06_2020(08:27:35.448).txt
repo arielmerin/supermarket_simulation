@@ -1,0 +1,19 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 08:27:11
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 11		1		 Arroz vegan				968.59	968.59
+ 25		7		 Splenda orgánico				1633.67	1633.67
+ 45		1		 Mandarina integral				7.67	7.67
+ 49		2		 Spaghetti con jarabe de agave				584.73	584.73
+ 84		4		 Sopa gluten free				1330.03	1330.03
+ 85		4		 Harina integral de baño				1106.12	1106.12
+ 114		3		 Splenda vegan				1300.23	1300.23
+ 119		3		 Harina de quinoa con aceite de coco				1106.97	1106.97
+ 127		1		 Limones gluten free				636.09	636.0
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 120		0		 Lentejas vegan				417.29	417.2

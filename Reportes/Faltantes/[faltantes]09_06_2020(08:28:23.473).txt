@@ -1,0 +1,16 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 08:27:59
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 8		1		 Camote bolsa grande				834.54	834.54
+ 52		2		 Almendras de baño				512.08	512.08
+ 101		2		 Garbanzos con aceite de coco				1388.84	1388.84
+ 110		5		 Mandarina vegan				34.72	34.72
+ 149		2		 Harina de trigo gluten free				1048.69	1048.6
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 19		0		 Quinoa vegan				252.47	252.47
+ 32		0		 Salsa de soya de baño				1650.66	1650.6

@@ -1,0 +1,14 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 08:25:11
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 71		2		 Sopa vegan				789.54	789.54
+ 82		2		 Spaghetti integral				980.12	980.12
+ 116		5		 Harina de trigo integral				970.79	970.79
+ 135		2		 Harina de garbanzo vegan				1705.49	1705.4
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

@@ -1,0 +1,18 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 08:29:11
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 14		1		 Lentejas orgánico				1037.03	1037.03
+ 21		6		 Salsa de soya bolsa grande				1130.86	1130.86
+ 32		5		 Papaya con jarabe de agave				392.02	392.02
+ 86		1		 Arroz de baño				1372.94	1372.94
+ 129		2		 Almendras con jarabe de agave				809.05	809.05
+ 131		6		 Camote bolsa grande				997.50	997.50
+ 135		5		 Quinoa de baño				736.57	736.5
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 44		0		 Calabaza gluten free				531.63	531.63
+ 49		0		 Harina integral veggie				1020.26	1020.2
