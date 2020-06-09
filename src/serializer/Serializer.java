@@ -40,9 +40,9 @@ public class Serializer {
     }
 
     /**
-     *
-     * @param object
-     * @param path
+     * Permite guardar un objeto en un archivo de txt en la ruta inidicada
+     * @param object objeto a escribir
+     * @param path dirección donde se va a grabar
      */
     public void escribeTXT(Object object, String path){
         FileWriter fichero = null;
@@ -67,8 +67,9 @@ public class Serializer {
     }
 
     /**
-     *
-     * @param nombre
+     * Permite crear una carpeta si es que no existe en la ruta indicada, de ser exitoso muestra un mensaje notificando
+     * su creación en otro caso un error al crearlo
+     * @param nombre dirección donde se creará el directorio
      */
     public void creaCarpeta(String nombre) {
         File directorio = new File( nombre);
