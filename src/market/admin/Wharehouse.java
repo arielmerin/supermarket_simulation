@@ -2,7 +2,6 @@ package market.admin;
 
 import util.ArbolAVL;
 import util.Lista;
-
 import java.io.Serializable;
 import java.util.Iterator;
 
@@ -12,7 +11,6 @@ import java.util.Iterator;
  * con acciones para surtir el almacen y para retirar productos
  */
 public class Wharehouse implements Serializable {
-
 
     /**
      *
@@ -31,7 +29,6 @@ public class Wharehouse implements Serializable {
         almacen = new ArbolAVL<>();
     }
 
-
     /**
      * Este método modifica el número de elementos de algún producto que haya en nuestro alamacen
      * @param cantidad
@@ -47,7 +44,11 @@ public class Wharehouse implements Serializable {
         return true;
     }
 
-
+    /**
+     *
+     * @param product
+     * @param valor
+     */
     public void actualizar(Product product, int valor ){
         Product product1 = almacen.busquedaElemento(product);
         product1.setUnits(valor);
@@ -87,6 +88,10 @@ public class Wharehouse implements Serializable {
         return faltantes;
     }
 
+    /**
+     *
+     * @return
+     */
     public Lista<String> faltantes(){
         Lista<String> falta = new Lista<>();
         Iterator it = almacen.iterator();

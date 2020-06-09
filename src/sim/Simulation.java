@@ -5,16 +5,11 @@ import market.admin.Client;
 import serializer.Serializer;
 import util.Lista;
 import util.generator.ProductoBuilder;
-
-import java.io.BufferedWriter;
-import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.Iterator;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import static util.Utilidades.random;
 /**
  * <h1>Simulación</h1>
  * En esta clase se combinan todas la anteriores y en general se permite darle sentido a una simulación de compras en
@@ -30,13 +25,15 @@ public class Simulation {
      */
     private int cajas;
 
+    /**
+     *
+     */
     private int cajasRapidas;
-    private int cajasLargas;
 
     /**
-     * Número de clientes pensados para la simulación.
+     *
      */
-    private int clientes;
+    private int cajasLargas;
 
     /**
      * Número de veces que se ejecutará dicha simulación
@@ -48,8 +45,9 @@ public class Simulation {
      */
     private SuperMarket costco;
 
-
-
+    /**
+     *
+     */
     private Lista<Client> clientesAtendidos;
 
     /**
@@ -57,21 +55,30 @@ public class Simulation {
      */
     private Serializer serializer;
 
-
+    /**
+     * <h2>Entrada Cliente</h2>
+     * Esta clase se especializa en proveernos de una tarea para que posteriormente pueda ser empleada en una agende
+     * y con una periocidad asignada
+     */
     private class EntraCliente extends TimerTask{
 
+        /**
+         *
+         *
+         */
         public Client clientEntrando;
 
+        /**
+         *
+         */
         public EntraCliente(){
             this.clientEntrando = costco.generaCliente();
             clientesAtendidos.agregar(clientEntrando);
         }
 
-        @Override
-        public void run() {
-            formandoEnCaja();
-            completarAtencion();
-        }
+        /**
+         *
+         */
         public void completarAtencion(){
             try {
                 long espera = clientEntrando.getWaitingTime();
@@ -81,9 +88,17 @@ public class Simulation {
             }
         }
 
-
+        /**
+         *
+         */
         public void formandoEnCaja(){
             costco.formandoCliente(costco.generaCliente());
+        }
+
+        @Override
+        public void run() {
+            formandoEnCaja();
+            completarAtencion();
         }
     }
     /**
@@ -108,12 +123,10 @@ public class Simulation {
      *
      * @return
      */
-    public void simular() throws InterruptedException {
+    public void simular(){
         generarProductosAleatorios(150);
         cargarProductos("");
         Timer timer = new Timer(true);
-
-
         TimerTask entradaClientes = new EntraCliente();
         timer.schedule(entradaClientes, 0, 200);
         try {
@@ -122,7 +135,6 @@ public class Simulation {
             e.printStackTrace();
         }
         timer.cancel();
-
     }
 
     /**
@@ -143,7 +155,6 @@ public class Simulation {
                 clientesRapidos++;
                 sumatiempoRapidas += clienteAtendido.getWaitingTime();
             }
-
         }
         sumatiempoLargas = sumatiempoLargas / clientesLargos;
         sumatiempoRapidas = sumatiempoRapidas / clientesRapidos;
@@ -158,8 +169,6 @@ public class Simulation {
         String caden = String.format(  "%.2f\t%d\n",promediar(),cajasRapidas);
         return caden;
     }
-
-
 
 
     /**

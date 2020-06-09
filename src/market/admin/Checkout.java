@@ -1,15 +1,13 @@
 package market.admin;
 
 import util.Cola;
-
 import java.io.Serializable;
 
 /**
- *
+ *<h1>Checkout</h1>
+ * Esta clase modela todo el comportamiento de las cajas como elementos de un supermercado
  */
-public class Checkout extends Thread implements Serializable, Comparable<Checkout> {
-
-    private int tiempoAtiendePProdcuto;
+public class Checkout implements Serializable, Comparable<Checkout> {
 
     /**
      *
@@ -31,24 +29,19 @@ public class Checkout extends Thread implements Serializable, Comparable<Checkou
      */
     private int porAtender;
 
-    private boolean esRapida;
     /**
      *
      */
-    public Checkout(boolean esRapida, int tiempoAtiendePProdcuto) {
+    private boolean esRapida;
+
+    /**
+     *
+     */
+    public Checkout(boolean esRapida) {
         clients = new Cola<>();
         this.esRapida = esRapida;
-        this.tiempoAtiendePProdcuto = tiempoAtiendePProdcuto;
     }
 
-
-    public int getPorAtender() {
-        return porAtender;
-    }
-
-    public int getTiempoAtiendePProdcuto() {
-        return tiempoAtiendePProdcuto;
-    }
 
     /**
      *
@@ -73,26 +66,6 @@ public class Checkout extends Thread implements Serializable, Comparable<Checkou
         return ventaDelDia;
     }
 
-    /**
-     *
-     * @param tiempo
-     */
-    public void dormirCaja(long tiempo){
-        try {
-            Thread.sleep(tiempo);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-    }
-
-    @Override
-    public void run() {
-
-        while (porAtender != 0){
-           porAtender--;
-        }
-        System.out.println("Acabé de atender mis clientes");
-    }
 
     @Override
     public int compareTo(Checkout o) {

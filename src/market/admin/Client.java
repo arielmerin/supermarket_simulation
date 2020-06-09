@@ -3,28 +3,31 @@ package market.admin;
 import util.Pila;
 import static util.Utilidades.random;
 
-
+/**
+ * <h1>Client</h1>
+ * Esta clase hace las veces de un cliente que entra a un supermercado, cuenta con un carrito de compra y un ticket
+ */
 public class Client implements Comparable<Client> {
 
+    /**
+     *
+     */
     private Purchase purchase = new Purchase();
 
-    private int articulos;
-
-    @Override
-    public int compareTo(Client o) {
-        if (o.calculaTotal() > calculaTotal()){
-            return 1;
-        }if (o.calculaTotal() < calculaTotal()){
-            return -1;
-        }
-        return 0;
-    }
-
+    /**
+     *
+     */
     private class Purchase implements Comparable{
 
-        Pila<Product> shoppingCart = new Pila<>();
-        double total;
+        /**
+         *
+         */
+        private Pila<Product> shoppingCart = new Pila<>();
 
+        /**
+         *
+         */
+        private double total;
         @Override
         public String toString() {
             return "TICKET DE COMPRA"+
@@ -40,7 +43,6 @@ public class Client implements Comparable<Client> {
                     "----------------------------------------------------\n";
         }
 
-
         @Override
         public int compareTo(Object o) {
             Purchase n = (Purchase)o;
@@ -52,8 +54,13 @@ public class Client implements Comparable<Client> {
                 return 0;
             }
         }
+
     }
 
+    /**
+     *
+     * @return
+     */
     public double calculaTotal(){
         double sumatoria = 0;
         for (Product product: purchase.shoppingCart){
@@ -68,7 +75,6 @@ public class Client implements Comparable<Client> {
 
     public void agregarAlCarrito(Product product) {
         purchase.shoppingCart.agrega(product);
-        articulos++;
     }
 
     public double calculaIva(double total){
@@ -78,6 +84,16 @@ public class Client implements Comparable<Client> {
     public long getWaitingTime() {
         int tiempoTardaPorArticulo = purchase.shoppingCart.getTamanio() >= 20 ? random(9) + 28: random(5) + 1;
         return purchase.shoppingCart.getTamanio() * tiempoTardaPorArticulo;
+    }
+
+    @Override
+    public int compareTo(Client o) {
+        if (o.calculaTotal() > calculaTotal()){
+            return 1;
+        }if (o.calculaTotal() < calculaTotal()){
+            return -1;
+        }
+        return 0;
     }
 
     @Override

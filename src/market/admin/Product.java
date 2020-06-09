@@ -4,7 +4,9 @@ import java.io.Serializable;
 import java.util.Objects;
 
 /**
- *
+ *<h1>Product</h1>
+ * La clase producto se encarga de porporcinar las funciones y propiedades que un artículo tendría en el almacén de
+ * un supermercado
  */
 public class Product implements Comparable<Product>, Serializable {
 
@@ -51,7 +53,6 @@ public class Product implements Comparable<Product>, Serializable {
         this.available = true;
     }
 
-
     /**
      *
      * @param id
@@ -59,8 +60,6 @@ public class Product implements Comparable<Product>, Serializable {
     public Product(int id){
         this.id = id;
     }
-
-
 
     /**
      *
@@ -101,8 +100,6 @@ public class Product implements Comparable<Product>, Serializable {
     public void setId(int id) {
         this.id = id;
     }
-
-
 
     /**
      *
@@ -146,7 +143,6 @@ public class Product implements Comparable<Product>, Serializable {
         }
     }
 
-
     /**
      *
      * @return
@@ -154,8 +150,6 @@ public class Product implements Comparable<Product>, Serializable {
     public boolean isAvailable(){
         return available;
     }
-
-
 
     @Override
     public int compareTo(Product o) {

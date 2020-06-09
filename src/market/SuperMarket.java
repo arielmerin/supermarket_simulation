@@ -2,22 +2,21 @@ package market;
 
 import market.admin.*;
 import util.Lista;
-import util.MaxHeap;
 import util.MinHeap;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.Serializable;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.List;
 import java.util.Scanner;
-import java.util.TimerTask;
 
 import static util.Utilidades.random;
 
 /**
- *
+ *<h1> Supermercado </h1>
+ * Esta clase se encarga de darle todo el compportamiento de un super a los objetos que se empleen en las simulaciones
+ * desde el número de cajas rápidas y un almaces hasta un conjunto de tickets diarios pues se considera la simulación
+ * de un día
  */
 public class SuperMarket  implements Serializable {
 
@@ -27,9 +26,15 @@ public class SuperMarket  implements Serializable {
      */
     private final Wharehouse almacenPrincipal;
 
+    /**
+     *
+     */
     private int numClientesRapidos;
 
 
+    /**
+     *
+     */
     private int numClientesLargos;
 
     /**
@@ -139,10 +144,10 @@ public class SuperMarket  implements Serializable {
      */
     public void abreCaja(boolean esRapida){
         if (esRapida){
-            Checkout quickCheckout = new Checkout(true, 2);
+            Checkout quickCheckout = new Checkout(true);
             unifila.agrega(quickCheckout);
         }else {
-            Checkout largeCheckout = new Checkout(false, 2);
+            Checkout largeCheckout = new Checkout(false);
             cajas.agrega(largeCheckout);
         }
     }
@@ -170,7 +175,6 @@ public class SuperMarket  implements Serializable {
         return false;
     }
 
-
     /**
      *
      * @param client
@@ -191,7 +195,6 @@ public class SuperMarket  implements Serializable {
             almacenPrincipal.modificarExistencias(-cantidad,id);
         }
     }
-
 
     /**
      * En este metodo se toma el path que se indica al principio para crear un flujo de lectura donde en cada linea que
@@ -219,7 +222,6 @@ public class SuperMarket  implements Serializable {
         }
     }
 
-
     /**
      * Permite la creación de un cliente y la asignación aleatoria de un producto a través de un número porporcionado de
      * artículos
@@ -235,13 +237,28 @@ public class SuperMarket  implements Serializable {
         return client;
     }
 
-
+    /**
+     *
+     * @return
+     */
     public Client generaCliente(){
         return cargaCarritoCompras(random(10) + 18);
     }
 
-
-
+    /**
+     *
+     * @return
+     */
+    public String reportePocasExistencias(){
+        return "   :::    REPORTE DE POCAS EXISTENCIAS   :::\n    Fecha: " + formatter.format(fecha) +
+                "\n\n" +
+                " ----------------- QUEDAN POCOS ------------------" +
+                "\n   ID    Cantidad         Nombre         Precio \n" +
+                almacenPrincipal.pocasExistencias() +
+                "\n\n\n ---------------- FALTAN ----------------------" +
+                "\n   ID    Cantidad         Nombre         Precio \n" +
+                almacenPrincipal.faltantes();
+    }
 
     @Override
     public String toString() {
@@ -258,21 +275,6 @@ public class SuperMarket  implements Serializable {
                         " \nCon las siguientes cajas: \n%s\n %s" +
                         "\n\n La caja que más clientes atendió fue: \n %s",
                 now,getTotalVentas(), numClientesRapidos, numClientesLargos, tickets.longitud() , cajas, unifila, masVendioNormal);
-    }
-
-    /**
-     *
-     * @return
-     */
-    public String reportePocasExistencias(){
-        return "   :::    REPORTE DE POCAS EXISTENCIAS   :::\n    Fecha: " + formatter.format(fecha) +
-                "\n\n" +
-                " ----------------- QUEDAN POCOS ------------------" +
-                "\n   ID    Cantidad         Nombre         Precio \n" +
-                almacenPrincipal.pocasExistencias() +
-                "\n ---------------- FALTAN ----------------------" +
-                "\n   ID    Cantidad         Nombre         Precio \n" +
-                almacenPrincipal.faltantes();
     }
 
 }

@@ -3,14 +3,15 @@ package UImenu;
 import market.SuperMarket;
 import market.admin.Product;
 import serializer.Serializer;
-
-
 import java.io.File;
 import java.util.Scanner;
-
 import static util.Utilidades.getFloat;
 import static util.Utilidades.getInt;
 
+/**
+ * <h1>Menú</h1>
+ * Esta clase provee de una interfaz muy sencilla para interactuar con el usuario a través de la terminal
+ */
 public class Menu {
 
     /**
@@ -139,7 +140,6 @@ public class Menu {
         System.out.println();
     }
 
-
     /**
      * Permite que sea añadido un producto, pide a la usuaria los datos necesarios para crear un nuevo product
      * @return regresa el producto creado con los datos proporcionados
@@ -154,6 +154,10 @@ public class Menu {
         return new Product(unidades,nombre,precio);
     }
 
+    /**
+     *
+     * @return
+     */
     private boolean resurtirProducto(){
         int numero = getInt("Ingrese el id del producto a resurtir: ", "Error, intente de nuevo");
         Product enCuestion = new Product(numero);
