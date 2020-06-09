@@ -22,52 +22,44 @@ public class SuperMarket  implements Serializable {
 
 
     /**
-     *
+     * Alamcén del supermercado, servirá para operar la entrada y salida de productos
      */
     private final Wharehouse almacenPrincipal;
 
     /**
-     *
+     * lleva un conteo de los clientes que se han formado en una caja rápida
      */
     private int numClientesRapidos;
 
 
     /**
-     *
+     * lleva un conteo del número de clientes que se han formado en una caja larga
      */
     private int numClientesLargos;
 
     /**
-     *
+     * todos los clientes que fueron atendidios durante la ejecución del supermercado
      */
     private Lista<Client> tickets;
 
 
     /**
-     *
+     * una unifilia ordenada de las cajas con menos clientes primero
      */
     private MinHeap<Checkout> unifila;
 
     /**
-     *
-     * @return
-     */
-    public MinHeap<Checkout> getCajas() {
-        return cajas;
-    }
-
-    /**
-     *
+     * las cajas largas ordenadas en un montículo
      */
     private MinHeap<Checkout> cajas;
 
     /**
-     *
+     * permitirá poner la fecha con hora a los reportes
      */
     private final SimpleDateFormat formatter = new SimpleDateFormat(("dd/MM/yyyy - HH:mm:ss"));
 
     /**
-     *
+     * nos permite acceder a la fecha actual para luego darle formato
      */
     private Date fecha = new Date();
 
@@ -92,27 +84,19 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     *
-     * @return
+     * Permite acceder a los tickets de las ventas que realizó el supermercado
+     * @return clientes atentidos
      */
     public Lista<Client> getTickets() {
         return tickets;
     }
 
     /**
-     *
-     * @return
+     * Pemrite acceder al almacén del supermercado desde fuera
+     * @return almacén del super
      */
     public Wharehouse getAlmacen() {
         return almacenPrincipal;
-    }
-
-    /**
-     *
-     * @return
-     */
-    public MinHeap<Checkout> getUnifila() {
-        return unifila;
     }
 
     /**
@@ -131,16 +115,16 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     *
-     * @param product
+     * Operación que delega al almacen al ingresar nueva mercancía al supermercado
+     * @param product el artículo que sera añadido
      */
     public void darAltaProducto(Product product) {
         almacenPrincipal.agregarProducto(product);
     }
 
     /**
-     *
-     * @param esRapida
+     * Permite inicializar y añadir a los montículos de cajas cada que una se abre
+     * @param esRapida saber si la caja a abrir es rápida o larga
      */
     public void abreCaja(boolean esRapida){
         if (esRapida){
@@ -154,7 +138,7 @@ public class SuperMarket  implements Serializable {
 
     /**
      * Genera un cliente aleatorio con un número aleatorio de elementos en su carrito
-     * @return
+     * @return true si el cliente creado tiene al menos un artículo en su carrito, false en cualquier otro caso
      */
     public boolean formandoCliente(Client client){
         if (client.getItems() != 0){
@@ -176,10 +160,26 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     *
-     * @param client
-     * @param id
-     * @param cantidad
+     * Permite la creación de un cliente y la asignación aleatoria de un producto a través de un número porporcionado de
+     * artículos
+     * @param productosCliente número de productos que el cliente llevará en su canasta
+     * @return Cliente construido
+     */
+    private Client cargaCarritoCompras(int productosCliente){
+        Client client = new Client();
+        for (int i = 0; i < productosCliente; i++) {
+            int ran = random(almacenPrincipal.getAlmacen().getTamanio() - 1);
+            asignaProducto(client,ran+ 1,random(15) + 1);
+        }
+        return client;
+    }
+
+    /**
+     * Dado un cliente, un identificador del producto y una cantidad se asigna al cliente dicho producto en la cantidad
+     * que se indicó, es lo mismo que añadirlo al carrito en un supermercado ordinario
+     * @param client Cliente al que se le cargará el producto
+     * @param id identificador del producto
+     * @param cantidad número de veces que llevará el producto
      */
     private void asignaProducto(Client client, int id, int cantidad){
         Product agregar = almacenPrincipal.getAlmacen().busquedaElemento(new Product(id));
@@ -223,30 +223,16 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     * Permite la creación de un cliente y la asignación aleatoria de un producto a través de un número porporcionado de
-     * artículos
-     * @param productosCliente número de productos que el cliente llevará en su canasta
-     * @return Cliente construido
-     */
-    private Client cargaCarritoCompras(int productosCliente){
-        Client client = new Client();
-        for (int i = 0; i < productosCliente; i++) {
-            int ran = random(almacenPrincipal.getAlmacen().getTamanio() - 1);
-            asignaProducto(client,ran+ 1,random(15) + 1);
-        }
-        return client;
-    }
-
-    /**
-     *
-     * @return
+     * Permite generar un cliente de manera alearorea con un número de compras mínimo de 18 y máximo de 27
+     * @return cliente con productos asignados
      */
     public Client generaCliente(){
         return cargaCarritoCompras(random(10) + 18);
     }
 
     /**
-     *
+     * Hace una búsqueda en el almacén y encuentra los elementos que tienen pocas existencias o hacen falta
+     * para añadirlos a una cadena y regresarlos con el formato deseado
      * @return
      */
     public String reportePocasExistencias(){
