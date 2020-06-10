@@ -1,0 +1,18 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 18:58:36.277
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 59		2		 Soup with coconut oil				1605.42	1605.42
+ 61		6		 Rice vinegar gluten free				1014.15	1014.15
+ 77		2		 Avocado with dark cocoa				1631.40	1631.40
+ 86		1		 Quinoa flour gluten free				1468.53	1468.53
+ 90		5		 Gram flour gluten free				1029.75	1029.75
+ 109		2		 Mango veggie				494.18	494.1
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 18		0		 Dried chiles with dark cocoa				1191.51	1191.51
+ 74		0		 Apples with sea salt				1557.98	1557.98
+ 114		0		 Amaranth organic				286.96	286.9

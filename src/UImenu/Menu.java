@@ -3,7 +3,11 @@ package UImenu;
 import market.SuperMarket;
 import market.admin.Product;
 import serializer.Serializer;
+import sim.Simulation;
+import util.Lista;
+
 import java.io.File;
+import java.io.IOException;
 import java.util.Scanner;
 import static util.Utilities.getFloat;
 import static util.Utilities.getInt;
@@ -19,12 +23,20 @@ public class Menu {
     /**
      *
      */
-    private SuperMarket walmart = new SuperMarket(5,10);
 
     /**
      *
      */
-    private Serializer serializer = new Serializer();
+    private Serializer serializer;
+
+    /**
+     *
+     */
+    private Simulation simulation;
+
+    public Menu(){
+        serializer = new Serializer();
+    }
 
     /**
      *
@@ -61,7 +73,7 @@ public class Menu {
      *
      */
     private void save(){
-        serializer.write(walmart, "dataD.ser");
+        serializer.write(simulation, "dataD.ser");
     }
 
     /**
@@ -70,7 +82,7 @@ public class Menu {
     private void checkExistences(){
         File file = new File("dataD.ser");
         if (file.exists()){
-            walmart = (SuperMarket) serializer.read("dataD.ser");
+            simulation = (Simulation) serializer.read("dataD.ser");
         }else {
             save();
         }
@@ -84,14 +96,15 @@ public class Menu {
         do {
             System.out.println("\n[1]Dar de Alta algún prodcuto");
             System.out.println("[2]Resurtir existencias de algún producto");
-            System.out.println("[3]Ver el inventario");
-            System.out.println("[4]Regresar al menú principal\n");
+            System.out.println("[3]Generar productos aleatorios y cargarlo al inventario");
+            System.out.println("[4]Ver el inventario");
+            System.out.println("[5]Regresar al menú principal\n");
 
             int anInt = getInt("Ingrese la opción deseada: ", "Error, intente de nuevo");
 
             switch (anInt){
                 case 1:
-                    walmart.darAltaProducto(addProduct());
+                    simulation.getCostco().darAltaProducto(addProduct());
                     save();
                     break;
                 case 2:
@@ -103,9 +116,13 @@ public class Menu {
                     save();
                     break;
                 case 3:
-                    System.out.println(walmart.getAlmacen().getWhareHouse());
+                    int numToGenerate = getInt("Ingrese el número de productos que desea generar(recomendable >100): ",
+                            "Error, intente de nuevo con un número válido");
                     break;
                 case 4:
+                    System.out.println(simulation.getCostco().getAlmacen().getWhareHouse());
+                    break;
+                case 5:
                     continua = false;
                     break;
                 default:
@@ -128,8 +145,19 @@ public class Menu {
             switch (answer){
                 case 1:
                     System.out.println("Simulando compras... espere por favor");
+                    Lista<String> plotting = new Lista<>();
+                    for (int i = 1; i < 15; i++) {
+
+                        simulation = new Simulation(i,15-i,2);
+                        simulation.simulate();
+                        simulation.getReports();
+                        plotting.agregar(simulation.writeLine());
+                    }
+                    serializer.writeTXT(plotting, "datos.dat");
+                    System.out.println("Terminó con éxito la simulación");
                     break;
                 case 2:
+                    execPlot();
                     break;
                 case 3:
                 conti = false;
@@ -161,10 +189,41 @@ public class Menu {
     private boolean resurtirProducto(){
         int numero = getInt("Ingrese el id del producto a resurtir: ", "Error, intente de nuevo");
         Product inCuestion = new Product(numero);
-        if (walmart.getAlmacen().getWhareHouse().contiene(inCuestion)){
+        if (simulation.getCostco().getAlmacen().getWhareHouse().contiene(inCuestion)){
             int nuevo = getInt("Ingrese el número de elementos a agregar: ", "Error, intente de nuevo");
-            return walmart.getAlmacen().modifyStock(nuevo, numero);
+            return simulation.getCostco().getAlmacen().modifyStock(nuevo, numero);
         }
         return false;
+    }
+
+    private void execPlot(){
+        boolean contAsking = true;
+        do {
+            System.out.println("¿Desea generar las gráficas de los resultados?\n[1]Sí\n[2]No");
+            int ans = getInt("Ingrese la opción deseada", "Error, intente de nuevo");
+            switch (ans){
+                case 1:
+                    boolean isWindows = System.getProperty("os.name").toLowerCase().startsWith("windows");
+                    if (!isWindows){
+                        try {
+                            Process processBuilder = Runtime.getRuntime().exec("./histGraph.sh");
+                            Process openImg = Runtime.getRuntime().exec("mimeopen plot/histGraph.png");
+                        } catch (IOException e) {
+                            e.printStackTrace();
+                        }
+                    }else {
+                        System.out.println("Lo sentimos mucho, para windows no funcionamos así ;( intente en linux :)");
+                    }
+                    contAsking = false;
+                    break;
+                case 2:
+                    System.out.println("Ok!");
+                    contAsking = false;
+                    break;
+                default:
+                    System.out.println("Ingrese una de las opciones válidas");
+                    break;
+            }
+        }while (contAsking);
     }
 }

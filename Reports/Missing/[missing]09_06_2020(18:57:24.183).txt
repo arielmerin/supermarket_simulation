@@ -1,0 +1,17 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 18:57:00.174
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 50		1		 Quinoa flour vegan				1574.79	1574.79
+ 88		2		 Wheat flour gluten free				956.45	956.45
+ 95		1		 Grams  with dark cocoa				1094.51	1094.51
+ 108		4		 Dried chiles integral				1408.67	1408.67
+ 146		1		 Almonds with coconut oil				946.04	946.0
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 103		0		 Peas with sea salt				1717.91	1717.91
+ 114		0		 Gram flour extra big				379.80	379.80
+ 147		0		 Dried chiles integral				799.54	799.5

@@ -1,3 +1,4 @@
+import UImenu.Menu;
 import sim.Simulation;
 import serializer.Serializer;
 import util.Lista;
@@ -14,15 +15,7 @@ public class Main {
      * @param args
      */
     public static void main(String[] args) {
-        Lista<String> plotting = new Lista<>();
-        for (int i = 1; i < 15; i++) {
-
-            Simulation simulation = new Simulation(i,15-i,2);
-            simulation.simulate();
-            simulation.getReports();
-            plotting.agregar(simulation.writeLine());
-        }
-        Serializer serializer = new Serializer();
-        serializer.writeTXT(plotting, "datos.dat");
+        Menu menu = new Menu();
+        menu.mainMenu();
     }
 }

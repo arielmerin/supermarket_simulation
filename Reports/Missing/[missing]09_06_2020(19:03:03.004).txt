@@ -1,0 +1,16 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 19:02:38.999
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 40		3		 Tangerine organic				398.33	398.33
+ 65		1		 Carrot gmo free				1608.49	1608.49
+ 130		1		 Beans organic				1097.97	1097.97
+ 133		3		 Kale with coconut oil				330.33	330.3
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 35		0		 Soup extra big				909.12	909.12
+ 52		0		 Amaranth with sea salt				329.76	329.76
+ 101		0		 Soap vegan				1495.72	1495.7

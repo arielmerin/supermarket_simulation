@@ -1,0 +1,21 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 19:02:14.984
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 9		1		 Pear with agave syrup				1370.80	1370.80
+ 16		4		 Grams  gluten free				510.50	510.50
+ 55		4		 Oat vegan				1253.48	1253.48
+ 91		1		 Broad Beans integral				359.28	359.28
+ 106		3		 Carrot organic				800.36	800.36
+ 117		8		 Strawberries with coconut oil				427.40	427.40
+ 121		1		 Nuts veggie				1467.88	1467.88
+ 122		1		 Quinoa flour extra big				633.48	633.48
+ 139		8		 Tofu organic				291.63	291.63
+ 140		9		 Pan with coconut oil				1041.01	1041.01
+ 148		4		 Soy sauce vegan				1373.98	1373.9
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

@@ -1,0 +1,34 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 19:01:02.827
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 29		2		 Lemons vegan				812.69	812.69
+ 30		3		 Lentils integral				340.22	340.22
+ 40		3		 Chia seed organic				223.90	223.90
+ 43		1		 Almonds with coconut oil				1543.25	1543.25
+ 50		7		 Avocado baby				672.28	672.28
+ 51		1		 Lemons with agave syrup				459.92	459.92
+ 64		2		 Quinoa flour vegan				244.04	244.04
+ 80		4		 Amaranth veggie				943.23	943.23
+ 88		1		 Ezekiel with coconut oil				84.87	84.87
+ 89		2		 Papaya vegan				650.86	650.86
+ 104		3		 Peas gmo free				1055.96	1055.96
+ 109		2		 Mango baby				1309.55	1309.55
+ 130		1		 Oat vegan				1118.44	1118.44
+ 132		1		 Lentils gluten free				834.34	834.34
+ 138		1		 Apples baby				1581.58	1581.58
+ 140		4		 Quinoa gluten free				666.71	666.7
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 3		0		 Mango gluten free				1881.25	1881.25
+ 16		0		 Chayotes with coconut oil				1827.53	1827.53
+ 42		0		 Tangerine gmo free				307.48	307.48
+ 48		0		 Rice vinegar with sea salt				510.22	510.22
+ 61		0		 Soybeans with coconut oil				453.90	453.90
+ 66		0		 Beans gluten free				1376.18	1376.18
+ 87		0		 Peanut butter with sea salt				706.14	706.14
+ 93		0		 Ezekiel with agave syrup				694.65	694.65
+ 98		0		 Lemons with dark cocoa				761.50	761.5

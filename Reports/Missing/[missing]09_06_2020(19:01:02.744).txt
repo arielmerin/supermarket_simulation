@@ -1,0 +1,22 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 19:00:38.692
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 52		5		 Amaranth with agave syrup				155.53	155.53
+ 64		3		 Tangerine vegan				37.05	37.05
+ 78		1		 Tangerine ready to eat				523.18	523.18
+ 102		1		 Pan baby				1495.25	1495.25
+ 106		8		 Oat with agave syrup				464.54	464.54
+ 111		1		 Pasta with agave syrup				1479.36	1479.36
+ 126		9		 Avocado veggie				177.01	177.01
+ 128		6		 Lentils gluten free				1783.12	1783.12
+ 138		8		 Sweet potato integral				283.38	283.3
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 14		0		 Splenda with sea salt				829.52	829.52
+ 39		0		 Wheat flour extra big				1873.53	1873.53
+ 73		0		 Amaranth with sea salt				1769.58	1769.58
+ 146		0		 Strawberries with coconut oil				1343.76	1343.7

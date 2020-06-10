@@ -1,0 +1,42 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 19:01:26.920
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		2		 Peanut butter baby				1030.73	1030.73
+ 2		1		 Lentils vegan				1872.38	1872.38
+ 6		1		 Tofu veggie				659.49	659.49
+ 10		1		 Gram flour ready to eat				258.53	258.53
+ 13		3		 Rice vinegar with coconut oil				1005.97	1005.97
+ 33		2		 Chayotes with coconut oil				1663.54	1663.54
+ 53		2		 Soup integral				581.29	581.29
+ 61		7		 Tangerine ready to eat				1012.23	1012.23
+ 86		1		 Broad Beans vegan				1534.82	1534.82
+ 89		2		 Carrot extra big				1363.16	1363.16
+ 90		2		 Soap gmo free				718.86	718.86
+ 93		4		 Tangerine with dark cocoa				815.39	815.39
+ 100		8		 Nuts gluten free				930.13	930.13
+ 105		1		 Soup with sea salt				258.31	258.31
+ 109		8		 Avocado with agave syrup				83.12	83.12
+ 114		3		 Soy sauce with agave syrup				1641.87	1641.87
+ 118		4		 Quinoa flour with sea salt				759.23	759.23
+ 124		2		 Chia seed vegan				134.53	134.53
+ 127		2		 Carrot with dark cocoa				689.69	689.69
+ 142		1		 Integral flour with sea salt				1577.42	1577.4
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 16		0		 Carrot extra big				1007.23	1007.23
+ 24		0		 Pumpkins gluten free				1567.19	1567.19
+ 39		0		 Cucumber veggie				951.79	951.79
+ 44		0		 Peas gluten free				1419.39	1419.39
+ 83		0		 Splenda gmo free				333.98	333.98
+ 95		0		 Soy sauce vegan				827.29	827.29
+ 101		0		 Carrot vegan				678.69	678.69
+ 104		0		 Cucumber integral				889.88	889.88
+ 121		0		 Lentils with dark cocoa				994.67	994.67
+ 130		0		 Soap vegan				1172.85	1172.85
+ 137		0		 Pumpkins gmo free				774.40	774.40
+ 138		0		 Cucumber organic				1417.72	1417.72
+ 145		0		 Integral flour veggie				647.51	647.5

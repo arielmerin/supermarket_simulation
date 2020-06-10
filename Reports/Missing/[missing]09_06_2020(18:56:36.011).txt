@@ -1,0 +1,26 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 18:56:11.946
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 18		3		 Carrot gluten free				73.38	73.38
+ 24		2		 Cucumber with agave syrup				1483.19	1483.19
+ 45		8		 Ezekiel gmo free				36.98	36.98
+ 55		1		 Cereals with sea salt				1544.40	1544.40
+ 57		6		 Cereals ready to eat				1301.90	1301.90
+ 60		3		 Mango baby				1523.66	1523.66
+ 84		2		 Nuts gmo free				785.59	785.59
+ 95		2		 Almonds baby				231.88	231.88
+ 105		6		 Beans gluten free				255.64	255.64
+ 106		4		 Tangerine gluten free				487.84	487.84
+ 107		1		 Cucumber gluten free				90.75	90.75
+ 111		1		 Tangerine with agave syrup				388.62	388.62
+ 132		6		 Chayotes with sea salt				655.13	655.13
+ 138		1		 Papaya with agave syrup				1266.78	1266.7
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 72		0		 Soybeans with agave syrup				1663.04	1663.04
+ 99		0		 Grams  organic				1851.98	1851.98
+ 149		0		 Pumpkins integral				335.98	335.9

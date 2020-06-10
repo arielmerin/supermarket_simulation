@@ -4,7 +4,7 @@ import market.SuperMarket;
 import market.admin.Customer;
 import serializer.Serializer;
 import util.Lista;
-import util.generator.ProductoBuilder;
+import util.generator.ItemBuilder;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Timer;
@@ -13,7 +13,7 @@ import java.util.TimerTask;
 /**
  * <h1>Simulation</h1>
  *
- * @autor Armando Aquino and Ariel Merino
+ * @author Armando Aquino and Ariel Merino
  * @version 1.0
  */
 public class Simulation {
@@ -96,6 +96,16 @@ public class Simulation {
             formandoEnCaja();
             completarAtencion();
         }
+
+    }
+    public SuperMarket getCostco() {
+        return costco;
+    }
+
+    public Simulation(){
+        costco = new SuperMarket(13,13);
+        serializer = new Serializer();
+        customers = new Lista<>();
     }
 
     /**
@@ -171,14 +181,14 @@ public class Simulation {
     public void getReports(){
         SimpleDateFormat sdt = new SimpleDateFormat(("dd_MM_yyyy(HH:mm:ss.SSS)"));
         String idFromDate = sdt.format(new Date());
-        serializer.makeDir("Reportes");
-        serializer.makeDir("Reportes/Tickets");
-        serializer.makeDir("Reportes/ReportesDiarios");
-        serializer.makeDir("Reportes/Faltantes");
+        serializer.makeDir("Reports");
+        serializer.makeDir("Reports/Tickets");
+        serializer.makeDir("Reports/DailyReports");
+        serializer.makeDir("Reports/Missing");
 
-        serializer.writeTXT(costco, "Reportes/ReportesDiarios"+ "/"+ "[reporte]"+idFromDate+".txt");
-        serializer.writeTXT(costco.reportMissingExistences(), "Reportes/Faltantes"+ "/"+ "[faltantes]"+idFromDate+".txt");
-        serializer.writeTXT(costco.getTickets(), "Reportes/Tickets"+ "/"+ "[tickets]" +idFromDate+".txt");
+        serializer.writeTXT(costco, "Reports/DailyReports"+ "/"+ "[report]"+idFromDate+".txt");
+        serializer.writeTXT(costco.reportMissingExistences(), "Reports/Missing"+ "/"+ "[missing]"+idFromDate+".txt");
+        serializer.writeTXT(costco.getTickets(), "Reports/Tickets"+ "/"+ "[tickets]" +idFromDate+".txt");
     }
 
     /**
@@ -186,10 +196,10 @@ public class Simulation {
      * @param products
      */
     public void genRandomProd(int products){
-        ProductoBuilder productoBuilder = new ProductoBuilder();
+        ItemBuilder itemBuilder = new ItemBuilder();
         Lista<String> texts = new Lista<>();
         for (int i = 0; i < products; i++) {
-            texts.agregar(String.valueOf(productoBuilder.next()));
+            texts.agregar(String.valueOf(itemBuilder.next()));
         }
         serializer.writeTXT(texts,"productsGenerated.txt");
     }
@@ -205,4 +215,5 @@ public class Simulation {
             costco.loadProducts(path);
         }
     }
+
 }

@@ -1,0 +1,12 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 18:56:36.146
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 15		1		 Integral flour ready to eat				1725.24	1725.24
+ 66		3		 Soybeans with dark cocoa				1244.12	1244.1
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

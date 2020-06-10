@@ -1,0 +1,19 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 19:01:50.967
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 13		9		 Pasta baby				1294.88	1294.88
+ 20		5		 Lemons vegan				173.90	173.90
+ 39		9		 Strawberries ready to eat				797.92	797.92
+ 54		6		 Quinoa gmo free				1765.28	1765.28
+ 76		4		 Splenda organic				1206.20	1206.20
+ 78		5		 Ezekiel gluten free				1556.60	1556.60
+ 91		2		 Soup extra big				305.23	305.23
+ 113		2		 Rice vinegar gluten free				58.15	58.15
+ 148		1		 Gram flour veggie				1057.41	1057.4
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 122		0		 Soap gluten free				1409.54	1409.5

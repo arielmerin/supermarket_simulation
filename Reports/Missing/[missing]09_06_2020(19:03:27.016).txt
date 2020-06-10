@@ -1,0 +1,26 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 19:03:03.012
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 23		1		 Soybeans veggie				1117.80	1117.80
+ 29		2		 Oat with sea salt				690.11	690.11
+ 46		6		 Ezekiel vegan				316.69	316.69
+ 73		2		 Tangerine gmo free				351.12	351.12
+ 92		1		 Wheat flour vegan				1472.66	1472.66
+ 100		3		 Ezekiel veggie				1280.50	1280.50
+ 104		3		 Sweet potato organic				779.17	779.17
+ 117		1		 Rice extra big				1874.53	1874.5
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 7		0		 Pasta gluten free				1626.44	1626.44
+ 20		0		 Mango with coconut oil				956.31	956.31
+ 37		0		 Oat flour veggie				732.28	732.28
+ 41		0		 Pear with dark cocoa				756.45	756.45
+ 61		0		 Cereals with dark cocoa				661.44	661.44
+ 62		0		 Pumpkins with coconut oil				71.26	71.26
+ 68		0		 Wheat flour with sea salt				1348.12	1348.12
+ 70		0		 Quinoa integral				906.56	906.56
+ 71		0		 Cereals baby				1340.00	1340.0

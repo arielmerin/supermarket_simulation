@@ -1,0 +1,22 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 18:57:24.199
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 3		9		 Ezekiel with coconut oil				1284.89	1284.89
+ 14		4		 Quinoa flour with dark cocoa				274.38	274.38
+ 20		1		 Soy sauce with agave syrup				1704.53	1704.53
+ 33		3		 Lentils organic				1391.37	1391.37
+ 49		1		 Quinoa baby				1718.79	1718.79
+ 55		3		 Avocado with sea salt				612.76	612.76
+ 128		1		 Strawberries baby				274.55	274.55
+ 133		6		 Splenda organic				535.72	535.72
+ 136		6		 Integral flour ready to eat				404.83	404.8
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 4		0		 Pan with coconut oil				75.24	75.24
+ 16		0		 Cucumber ready to eat				758.31	758.31
+ 22		0		 Pasta with sea salt				1197.61	1197.61
+ 91		0		 Spaghetti ready to eat				778.47	778.4
