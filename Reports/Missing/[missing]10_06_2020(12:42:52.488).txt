@@ -1,0 +1,45 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:42:44.479
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		1		 Gram flour organic				1642.85	1642.85
+ 9		1		 Papaya vegan				1898.29	1898.29
+ 10		1		 Broad Beans organic				871.18	871.18
+ 15		1		 Pear organic				999.88	999.88
+ 25		2		 Soybeans vegan				1603.63	1603.63
+ 47		1		 Soup with sea salt				1690.83	1690.83
+ 55		1		 Tangerine with dark cocoa				275.95	275.95
+ 57		1		 Kale with dark cocoa				613.03	613.03
+ 66		1		 Lentils gmo free				1139.30	1139.30
+ 74		1		 Lemons ready to eat				369.30	369.30
+ 89		2		 Coffee with dark cocoa				1701.01	1701.01
+ 103		1		 Ezekiel gluten free				282.51	282.51
+ 111		7		 Oat with sea salt				1850.64	1850.64
+ 122		2		 Pumpkins extra big				1678.53	1678.53
+ 124		1		 Peas integral				1885.73	1885.7
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 3		0		 Quinoa flour with dark cocoa				1192.37	1192.37
+ 20		0		 Quinoa veggie				821.92	821.92
+ 21		0		 Tofu extra big				487.95	487.95
+ 27		0		 Carrot with coconut oil				1184.78	1184.78
+ 29		0		 Soup with sea salt				1854.89	1854.89
+ 36		0		 Gram flour integral				1143.70	1143.70
+ 38		0		 Pasta with dark cocoa				211.93	211.93
+ 41		0		 Cucumber with sea salt				773.72	773.72
+ 45		0		 Chia seed with coconut oil				474.29	474.29
+ 50		0		 Soup ready to eat				309.38	309.38
+ 58		0		 Apples baby				1818.43	1818.43
+ 63		0		 Kale organic				1076.86	1076.86
+ 77		0		 Amaranth with dark cocoa				498.01	498.01
+ 78		0		 Apples baby				983.11	983.11
+ 87		0		 Soap ready to eat				1162.41	1162.41
+ 90		0		 Gram flour with agave syrup				1490.41	1490.41
+ 97		0		 Almonds gmo free				349.03	349.03
+ 98		0		 Soybeans ready to eat				108.45	108.45
+ 115		0		 Beans integral				1826.11	1826.11
+ 126		0		 Almonds with sea salt				765.95	765.95
+ 130		0		 Splenda organic				832.01	832.0

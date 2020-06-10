@@ -1,0 +1,40 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:43:48.757
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 17		1		 Pumpkins integral				555.26	555.26
+ 27		1		 Sweet potato with agave syrup				738.75	738.75
+ 31		4		 Amaranth with coconut oil				901.27	901.27
+ 36		8		 Amaranth baby				733.24	733.24
+ 47		1		 Cucumber integral				1236.87	1236.87
+ 52		1		 Gram flour with agave syrup				751.29	751.29
+ 72		1		 Broad Beans gluten free				1305.69	1305.69
+ 75		2		 Strawberries gmo free				860.73	860.73
+ 93		1		 Lentils ready to eat				361.89	361.89
+ 114		1		 Avocado ready to eat				368.00	368.00
+ 127		1		 Cucumber veggie				1728.87	1728.87
+ 133		1		 Lemons veggie				270.98	270.98
+ 135		3		 Peanut butter vegan				1439.87	1439.87
+ 139		6		 Avocado veggie				438.53	438.5
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 5		0		 Ezekiel veggie				1771.69	1771.69
+ 18		0		 Peanut butter veggie				1108.03	1108.03
+ 41		0		 Apples gluten free				1700.66	1700.66
+ 48		0		 Tangerine integral				458.10	458.10
+ 56		0		 Pan vegan				483.62	483.62
+ 62		0		 Kale veggie				1334.22	1334.22
+ 68		0		 Strawberries gluten free				751.97	751.97
+ 70		0		 Wheat flour integral				935.03	935.03
+ 86		0		 Beans with dark cocoa				547.69	547.69
+ 89		0		 Tofu with coconut oil				1303.60	1303.60
+ 94		0		 Avocado vegan				1618.11	1618.11
+ 105		0		 Rice vinegar veggie				1648.52	1648.52
+ 108		0		 Soybeans ready to eat				436.78	436.78
+ 118		0		 Dried chiles ready to eat				594.04	594.04
+ 124		0		 Oat integral				111.61	111.61
+ 125		0		 Ezekiel with coconut oil				1477.34	1477.34
+ 142		0		 Soybeans baby				1204.02	1204.0

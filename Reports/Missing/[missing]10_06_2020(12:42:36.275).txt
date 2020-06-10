@@ -1,0 +1,37 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:42:28.192
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 14		1		 Lemons gmo free				1179.01	1179.01
+ 90		1		 Gram flour veggie				901.04	901.04
+ 107		1		 Kale vegan				78.46	78.46
+ 113		2		 Lemons extra big				239.74	239.74
+ 116		1		 Tangerine gmo free				1456.40	1456.40
+ 124		1		 Gram flour organic				648.68	648.68
+ 133		3		 Pan vegan				584.73	584.73
+ 141		3		 Cereals with agave syrup				1000.23	1000.23
+ 145		1		 Rice vinegar with sea salt				442.87	442.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 31		0		 Pan gluten free				1555.21	1555.21
+ 34		0		 Tofu gluten free				1830.60	1830.60
+ 35		0		 Pumpkins baby				1829.78	1829.78
+ 39		0		 Peas with sea salt				1122.10	1122.10
+ 51		0		 Wheat flour ready to eat				45.60	45.60
+ 56		0		 Beans with coconut oil				836.18	836.18
+ 57		0		 Tangerine with sea salt				1614.87	1614.87
+ 58		0		 Apples organic				361.99	361.99
+ 62		0		 Pasta veggie				349.75	349.75
+ 64		0		 Soybeans gluten free				585.05	585.05
+ 70		0		 Ezekiel gmo free				171.22	171.22
+ 72		0		 Pan organic				1837.07	1837.07
+ 94		0		 Coffee baby				154.34	154.34
+ 96		0		 Rice vinegar with dark cocoa				991.75	991.75
+ 101		0		 Cereals veggie				315.44	315.44
+ 105		0		 Beans veggie				783.95	783.95
+ 119		0		 Strawberries baby				684.31	684.31
+ 127		0		 Sweet potato with sea salt				1369.18	1369.18
+ 134		0		 Apples ready to eat				27.56	27.5

@@ -1,0 +1,37 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:44:04.816
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 5		1		 Papaya extra big				1816.94	1816.94
+ 12		1		 Papaya integral				126.05	126.05
+ 16		1		 Apples gmo free				465.20	465.20
+ 35		1		 Rice with sea salt				1626.33	1626.33
+ 45		2		 Pan ready to eat				757.93	757.93
+ 53		3		 Ezekiel veggie				72.54	72.54
+ 69		2		 Integral flour with sea salt				1883.49	1883.49
+ 71		2		 Pear integral				1014.75	1014.75
+ 92		7		 Mango with sea salt				565.52	565.52
+ 96		2		 Pear veggie				473.35	473.35
+ 101		2		 Avocado integral				907.76	907.76
+ 103		1		 Carrot extra big				282.01	282.01
+ 105		9		 Papaya gluten free				687.86	687.86
+ 108		1		 Splenda gluten free				504.21	504.21
+ 111		1		 Oat vegan				704.53	704.53
+ 124		1		 Oat ready to eat				1392.47	1392.47
+ 134		2		 Strawberries organic				1373.97	1373.97
+ 140		1		 Avocado with agave syrup				1514.64	1514.6
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 25		0		 Coffee ready to eat				647.59	647.59
+ 28		0		 Ezekiel with agave syrup				1776.75	1776.75
+ 41		0		 Amaranth with coconut oil				369.56	369.56
+ 54		0		 Gram flour with coconut oil				162.66	162.66
+ 68		0		 Oat flour vegan				310.66	310.66
+ 73		0		 Soap with sea salt				1306.53	1306.53
+ 84		0		 Chayotes with sea salt				869.24	869.24
+ 112		0		 Amaranth extra big				1015.29	1015.29
+ 119		0		 Wheat flour ready to eat				949.77	949.77
+ 132		0		 Almonds with agave syrup				917.30	917.3

@@ -1,0 +1,46 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:43:56.788
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 10		1		 Lentils with coconut oil				1592.49	1592.49
+ 22		1		 Tangerine ready to eat				125.82	125.82
+ 26		1		 Chia seed vegan				1610.47	1610.47
+ 62		6		 Wheat flour gluten free				2.88	2.88
+ 68		3		 Mango ready to eat				1765.15	1765.15
+ 73		1		 Dried chiles with sea salt				1505.67	1505.67
+ 85		1		 Tangerine gmo free				45.53	45.53
+ 90		3		 Peanut butter with dark cocoa				341.78	341.78
+ 102		1		 Pasta vegan				9.04	9.04
+ 142		1		 Broad Beans extra big				1399.26	1399.2
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 5		0		 Quinoa flour vegan				585.88	585.88
+ 17		0		 Soap with sea salt				578.37	578.37
+ 25		0		 Kale gmo free				4.67	4.67
+ 28		0		 Soy sauce gmo free				1568.40	1568.40
+ 30		0		 Integral flour with dark cocoa				937.09	937.09
+ 32		0		 Soy sauce organic				1246.86	1246.86
+ 35		0		 Oat flour gluten free				1084.62	1084.62
+ 40		0		 Rice ready to eat				1799.26	1799.26
+ 45		0		 Kale gmo free				522.84	522.84
+ 51		0		 Soybeans veggie				275.44	275.44
+ 57		0		 Cereals ready to eat				1368.90	1368.90
+ 69		0		 Lentils with sea salt				283.23	283.23
+ 72		0		 Soap with dark cocoa				1470.02	1470.02
+ 76		0		 Quinoa flour vegan				85.35	85.35
+ 78		0		 Soap organic				1468.05	1468.05
+ 87		0		 Oat flour with dark cocoa				1605.02	1605.02
+ 88		0		 Splenda ready to eat				953.27	953.27
+ 97		0		 Kale with dark cocoa				1053.62	1053.62
+ 98		0		 Pasta ready to eat				1110.79	1110.79
+ 103		0		 Wheat flour integral				962.56	962.56
+ 110		0		 Pumpkins gluten free				1626.86	1626.86
+ 115		0		 Pumpkins integral				1032.72	1032.72
+ 122		0		 Soy sauce gmo free				1006.21	1006.21
+ 130		0		 Rice veggie				193.11	193.11
+ 136		0		 Pumpkins with agave syrup				1232.47	1232.47
+ 138		0		 Splenda organic				317.04	317.04
+ 148		0		 Pear extra big				1470.85	1470.8

@@ -1,0 +1,83 @@
+:::  SUPERMARKET  :::
+
+DATE: 10/06/2020 - 12:43:48.757
+TOTAL SALES: $38493189.00
+There where attended 74 clients  with at the most 20 items
+
+There where attended 86 clients with more than 20 items
+
+Total of customers attended: 160 
+ 
+WITH THE FOLLLOWING CHECKOUTS: 
+ LARGE CHECKOUT
+Total sales : $10934185.22
+Attended customers: 21
+
+| LARGE CHECKOUT
+Total sales : $10624838.23
+Attended customers: 21
+
+| LARGE CHECKOUT
+Total sales : $11068821.72
+Attended customers: 22
+
+| LARGE CHECKOUT
+Total sales : $10987631.02
+Attended customers: 22
+
+
+  QUICK CHECKOUT
+Total sales : $1501053.66
+Attended customers: 6
+
+| QUICK CHECKOUT
+Total sales : $1456314.79
+Attended customers: 6
+
+| QUICK CHECKOUT
+Total sales : $2096146.51
+Attended customers: 7
+
+| QUICK CHECKOUT
+Total sales : $1913529.93
+Attended customers: 6
+
+| QUICK CHECKOUT
+Total sales : $1809969.68
+Attended customers: 7
+
+| QUICK CHECKOUT
+Total sales : $1566935.35
+Attended customers: 7
+
+| QUICK CHECKOUT
+Total sales : $1975867.61
+Attended customers: 7
+
+| QUICK CHECKOUT
+Total sales : $1522996.41
+Attended customers: 7
+
+| QUICK CHECKOUT
+Total sales : $1571409.69
+Attended customers: 7
+
+| QUICK CHECKOUT
+Total sales : $1640193.64
+Attended customers: 7
+
+| QUICK CHECKOUT
+Total sales : $1777992.11
+Attended customers: 7
+
+
+
+ The large checkout that had attended more customers was: 
+  LARGE CHECKOUT
+Total sales : $14758428.96
+Attended customers: 22
+
+ 
+Best selling box sold: $ 3689607.24
+
+the box with the most items served 526 times.
