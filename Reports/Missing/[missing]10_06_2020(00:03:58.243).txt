@@ -1,0 +1,33 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:03:48.240
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 13		7		 Splenda gmo free				207.60	207.60
+ 36		1		 Soap vegan				1591.72	1591.72
+ 44		1		 Lentils with coconut oil				1279.70	1279.70
+ 46		4		 Oat flour vegan				1784.56	1784.56
+ 47		2		 Strawberries ready to eat				1289.24	1289.24
+ 48		8		 Splenda baby				1670.12	1670.12
+ 51		4		 Pumpkins with agave syrup				1573.31	1573.31
+ 56		1		 Grams  veggie				996.45	996.45
+ 58		1		 Lentils with dark cocoa				577.30	577.30
+ 98		2		 Coffee baby				516.79	516.79
+ 101		1		 Quinoa organic				1580.34	1580.34
+ 105		3		 Coffee gluten free				1175.65	1175.65
+ 132		8		 Broad Beans gmo free				1626.43	1626.43
+ 135		4		 Rice vegan				321.54	321.54
+ 141		9		 Wheat flour with coconut oil				370.08	370.0
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 29		0		 Soup vegan				1184.68	1184.68
+ 71		0		 Papaya with agave syrup				1551.84	1551.84
+ 74		0		 Soybeans extra big				938.29	938.29
+ 77		0		 Pan with dark cocoa				739.14	739.14
+ 84		0		 Chia seed integral				186.66	186.66
+ 96		0		 Peas gluten free				492.14	492.14
+ 129		0		 Oat ready to eat				618.40	618.40
+ 133		0		 Papaya gmo free				1863.30	1863.30
+ 134		0		 Soybeans integral				1764.92	1764.9

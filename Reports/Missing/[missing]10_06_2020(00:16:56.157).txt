@@ -1,0 +1,36 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:16:48.149
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		2		 Quinoa vegan				1775.01	1775.01
+ 34		2		 Papaya with sea salt				1878.75	1878.75
+ 53		4		 Kale with coconut oil				1744.59	1744.59
+ 55		1		 Oat flour with sea salt				460.51	460.51
+ 82		1		 Sweet potato ready to eat				681.18	681.18
+ 85		2		 Chayotes integral				1518.31	1518.31
+ 92		2		 Soup with sea salt				1476.30	1476.30
+ 98		1		 Cereals veggie				1378.58	1378.58
+ 114		1		 Lemons baby				185.33	185.33
+ 120		5		 Chia seed vegan				1349.98	1349.98
+ 132		1		 Lemons with agave syrup				1281.00	1281.00
+ 148		1		 Coffee vegan				1040.87	1040.8
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 8		0		 Chayotes integral				1485.64	1485.64
+ 12		0		 Carrot with agave syrup				1023.88	1023.88
+ 15		0		 Mango baby				1530.26	1530.26
+ 17		0		 Broad Beans ready to eat				1100.75	1100.75
+ 66		0		 Rice vinegar with agave syrup				310.24	310.24
+ 69		0		 Oat organic				769.43	769.43
+ 75		0		 Tofu ready to eat				1696.13	1696.13
+ 76		0		 Quinoa with coconut oil				1545.62	1545.62
+ 78		0		 Tangerine baby				1735.48	1735.48
+ 86		0		 Strawberries baby				393.19	393.19
+ 110		0		 Cereals with agave syrup				732.17	732.17
+ 141		0		 Lentils with coconut oil				258.31	258.31
+ 142		0		 Wheat flour veggie				974.24	974.24
+ 145		0		 Oat gluten free				980.29	980.29
+ 147		0		 Almonds with sea salt				637.70	637.7

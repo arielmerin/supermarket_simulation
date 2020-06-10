@@ -1,0 +1,38 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:30:54.886
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 16		3		 Coffee with agave syrup				1892.31	1892.31
+ 28		3		 Soy sauce vegan				207.01	207.01
+ 29		3		 Mango ready to eat				1242.45	1242.45
+ 40		1		 Peanut butter with dark cocoa				1296.30	1296.30
+ 42		3		 Peas gluten free				1378.17	1378.17
+ 48		1		 Oat flour with agave syrup				1719.06	1719.06
+ 52		1		 Papaya vegan				1090.90	1090.90
+ 59		4		 Quinoa baby				1833.52	1833.52
+ 67		3		 Mango integral				1337.37	1337.37
+ 75		1		 Strawberries gmo free				980.72	980.72
+ 76		1		 Sweet potato with agave syrup				865.23	865.23
+ 103		1		 Grams  with agave syrup				831.14	831.14
+ 118		3		 Soybeans with coconut oil				1496.66	1496.66
+ 128		1		 Almonds veggie				705.10	705.10
+ 135		2		 Quinoa flour integral				510.34	510.34
+ 140		1		 Sweet potato with coconut oil				1224.55	1224.55
+ 143		1		 Grams  with coconut oil				430.40	430.4
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 12		0		 Carrot gmo free				942.30	942.30
+ 22		0		 Cereals with dark cocoa				1039.09	1039.09
+ 24		0		 Integral flour organic				1275.69	1275.69
+ 25		0		 Pasta with coconut oil				1648.25	1648.25
+ 32		0		 Chayotes vegan				617.17	617.17
+ 73		0		 Carrot with dark cocoa				1778.44	1778.44
+ 90		0		 Papaya veggie				1209.57	1209.57
+ 101		0		 Rice vinegar baby				1639.31	1639.31
+ 108		0		 Spaghetti vegan				1449.96	1449.96
+ 109		0		 Peas with dark cocoa				1038.81	1038.81
+ 115		0		 Soup gmo free				973.98	973.98
+ 149		0		 Soybeans baby				1268.19	1268.1

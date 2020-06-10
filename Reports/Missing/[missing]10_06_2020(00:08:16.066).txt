@@ -1,0 +1,39 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:08:08.062
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 13		3		 Grams  with coconut oil				847.15	847.15
+ 16		1		 Rice gluten free				1735.16	1735.16
+ 24		1		 Peanut butter extra big				1288.11	1288.11
+ 29		2		 Avocado vegan				977.58	977.58
+ 37		1		 Beans with dark cocoa				566.53	566.53
+ 60		6		 Ezekiel with coconut oil				681.13	681.13
+ 71		2		 Kale integral				1282.78	1282.78
+ 83		4		 Amaranth with dark cocoa				921.82	921.82
+ 94		2		 Lemons extra big				1683.56	1683.56
+ 100		1		 Spaghetti veggie				1314.50	1314.50
+ 126		3		 Sweet potato with dark cocoa				1744.87	1744.87
+ 130		3		 Almonds with dark cocoa				1342.69	1342.69
+ 146		1		 Coffee with coconut oil				1888.29	1888.29
+ 147		1		 Lemons vegan				141.50	141.5
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 8		0		 Dried chiles baby				408.94	408.94
+ 20		0		 Mango baby				734.75	734.75
+ 27		0		 Amaranth baby				1545.82	1545.82
+ 46		0		 Oat flour extra big				707.99	707.99
+ 63		0		 Dried chiles with coconut oil				1603.16	1603.16
+ 72		0		 Wheat flour gmo free				326.20	326.20
+ 75		0		 Gram flour integral				970.45	970.45
+ 101		0		 Beans gluten free				633.52	633.52
+ 114		0		 Kale extra big				74.12	74.12
+ 116		0		 Integral flour integral				312.08	312.08
+ 118		0		 Peas extra big				1654.14	1654.14
+ 122		0		 Pasta extra big				407.77	407.77
+ 131		0		 Kale with sea salt				789.38	789.38
+ 133		0		 Sweet potato extra big				1334.79	1334.79
+ 139		0		 Oat flour with dark cocoa				378.26	378.26
+ 143		0		 Tangerine with agave syrup				521.09	521.0

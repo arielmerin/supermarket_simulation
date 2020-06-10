@@ -1,0 +1,38 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:07:43.971
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 2		4		 Soybeans with coconut oil				1372.27	1372.27
+ 13		1		 Amaranth integral				1661.44	1661.44
+ 14		1		 Cereals gmo free				449.57	449.57
+ 17		2		 Chia seed veggie				640.23	640.23
+ 62		9		 Almonds veggie				1188.79	1188.79
+ 64		3		 Almonds gmo free				1471.49	1471.49
+ 85		7		 Pan gluten free				1774.26	1774.26
+ 86		2		 Gram flour baby				1817.65	1817.65
+ 103		1		 Soap with agave syrup				953.83	953.83
+ 108		1		 Cereals vegan				95.23	95.23
+ 109		2		 Coffee with agave syrup				1180.91	1180.91
+ 121		7		 Grams  with agave syrup				581.08	581.08
+ 132		1		 Dried chiles with sea salt				387.91	387.91
+ 144		4		 Chia seed integral				80.93	80.93
+ 146		4		 Ezekiel with agave syrup				1440.74	1440.7
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 36		0		 Strawberries gmo free				1212.61	1212.61
+ 44		0		 Almonds ready to eat				1227.67	1227.67
+ 45		0		 Strawberries ready to eat				1221.17	1221.17
+ 54		0		 Strawberries with sea salt				1028.20	1028.20
+ 57		0		 Dried chiles baby				247.53	247.53
+ 61		0		 Cereals veggie				1440.79	1440.79
+ 63		0		 Wheat flour with agave syrup				1352.23	1352.23
+ 72		0		 Amaranth integral				91.90	91.90
+ 82		0		 Soap with sea salt				110.20	110.20
+ 93		0		 Pan with agave syrup				1527.18	1527.18
+ 98		0		 Splenda vegan				975.44	975.44
+ 122		0		 Spaghetti with agave syrup				425.39	425.39
+ 124		0		 Oat with coconut oil				627.34	627.34
+ 131		0		 Cucumber gluten free				1607.74	1607.7

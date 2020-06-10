@@ -1,0 +1,36 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:29:04.393
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 17		5		 Splenda with sea salt				1270.29	1270.29
+ 28		1		 Ezekiel vegan				589.06	589.06
+ 38		1		 Lentils with dark cocoa				1490.00	1490.00
+ 40		2		 Ezekiel gmo free				1087.12	1087.12
+ 41		1		 Splenda integral				489.49	489.49
+ 58		5		 Chayotes integral				228.92	228.92
+ 70		7		 Almonds with dark cocoa				969.18	969.18
+ 79		7		 Pan veggie				41.10	41.10
+ 85		8		 Ezekiel extra big				1132.50	1132.50
+ 102		2		 Soy sauce organic				1832.36	1832.36
+ 105		1		 Almonds ready to eat				1824.68	1824.68
+ 110		1		 Rice vinegar baby				1842.23	1842.23
+ 115		1		 Gram flour ready to eat				1835.07	1835.07
+ 120		1		 Apples with agave syrup				775.30	775.30
+ 124		1		 Tofu integral				643.85	643.8
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		0		 Integral flour ready to eat				1568.58	1568.58
+ 2		0		 Oat integral				1860.82	1860.82
+ 31		0		 Dried chiles ready to eat				499.20	499.20
+ 49		0		 Strawberries ready to eat				238.31	238.31
+ 50		0		 Lentils baby				867.04	867.04
+ 60		0		 Rice vinegar ready to eat				1652.04	1652.04
+ 64		0		 Kale baby				828.62	828.62
+ 77		0		 Quinoa flour extra big				1673.56	1673.56
+ 81		0		 Lentils with coconut oil				1630.66	1630.66
+ 106		0		 Lentils with agave syrup				168.07	168.07
+ 126		0		 Soy sauce gluten free				382.78	382.78
+ 148		0		 Cereals integral				1059.27	1059.2

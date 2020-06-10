@@ -8,7 +8,7 @@ import java.io.*;
  * @author Armando Aquino and Kevin Ariel Merino Peña
  * @version 1
  */
-public class Serializer {
+public class Serializer implements Serializable {
 
     /**
      *
@@ -20,6 +20,7 @@ public class Serializer {
         try{
             writer = new ObjectOutputStream(new FileOutputStream(path));
             writer.writeObject(objetToSerialize);
+            writer.close();
         }catch(NotSerializableException exc){
             System.out.println(exc);
         }catch(FileNotFoundException e){
@@ -29,13 +30,6 @@ public class Serializer {
         }finally{
             if(writer == null){
                 System.out.println("El archivo no esta abierto");
-            }else{
-                try{
-                    writer.close();
-                }catch(IOException e){
-                    System.out.println(e);
-                    System.out.println("NO se puedo cerrar el documento");
-                }
             }
         }
     }

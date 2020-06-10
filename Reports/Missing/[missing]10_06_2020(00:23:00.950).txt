@@ -1,0 +1,45 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:22:52.946
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 5		1		 Ezekiel extra big				350.37	350.37
+ 12		3		 Amaranth veggie				1242.31	1242.31
+ 14		3		 Soup with agave syrup				699.89	699.89
+ 28		4		 Carrot with sea salt				804.35	804.35
+ 39		9		 Quinoa flour gluten free				570.60	570.60
+ 61		2		 Ezekiel gluten free				1808.43	1808.43
+ 66		1		 Kale with agave syrup				1485.42	1485.42
+ 89		2		 Peanut butter gluten free				707.94	707.94
+ 106		2		 Integral flour ready to eat				238.84	238.84
+ 108		2		 Wheat flour with sea salt				482.22	482.22
+ 109		2		 Coffee veggie				510.52	510.52
+ 116		1		 Cucumber with dark cocoa				1113.88	1113.88
+ 121		1		 Quinoa baby				1804.72	1804.72
+ 122		3		 Amaranth gmo free				483.21	483.21
+ 124		1		 Soup ready to eat				830.20	830.20
+ 136		2		 Oat flour integral				1361.88	1361.88
+ 148		3		 Strawberries with coconut oil				1165.45	1165.4
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 9		0		 Lemons integral				1743.03	1743.03
+ 19		0		 Avocado extra big				299.63	299.63
+ 29		0		 Amaranth integral				1333.55	1333.55
+ 30		0		 Amaranth extra big				1242.66	1242.66
+ 37		0		 Ezekiel with coconut oil				1449.32	1449.32
+ 52		0		 Soap vegan				1254.66	1254.66
+ 53		0		 Soybeans gluten free				359.78	359.78
+ 58		0		 Gram flour with coconut oil				1568.67	1568.67
+ 63		0		 Wheat flour veggie				889.35	889.35
+ 67		0		 Chia seed organic				324.14	324.14
+ 71		0		 Amaranth with coconut oil				880.22	880.22
+ 73		0		 Almonds with agave syrup				450.71	450.71
+ 77		0		 Dried chiles gluten free				1534.23	1534.23
+ 86		0		 Tofu with dark cocoa				830.12	830.12
+ 92		0		 Oat veggie				1094.93	1094.93
+ 97		0		 Tangerine with agave syrup				378.48	378.48
+ 133		0		 Wheat flour gmo free				1445.59	1445.59
+ 135		0		 Ezekiel baby				1830.11	1830.11
+ 146		0		 Mango with dark cocoa				1103.97	1103.9

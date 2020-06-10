@@ -1,0 +1,27 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:30:34.836
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 15		4		 Kale gluten free				799.63	799.63
+ 16		1		 Wheat flour with dark cocoa				333.49	333.49
+ 23		1		 Avocado gluten free				1375.67	1375.67
+ 24		3		 Rice integral				1102.27	1102.27
+ 26		6		 Beans gluten free				1312.05	1312.05
+ 61		3		 Coffee baby				715.75	715.75
+ 70		1		 Pumpkins gluten free				1062.16	1062.16
+ 78		7		 Wheat flour gluten free				666.73	666.73
+ 79		2		 Quinoa with agave syrup				1337.44	1337.44
+ 86		1		 Pear with sea salt				481.17	481.17
+ 114		8		 Spaghetti organic				708.17	708.17
+ 120		1		 Soup with agave syrup				1411.87	1411.87
+ 125		1		 Kale gmo free				564.08	564.08
+ 148		1		 Dried chiles extra big				710.07	710.0
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 31		0		 Lemons veggie				374.58	374.58
+ 48		0		 Amaranth with dark cocoa				996.87	996.87
+ 81		0		 Rice vinegar gluten free				277.09	277.09
+ 82		0		 Quinoa ready to eat				183.66	183.6

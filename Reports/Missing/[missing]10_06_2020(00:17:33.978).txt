@@ -1,0 +1,43 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:17:25.974
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 4		1		 Tangerine extra big				683.82	683.82
+ 20		2		 Lemons extra big				1476.29	1476.29
+ 25		4		 Gram flour ready to eat				181.05	181.05
+ 31		9		 Sweet potato veggie				1784.75	1784.75
+ 46		2		 Amaranth organic				1852.87	1852.87
+ 54		1		 Spaghetti vegan				1780.61	1780.61
+ 80		7		 Ezekiel with agave syrup				46.91	46.91
+ 88		2		 Pan gmo free				174.53	174.53
+ 97		1		 Spaghetti gmo free				1350.71	1350.71
+ 103		3		 Carrot gluten free				999.32	999.32
+ 113		1		 Cereals with sea salt				1418.99	1418.99
+ 117		1		 Tofu gluten free				1345.34	1345.34
+ 124		1		 Coffee with agave syrup				1820.92	1820.92
+ 138		4		 Coffee ready to eat				1006.50	1006.5
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		0		 Ezekiel with coconut oil				255.72	255.72
+ 3		0		 Lemons veggie				62.84	62.84
+ 6		0		 Strawberries with coconut oil				537.69	537.69
+ 17		0		 Dried chiles veggie				1266.70	1266.70
+ 21		0		 Tangerine with dark cocoa				785.47	785.47
+ 26		0		 Chia seed extra big				1608.88	1608.88
+ 28		0		 Chia seed ready to eat				1468.72	1468.72
+ 32		0		 Rice vinegar with sea salt				1810.21	1810.21
+ 42		0		 Carrot vegan				694.48	694.48
+ 62		0		 Apples gluten free				916.49	916.49
+ 66		0		 Splenda veggie				573.15	573.15
+ 68		0		 Cereals with sea salt				269.30	269.30
+ 70		0		 Papaya ready to eat				1716.49	1716.49
+ 95		0		 Mango ready to eat				557.32	557.32
+ 100		0		 Cereals with coconut oil				322.69	322.69
+ 107		0		 Mango gluten free				1028.16	1028.16
+ 112		0		 Strawberries ready to eat				892.53	892.53
+ 137		0		 Dried chiles with coconut oil				1259.10	1259.10
+ 140		0		 Oat integral				936.59	936.59
+ 144		0		 Papaya veggie				1510.57	1510.5

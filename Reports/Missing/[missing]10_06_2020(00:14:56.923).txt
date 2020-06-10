@@ -1,0 +1,53 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:14:48.910
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 12		1		 Gram flour baby				374.89	374.89
+ 18		1		 Sweet potato vegan				1884.24	1884.24
+ 27		1		 Cereals gmo free				952.28	952.28
+ 35		3		 Cucumber baby				1883.82	1883.82
+ 44		5		 Spaghetti organic				1232.95	1232.95
+ 64		5		 Peas veggie				1867.76	1867.76
+ 72		1		 Quinoa integral				39.62	39.62
+ 90		3		 Almonds with coconut oil				633.28	633.28
+ 114		1		 Sweet potato with dark cocoa				749.88	749.88
+ 118		8		 Peas with sea salt				1657.73	1657.73
+ 138		1		 Quinoa flour gmo free				46.61	46.61
+ 148		1		 Pear ready to eat				977.77	977.77
+ 149		1		 Tangerine with coconut oil				531.68	531.6
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 7		0		 Rice baby				882.33	882.33
+ 9		0		 Amaranth organic				880.14	880.14
+ 17		0		 Rice with coconut oil				199.59	199.59
+ 20		0		 Tangerine veggie				1578.99	1578.99
+ 23		0		 Ezekiel gluten free				425.43	425.43
+ 26		0		 Oat ready to eat				1267.94	1267.94
+ 34		0		 Avocado extra big				629.59	629.59
+ 36		0		 Sweet potato with coconut oil				163.69	163.69
+ 43		0		 Kale gluten free				999.81	999.81
+ 52		0		 Papaya integral				852.55	852.55
+ 53		0		 Papaya organic				121.62	121.62
+ 58		0		 Pear organic				917.72	917.72
+ 59		0		 Soup gluten free				1702.12	1702.12
+ 63		0		 Rice vinegar gluten free				1359.91	1359.91
+ 68		0		 Grams  gmo free				768.65	768.65
+ 73		0		 Papaya gmo free				1745.86	1745.86
+ 79		0		 Pear with coconut oil				1763.94	1763.94
+ 80		0		 Broad Beans organic				1153.11	1153.11
+ 83		0		 Ezekiel extra big				1234.00	1234.00
+ 84		0		 Lentils integral				1591.84	1591.84
+ 86		0		 Spaghetti extra big				121.35	121.35
+ 91		0		 Soup extra big				1831.60	1831.60
+ 103		0		 Soybeans ready to eat				1002.02	1002.02
+ 111		0		 Splenda ready to eat				1672.22	1672.22
+ 113		0		 Almonds with coconut oil				252.71	252.71
+ 128		0		 Tofu extra big				1180.93	1180.93
+ 129		0		 Quinoa flour with coconut oil				1852.05	1852.05
+ 132		0		 Soy sauce veggie				275.38	275.38
+ 133		0		 Chayotes integral				1817.24	1817.24
+ 139		0		 Wheat flour with sea salt				1574.11	1574.11
+ 141		0		 Pasta gmo free				1466.77	1466.7

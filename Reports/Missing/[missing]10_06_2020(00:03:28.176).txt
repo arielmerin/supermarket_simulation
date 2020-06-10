@@ -1,0 +1,33 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:03:18.171
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 20		4		 Ezekiel with coconut oil				353.53	353.53
+ 23		1		 Broad Beans integral				1228.74	1228.74
+ 31		4		 Soup with dark cocoa				600.77	600.77
+ 45		6		 Chia seed with coconut oil				524.83	524.83
+ 54		2		 Dried chiles with sea salt				1781.35	1781.35
+ 57		2		 Strawberries gmo free				283.97	283.97
+ 59		1		 Peas gluten free				1195.37	1195.37
+ 62		2		 Soy sauce baby				891.73	891.73
+ 117		2		 Pan with dark cocoa				295.61	295.61
+ 138		1		 Soup vegan				313.23	313.2
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 7		0		 Chia seed extra big				1040.73	1040.73
+ 9		0		 Chia seed baby				1689.31	1689.31
+ 26		0		 Pasta gluten free				642.44	642.44
+ 49		0		 Tangerine with dark cocoa				1491.27	1491.27
+ 52		0		 Ezekiel vegan				278.60	278.60
+ 77		0		 Lentils with coconut oil				1568.92	1568.92
+ 95		0		 Wheat flour ready to eat				935.91	935.91
+ 112		0		 Lentils extra big				1511.42	1511.42
+ 124		0		 Wheat flour gluten free				379.60	379.60
+ 125		0		 Quinoa gmo free				1317.69	1317.69
+ 127		0		 Integral flour organic				1179.65	1179.65
+ 131		0		 Pumpkins gluten free				1893.38	1893.38
+ 133		0		 Avocado with sea salt				740.73	740.73
+ 135		0		 Soy sauce veggie				905.69	905.6

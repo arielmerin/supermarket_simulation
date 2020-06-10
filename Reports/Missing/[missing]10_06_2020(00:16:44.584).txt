@@ -1,0 +1,46 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:16:36.574
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 3		3		 Tofu with coconut oil				1542.99	1542.99
+ 7		1		 Tangerine organic				808.04	808.04
+ 12		1		 Apples ready to eat				63.95	63.95
+ 15		2		 Apples gluten free				651.10	651.10
+ 24		2		 Mango with dark cocoa				21.20	21.20
+ 59		1		 Mango vegan				537.64	537.64
+ 64		5		 Soybeans veggie				107.65	107.65
+ 67		6		 Pumpkins organic				1797.16	1797.16
+ 76		4		 Soybeans extra big				516.20	516.20
+ 83		2		 Grams  integral				1266.68	1266.68
+ 87		4		 Lemons gluten free				1275.32	1275.32
+ 88		3		 Pear baby				293.46	293.46
+ 89		2		 Grams  gmo free				1257.67	1257.67
+ 91		8		 Spaghetti baby				1092.12	1092.12
+ 104		4		 Broad Beans with coconut oil				1817.46	1817.46
+ 116		1		 Sweet potato extra big				1388.96	1388.96
+ 122		1		 Quinoa veggie				1842.50	1842.50
+ 125		9		 Dried chiles organic				1595.67	1595.67
+ 142		3		 Spaghetti baby				443.14	443.14
+ 144		1		 Mango gmo free				31.89	31.8
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		0		 Wheat flour ready to eat				1362.95	1362.95
+ 20		0		 Oat with coconut oil				1435.73	1435.73
+ 21		0		 Amaranth integral				937.59	937.59
+ 28		0		 Grams  with agave syrup				527.36	527.36
+ 68		0		 Grams  gmo free				1609.29	1609.29
+ 73		0		 Ezekiel vegan				401.90	401.90
+ 92		0		 Pasta baby				888.36	888.36
+ 96		0		 Chayotes baby				314.79	314.79
+ 97		0		 Peanut butter veggie				1012.73	1012.73
+ 103		0		 Rice vinegar ready to eat				1388.63	1388.63
+ 106		0		 Soy sauce veggie				728.17	728.17
+ 108		0		 Dried chiles with coconut oil				1579.83	1579.83
+ 110		0		 Rice vinegar vegan				640.79	640.79
+ 121		0		 Soybeans extra big				1705.49	1705.49
+ 132		0		 Tofu with sea salt				445.57	445.57
+ 133		0		 Sweet potato organic				654.82	654.82
+ 141		0		 Spaghetti gluten free				1310.14	1310.1

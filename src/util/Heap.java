@@ -1,5 +1,6 @@
 package util;
 
+import java.io.Serializable;
 import java.util.Iterator;
 
 
@@ -10,7 +11,7 @@ import java.util.Iterator;
  * el elemento mínimo también nos toma tiempo <em>O</em>(log <em>n</em>).
  * @param <T>
  */
-public abstract class Heap<T extends Comparable<T>> implements Coleccionable<T> {
+public abstract class Heap<T extends Comparable<T>> implements Coleccionable<T>, Serializable {
 
     /**
      *  Clase privada para iteradores de heaps.

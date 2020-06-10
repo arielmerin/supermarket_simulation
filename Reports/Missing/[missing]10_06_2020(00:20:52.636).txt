@@ -1,0 +1,36 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:20:44.623
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 19		1		 Rice vegan				1350.02	1350.02
+ 24		6		 Ezekiel gmo free				11.33	11.33
+ 28		1		 Cereals extra big				1372.62	1372.62
+ 37		5		 Grams  with dark cocoa				432.90	432.90
+ 44		1		 Grams  extra big				1534.10	1534.10
+ 50		1		 Nuts with coconut oil				1762.95	1762.95
+ 64		1		 Soy sauce extra big				901.81	901.81
+ 86		5		 Cucumber extra big				1278.39	1278.39
+ 115		2		 Tangerine vegan				90.46	90.46
+ 127		1		 Soy sauce gluten free				1530.55	1530.5
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 2		0		 Nuts baby				304.88	304.88
+ 7		0		 Grams  baby				1680.55	1680.55
+ 9		0		 Lentils extra big				82.19	82.19
+ 18		0		 Quinoa flour ready to eat				1149.49	1149.49
+ 26		0		 Spaghetti with coconut oil				1097.03	1097.03
+ 35		0		 Lemons gmo free				1790.90	1790.90
+ 41		0		 Quinoa flour with coconut oil				1064.03	1064.03
+ 53		0		 Chia seed with sea salt				1655.17	1655.17
+ 58		0		 Wheat flour with sea salt				838.35	838.35
+ 61		0		 Papaya extra big				1543.31	1543.31
+ 83		0		 Soap with agave syrup				1500.59	1500.59
+ 88		0		 Apples integral				1122.48	1122.48
+ 89		0		 Gram flour with sea salt				1363.46	1363.46
+ 111		0		 Grams  with dark cocoa				863.48	863.48
+ 132		0		 Dried chiles veggie				462.50	462.50
+ 136		0		 Pasta veggie				626.34	626.34
+ 149		0		 Rice veggie				216.77	216.7

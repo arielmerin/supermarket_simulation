@@ -1,0 +1,32 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:30:44.857
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 4		1		 Chayotes gluten free				118.99	118.99
+ 19		9		 Mango organic				984.54	984.54
+ 35		4		 Lemons gmo free				1527.18	1527.18
+ 41		2		 Spaghetti gluten free				960.19	960.19
+ 83		7		 Chia seed vegan				680.64	680.64
+ 93		7		 Pasta veggie				1133.29	1133.29
+ 109		7		 Lemons integral				1027.05	1027.05
+ 117		3		 Lentils veggie				723.68	723.68
+ 120		2		 Pear with sea salt				484.14	484.14
+ 124		1		 Integral flour with agave syrup				1083.98	1083.98
+ 129		7		 Tofu ready to eat				874.06	874.0
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 2		0		 Wheat flour extra big				752.37	752.37
+ 27		0		 Nuts ready to eat				982.61	982.61
+ 34		0		 Coffee with sea salt				1076.94	1076.94
+ 44		0		 Cereals ready to eat				255.78	255.78
+ 56		0		 Quinoa flour with coconut oil				1144.34	1144.34
+ 62		0		 Soy sauce integral				1202.59	1202.59
+ 90		0		 Soup veggie				1852.90	1852.90
+ 91		0		 Quinoa flour gluten free				1878.14	1878.14
+ 97		0		 Kale with agave syrup				676.82	676.82
+ 126		0		 Dried chiles with coconut oil				262.89	262.89
+ 131		0		 Peanut butter ready to eat				110.46	110.46
+ 148		0		 Papaya ready to eat				1414.58	1414.5

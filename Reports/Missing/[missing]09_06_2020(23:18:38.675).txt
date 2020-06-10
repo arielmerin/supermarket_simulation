@@ -1,0 +1,29 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:18:28.666
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 38		9		 Cucumber with coconut oil				518.18	518.18
+ 51		2		 Soup with agave syrup				1521.92	1521.92
+ 65		2		 Splenda with sea salt				300.42	300.42
+ 73		5		 Spaghetti vegan				1342.66	1342.66
+ 77		2		 Nuts extra big				1637.21	1637.21
+ 86		1		 Mango extra big				433.23	433.23
+ 121		1		 Mango integral				200.72	200.72
+ 144		3		 Rice veggie				108.59	108.5
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 7		0		 Carrot with dark cocoa				1371.99	1371.99
+ 24		0		 Papaya gluten free				456.61	456.61
+ 33		0		 Sweet potato integral				1127.46	1127.46
+ 37		0		 Nuts gluten free				688.36	688.36
+ 71		0		 Chayotes ready to eat				505.71	505.71
+ 88		0		 Cucumber with agave syrup				1128.53	1128.53
+ 89		0		 Quinoa flour with sea salt				400.98	400.98
+ 106		0		 Cucumber with dark cocoa				872.93	872.93
+ 107		0		 Avocado veggie				1032.20	1032.20
+ 109		0		 Almonds with agave syrup				1167.41	1167.41
+ 135		0		 Coffee with sea salt				1375.06	1375.06
+ 147		0		 Mango organic				929.30	929.3

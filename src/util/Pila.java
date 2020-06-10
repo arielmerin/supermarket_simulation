@@ -1,5 +1,6 @@
 package util;
 
+import java.io.Serializable;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
@@ -11,7 +12,7 @@ import java.util.NoSuchElementException;
  * @version 1.0
  * @param <T> Tipo que tienen los objetos que guarda esta pila.
  */
-public class Pila<T> implements Coleccionable<T> {
+public class Pila<T> implements Coleccionable<T>, Serializable {
 
     private class Nodo {
 

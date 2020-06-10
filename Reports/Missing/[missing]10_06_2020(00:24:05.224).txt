@@ -1,0 +1,49 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:23:57.221
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		1		 Rice ready to eat				1495.26	1495.26
+ 3		1		 Nuts gluten free				371.22	371.22
+ 27		1		 Apples gmo free				1820.69	1820.69
+ 29		1		 Quinoa flour ready to eat				1776.58	1776.58
+ 36		1		 Integral flour vegan				1785.13	1785.13
+ 47		2		 Soap veggie				1466.02	1466.02
+ 49		1		 Tofu with dark cocoa				1733.36	1733.36
+ 61		5		 Lemons with dark cocoa				1293.23	1293.23
+ 74		1		 Tofu with coconut oil				722.83	722.83
+ 85		1		 Pasta with agave syrup				1670.69	1670.69
+ 87		3		 Mango ready to eat				1825.56	1825.56
+ 90		1		 Sweet potato with coconut oil				625.94	625.94
+ 91		1		 Gram flour vegan				478.91	478.91
+ 95		2		 Tofu with sea salt				869.32	869.32
+ 102		1		 Soybeans with coconut oil				331.07	331.07
+ 104		7		 Pan with dark cocoa				1740.99	1740.99
+ 107		1		 Pear gmo free				1098.14	1098.1
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 4		0		 Avocado veggie				235.23	235.23
+ 15		0		 Sweet potato extra big				1155.02	1155.02
+ 24		0		 Wheat flour baby				1436.49	1436.49
+ 38		0		 Tangerine with sea salt				1700.34	1700.34
+ 41		0		 Spaghetti with coconut oil				165.32	165.32
+ 46		0		 Peanut butter vegan				1790.02	1790.02
+ 60		0		 Lentils with agave syrup				1322.94	1322.94
+ 70		0		 Dried chiles gluten free				1257.00	1257.00
+ 76		0		 Broad Beans baby				1173.42	1173.42
+ 79		0		 Soap with coconut oil				1457.46	1457.46
+ 80		0		 Rice integral				211.71	211.71
+ 86		0		 Oat organic				1502.59	1502.59
+ 92		0		 Cereals vegan				1647.34	1647.34
+ 99		0		 Oat gluten free				1041.67	1041.67
+ 108		0		 Quinoa veggie				1753.00	1753.00
+ 112		0		 Ezekiel gluten free				884.51	884.51
+ 117		0		 Nuts with sea salt				1292.67	1292.67
+ 119		0		 Tangerine extra big				1190.19	1190.19
+ 127		0		 Chia seed baby				1023.28	1023.28
+ 133		0		 Splenda extra big				645.23	645.23
+ 134		0		 Cucumber with agave syrup				1541.21	1541.21
+ 144		0		 Chia seed vegan				893.49	893.49
+ 149		0		 Amaranth baby				1577.79	1577.7

@@ -1,8 +1,9 @@
 package util;
 
+import java.io.Serializable;
 import java.util.NoSuchElementException;
 
-public class MinHeap<T extends Comparable<T>> extends Heap<T> {
+public class MinHeap<T extends Comparable<T>> extends Heap<T> implements Serializable {
 
     public MinHeap(){
         super();

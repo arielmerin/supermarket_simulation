@@ -1,0 +1,37 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:03:08.134
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 3		6		 Wheat flour vegan				323.01	323.01
+ 13		7		 Mango veggie				304.58	304.58
+ 23		1		 Chayotes extra big				99.10	99.10
+ 24		1		 Nuts vegan				606.23	606.23
+ 39		1		 Grams  gmo free				920.22	920.22
+ 45		2		 Nuts with coconut oil				11.37	11.37
+ 48		3		 Mango vegan				395.22	395.22
+ 50		3		 Soap integral				1646.36	1646.36
+ 53		4		 Carrot with agave syrup				317.11	317.11
+ 66		4		 Nuts gmo free				603.76	603.76
+ 73		6		 Quinoa organic				1824.40	1824.40
+ 82		1		 Soy sauce gmo free				881.41	881.41
+ 87		2		 Peas gluten free				84.78	84.78
+ 98		2		 Strawberries with sea salt				1832.99	1832.99
+ 104		1		 Oat flour with sea salt				229.46	229.46
+ 114		5		 Peanut butter with coconut oil				425.80	425.80
+ 123		1		 Wheat flour with dark cocoa				1500.24	1500.24
+ 134		1		 Splenda gmo free				358.45	358.45
+ 136		2		 Ezekiel gluten free				1239.11	1239.1
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 19		0		 Avocado with dark cocoa				994.97	994.97
+ 34		0		 Pasta integral				932.75	932.75
+ 52		0		 Avocado extra big				884.26	884.26
+ 57		0		 Papaya vegan				1319.96	1319.96
+ 92		0		 Beans with sea salt				1860.85	1860.85
+ 102		0		 Apples with sea salt				690.10	690.10
+ 107		0		 Rice vinegar with agave syrup				103.30	103.30
+ 108		0		 Soap organic				822.38	822.38
+ 128		0		 Chayotes vegan				66.05	66.0

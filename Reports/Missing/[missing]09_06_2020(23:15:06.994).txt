@@ -1,0 +1,33 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:14:56.990
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 6		4		 Avocado organic				407.92	407.92
+ 16		3		 Lentils veggie				287.66	287.66
+ 20		1		 Avocado with coconut oil				1139.88	1139.88
+ 32		9		 Cucumber gmo free				1660.22	1660.22
+ 37		1		 Peanut butter integral				867.89	867.89
+ 55		1		 Nuts vegan				657.33	657.33
+ 59		8		 Rice baby				1544.71	1544.71
+ 94		5		 Ezekiel extra big				902.14	902.14
+ 99		5		 Quinoa flour extra big				1167.57	1167.57
+ 115		5		 Peas vegan				415.88	415.88
+ 128		1		 Quinoa with sea salt				427.09	427.09
+ 134		1		 Pan with coconut oil				3.29	3.29
+ 141		2		 Beans vegan				1037.09	1037.0
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 27		0		 Pumpkins extra big				59.99	59.99
+ 34		0		 Coffee with sea salt				1312.89	1312.89
+ 47		0		 Lemons with coconut oil				1214.35	1214.35
+ 53		0		 Tangerine vegan				435.86	435.86
+ 57		0		 Rice extra big				1052.19	1052.19
+ 73		0		 Oat organic				75.80	75.80
+ 91		0		 Strawberries with dark cocoa				610.39	610.39
+ 106		0		 Mango gluten free				1846.49	1846.49
+ 108		0		 Spaghetti with sea salt				1414.47	1414.47
+ 142		0		 Soap integral				301.68	301.68
+ 149		0		 Quinoa gmo free				187.93	187.9

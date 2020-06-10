@@ -1,0 +1,21 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:12:46.408
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 25		4		 Almonds with agave syrup				1401.80	1401.80
+ 42		3		 Mango vegan				1838.14	1838.14
+ 47		1		 Lentils organic				1074.95	1074.95
+ 60		3		 Peas integral				1149.84	1149.84
+ 85		3		 Dried chiles organic				370.14	370.14
+ 126		1		 Lemons with sea salt				1641.44	1641.44
+ 134		2		 Rice vinegar gluten free				832.45	832.4
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 39		0		 Peanut butter with coconut oil				707.77	707.77
+ 49		0		 Chayotes veggie				1386.44	1386.44
+ 103		0		 Peanut butter baby				92.42	92.42
+ 139		0		 Gram flour integral				277.57	277.57
+ 148		0		 Pumpkins with dark cocoa				119.11	119.1

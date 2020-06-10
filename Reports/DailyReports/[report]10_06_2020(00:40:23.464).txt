@@ -1,0 +1,124 @@
+:::  SUPERMERCADO  :::
+
+Fecha: 10/06/2020 - 00:40:15.458
+Total de ingresos: $25214790.00
+Fueron atendidos 76 clientes con a lo más 20 artículos
+
+Fueron atendidos 84 clientes con más de 20 artículos
+
+Total de clientes atendidos: 160 
+ 
+Con las siguientes cajas: 
+ LARGE CHECKOUT
+Total sales : $2584931.65
+Attended customers: 8
+
+| LARGE CHECKOUT
+Total sales : $2890126.41
+Attended customers: 8
+
+| LARGE CHECKOUT
+Total sales : $3281076.71
+Attended customers: 9
+
+| LARGE CHECKOUT
+Total sales : $2688391.65
+Attended customers: 8
+
+| LARGE CHECKOUT
+Total sales : $2830913.97
+Attended customers: 8
+
+| LARGE CHECKOUT
+Total sales : $3179631.68
+Attended customers: 9
+
+| LARGE CHECKOUT
+Total sales : $3198623.80
+Attended customers: 9
+
+| LARGE CHECKOUT
+Total sales : $3031825.62
+Attended customers: 8
+
+| LARGE CHECKOUT
+Total sales : $2834427.63
+Attended customers: 8
+
+| LARGE CHECKOUT
+Total sales : $3101463.39
+Attended customers: 9
+
+
+  QUICK CHECKOUT
+Total sales : $1273878.48
+Attended customers: 4
+
+| QUICK CHECKOUT
+Total sales : $1369573.58
+Attended customers: 4
+
+| QUICK CHECKOUT
+Total sales : $1057285.40
+Attended customers: 5
+
+| QUICK CHECKOUT
+Total sales : $1156801.04
+Attended customers: 4
+
+| QUICK CHECKOUT
+Total sales : $1335095.84
+Attended customers: 5
+
+| QUICK CHECKOUT
+Total sales : $1353417.83
+Attended customers: 5
+
+| QUICK CHECKOUT
+Total sales : $1283029.78
+Attended customers: 5
+
+| QUICK CHECKOUT
+Total sales : $1024695.88
+Attended customers: 4
+
+| QUICK CHECKOUT
+Total sales : $1378966.77
+Attended customers: 5
+
+| QUICK CHECKOUT
+Total sales : $1395766.33
+Attended customers: 5
+
+| QUICK CHECKOUT
+Total sales : $1465353.52
+Attended customers: 5
+
+| QUICK CHECKOUT
+Total sales : $1323017.26
+Attended customers: 5
+
+| QUICK CHECKOUT
+Total sales : $1487657.22
+Attended customers: 5
+
+| QUICK CHECKOUT
+Total sales : $1158163.60
+Attended customers: 5
+
+| QUICK CHECKOUT
+Total sales : $1532534.19
+Attended customers: 5
+
+| QUICK CHECKOUT
+Total sales : $1212931.74
+Attended customers: 5
+
+
+
+ La caja que más clientes atendió fue: 
+  LARGE CHECKOUT
+Total sales : $3877397.47
+Attended customers: 8
+
+

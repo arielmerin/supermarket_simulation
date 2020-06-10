@@ -1,0 +1,29 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:17:58.398
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 12		1		 Oat flour with dark cocoa				515.47	515.47
+ 22		4		 Broad Beans with dark cocoa				62.61	62.61
+ 27		3		 Strawberries with sea salt				188.90	188.90
+ 34		8		 Soybeans with coconut oil				1694.35	1694.35
+ 41		1		 Mango with dark cocoa				1369.46	1369.46
+ 42		3		 Lemons veggie				1731.59	1731.59
+ 51		2		 Nuts with dark cocoa				309.04	309.04
+ 59		8		 Quinoa gluten free				1437.98	1437.98
+ 66		4		 Soup with dark cocoa				1659.26	1659.26
+ 109		1		 Peanut butter organic				199.00	199.00
+ 113		1		 Kale with agave syrup				958.52	958.52
+ 139		8		 Ezekiel ready to eat				828.54	828.54
+ 146		7		 Quinoa gluten free				461.03	461.0
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 65		0		 Splenda veggie				235.98	235.98
+ 82		0		 Apples ready to eat				1400.97	1400.97
+ 87		0		 Tofu organic				668.40	668.40
+ 89		0		 Lemons with dark cocoa				128.38	128.38
+ 126		0		 Cucumber with coconut oil				525.63	525.63
+ 135		0		 Quinoa flour vegan				249.61	249.61
+ 138		0		 Soap organic				810.12	810.1

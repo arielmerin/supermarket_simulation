@@ -1,0 +1,29 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:29:44.716
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 7		2		 Integral flour baby				1786.27	1786.27
+ 9		6		 Rice vinegar gmo free				429.18	429.18
+ 16		1		 Gram flour with coconut oil				1739.50	1739.50
+ 29		7		 Almonds gluten free				772.89	772.89
+ 31		5		 Apples with dark cocoa				845.36	845.36
+ 46		5		 Carrot with sea salt				352.98	352.98
+ 49		1		 Lemons veggie				968.36	968.36
+ 56		3		 Pan with agave syrup				1529.54	1529.54
+ 67		4		 Chayotes vegan				1156.29	1156.29
+ 100		1		 Almonds baby				1721.45	1721.45
+ 109		1		 Sweet potato with agave syrup				1552.07	1552.07
+ 120		1		 Soap veggie				1176.43	1176.43
+ 130		3		 Pasta ready to eat				1066.24	1066.2
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 50		0		 Avocado with dark cocoa				409.89	409.89
+ 81		0		 Peas gluten free				1675.62	1675.62
+ 85		0		 Peas veggie				378.69	378.69
+ 86		0		 Quinoa flour ready to eat				1498.62	1498.62
+ 94		0		 Lemons baby				938.84	938.84
+ 118		0		 Spaghetti gmo free				1645.04	1645.04
+ 127		0		 Oat ready to eat				1813.31	1813.3

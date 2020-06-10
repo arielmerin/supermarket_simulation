@@ -1,0 +1,32 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:29:24.642
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 20		4		 Beans gluten free				1638.13	1638.13
+ 32		1		 Gram flour with coconut oil				755.28	755.28
+ 46		1		 Rice vinegar with agave syrup				168.80	168.80
+ 72		3		 Cucumber baby				706.58	706.58
+ 95		8		 Cereals extra big				186.42	186.42
+ 97		1		 Chia seed baby				1103.74	1103.74
+ 99		1		 Strawberries organic				454.14	454.14
+ 103		2		 Pumpkins with sea salt				876.50	876.50
+ 112		1		 Pumpkins baby				1598.38	1598.38
+ 116		1		 Oat flour gluten free				685.66	685.66
+ 140		5		 Cereals gluten free				1590.82	1590.82
+ 143		1		 Pumpkins baby				1771.00	1771.00
+ 149		1		 Ezekiel integral				1491.13	1491.1
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		0		 Lemons ready to eat				1175.38	1175.38
+ 3		0		 Chayotes with sea salt				694.47	694.47
+ 9		0		 Peas with sea salt				1281.57	1281.57
+ 70		0		 Grams  with dark cocoa				1236.39	1236.39
+ 80		0		 Avocado with coconut oil				1075.65	1075.65
+ 86		0		 Gram flour veggie				1670.36	1670.36
+ 105		0		 Avocado veggie				1024.00	1024.00
+ 130		0		 Papaya gmo free				1586.03	1586.03
+ 132		0		 Wheat flour with coconut oil				257.85	257.85
+ 135		0		 Dried chiles extra big				1210.09	1210.0

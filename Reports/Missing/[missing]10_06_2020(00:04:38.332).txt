@@ -1,0 +1,34 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:04:28.329
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 4		4		 Rice vegan				676.01	676.01
+ 6		1		 Mango with sea salt				180.51	180.51
+ 9		2		 Lentils with agave syrup				855.22	855.22
+ 41		3		 Peanut butter baby				302.74	302.74
+ 58		1		 Oat veggie				837.49	837.49
+ 100		2		 Dried chiles with coconut oil				1476.42	1476.42
+ 109		2		 Peanut butter extra big				715.08	715.08
+ 111		2		 Strawberries with dark cocoa				1710.67	1710.67
+ 115		1		 Wheat flour baby				1768.96	1768.96
+ 129		1		 Cucumber gluten free				1299.40	1299.40
+ 133		1		 Rice vinegar gluten free				1585.29	1585.29
+ 134		3		 Spaghetti gmo free				744.96	744.96
+ 136		4		 Wheat flour veggie				979.26	979.26
+ 148		9		 Quinoa flour with sea salt				1162.20	1162.2
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 2		0		 Beans gmo free				1559.77	1559.77
+ 18		0		 Peas organic				1272.93	1272.93
+ 24		0		 Integral flour with dark cocoa				1432.29	1432.29
+ 39		0		 Cucumber with coconut oil				843.66	843.66
+ 49		0		 Beans with coconut oil				1484.63	1484.63
+ 62		0		 Peanut butter ready to eat				202.95	202.95
+ 83		0		 Nuts with dark cocoa				886.32	886.32
+ 84		0		 Cereals with agave syrup				466.57	466.57
+ 125		0		 Chia seed with coconut oil				165.24	165.24
+ 137		0		 Cucumber gmo free				1502.77	1502.77
+ 141		0		 Gram flour gmo free				78.45	78.4

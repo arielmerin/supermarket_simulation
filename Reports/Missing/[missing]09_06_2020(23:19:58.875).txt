@@ -1,0 +1,33 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:19:48.871
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 15		1		 Avocado gluten free				1009.54	1009.54
+ 52		1		 Almonds with coconut oil				343.52	343.52
+ 60		1		 Pumpkins gmo free				1712.82	1712.82
+ 67		5		 Kale extra big				1313.83	1313.83
+ 69		3		 Beans gmo free				1696.35	1696.35
+ 75		1		 Rice vinegar ready to eat				1502.46	1502.46
+ 107		1		 Quinoa ready to eat				1752.47	1752.47
+ 108		2		 Sweet potato veggie				20.97	20.97
+ 115		8		 Broad Beans integral				546.96	546.96
+ 116		1		 Quinoa gluten free				1764.51	1764.51
+ 132		3		 Broad Beans organic				1310.10	1310.10
+ 140		1		 Gram flour with dark cocoa				1691.45	1691.4
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 8		0		 Broad Beans integral				867.40	867.40
+ 32		0		 Carrot ready to eat				573.97	573.97
+ 37		0		 Amaranth integral				1729.41	1729.41
+ 42		0		 Kale vegan				1110.55	1110.55
+ 50		0		 Tofu organic				1126.41	1126.41
+ 74		0		 Ezekiel with dark cocoa				444.87	444.87
+ 92		0		 Broad Beans ready to eat				38.79	38.79
+ 94		0		 Pasta extra big				662.57	662.57
+ 124		0		 Wheat flour ready to eat				598.63	598.63
+ 127		0		 Peanut butter gmo free				1290.70	1290.70
+ 136		0		 Cucumber gluten free				1222.36	1222.36
+ 143		0		 Soap integral				946.27	946.2

@@ -1,0 +1,35 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:23:33.098
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 41		2		 Integral flour organic				1378.44	1378.44
+ 47		1		 Oat flour with dark cocoa				0.64	0.64
+ 50		1		 Quinoa ready to eat				62.34	62.34
+ 54		2		 Sweet potato veggie				1758.74	1758.74
+ 81		2		 Rice with sea salt				233.69	233.69
+ 107		1		 Grams  veggie				1545.50	1545.50
+ 137		1		 Splenda integral				919.60	919.60
+ 142		1		 Pumpkins gluten free				963.79	963.7
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 6		0		 Lemons with dark cocoa				1761.77	1761.77
+ 9		0		 Grams  ready to eat				809.74	809.74
+ 19		0		 Spaghetti gmo free				416.69	416.69
+ 21		0		 Chia seed veggie				1376.52	1376.52
+ 24		0		 Cereals ready to eat				697.62	697.62
+ 34		0		 Broad Beans with agave syrup				468.76	468.76
+ 43		0		 Peanut butter extra big				411.02	411.02
+ 51		0		 Almonds with dark cocoa				115.79	115.79
+ 55		0		 Soy sauce organic				1484.82	1484.82
+ 62		0		 Broad Beans organic				1231.48	1231.48
+ 98		0		 Integral flour with agave syrup				138.75	138.75
+ 105		0		 Integral flour with coconut oil				1639.11	1639.11
+ 109		0		 Chayotes organic				1161.18	1161.18
+ 111		0		 Cucumber gluten free				23.03	23.03
+ 123		0		 Soup with dark cocoa				1372.60	1372.60
+ 136		0		 Mango with dark cocoa				656.37	656.37
+ 141		0		 Rice organic				558.72	558.72
+ 143		0		 Carrot gmo free				1894.49	1894.4

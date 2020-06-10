@@ -8,9 +8,11 @@ import util.Lista;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.Scanner;
-import static util.Utilities.getFloat;
-import static util.Utilities.getInt;
+
+import static util.Utilities.*;
 
 /**
  * <h1>Menu</h1>
@@ -33,6 +35,8 @@ public class Menu {
      *
      */
     private Simulation simulation;
+
+    Lista<String> plotting = new Lista<>();
 
     public Menu(){
         serializer = new Serializer();
@@ -93,12 +97,14 @@ public class Menu {
      */
     private void adminMenu(){
         boolean continua = true;
+        simulation = new Simulation();
         do {
             System.out.println("\n[1]Dar de Alta algún prodcuto");
             System.out.println("[2]Resurtir existencias de algún producto");
             System.out.println("[3]Generar productos aleatorios y cargarlo al inventario");
-            System.out.println("[4]Ver el inventario");
-            System.out.println("[5]Regresar al menú principal\n");
+            System.out.println("[4]Porporcionar un archivo txt y cargarlo al inventario");
+            System.out.println("[5]Ver el inventario");
+            System.out.println("[6]Regresar al menú principal\n");
 
             int anInt = getInt("Ingrese la opción deseada: ", "Error, intente de nuevo");
 
@@ -118,11 +124,18 @@ public class Menu {
                 case 3:
                     int numToGenerate = getInt("Ingrese el número de productos que desea generar(recomendable >100): ",
                             "Error, intente de nuevo con un número válido");
+                    simulation.genRandomProd(numToGenerate);
+                    simulation.loadProductsList("");
                     break;
                 case 4:
-                    System.out.println(simulation.getCostco().getAlmacen().getWhareHouse());
+                    String fileToLoad = getStr("\nIngrese el nombre del archivo (.txt) a cargar como almacen: ",
+                            "Intente de nuevo, ocurrió un error");
+                    simulation.loadProductsList(fileToLoad);
                     break;
                 case 5:
+                    System.out.println(simulation.getCostco().getAlmacen().getWhareHouse());
+                    break;
+                case 6:
                     continua = false;
                     break;
                 default:
@@ -138,25 +151,39 @@ public class Menu {
     private void userMenu(){
         boolean conti = true;
         do {
-            System.out.println("[1]Elaborar una simulación automática");
+            System.out.println("\n[1]Elaborar una simulación automática");
             System.out.println("[2]Elegir cuántas cajas se quieren simular");
             System.out.println("[3]Regresar el menú principal");
-            int answer = getInt("Ingrese la opción deseada: ", "Error, intente de nuevo");
+            int answer = getInt("\nIngrese la opción deseada: ", "Error, intente de nuevo");
             switch (answer){
                 case 1:
-                    System.out.println("Simulando compras... espere por favor");
-                    Lista<String> plotting = new Lista<>();
+                    System.out.println("\nSimulando compras... espere por favor");
                     for (int i = 1; i < 15; i++) {
-
                         simulation = new Simulation(i,15-i,2);
                         simulation.simulate();
                         simulation.getReports();
                         plotting.agregar(simulation.writeLine());
                     }
-                    serializer.writeTXT(plotting, "datos.dat");
+                    serializer.writeTXT(plotting, "plot/datos.dat");
                     System.out.println("Terminó con éxito la simulación");
+                    execPlot();
                     break;
                 case 2:
+                    int days = getInt("\nIngrese el número de días que quiere simular ", "Error, ingrese días válidos");
+                    Lista<String> data = new Lista<>();
+                    for (int i = 0; i < days; i++) {
+                        int quickCheckouts = getInt(String.format("Día [%d] de %d\nIngrese el número de cajas rápidas: ", i + 1, days),
+                                "Error, intente de nuevo");
+                        int largeCheckouts = getInt(String.format("Día [%d] de %d\nIngrese el número de cajas largas: ", i + 1, days),
+                                "Error, intente de nuevo");
+                        System.out.println("\nSimulando el día " + (i+1));
+                        simulation = new Simulation(quickCheckouts, largeCheckouts,1);
+                        simulation.simulate();
+                        simulation.getReports();
+                        data.agregar(simulation.writeLine());
+                    }
+                    serializer.writeTXT(data, "plot/datos.dat");
+                    System.out.println("\nTerminó con éxito la simulación\n");
                     execPlot();
                     break;
                 case 3:
@@ -199,17 +226,23 @@ public class Menu {
     private void execPlot(){
         boolean contAsking = true;
         do {
-            System.out.println("¿Desea generar las gráficas de los resultados?\n[1]Sí\n[2]No");
-            int ans = getInt("Ingrese la opción deseada", "Error, intente de nuevo");
+            System.out.println("\n¿Desea generar las gráficas de los resultados?\n[1]Sí\n[2]No");
+            int ans = getInt("\nIngrese la opción deseada: ", "Error, intente de nuevo");
             switch (ans){
                 case 1:
                     boolean isWindows = System.getProperty("os.name").toLowerCase().startsWith("windows");
                     if (!isWindows){
                         try {
-                            Process processHistogram = Runtime.getRuntime().exec("./histGraph.sh");
-                            Process processMainGraph = Runtime.getRuntime().exec("./mainGraph.sh");
-                            Process openImgHist = Runtime.getRuntime().exec("mimeopen plot/histGraph.png");
-                            Process openImgMain = Runtime.getRuntime().exec("mimeopen plot/mainGraph.png");
+                            Date date = new Date();
+                            SimpleDateFormat formatter = new SimpleDateFormat(("dd_MM_yyyy(HH_mm_ss_SSS)"));
+                            String fec = formatter.format(date);
+                            String nameHist = String.format("plot/histogramGraph(%s).png",fec);
+                            String nameMain = String.format("plot/mainGraph(%s).png",fec);
+                            String orden = "./graph.sh " + nameHist +" " + nameMain;
+                            Process processHistogram = Runtime.getRuntime().exec(orden);
+
+                            Process openImgHist = Runtime.getRuntime().exec("mimeopen "+nameHist);
+                            Process openImgMain = Runtime.getRuntime().exec("mimeopen "+nameMain);
                         } catch (IOException e) {
                             e.printStackTrace();
                         }

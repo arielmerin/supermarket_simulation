@@ -13,7 +13,7 @@ import java.util.NoSuchElementException;
  * si <code>null</code> es pasado como parámetro a ninguno de sus métodos.</p>
  * @param <T> Tipo genérico de los elementos que guarda.
  */
-public interface Coleccionable<T> extends Iterable<T> {
+public interface Coleccionable<T> extends Iterable<T>{
 
     /**
      * Agrega un elemento a la colección.

@@ -1,0 +1,38 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:16:04.071
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 9		3		 Coffee gluten free				1371.32	1371.32
+ 13		1		 Avocado with sea salt				324.14	324.14
+ 17		2		 Pumpkins vegan				1613.30	1613.30
+ 20		5		 Chayotes gmo free				1763.82	1763.82
+ 24		1		 Cucumber baby				335.57	335.57
+ 30		3		 Pan veggie				1171.17	1171.17
+ 32		4		 Almonds organic				715.56	715.56
+ 38		1		 Sweet potato with coconut oil				241.47	241.47
+ 39		4		 Nuts with dark cocoa				484.66	484.66
+ 51		2		 Nuts with agave syrup				134.72	134.72
+ 56		1		 Spaghetti vegan				690.43	690.43
+ 97		2		 Soap vegan				643.80	643.80
+ 137		1		 Dried chiles extra big				1895.29	1895.2
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		0		 Pear extra big				1494.41	1494.41
+ 6		0		 Peas baby				1057.91	1057.91
+ 27		0		 Kale with dark cocoa				226.21	226.21
+ 28		0		 Chayotes extra big				28.48	28.48
+ 46		0		 Pear gluten free				1815.66	1815.66
+ 67		0		 Lemons vegan				1240.68	1240.68
+ 73		0		 Quinoa ready to eat				414.41	414.41
+ 80		0		 Pasta vegan				1.64	1.64
+ 92		0		 Gram flour with agave syrup				1782.21	1782.21
+ 93		0		 Soup vegan				991.63	991.63
+ 100		0		 Chayotes veggie				331.99	331.99
+ 106		0		 Apples organic				138.71	138.71
+ 107		0		 Carrot integral				731.05	731.05
+ 108		0		 Nuts with sea salt				594.72	594.72
+ 121		0		 Oat flour with coconut oil				1051.75	1051.75
+ 131		0		 Beans organic				181.50	181.5

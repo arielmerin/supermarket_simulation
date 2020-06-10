@@ -1,0 +1,43 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:06:55.741
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 3		2		 Apples with coconut oil				415.29	415.29
+ 4		1		 Chia seed vegan				27.73	27.73
+ 44		2		 Broad Beans baby				1336.42	1336.42
+ 47		2		 Pumpkins with coconut oil				604.10	604.10
+ 60		1		 Peas with dark cocoa				159.29	159.29
+ 63		5		 Pumpkins with sea salt				1293.52	1293.52
+ 71		7		 Rice vinegar with dark cocoa				133.70	133.70
+ 77		1		 Chia seed organic				417.13	417.13
+ 101		2		 Dried chiles organic				620.95	620.95
+ 107		3		 Dried chiles organic				687.51	687.51
+ 110		2		 Pear with coconut oil				581.96	581.96
+ 115		9		 Cereals with sea salt				510.65	510.65
+ 127		2		 Gram flour with dark cocoa				1302.64	1302.64
+ 129		1		 Quinoa gluten free				1530.81	1530.81
+ 131		1		 Amaranth ready to eat				486.18	486.18
+ 135		1		 Grams  gmo free				1032.12	1032.1
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 22		0		 Oat flour with sea salt				1285.74	1285.74
+ 27		0		 Peas gluten free				699.60	699.60
+ 35		0		 Amaranth organic				1163.25	1163.25
+ 43		0		 Kale vegan				1122.17	1122.17
+ 59		0		 Coffee extra big				1529.19	1529.19
+ 67		0		 Soup gmo free				211.36	211.36
+ 72		0		 Oat ready to eat				1665.67	1665.67
+ 76		0		 Integral flour extra big				1610.69	1610.69
+ 78		0		 Beans organic				1427.82	1427.82
+ 80		0		 Chia seed integral				1406.26	1406.26
+ 92		0		 Gram flour vegan				1306.66	1306.66
+ 95		0		 Mango organic				729.62	729.62
+ 112		0		 Tofu gluten free				338.46	338.46
+ 116		0		 Oat flour with sea salt				1445.87	1445.87
+ 118		0		 Coffee ready to eat				643.21	643.21
+ 133		0		 Amaranth with agave syrup				1463.37	1463.37
+ 136		0		 Peas gluten free				1079.29	1079.29
+ 142		0		 Spaghetti gmo free				1120.91	1120.9

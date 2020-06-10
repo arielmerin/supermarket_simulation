@@ -1,0 +1,31 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:18:58.751
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 7		3		 Grams  baby				979.60	979.60
+ 14		9		 Quinoa baby				1131.39	1131.39
+ 20		1		 Oat flour vegan				920.14	920.14
+ 28		1		 Soap vegan				1610.53	1610.53
+ 47		3		 Beans baby				1109.81	1109.81
+ 49		5		 Amaranth with coconut oil				1568.68	1568.68
+ 63		4		 Dried chiles baby				1372.89	1372.89
+ 83		3		 Soap with dark cocoa				1076.04	1076.04
+ 99		1		 Tofu extra big				1764.07	1764.07
+ 106		4		 Rice ready to eat				945.42	945.42
+ 123		1		 Grams  gmo free				995.25	995.25
+ 148		3		 Cucumber vegan				771.36	771.3
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 5		0		 Peas extra big				1050.26	1050.26
+ 25		0		 Avocado baby				727.53	727.53
+ 38		0		 Tangerine baby				1662.33	1662.33
+ 82		0		 Cucumber extra big				663.84	663.84
+ 85		0		 Avocado with dark cocoa				1347.91	1347.91
+ 86		0		 Peas integral				288.18	288.18
+ 88		0		 Kale with sea salt				1423.60	1423.60
+ 98		0		 Soybeans ready to eat				1204.01	1204.01
+ 101		0		 Almonds gluten free				1179.24	1179.24
+ 143		0		 Quinoa baby				216.24	216.2

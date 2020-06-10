@@ -1,0 +1,37 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:23:49.158
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 14		5		 Chia seed veggie				1750.82	1750.82
+ 25		2		 Tofu integral				1464.56	1464.56
+ 29		1		 Rice vinegar with coconut oil				1885.02	1885.02
+ 32		2		 Lentils gluten free				239.32	239.32
+ 37		2		 Soybeans gmo free				1775.34	1775.34
+ 38		2		 Strawberries integral				1461.98	1461.98
+ 43		1		 Apples baby				949.09	949.09
+ 70		1		 Mango vegan				79.13	79.13
+ 119		1		 Quinoa gluten free				979.62	979.62
+ 131		2		 Integral flour with dark cocoa				842.12	842.12
+ 142		2		 Coffee veggie				691.86	691.86
+ 149		1		 Grams  vegan				911.85	911.8
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 2		0		 Gram flour with sea salt				1577.72	1577.72
+ 5		0		 Sweet potato gmo free				1814.87	1814.87
+ 6		0		 Soup extra big				153.78	153.78
+ 8		0		 Soy sauce with coconut oil				305.89	305.89
+ 50		0		 Splenda veggie				643.36	643.36
+ 56		0		 Mango gluten free				115.75	115.75
+ 57		0		 Almonds gluten free				1516.53	1516.53
+ 63		0		 Lemons ready to eat				1177.30	1177.30
+ 71		0		 Tofu with dark cocoa				62.42	62.42
+ 77		0		 Apples gmo free				523.75	523.75
+ 84		0		 Carrot ready to eat				1434.54	1434.54
+ 89		0		 Integral flour ready to eat				696.12	696.12
+ 90		0		 Cereals gluten free				76.42	76.42
+ 96		0		 Papaya ready to eat				573.01	573.01
+ 106		0		 Splenda with agave syrup				1276.67	1276.67
+ 120		0		 Kale gmo free				1292.86	1292.8

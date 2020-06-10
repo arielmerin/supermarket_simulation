@@ -1,0 +1,40 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:41:39.364
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 8		2		 Kale with coconut oil				921.74	921.74
+ 14		5		 Pear extra big				30.01	30.01
+ 36		5		 Gram flour with sea salt				1063.92	1063.92
+ 52		3		 Integral flour organic				1323.32	1323.32
+ 54		7		 Soy sauce with agave syrup				324.79	324.79
+ 57		1		 Soup with coconut oil				1687.13	1687.13
+ 63		2		 Nuts vegan				1848.76	1848.76
+ 65		1		 Coffee integral				743.67	743.67
+ 83		3		 Ezekiel organic				274.94	274.94
+ 95		1		 Oat flour with sea salt				632.73	632.73
+ 100		2		 Quinoa ready to eat				1253.99	1253.99
+ 116		2		 Wheat flour integral				288.94	288.94
+ 118		4		 Almonds gluten free				991.02	991.02
+ 124		2		 Lemons extra big				1060.00	1060.00
+ 130		1		 Quinoa with sea salt				415.22	415.2
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 3		0		 Soy sauce with coconut oil				893.05	893.05
+ 7		0		 Carrot integral				74.56	74.56
+ 17		0		 Gram flour organic				253.99	253.99
+ 35		0		 Peanut butter organic				1859.20	1859.20
+ 62		0		 Chayotes with sea salt				490.83	490.83
+ 69		0		 Lemons with dark cocoa				1356.59	1356.59
+ 71		0		 Grams  vegan				32.30	32.30
+ 80		0		 Papaya integral				1443.49	1443.49
+ 88		0		 Cereals ready to eat				62.29	62.29
+ 92		0		 Pan gmo free				766.67	766.67
+ 102		0		 Spaghetti with dark cocoa				491.82	491.82
+ 106		0		 Beans ready to eat				12.73	12.73
+ 107		0		 Avocado with sea salt				1418.09	1418.09
+ 113		0		 Almonds with coconut oil				14.32	14.32
+ 125		0		 Broad Beans extra big				121.25	121.25
+ 138		0		 Lemons gluten free				1261.98	1261.9

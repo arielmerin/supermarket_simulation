@@ -1,0 +1,29 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:13:36.791
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 1		1		 Soap vegan				367.83	367.83
+ 3		3		 Rice extra big				1424.46	1424.46
+ 11		2		 Apples gluten free				44.58	44.58
+ 13		1		 Quinoa flour with dark cocoa				926.32	926.32
+ 50		2		 Broad Beans veggie				844.36	844.36
+ 55		2		 Peas veggie				1543.21	1543.21
+ 56		1		 Strawberries vegan				304.41	304.41
+ 61		1		 Pan with agave syrup				1237.39	1237.39
+ 86		2		 Lemons ready to eat				1613.05	1613.05
+ 96		2		 Spaghetti with agave syrup				410.96	410.96
+ 100		5		 Soup with dark cocoa				76.66	76.66
+ 145		1		 Quinoa veggie				912.31	912.31
+ 147		5		 Soy sauce with dark cocoa				1643.41	1643.4
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 27		0		 Mango with agave syrup				247.71	247.71
+ 36		0		 Soy sauce gmo free				253.42	253.42
+ 52		0		 Mango gluten free				560.36	560.36
+ 69		0		 Lemons integral				350.20	350.20
+ 116		0		 Pear vegan				1109.32	1109.32
+ 123		0		 Broad Beans gluten free				923.95	923.95
+ 136		0		 Quinoa flour organic				377.20	377.2

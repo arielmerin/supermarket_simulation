@@ -1,0 +1,35 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:13:56.837
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 2		2		 Beans extra big				1158.79	1158.79
+ 6		4		 Spaghetti extra big				1044.05	1044.05
+ 33		8		 Papaya vegan				1131.69	1131.69
+ 39		5		 Pan veggie				1585.58	1585.58
+ 45		1		 Lentils gmo free				33.80	33.80
+ 50		5		 Pan integral				1262.92	1262.92
+ 82		4		 Amaranth integral				1554.70	1554.70
+ 93		1		 Soy sauce baby				790.17	790.17
+ 95		1		 Peas extra big				387.24	387.24
+ 101		3		 Chayotes baby				489.94	489.94
+ 116		1		 Spaghetti with dark cocoa				117.26	117.26
+ 124		7		 Pumpkins with coconut oil				1454.37	1454.37
+ 126		1		 Cucumber ready to eat				574.98	574.98
+ 141		1		 Pear gluten free				546.25	546.2
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 3		0		 Dried chiles integral				1060.87	1060.87
+ 19		0		 Spaghetti ready to eat				180.06	180.06
+ 36		0		 Kale gmo free				1737.92	1737.92
+ 43		0		 Splenda with sea salt				1486.06	1486.06
+ 44		0		 Integral flour vegan				1477.54	1477.54
+ 53		0		 Papaya veggie				314.52	314.52
+ 87		0		 Pear vegan				812.51	812.51
+ 96		0		 Sweet potato organic				914.56	914.56
+ 103		0		 Mango integral				1184.20	1184.20
+ 105		0		 Carrot gmo free				60.00	60.00
+ 137		0		 Rice extra big				819.81	819.81
+ 143		0		 Quinoa flour gmo free				1833.44	1833.4

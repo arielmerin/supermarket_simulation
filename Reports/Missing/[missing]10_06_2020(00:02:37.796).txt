@@ -1,0 +1,35 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:02:27.594
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 3		1		 Soybeans extra big				1356.91	1356.91
+ 9		1		 Quinoa flour veggie				803.22	803.22
+ 21		1		 Lemons with sea salt				1320.84	1320.84
+ 38		7		 Coffee ready to eat				1537.30	1537.30
+ 41		4		 Papaya with agave syrup				225.72	225.72
+ 48		1		 Cereals vegan				1236.85	1236.85
+ 50		1		 Oat flour veggie				660.72	660.72
+ 52		1		 Pasta integral				575.27	575.27
+ 58		5		 Ezekiel baby				1.06	1.06
+ 61		4		 Tangerine with coconut oil				1500.83	1500.83
+ 98		1		 Soybeans with coconut oil				1267.20	1267.20
+ 99		3		 Soy sauce gluten free				1884.97	1884.97
+ 114		1		 Cereals organic				1522.76	1522.76
+ 116		3		 Grams  extra big				832.25	832.25
+ 119		3		 Wheat flour baby				5.44	5.44
+ 144		1		 Lemons gmo free				96.60	96.6
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 44		0		 Avocado organic				1246.81	1246.81
+ 45		0		 Ezekiel with agave syrup				517.72	517.72
+ 53		0		 Almonds integral				477.92	477.92
+ 56		0		 Spaghetti gluten free				1784.46	1784.46
+ 69		0		 Tangerine extra big				352.28	352.28
+ 86		0		 Amaranth vegan				1117.83	1117.83
+ 89		0		 Beans veggie				1791.36	1791.36
+ 97		0		 Oat flour with coconut oil				130.00	130.00
+ 130		0		 Soy sauce extra big				1361.23	1361.23
+ 131		0		 Mango gluten free				517.08	517.0

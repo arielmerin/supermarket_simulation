@@ -1,0 +1,32 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:23:17.034
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 28		1		 Lemons with dark cocoa				773.10	773.10
+ 41		1		 Spaghetti vegan				1544.64	1544.64
+ 47		2		 Peas veggie				1678.58	1678.58
+ 56		4		 Gram flour organic				191.84	191.84
+ 61		1		 Carrot baby				1328.22	1328.22
+ 73		6		 Integral flour with dark cocoa				1241.62	1241.62
+ 75		2		 Dried chiles organic				304.20	304.20
+ 80		1		 Pan with agave syrup				1336.80	1336.80
+ 86		3		 Almonds baby				1590.25	1590.25
+ 102		2		 Papaya integral				833.84	833.84
+ 113		1		 Cereals extra big				712.28	712.28
+ 138		3		 Carrot gluten free				1616.58	1616.5
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 11		0		 Strawberries extra big				9.36	9.36
+ 30		0		 Lentils with coconut oil				1057.30	1057.30
+ 37		0		 Soy sauce ready to eat				842.72	842.72
+ 68		0		 Chia seed gluten free				1693.52	1693.52
+ 70		0		 Quinoa flour integral				1248.66	1248.66
+ 72		0		 Integral flour vegan				228.93	228.93
+ 74		0		 Dried chiles gluten free				1797.86	1797.86
+ 93		0		 Lentils with agave syrup				1791.69	1791.69
+ 129		0		 Avocado gluten free				1158.34	1158.34
+ 131		0		 Kale veggie				492.69	492.69
+ 133		0		 Ezekiel organic				1441.37	1441.3

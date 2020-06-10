@@ -1,0 +1,38 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:07:11.842
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 5		1		 Sweet potato ready to eat				1348.89	1348.89
+ 21		9		 Cereals with agave syrup				1552.88	1552.88
+ 58		4		 Dried chiles extra big				186.37	186.37
+ 70		1		 Broad Beans vegan				187.93	187.93
+ 78		1		 Tofu gmo free				640.70	640.70
+ 80		2		 Ezekiel extra big				137.60	137.60
+ 83		1		 Carrot with coconut oil				842.76	842.76
+ 87		1		 Grams  veggie				465.90	465.90
+ 95		3		 Lemons veggie				1891.94	1891.94
+ 113		1		 Lentils with agave syrup				68.03	68.03
+ 127		1		 Splenda veggie				857.08	857.08
+ 138		2		 Avocado with agave syrup				1259.76	1259.7
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 7		0		 Rice with agave syrup				1394.79	1394.79
+ 9		0		 Grams  with dark cocoa				1189.76	1189.76
+ 11		0		 Chia seed gluten free				543.87	543.87
+ 13		0		 Mango veggie				1138.12	1138.12
+ 14		0		 Tofu with dark cocoa				1134.43	1134.43
+ 27		0		 Beans with agave syrup				543.09	543.09
+ 28		0		 Lentils with sea salt				321.35	321.35
+ 31		0		 Pear extra big				1485.12	1485.12
+ 36		0		 Tofu vegan				1462.50	1462.50
+ 40		0		 Integral flour vegan				1566.82	1566.82
+ 44		0		 Wheat flour vegan				1577.04	1577.04
+ 54		0		 Soy sauce gluten free				1554.58	1554.58
+ 73		0		 Rice vinegar integral				456.65	456.65
+ 107		0		 Pumpkins veggie				417.54	417.54
+ 115		0		 Beans with coconut oil				122.87	122.87
+ 122		0		 Carrot ready to eat				1651.13	1651.13
+ 144		0		 Gram flour veggie				1282.53	1282.5

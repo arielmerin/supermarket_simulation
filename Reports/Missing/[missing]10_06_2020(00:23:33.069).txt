@@ -1,0 +1,46 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:23:25.066
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 9		1		 Soybeans organic				1829.45	1829.45
+ 19		1		 Soybeans organic				140.51	140.51
+ 20		2		 Dried chiles with agave syrup				106.34	106.34
+ 27		2		 Pumpkins with dark cocoa				1317.70	1317.70
+ 49		2		 Integral flour integral				1545.33	1545.33
+ 50		3		 Mango with agave syrup				1884.69	1884.69
+ 59		4		 Lemons with sea salt				1345.71	1345.71
+ 62		7		 Quinoa flour gluten free				214.13	214.13
+ 74		2		 Almonds with coconut oil				1886.89	1886.89
+ 78		5		 Pan extra big				1543.05	1543.05
+ 92		1		 Papaya organic				1096.10	1096.10
+ 94		1		 Grams  integral				344.96	344.96
+ 95		6		 Sweet potato with dark cocoa				569.79	569.79
+ 105		2		 Quinoa with sea salt				1478.35	1478.35
+ 113		3		 Tangerine extra big				232.81	232.81
+ 128		1		 Amaranth extra big				1003.86	1003.86
+ 138		1		 Oat flour with agave syrup				1574.83	1574.83
+ 146		7		 Papaya organic				702.94	702.9
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 22		0		 Cucumber gmo free				1172.99	1172.99
+ 23		0		 Nuts extra big				668.41	668.41
+ 28		0		 Apples with dark cocoa				824.30	824.30
+ 34		0		 Cereals with dark cocoa				632.29	632.29
+ 39		0		 Quinoa with coconut oil				1633.44	1633.44
+ 40		0		 Chayotes with sea salt				742.67	742.67
+ 43		0		 Carrot with sea salt				1537.58	1537.58
+ 52		0		 Almonds veggie				623.75	623.75
+ 54		0		 Soybeans with agave syrup				1335.90	1335.90
+ 64		0		 Kale gluten free				573.01	573.01
+ 70		0		 Chia seed with dark cocoa				1782.56	1782.56
+ 80		0		 Sweet potato baby				142.75	142.75
+ 98		0		 Gram flour with agave syrup				165.28	165.28
+ 112		0		 Rice vinegar gmo free				821.66	821.66
+ 123		0		 Lemons gmo free				1824.89	1824.89
+ 127		0		 Chayotes with dark cocoa				1652.05	1652.05
+ 129		0		 Avocado veggie				229.98	229.98
+ 132		0		 Tofu organic				241.13	241.13
+ 136		0		 Lemons vegan				1835.62	1835.6

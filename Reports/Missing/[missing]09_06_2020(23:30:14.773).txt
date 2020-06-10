@@ -1,0 +1,32 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:30:04.769
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 2		5		 Soybeans with agave syrup				170.98	170.98
+ 7		4		 Oat flour baby				1436.97	1436.97
+ 21		3		 Sweet potato integral				474.63	474.63
+ 28		1		 Apples vegan				1715.29	1715.29
+ 30		5		 Soy sauce with dark cocoa				788.97	788.97
+ 43		1		 Broad Beans gluten free				1867.14	1867.14
+ 51		2		 Gram flour with sea salt				274.75	274.75
+ 74		1		 Soup with coconut oil				1409.66	1409.66
+ 81		1		 Kale with agave syrup				289.16	289.16
+ 83		8		 Beans gmo free				710.06	710.06
+ 88		7		 Lemons with dark cocoa				442.15	442.15
+ 93		2		 Spaghetti with coconut oil				453.03	453.03
+ 94		6		 Soybeans gmo free				289.83	289.83
+ 100		1		 Tofu extra big				54.50	54.50
+ 116		4		 Dried chiles organic				882.29	882.29
+ 117		2		 Cereals integral				1489.43	1489.43
+ 136		3		 Rice vinegar baby				887.29	887.29
+ 144		1		 Almonds veggie				783.49	783.4
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 16		0		 Almonds with coconut oil				19.52	19.52
+ 19		0		 Spaghetti veggie				1784.92	1784.92
+ 109		0		 Broad Beans baby				498.34	498.34
+ 111		0		 Oat flour veggie				411.85	411.85
+ 147		0		 Coffee extra big				276.57	276.5

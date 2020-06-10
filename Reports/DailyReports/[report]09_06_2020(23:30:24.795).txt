@@ -1,0 +1,80 @@
+:::  SUPERMERCADO  :::
+
+Fecha: 09/06/2020 - 23:30:14.792
+Total de ingresos: $15991397.00
+Fueron atendidos 49 clientes con a lo más 20 artículos
+
+Fueron atendidos 57 clientes con más de 20 artículos
+
+Total de clientes atendidos: 106 
+ 
+Con las siguientes cajas: 
+ LARGE CHECKOUT
+Total sales : $2746536.08
+Attended customers: 8
+
+| LARGE CHECKOUT
+Total sales : $2491723.15
+Attended customers: 8
+
+| LARGE CHECKOUT
+Total sales : $2765218.21
+Attended customers: 8
+
+| LARGE CHECKOUT
+Total sales : $2758384.09
+Attended customers: 8
+
+| LARGE CHECKOUT
+Total sales : $2929978.05
+Attended customers: 8
+
+| LARGE CHECKOUT
+Total sales : $2655961.51
+Attended customers: 8
+
+| LARGE CHECKOUT
+Total sales : $2888081.81
+Attended customers: 9
+
+
+  QUICK CHECKOUT
+Total sales : $1461270.67
+Attended customers: 6
+
+| QUICK CHECKOUT
+Total sales : $1564487.78
+Attended customers: 6
+
+| QUICK CHECKOUT
+Total sales : $1829251.95
+Attended customers: 6
+
+| QUICK CHECKOUT
+Total sales : $1413992.68
+Attended customers: 6
+
+| QUICK CHECKOUT
+Total sales : $1694514.46
+Attended customers: 6
+
+| QUICK CHECKOUT
+Total sales : $1467014.36
+Attended customers: 6
+
+| QUICK CHECKOUT
+Total sales : $1672473.09
+Attended customers: 6
+
+| QUICK CHECKOUT
+Total sales : $1643906.04
+Attended customers: 7
+
+
+
+ La caja que más clientes atendió fue: 
+  LARGE CHECKOUT
+Total sales : $4119804.12
+Attended customers: 8
+
+

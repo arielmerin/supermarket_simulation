@@ -1,0 +1,31 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:04:18.308
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 9		1		 Quinoa ready to eat				773.40	773.40
+ 20		1		 Broad Beans extra big				1890.12	1890.12
+ 42		1		 Cucumber vegan				368.12	368.12
+ 44		5		 Broad Beans extra big				946.69	946.69
+ 71		2		 Broad Beans organic				1071.11	1071.11
+ 79		2		 Splenda gluten free				1097.06	1097.06
+ 88		7		 Quinoa vegan				1840.66	1840.66
+ 100		1		 Pear with sea salt				1482.05	1482.05
+ 127		2		 Integral flour organic				647.58	647.5
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 11		0		 Beans ready to eat				1265.29	1265.29
+ 12		0		 Pasta gmo free				1655.00	1655.00
+ 14		0		 Coffee organic				1069.12	1069.12
+ 36		0		 Soybeans with agave syrup				1700.26	1700.26
+ 51		0		 Rice vinegar integral				1186.42	1186.42
+ 68		0		 Oat flour extra big				1084.82	1084.82
+ 73		0		 Sweet potato with agave syrup				1068.75	1068.75
+ 80		0		 Coffee gluten free				718.64	718.64
+ 93		0		 Rice with sea salt				822.17	822.17
+ 95		0		 Oat with dark cocoa				681.33	681.33
+ 122		0		 Almonds organic				1786.97	1786.97
+ 138		0		 Cereals gmo free				790.06	790.06
+ 147		0		 Cucumber integral				1213.34	1213.3

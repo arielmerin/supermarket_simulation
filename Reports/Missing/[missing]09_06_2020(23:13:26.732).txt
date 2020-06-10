@@ -1,0 +1,29 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:13:16.723
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 14		9		 Ezekiel ready to eat				1653.86	1653.86
+ 39		3		 Avocado gmo free				1047.57	1047.57
+ 45		1		 Broad Beans organic				1665.08	1665.08
+ 53		1		 Mango gluten free				709.22	709.22
+ 86		2		 Tofu vegan				467.56	467.56
+ 146		4		 Amaranth veggie				590.76	590.7
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 9		0		 Mango ready to eat				235.44	235.44
+ 10		0		 Peas organic				1438.03	1438.03
+ 24		0		 Pan with sea salt				848.90	848.90
+ 30		0		 Carrot ready to eat				442.23	442.23
+ 66		0		 Gram flour organic				318.79	318.79
+ 70		0		 Sweet potato with dark cocoa				1786.72	1786.72
+ 79		0		 Pan integral				1093.30	1093.30
+ 85		0		 Rice vinegar with agave syrup				1649.94	1649.94
+ 97		0		 Peanut butter vegan				631.99	631.99
+ 98		0		 Splenda with sea salt				183.56	183.56
+ 114		0		 Nuts with dark cocoa				165.62	165.62
+ 117		0		 Soybeans with dark cocoa				207.64	207.64
+ 140		0		 Tofu with sea salt				937.32	937.32
+ 147		0		 Tangerine ready to eat				421.37	421.3

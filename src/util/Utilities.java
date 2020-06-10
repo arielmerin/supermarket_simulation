@@ -1,6 +1,7 @@
 package util;
 
 import java.io.File;
+import java.io.Serializable;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -11,7 +12,7 @@ import java.util.Scanner;
  * @author Ariel Merino Peña, Armando Aquino Chapa
  * @version 1
  */
-public class Utilities {
+public class Utilities implements Serializable {
     /**
      * Este método sirve para controlar que en las entradas de enteros
      * lo único que se pueda ingresar sean justo sólo valores numéricos y nada de cadenas
@@ -87,7 +88,7 @@ public class Utilities {
         boolean continuar = false;
         do {
             System.out.print(mensaje);
-            cadena = sc.nextLine().replaceAll("[^a-zA-ZÀ-ÿ\u00f1\u00d1 ]", "");
+            cadena = sc.nextLine();
             if (cadena.equals("")){
                 continuar = true;
                 System.out.println(error);

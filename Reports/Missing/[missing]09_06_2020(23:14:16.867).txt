@@ -1,0 +1,25 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:14:06.862
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 9		2		 Strawberries baby				1035.37	1035.37
+ 17		4		 Soap veggie				1694.80	1694.80
+ 37		9		 Chia seed ready to eat				1738.49	1738.49
+ 66		2		 Pan extra big				1732.06	1732.06
+ 73		2		 Peanut butter with agave syrup				830.26	830.26
+ 77		1		 Chia seed baby				834.40	834.40
+ 117		1		 Avocado veggie				592.65	592.65
+ 123		1		 Peanut butter ready to eat				231.85	231.85
+ 141		1		 Peanut butter veggie				1665.75	1665.75
+ 147		1		 Almonds integral				1688.63	1688.6
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 24		0		 Papaya gmo free				320.06	320.06
+ 55		0		 Oat flour gmo free				269.27	269.27
+ 86		0		 Oat integral				822.64	822.64
+ 113		0		 Lemons with sea salt				38.36	38.36
+ 134		0		 Beans extra big				1880.98	1880.98
+ 139		0		 Lentils organic				283.59	283.5

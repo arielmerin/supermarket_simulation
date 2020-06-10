@@ -1,0 +1,424 @@
+:::  SUPERMERCADO  :::
+
+Fecha: 10/06/2020 - 00:17:02.302
+Total de ingresos: $24565290.00
+Fueron atendidos 85 clientes con a lo más 20 artículos
+
+Fueron atendidos 75 clientes con más de 20 artículos
+
+Total de clientes atendidos: 160 
+ 
+Con las siguientes cajas: 
+ LARGE CHECKOUT
+Total sales : $319701.22
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $330425.78
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $776267.58
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $272272.00
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $354796.85
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $858327.80
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $514541.32
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $410945.15
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $400511.60
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $367116.96
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $734474.16
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $851654.84
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $868654.40
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $838971.67
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $613378.26
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $335568.78
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $352608.28
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $369146.72
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $427814.42
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $710026.29
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $695757.48
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $668033.36
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $817423.78
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $641252.46
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $709843.11
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $730021.23
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $660166.31
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $800768.89
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $581112.83
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $664628.84
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $810603.00
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $394156.76
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $345334.70
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $411765.14
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $306685.94
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $340841.78
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $474941.04
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $380015.34
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $320225.04
+Attended customers: 1
+
+| LARGE CHECKOUT
+Total sales : $651493.34
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $725963.94
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $746289.67
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $592530.83
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $613363.57
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $724441.32
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $676375.31
+Attended customers: 2
+
+| LARGE CHECKOUT
+Total sales : $695569.98
+Attended customers: 2
+
+
+  QUICK CHECKOUT
+Total sales : $236510.88
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $374613.09
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $510327.72
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $274588.42
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $247419.14
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $492155.12
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $450714.16
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $275766.84
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $269113.96
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $296058.70
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $495843.84
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $528364.98
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $443956.46
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $520925.04
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $442582.54
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $237436.64
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $173291.66
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $196765.16
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $178255.58
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $423668.00
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $260047.94
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $453882.52
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $415673.64
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $455295.52
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $547500.82
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $569022.65
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $645785.11
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $534389.84
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $416909.24
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $587032.66
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $456739.57
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $183378.36
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $306887.54
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $350323.38
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $339214.28
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $305294.64
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $344387.86
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $211972.84
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $274152.18
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $238632.40
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $228345.26
+Attended customers: 1
+
+| QUICK CHECKOUT
+Total sales : $508455.56
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $586482.45
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $469054.96
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $593760.62
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $589135.26
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $498350.05
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $490265.67
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $523996.20
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $531850.10
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $488756.39
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $544913.51
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $606092.27
+Attended customers: 2
+
+| QUICK CHECKOUT
+Total sales : $619431.82
+Attended customers: 2
+
+
+
+ La caja que más clientes atendió fue: 
+  LARGE CHECKOUT
+Total sales : $479551.83
+Attended customers: 1
+
+

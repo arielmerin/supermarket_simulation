@@ -1,0 +1,42 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:40:26.050
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 3		2		 Sweet potato with sea salt				332.96	332.96
+ 17		7		 Mango baby				1569.44	1569.44
+ 62		9		 Soybeans integral				457.76	457.76
+ 67		4		 Kale extra big				79.85	79.85
+ 69		1		 Soybeans baby				679.67	679.67
+ 81		1		 Soybeans with sea salt				1007.17	1007.17
+ 83		1		 Gram flour organic				1719.28	1719.28
+ 111		8		 Beans with coconut oil				1617.59	1617.59
+ 123		1		 Rice vinegar ready to eat				901.62	901.62
+ 129		5		 Almonds vegan				281.45	281.45
+ 136		1		 Coffee gluten free				468.13	468.13
+ 140		3		 Pasta integral				1781.73	1781.73
+ 145		4		 Integral flour organic				71.29	71.29
+ 149		1		 Pumpkins vegan				238.83	238.8
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 14		0		 Kale veggie				1602.25	1602.25
+ 15		0		 Carrot organic				1017.81	1017.81
+ 32		0		 Strawberries gmo free				968.43	968.43
+ 38		0		 Tangerine with sea salt				450.49	450.49
+ 49		0		 Avocado with sea salt				80.31	80.31
+ 54		0		 Integral flour extra big				1603.17	1603.17
+ 56		0		 Integral flour vegan				71.16	71.16
+ 60		0		 Kale veggie				1735.95	1735.95
+ 70		0		 Carrot gmo free				315.94	315.94
+ 74		0		 Tofu baby				938.84	938.84
+ 79		0		 Peanut butter with agave syrup				910.72	910.72
+ 89		0		 Rice extra big				625.98	625.98
+ 100		0		 Soap with agave syrup				598.59	598.59
+ 117		0		 Oat gmo free				79.90	79.90
+ 119		0		 Coffee gluten free				580.44	580.44
+ 132		0		 Coffee baby				976.35	976.35
+ 139		0		 Peanut butter gmo free				122.49	122.49
+ 141		0		 Grams  with coconut oil				511.77	511.77
+ 148		0		 Rice vinegar integral				25.10	25.1

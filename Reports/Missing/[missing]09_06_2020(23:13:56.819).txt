@@ -1,0 +1,30 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:13:46.816
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 9		7		 Integral flour with coconut oil				1113.28	1113.28
+ 14		1		 Soybeans gluten free				458.06	458.06
+ 18		3		 Splenda with sea salt				747.84	747.84
+ 35		1		 Chia seed with coconut oil				1668.44	1668.44
+ 36		1		 Peas organic				862.43	862.43
+ 48		7		 Soup veggie				1245.07	1245.07
+ 63		1		 Nuts integral				31.22	31.22
+ 68		1		 Dried chiles with sea salt				537.46	537.46
+ 138		1		 Papaya organic				254.19	254.19
+ 139		1		 Integral flour gmo free				1652.15	1652.1
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 10		0		 Pan integral				301.09	301.09
+ 34		0		 Papaya with coconut oil				805.06	805.06
+ 75		0		 Papaya gluten free				1650.45	1650.45
+ 83		0		 Broad Beans integral				1604.33	1604.33
+ 92		0		 Dried chiles extra big				1133.95	1133.95
+ 100		0		 Kale with sea salt				1399.84	1399.84
+ 102		0		 Apples baby				1724.50	1724.50
+ 105		0		 Avocado ready to eat				982.95	982.95
+ 109		0		 Integral flour baby				1586.90	1586.90
+ 112		0		 Rice gmo free				346.68	346.68
+ 135		0		 Beans baby				1263.87	1263.8

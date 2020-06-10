@@ -5,6 +5,8 @@ import market.admin.Customer;
 import serializer.Serializer;
 import util.Lista;
 import util.generator.ItemBuilder;
+
+import java.io.Serializable;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Timer;
@@ -16,7 +18,7 @@ import java.util.TimerTask;
  * @author Armando Aquino and Ariel Merino
  * @version 1.0
  */
-public class Simulation {
+public class Simulation implements Serializable {
 
     /**
      *
@@ -57,7 +59,7 @@ public class Simulation {
      * <h2>Entrada Cliente</h2>
      *
      */
-    private class enterClient extends TimerTask{
+    private class enterClient extends TimerTask implements Serializable{
 
         /**
          * el cliente que será ingresado en la tarea
@@ -78,7 +80,7 @@ public class Simulation {
         public void completarAtencion(){
             try {
                 long espera = customerEntrando.getWaitingTime();
-                Thread.sleep(espera);
+                Thread.sleep(espera % 4);
             }catch (InterruptedException e){
                 e.printStackTrace();
             }
@@ -133,9 +135,9 @@ public class Simulation {
         loadProductsList("");
         Timer timer = new Timer(true);
         TimerTask entradaClientes = new enterClient();
-        timer.schedule(entradaClientes, 0, 200);
+        timer.schedule(entradaClientes, 0, 50);
         try {
-            Thread.sleep(24000);
+            Thread.sleep(8000);
         }catch (InterruptedException e){
             e.printStackTrace();
         }
@@ -171,8 +173,25 @@ public class Simulation {
      * @return
      */
     public String writeLine() {
-        String caden = String.format("%.2f\t%d\t%d\t%d\n", averagingTime(), quickCheckouts, largeCheckout, customers.longitud());
+        int[] cli = attendedClientsByItems();
+        String caden = String.format("%.2f\t%d\t%d\t%d\t%d\n", averagingTime(), quickCheckouts, cli[0], cli[1],cli[0] + cli[1] );
         return caden;
+    }
+
+    public int[] attendedClientsByItems(){
+        int[] results = new int[2];
+        int largeCustomer = 0;
+        int fastClients = 0;
+        for (Customer attendedCustomer: costco.getTickets()){
+            if (attendedCustomer.getItems() > 20){
+                largeCustomer++;
+            }else {
+                fastClients++;
+            }
+        }
+        results[0] = fastClients;
+        results[1] = largeCustomer;
+        return results;
     }
 
     /**

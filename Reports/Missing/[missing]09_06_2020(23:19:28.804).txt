@@ -1,0 +1,29 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:19:18.800
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 11		5		 Kale extra big				59.27	59.27
+ 12		7		 Pear gmo free				1560.70	1560.70
+ 15		1		 Amaranth ready to eat				729.07	729.07
+ 27		7		 Peas with agave syrup				1079.27	1079.27
+ 53		2		 Apples vegan				191.98	191.98
+ 56		8		 Coffee extra big				1030.54	1030.54
+ 58		3		 Coffee baby				1343.01	1343.01
+ 60		3		 Soap vegan				1603.84	1603.84
+ 96		4		 Wheat flour gluten free				1263.58	1263.58
+ 119		3		 Soap integral				1887.13	1887.13
+ 135		2		 Quinoa flour with sea salt				386.36	386.36
+ 141		4		 Lentils gmo free				245.43	245.43
+ 144		3		 Mango vegan				1376.34	1376.3
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 20		0		 Papaya with coconut oil				1400.09	1400.09
+ 50		0		 Soap baby				1375.75	1375.75
+ 71		0		 Pumpkins with dark cocoa				140.36	140.36
+ 74		0		 Apples with dark cocoa				738.38	738.38
+ 78		0		 Soap extra big				160.32	160.32
+ 83		0		 Amaranth with sea salt				1639.59	1639.59
+ 92		0		 Broad Beans integral				800.48	800.4

@@ -1,0 +1,30 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:18:08.576
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 15		3		 Chayotes gmo free				1535.18	1535.18
+ 26		9		 Sweet potato with agave syrup				1754.87	1754.87
+ 41		5		 Soup with agave syrup				919.19	919.19
+ 45		2		 Cereals ready to eat				1215.70	1215.70
+ 53		7		 Rice vinegar baby				174.96	174.96
+ 63		5		 Soap gluten free				1448.48	1448.48
+ 65		4		 Pan extra big				1012.03	1012.03
+ 68		3		 Peanut butter with dark cocoa				618.19	618.19
+ 87		2		 Rice with agave syrup				910.80	910.80
+ 100		3		 Oat flour with coconut oil				1305.00	1305.00
+ 113		9		 Quinoa gluten free				1404.01	1404.01
+ 140		3		 Tofu integral				1717.29	1717.2
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 4		0		 Pasta gluten free				137.18	137.18
+ 34		0		 Dried chiles baby				1456.11	1456.11
+ 39		0		 Dried chiles extra big				478.11	478.11
+ 50		0		 Integral flour with dark cocoa				33.44	33.44
+ 79		0		 Quinoa with sea salt				977.01	977.01
+ 89		0		 Ezekiel vegan				1141.54	1141.54
+ 98		0		 Kale gluten free				1745.23	1745.23
+ 126		0		 Coffee organic				994.53	994.53
+ 130		0		 Carrot with agave syrup				1432.18	1432.1

@@ -1,7 +1,4 @@
 import UImenu.Menu;
-import sim.Simulation;
-import serializer.Serializer;
-import util.Lista;
 
 /**
  * <h1>Main</h1>

@@ -1,0 +1,26 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 23:14:46.966
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 15		1		 Amaranth with agave syrup				183.11	183.11
+ 34		6		 Cereals with sea salt				1682.64	1682.64
+ 35		4		 Peanut butter veggie				292.08	292.08
+ 56		3		 Integral flour organic				1771.75	1771.75
+ 58		1		 Beans vegan				1580.64	1580.64
+ 68		1		 Oat flour vegan				303.79	303.79
+ 87		1		 Cucumber with sea salt				455.43	455.43
+ 102		7		 Wheat flour extra big				1501.91	1501.91
+ 111		3		 Soap baby				1237.05	1237.05
+ 114		2		 Gram flour with agave syrup				1768.50	1768.5
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 8		0		 Sweet potato with sea salt				478.67	478.67
+ 17		0		 Pan baby				622.39	622.39
+ 43		0		 Peas veggie				1656.64	1656.64
+ 44		0		 Pumpkins extra big				1789.90	1789.90
+ 76		0		 Quinoa flour extra big				623.22	623.22
+ 126		0		 Broad Beans with dark cocoa				1281.37	1281.37
+ 146		0		 Sweet potato gluten free				1046.93	1046.9

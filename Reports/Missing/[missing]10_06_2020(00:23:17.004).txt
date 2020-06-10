@@ -1,0 +1,38 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 10/06/2020 - 00:23:09.000
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 8		3		 Pasta with dark cocoa				214.20	214.20
+ 19		5		 Coffee integral				608.99	608.99
+ 58		1		 Lentils with coconut oil				1324.38	1324.38
+ 62		1		 Lemons gmo free				1443.76	1443.76
+ 68		1		 Soap gluten free				1244.93	1244.93
+ 81		2		 Nuts extra big				527.80	527.80
+ 83		1		 Strawberries baby				295.34	295.34
+ 94		2		 Mango vegan				1126.87	1126.87
+ 99		1		 Carrot baby				1278.38	1278.38
+ 108		2		 Chia seed gmo free				445.50	445.50
+ 111		1		 Cucumber with coconut oil				1451.05	1451.05
+ 117		1		 Oat flour with sea salt				338.22	338.22
+ 133		1		 Sweet potato with dark cocoa				394.57	394.5
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 3		0		 Spaghetti baby				148.33	148.33
+ 10		0		 Splenda with coconut oil				1047.25	1047.25
+ 12		0		 Pan with agave syrup				757.06	757.06
+ 14		0		 Papaya veggie				1697.38	1697.38
+ 24		0		 Rice vinegar ready to eat				571.05	571.05
+ 40		0		 Oat flour with agave syrup				814.67	814.67
+ 43		0		 Quinoa flour extra big				112.55	112.55
+ 44		0		 Spaghetti organic				1552.66	1552.66
+ 47		0		 Avocado organic				172.15	172.15
+ 48		0		 Dried chiles integral				575.68	575.68
+ 61		0		 Wheat flour with sea salt				783.40	783.40
+ 78		0		 Almonds with coconut oil				1781.10	1781.10
+ 105		0		 Tangerine ready to eat				1827.16	1827.16
+ 120		0		 Pear ready to eat				235.75	235.75
+ 129		0		 Pear gluten free				947.71	947.71
+ 135		0		 Amaranth gluten free				1032.79	1032.7

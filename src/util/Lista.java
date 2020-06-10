@@ -1,6 +1,7 @@
 
 package util;
 
+import java.io.Serializable;
 import java.util.Iterator;
 
 /**
@@ -10,7 +11,7 @@ import java.util.Iterator;
  * @author Kevin Ariel Merino Peña 317031326
  * @version 1.0
  */
-public class Lista<T> implements Listable<T>, Iterable<T>{
+public class Lista<T> implements Listable<T>, Iterable<T>, Serializable {
 
     /**
      * Clase interna para construir la estructura
