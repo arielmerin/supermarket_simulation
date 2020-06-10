@@ -1,0 +1,44 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 01:08:51.518
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		2		 Coffee with coconut oil				93.48	93.48
+ 31		4		 Chayotes gmo free				426.98	426.98
+ 37		2		 Chia seed with agave syrup				211.76	211.76
+ 38		2		 Mango with sea salt				215.98	215.98
+ 39		2		 Chia seed gluten free				1440.77	1440.77
+ 57		1		 Beans veggie				23.16	23.16
+ 64		2		 Rice vinegar ready to eat				1837.08	1837.08
+ 75		2		 Wheat flour veggie				341.31	341.31
+ 79		8		 Kale with agave syrup				597.86	597.86
+ 81		1		 Chayotes with coconut oil				1693.27	1693.27
+ 90		2		 Dried chiles with coconut oil				317.11	317.11
+ 98		2		 Quinoa gmo free				690.05	690.05
+ 105		5		 Integral flour extra big				1276.93	1276.93
+ 110		6		 Kale with agave syrup				792.47	792.47
+ 111		1		 Soap integral				1188.69	1188.69
+ 113		2		 Beans with dark cocoa				1388.20	1388.20
+ 148		2		 Strawberries with sea salt				878.03	878.0
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		0		 Rice organic				637.09	637.09
+ 3		0		 Grams  ready to eat				1503.22	1503.22
+ 4		0		 Spaghetti with dark cocoa				686.66	686.66
+ 13		0		 Avocado vegan				508.82	508.82
+ 26		0		 Nuts gluten free				948.17	948.17
+ 47		0		 Peanut butter ready to eat				283.85	283.85
+ 56		0		 Rice ready to eat				409.45	409.45
+ 65		0		 Tofu with agave syrup				1488.36	1488.36
+ 69		0		 Peanut butter gluten free				1378.28	1378.28
+ 86		0		 Splenda gluten free				1899.72	1899.72
+ 89		0		 Avocado with sea salt				458.19	458.19
+ 94		0		 Oat vegan				511.01	511.01
+ 101		0		 Sweet potato baby				1060.36	1060.36
+ 109		0		 Lemons veggie				1233.87	1233.87
+ 121		0		 Broad Beans with agave syrup				1450.43	1450.43
+ 132		0		 Gram flour vegan				976.62	976.62
+ 133		0		 Cucumber integral				585.75	585.75
+ 142		0		 Gram flour with coconut oil				606.38	606.3

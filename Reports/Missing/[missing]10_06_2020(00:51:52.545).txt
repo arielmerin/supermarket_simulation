@@ -1,0 +1,47 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 00:51:44.538
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		3		 Nuts extra big				1509.29	1509.29
+ 18		1		 Mango organic				1049.11	1049.11
+ 20		4		 Rice vegan				1587.37	1587.37
+ 21		1		 Soybeans with dark cocoa				1875.01	1875.01
+ 22		1		 Wheat flour gmo free				1831.06	1831.06
+ 32		1		 Soy sauce gmo free				94.48	94.48
+ 57		1		 Soup vegan				1023.00	1023.00
+ 96		4		 Integral flour veggie				1846.07	1846.07
+ 132		4		 Soybeans integral				1413.29	1413.29
+ 133		2		 Lemons baby				356.88	356.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 7		0		 Quinoa flour gmo free				601.16	601.16
+ 8		0		 Chayotes organic				1644.02	1644.02
+ 10		0		 Quinoa flour baby				1345.29	1345.29
+ 12		0		 Lemons integral				1316.76	1316.76
+ 15		0		 Grams  ready to eat				11.95	11.95
+ 17		0		 Sweet potato veggie				12.00	12.00
+ 33		0		 Quinoa gluten free				1485.23	1485.23
+ 44		0		 Lemons with sea salt				1820.19	1820.19
+ 46		0		 Apples with agave syrup				1428.87	1428.87
+ 52		0		 Rice ready to eat				1694.20	1694.20
+ 53		0		 Pasta baby				905.58	905.58
+ 58		0		 Almonds with coconut oil				835.01	835.01
+ 71		0		 Rice vinegar with sea salt				1522.50	1522.50
+ 72		0		 Peas with agave syrup				903.00	903.00
+ 77		0		 Tofu with dark cocoa				1171.08	1171.08
+ 78		0		 Spaghetti vegan				1672.93	1672.93
+ 79		0		 Pear baby				131.64	131.64
+ 81		0		 Oat flour integral				71.21	71.21
+ 82		0		 Strawberries integral				1191.46	1191.46
+ 85		0		 Nuts gluten free				410.36	410.36
+ 91		0		 Splenda with sea salt				1806.17	1806.17
+ 92		0		 Integral flour ready to eat				1841.17	1841.17
+ 113		0		 Pan integral				1686.12	1686.12
+ 134		0		 Splenda gmo free				1304.56	1304.56
+ 138		0		 Ezekiel baby				1718.88	1718.88
+ 142		0		 Chia seed veggie				1854.58	1854.58
+ 148		0		 Oat gluten free				1277.23	1277.23
+ 149		0		 Rice vinegar with agave syrup				920.87	920.8

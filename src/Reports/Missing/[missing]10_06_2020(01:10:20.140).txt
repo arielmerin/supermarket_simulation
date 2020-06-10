@@ -1,0 +1,31 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 01:10:12.135
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 10		4		 Cucumber extra big				679.29	679.29
+ 13		7		 Almonds with coconut oil				494.12	494.12
+ 36		1		 Soy sauce gmo free				1237.84	1237.84
+ 63		3		 Splenda gmo free				10.36	10.36
+ 92		5		 Mango extra big				1022.80	1022.80
+ 99		2		 Papaya vegan				68.26	68.26
+ 102		4		 Soup gluten free				1792.81	1792.81
+ 109		2		 Cucumber organic				1345.40	1345.40
+ 113		4		 Chayotes baby				985.88	985.88
+ 120		2		 Avocado integral				91.86	91.86
+ 121		1		 Pear with coconut oil				788.87	788.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		0		 Dried chiles with dark cocoa				1470.13	1470.13
+ 23		0		 Rice vinegar with dark cocoa				1355.27	1355.27
+ 32		0		 Dried chiles ready to eat				443.37	443.37
+ 61		0		 Broad Beans integral				205.57	205.57
+ 83		0		 Papaya organic				663.70	663.70
+ 89		0		 Soap gmo free				1665.07	1665.07
+ 96		0		 Tangerine gluten free				1109.18	1109.18
+ 103		0		 Gram flour baby				180.61	180.61
+ 105		0		 Chia seed gmo free				1171.56	1171.56
+ 111		0		 Soy sauce organic				135.61	135.61
+ 143		0		 Oat flour with dark cocoa				244.80	244.8

@@ -1,0 +1,34 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 01:01:11.051
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 40		1		 Almonds baby				1430.37	1430.37
+ 57		7		 Coffee integral				1148.70	1148.70
+ 66		4		 Soap gluten free				1.74	1.74
+ 87		3		 Peanut butter with agave syrup				1237.80	1237.80
+ 90		1		 Cucumber with agave syrup				1434.68	1434.68
+ 118		2		 Nuts baby				1744.82	1744.82
+ 120		5		 Cereals gluten free				1392.09	1392.0
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 22		0		 Lentils integral				858.97	858.97
+ 27		0		 Avocado gmo free				1273.82	1273.82
+ 34		0		 Broad Beans ready to eat				666.94	666.94
+ 44		0		 Grams  with agave syrup				254.04	254.04
+ 53		0		 Grams  veggie				638.53	638.53
+ 55		0		 Cereals with agave syrup				979.82	979.82
+ 62		0		 Sweet potato gmo free				1343.70	1343.70
+ 79		0		 Soy sauce integral				1526.56	1526.56
+ 93		0		 Oat flour vegan				767.89	767.89
+ 110		0		 Cucumber with sea salt				297.53	297.53
+ 116		0		 Grams  ready to eat				1362.84	1362.84
+ 117		0		 Soy sauce gluten free				1172.01	1172.01
+ 127		0		 Papaya ready to eat				253.16	253.16
+ 129		0		 Strawberries with coconut oil				671.87	671.87
+ 130		0		 Splenda organic				1234.89	1234.89
+ 138		0		 Grams  with sea salt				1216.90	1216.90
+ 143		0		 Grams  integral				941.62	941.62
+ 145		0		 Tangerine with dark cocoa				256.34	256.3

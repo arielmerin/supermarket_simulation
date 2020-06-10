@@ -1,0 +1,44 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 01:09:48.044
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 40		6		 Peanut butter with dark cocoa				108.15	108.15
+ 42		5		 Tangerine with agave syrup				116.00	116.00
+ 54		1		 Integral flour veggie				1497.93	1497.93
+ 63		1		 Spaghetti with sea salt				156.09	156.09
+ 75		1		 Rice with coconut oil				1299.86	1299.86
+ 78		2		 Pan veggie				1175.34	1175.34
+ 87		2		 Broad Beans with coconut oil				813.40	813.40
+ 106		5		 Strawberries baby				732.37	732.37
+ 112		1		 Integral flour extra big				1157.69	1157.69
+ 116		1		 Soybeans gmo free				1690.34	1690.34
+ 117		1		 Sweet potato gluten free				932.64	932.64
+ 119		1		 Nuts gluten free				197.90	197.90
+ 141		3		 Rice with coconut oil				428.00	428.00
+ 142		1		 Tofu baby				641.83	641.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		0		 Grams  gluten free				362.62	362.62
+ 8		0		 Almonds extra big				478.83	478.83
+ 23		0		 Quinoa flour vegan				602.50	602.50
+ 25		0		 Carrot organic				1139.51	1139.51
+ 33		0		 Peanut butter with sea salt				638.56	638.56
+ 39		0		 Nuts with agave syrup				1859.19	1859.19
+ 47		0		 Dried chiles organic				1051.49	1051.49
+ 57		0		 Ezekiel with dark cocoa				1646.23	1646.23
+ 62		0		 Gram flour organic				1069.30	1069.30
+ 67		0		 Chia seed with dark cocoa				1847.95	1847.95
+ 69		0		 Wheat flour integral				804.17	804.17
+ 74		0		 Grams  with dark cocoa				654.12	654.12
+ 85		0		 Quinoa with coconut oil				471.85	471.85
+ 86		0		 Oat organic				863.03	863.03
+ 94		0		 Avocado integral				1386.58	1386.58
+ 97		0		 Oat vegan				299.25	299.25
+ 105		0		 Cucumber gluten free				1822.16	1822.16
+ 138		0		 Oat flour veggie				1306.84	1306.84
+ 140		0		 Chayotes organic				1376.25	1376.25
+ 144		0		 Pear vegan				1050.49	1050.49
+ 145		0		 Soup organic				758.25	758.2

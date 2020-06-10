@@ -1,0 +1,41 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 00:52:48.806
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 13		1		 Spaghetti ready to eat				1463.03	1463.03
+ 16		2		 Rice vinegar gmo free				1680.70	1680.70
+ 30		2		 Ezekiel with dark cocoa				1572.90	1572.90
+ 49		1		 Pan organic				1745.19	1745.19
+ 55		7		 Mango integral				261.21	261.21
+ 58		2		 Pumpkins vegan				309.70	309.70
+ 81		1		 Gram flour with sea salt				1229.05	1229.05
+ 93		1		 Chayotes extra big				1591.72	1591.72
+ 97		1		 Papaya with agave syrup				1664.46	1664.46
+ 102		2		 Peanut butter integral				1121.56	1121.56
+ 114		3		 Oat with agave syrup				220.93	220.93
+ 118		2		 Splenda with coconut oil				1657.04	1657.04
+ 119		1		 Soy sauce extra big				578.68	578.68
+ 130		4		 Tofu with dark cocoa				1783.59	1783.5
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		0		 Pear baby				855.27	855.27
+ 11		0		 Chia seed gmo free				1711.19	1711.19
+ 35		0		 Soap ready to eat				114.85	114.85
+ 37		0		 Amaranth vegan				1472.51	1472.51
+ 39		0		 Coffee extra big				1783.43	1783.43
+ 40		0		 Gram flour extra big				647.92	647.92
+ 65		0		 Pasta with coconut oil				1131.77	1131.77
+ 66		0		 Tofu gmo free				667.97	667.97
+ 80		0		 Pasta gluten free				265.87	265.87
+ 87		0		 Carrot veggie				1652.75	1652.75
+ 105		0		 Pasta with agave syrup				1120.63	1120.63
+ 117		0		 Grams  gluten free				1611.53	1611.53
+ 121		0		 Carrot with sea salt				1048.05	1048.05
+ 123		0		 Lemons veggie				1573.35	1573.35
+ 131		0		 Wheat flour with sea salt				677.24	677.24
+ 141		0		 Integral flour vegan				858.18	858.18
+ 148		0		 Coffee ready to eat				799.90	799.90
+ 149		0		 Oat flour with coconut oil				1485.26	1485.2

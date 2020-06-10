@@ -1,0 +1,37 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 01:00:38.916
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 9		7		 Amaranth integral				922.69	922.69
+ 14		1		 Mango veggie				1738.05	1738.05
+ 26		2		 Tofu organic				172.52	172.52
+ 29		3		 Oat flour gmo free				1607.90	1607.90
+ 35		1		 Tangerine with sea salt				709.83	709.83
+ 39		4		 Apples with sea salt				1576.09	1576.09
+ 43		1		 Oat flour gmo free				544.80	544.80
+ 50		2		 Avocado with sea salt				793.01	793.01
+ 51		6		 Rice vinegar vegan				64.44	64.44
+ 73		2		 Dried chiles ready to eat				463.05	463.05
+ 99		7		 Carrot integral				1354.33	1354.33
+ 105		1		 Pasta veggie				391.82	391.82
+ 113		4		 Cereals baby				1167.77	1167.77
+ 119		2		 Cereals ready to eat				913.06	913.06
+ 126		2		 Soybeans with agave syrup				421.14	421.14
+ 132		1		 Tangerine with coconut oil				1316.93	1316.93
+ 133		6		 Coffee vegan				160.19	160.1
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 13		0		 Coffee with dark cocoa				1732.86	1732.86
+ 16		0		 Mango veggie				63.95	63.95
+ 21		0		 Broad Beans gluten free				1526.72	1526.72
+ 60		0		 Integral flour integral				1705.37	1705.37
+ 64		0		 Integral flour organic				955.19	955.19
+ 67		0		 Sweet potato baby				697.77	697.77
+ 71		0		 Tangerine vegan				296.67	296.67
+ 77		0		 Integral flour ready to eat				1257.94	1257.94
+ 87		0		 Wheat flour baby				702.53	702.53
+ 138		0		 Oat flour gluten free				131.30	131.30
+ 147		0		 Oat flour with sea salt				1623.31	1623.3

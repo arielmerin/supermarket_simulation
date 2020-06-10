@@ -1,0 +1,31 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 01:09:23.941
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 14		7		 Nuts with sea salt				467.00	467.00
+ 17		1		 Beans veggie				1162.52	1162.52
+ 28		3		 Broad Beans with sea salt				1766.43	1766.43
+ 38		1		 Oat ready to eat				1341.19	1341.19
+ 76		9		 Kale with dark cocoa				1207.75	1207.75
+ 94		1		 Almonds vegan				1708.46	1708.46
+ 127		1		 Pasta integral				822.17	822.17
+ 133		1		 Gram flour organic				1850.18	1850.1
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 3		0		 Soap organic				1189.87	1189.87
+ 26		0		 Pear integral				813.89	813.89
+ 40		0		 Quinoa organic				531.78	531.78
+ 41		0		 Oat organic				569.75	569.75
+ 49		0		 Soybeans gluten free				96.92	96.92
+ 53		0		 Avocado gluten free				1297.27	1297.27
+ 57		0		 Tangerine organic				1005.09	1005.09
+ 75		0		 Cucumber veggie				97.47	97.47
+ 85		0		 Chayotes organic				1122.62	1122.62
+ 91		0		 Pan integral				216.22	216.22
+ 96		0		 Cucumber with sea salt				1795.66	1795.66
+ 97		0		 Soy sauce organic				731.89	731.89
+ 104		0		 Strawberries with agave syrup				1599.72	1599.72
+ 113		0		 Soy sauce veggie				1823.57	1823.5

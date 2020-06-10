@@ -1,0 +1,34 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 00:51:52.581
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 8		1		 Wheat flour with sea salt				1620.22	1620.22
+ 26		3		 Coffee ready to eat				721.91	721.91
+ 34		1		 Sweet potato gmo free				451.42	451.42
+ 54		2		 Integral flour with sea salt				738.61	738.61
+ 61		1		 Tangerine ready to eat				173.09	173.09
+ 68		1		 Sweet potato organic				288.67	288.67
+ 70		1		 Nuts with dark cocoa				92.86	92.86
+ 86		1		 Beans ready to eat				770.78	770.78
+ 95		6		 Quinoa flour ready to eat				1148.68	1148.68
+ 112		6		 Rice vinegar baby				53.42	53.42
+ 115		2		 Spaghetti with dark cocoa				204.32	204.32
+ 116		3		 Kale vegan				685.13	685.13
+ 122		3		 Oat flour with dark cocoa				730.17	730.17
+ 123		3		 Gram flour extra big				1822.63	1822.63
+ 134		4		 Papaya extra big				522.17	522.17
+ 136		6		 Sweet potato ready to eat				1543.04	1543.0
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 25		0		 Soy sauce integral				1401.78	1401.78
+ 33		0		 Lemons with coconut oil				525.03	525.03
+ 71		0		 Almonds vegan				1544.40	1544.40
+ 85		0		 Avocado gmo free				1174.26	1174.26
+ 104		0		 Splenda with coconut oil				884.00	884.00
+ 110		0		 Quinoa flour baby				1728.10	1728.10
+ 119		0		 Apples veggie				546.00	546.00
+ 125		0		 Gram flour vegan				94.44	94.44
+ 127		0		 Grams  gmo free				479.08	479.0

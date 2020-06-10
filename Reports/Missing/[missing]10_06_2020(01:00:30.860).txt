@@ -1,0 +1,45 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 01:00:22.856
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		5		 Beans with coconut oil				150.48	150.48
+ 12		1		 Peanut butter baby				1687.48	1687.48
+ 27		1		 Almonds with agave syrup				873.88	873.88
+ 31		1		 Strawberries with sea salt				76.51	76.51
+ 34		1		 Pasta extra big				1493.67	1493.67
+ 58		2		 Splenda with sea salt				1724.14	1724.14
+ 63		1		 Peanut butter integral				912.27	912.27
+ 70		1		 Chia seed with dark cocoa				1841.28	1841.28
+ 73		3		 Papaya veggie				971.40	971.40
+ 75		7		 Splenda baby				105.79	105.79
+ 79		1		 Tangerine extra big				1640.31	1640.31
+ 101		3		 Gram flour integral				816.59	816.59
+ 111		1		 Lemons with coconut oil				134.06	134.06
+ 114		7		 Almonds integral				1203.59	1203.59
+ 119		2		 Kale baby				1043.73	1043.73
+ 127		6		 Sweet potato extra big				1344.91	1344.9
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 15		0		 Mango with coconut oil				1658.17	1658.17
+ 22		0		 Pan gluten free				1261.45	1261.45
+ 23		0		 Tofu integral				1120.90	1120.90
+ 25		0		 Splenda organic				50.57	50.57
+ 56		0		 Pasta extra big				940.54	940.54
+ 66		0		 Grams  baby				1135.93	1135.93
+ 71		0		 Soy sauce baby				1220.22	1220.22
+ 74		0		 Gram flour with sea salt				1607.21	1607.21
+ 76		0		 Oat organic				133.14	133.14
+ 77		0		 Apples gmo free				1216.35	1216.35
+ 82		0		 Spaghetti with coconut oil				623.18	623.18
+ 89		0		 Mango vegan				1771.73	1771.73
+ 93		0		 Almonds baby				171.23	171.23
+ 115		0		 Beans vegan				1040.60	1040.60
+ 118		0		 Mango organic				1516.49	1516.49
+ 123		0		 Mango with agave syrup				1496.45	1496.45
+ 130		0		 Integral flour with dark cocoa				1378.19	1378.19
+ 132		0		 Lentils organic				657.75	657.75
+ 136		0		 Amaranth baby				499.57	499.57
+ 140		0		 Chia seed gluten free				1560.49	1560.4

@@ -1,0 +1,41 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 01:00:46.948
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		1		 Rice vinegar gluten free				183.03	183.03
+ 5		1		 Peas with coconut oil				1756.45	1756.45
+ 7		9		 Almonds gmo free				295.20	295.20
+ 20		4		 Soy sauce baby				1863.85	1863.85
+ 34		2		 Gram flour organic				350.57	350.57
+ 37		1		 Tangerine with agave syrup				301.80	301.80
+ 39		1		 Quinoa flour integral				855.86	855.86
+ 55		8		 Grams  veggie				814.93	814.93
+ 58		1		 Almonds veggie				1294.44	1294.44
+ 67		1		 Rice vinegar baby				822.64	822.64
+ 78		3		 Tangerine with sea salt				806.36	806.36
+ 79		2		 Tangerine with dark cocoa				669.72	669.72
+ 100		1		 Nuts gmo free				601.50	601.50
+ 136		9		 Oat flour with sea salt				276.60	276.60
+ 149		2		 Tangerine with dark cocoa				1314.67	1314.6
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 3		0		 Nuts veggie				1089.43	1089.43
+ 11		0		 Tangerine with dark cocoa				758.21	758.21
+ 13		0		 Amaranth baby				1769.43	1769.43
+ 21		0		 Soup gmo free				89.00	89.00
+ 42		0		 Quinoa flour organic				1326.77	1326.77
+ 53		0		 Lentils veggie				672.64	672.64
+ 64		0		 Ezekiel vegan				69.07	69.07
+ 99		0		 Soup gluten free				904.01	904.01
+ 101		0		 Oat flour vegan				1343.02	1343.02
+ 116		0		 Soybeans extra big				674.15	674.15
+ 126		0		 Lemons with sea salt				1576.36	1576.36
+ 130		0		 Mango with sea salt				927.67	927.67
+ 131		0		 Pasta with dark cocoa				836.57	836.57
+ 134		0		 Pan with agave syrup				510.57	510.57
+ 141		0		 Sweet potato integral				1504.35	1504.35
+ 146		0		 Kale veggie				1651.40	1651.40
+ 148		0		 Quinoa flour with coconut oil				1713.04	1713.0

@@ -232,13 +232,13 @@ public class SuperMarket  implements Serializable {
      * @return
      */
     public String reportMissingExistences(){
-        return "   :::    REPORTE DE POCAS EXISTENCIAS   :::\n    Fecha: " + formatter.format(date) +
+        return "   :::    CRITICAL EXISTENCES DAILY REPORT  :::\n    DATE: " + formatter.format(date) +
                 "\n\n" +
-                " ----------------- QUEDAN POCOS ------------------" +
-                "\n   ID    Cantidad         Nombre         Precio \n" +
+                " ----------------- LIMITED EXISTENCES ------------------" +
+                "\n   ITEM    QUANTITY         DESCRIPTION         PRICE \n" +
                 mainWarehouse.limitedStocks() +
-                "\n\n\n ---------------- FALTAN ----------------------" +
-                "\n   ID    Cantidad         Nombre         Precio \n" +
+                "\n\n\n ---------------- MISSING PRODUCTS ----------------------" +
+                "\n   ITEM    QUANTITY         DESCRIPTION         PRICE \n" +
                 mainWarehouse.missingStock();
     }
 
@@ -251,11 +251,11 @@ public class SuperMarket  implements Serializable {
         }
         Checkout masVendioNormal = cajasOrdenadas.getElemento( cajasOrdenadas.longitud() > 1? cajasOrdenadas.longitud()-1: 1);
 
-        return String.format(":::  SUPERMERCADO  :::\n\nFecha: %s\nTotal de ingresos: $%.2f\nFueron atendidos %d clientes" +
-                        " con a lo más 20 artículos\n\nFueron atendidos %d clientes con más de 20 artículos\n\nTotal de clientes " +
-                        "atendidos: %d \n" +
-                        " \nCon las siguientes cajas: \n%s\n %s" +
-                        "\n\n La caja que más clientes atendió fue: \n %s",
+        return String.format(":::  SUPERMARKET  :::\n\nDATE: %s\nTOTAL SALES: $%.2f\nThere where attended %d clients " +
+                        " with at the most 20 items\n\nThere where attended %d clients with more than 20 items\n\nTotal of customers " +
+                        "attended: %d \n" +
+                        " \nWITH THE FOLLLOWING CHECKOUTS: \n%s\n %s" +
+                        "\n\n The large checkout that had attended more customers was: \n %s",
                 now,getTotalVentas(), numFastClients, numLargeClients, tickets.longitud() , checkouts, singleLine, masVendioNormal);
     }
 

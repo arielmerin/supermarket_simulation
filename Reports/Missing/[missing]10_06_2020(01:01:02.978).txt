@@ -1,0 +1,37 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 01:00:54.975
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 5		2		 Amaranth veggie				607.00	607.00
+ 7		4		 Soup ready to eat				1068.47	1068.47
+ 17		2		 Gram flour vegan				855.02	855.02
+ 34		3		 Rice baby				1326.71	1326.71
+ 42		1		 Cucumber with sea salt				1438.73	1438.73
+ 62		1		 Kale ready to eat				1366.12	1366.12
+ 77		1		 Soybeans veggie				1489.07	1489.07
+ 83		1		 Rice baby				1250.77	1250.77
+ 97		4		 Strawberries gmo free				200.19	200.19
+ 100		5		 Pumpkins gluten free				577.32	577.32
+ 105		2		 Spaghetti with coconut oil				488.91	488.91
+ 114		2		 Papaya gluten free				936.44	936.4
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		0		 Nuts with agave syrup				1389.89	1389.89
+ 29		0		 Lentils gluten free				1586.50	1586.50
+ 35		0		 Splenda integral				675.69	675.69
+ 51		0		 Soup with agave syrup				1553.47	1553.47
+ 68		0		 Soup extra big				765.09	765.09
+ 78		0		 Chia seed with sea salt				1696.42	1696.42
+ 79		0		 Dried chiles gmo free				97.27	97.27
+ 88		0		 Kale with dark cocoa				1704.92	1704.92
+ 90		0		 Oat flour gluten free				815.62	815.62
+ 93		0		 Soy sauce ready to eat				1630.42	1630.42
+ 104		0		 Nuts organic				564.91	564.91
+ 106		0		 Strawberries extra big				730.73	730.73
+ 124		0		 Chayotes ready to eat				1229.15	1229.15
+ 126		0		 Pear with dark cocoa				212.92	212.92
+ 129		0		 Coffee veggie				1253.07	1253.07
+ 144		0		 Soup with dark cocoa				1488.13	1488.1

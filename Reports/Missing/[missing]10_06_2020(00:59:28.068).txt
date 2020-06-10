@@ -1,0 +1,39 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 00:59:20.063
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		6		 Lemons veggie				1140.81	1140.81
+ 6		1		 Spaghetti with agave syrup				1592.92	1592.92
+ 12		2		 Wheat flour with coconut oil				854.66	854.66
+ 16		6		 Peas with dark cocoa				6.11	6.11
+ 25		2		 Strawberries with dark cocoa				1686.95	1686.95
+ 57		2		 Avocado gmo free				953.61	953.61
+ 69		2		 Oat flour organic				350.95	350.95
+ 75		1		 Chia seed baby				637.33	637.33
+ 80		2		 Oat integral				1593.49	1593.49
+ 88		6		 Strawberries veggie				935.57	935.57
+ 92		8		 Pumpkins with sea salt				1169.44	1169.44
+ 97		1		 Rice with sea salt				1167.59	1167.59
+ 108		1		 Broad Beans with dark cocoa				346.02	346.02
+ 123		1		 Carrot vegan				814.30	814.30
+ 133		8		 Oat flour veggie				41.59	41.59
+ 134		1		 Oat gluten free				1410.88	1410.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 8		0		 Chia seed gmo free				891.31	891.31
+ 26		0		 Chayotes veggie				374.63	374.63
+ 29		0		 Cucumber with coconut oil				1688.77	1688.77
+ 48		0		 Soybeans baby				694.27	694.27
+ 67		0		 Soap gluten free				711.92	711.92
+ 81		0		 Tofu integral				1834.15	1834.15
+ 83		0		 Soup veggie				1843.47	1843.47
+ 85		0		 Rice with sea salt				1338.52	1338.52
+ 105		0		 Tangerine extra big				659.75	659.75
+ 115		0		 Cereals baby				1285.40	1285.40
+ 135		0		 Chayotes integral				474.46	474.46
+ 146		0		 Lentils gluten free				809.64	809.64
+ 147		0		 Ezekiel organic				268.55	268.55
+ 149		0		 Soy sauce veggie				984.53	984.5

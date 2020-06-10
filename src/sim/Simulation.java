@@ -201,6 +201,7 @@ public class Simulation implements Serializable {
         SimpleDateFormat sdt = new SimpleDateFormat(("dd_MM_yyyy(HH:mm:ss.SSS)"));
         String idFromDate = sdt.format(new Date());
         serializer.makeDir("Reports");
+        serializer.makeDir("plot");
         serializer.makeDir("Reports/Tickets");
         serializer.makeDir("Reports/DailyReports");
         serializer.makeDir("Reports/Missing");

@@ -1,0 +1,36 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 01:09:56.073
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 8		1		 Lemons with sea salt				1661.93	1661.93
+ 50		7		 Avocado with agave syrup				1195.74	1195.74
+ 70		1		 Apples vegan				1774.27	1774.27
+ 80		1		 Avocado veggie				1819.88	1819.88
+ 84		5		 Sweet potato veggie				1569.89	1569.89
+ 88		6		 Pumpkins with agave syrup				216.63	216.63
+ 94		7		 Ezekiel organic				222.30	222.30
+ 127		1		 Cucumber gmo free				687.95	687.95
+ 138		2		 Spaghetti with sea salt				647.89	647.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 7		0		 Rice vinegar gluten free				1589.42	1589.42
+ 9		0		 Rice vinegar integral				582.17	582.17
+ 18		0		 Quinoa gluten free				1002.64	1002.64
+ 26		0		 Avocado with dark cocoa				1555.74	1555.74
+ 38		0		 Beans gluten free				519.38	519.38
+ 40		0		 Mango organic				1239.11	1239.11
+ 44		0		 Tangerine with coconut oil				1719.08	1719.08
+ 58		0		 Wheat flour organic				1557.18	1557.18
+ 63		0		 Broad Beans gmo free				532.48	532.48
+ 69		0		 Dried chiles with dark cocoa				1756.61	1756.61
+ 97		0		 Chia seed with coconut oil				147.26	147.26
+ 103		0		 Cucumber with agave syrup				1065.62	1065.62
+ 105		0		 Quinoa organic				1157.28	1157.28
+ 110		0		 Wheat flour organic				1443.34	1443.34
+ 121		0		 Avocado with sea salt				176.75	176.75
+ 122		0		 Spaghetti with sea salt				1509.54	1509.54
+ 133		0		 Integral flour veggie				1139.52	1139.52
+ 149		0		 Sweet potato with sea salt				1703.70	1703.7

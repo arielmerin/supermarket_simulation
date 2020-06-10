@@ -1,0 +1,36 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 00:59:42.711
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 3		1		 Quinoa with agave syrup				205.76	205.76
+ 25		2		 Pear baby				918.70	918.70
+ 27		4		 Lemons ready to eat				1233.75	1233.75
+ 35		1		 Spaghetti integral				613.53	613.53
+ 41		1		 Integral flour integral				753.34	753.34
+ 44		2		 Kale with sea salt				205.02	205.02
+ 47		3		 Amaranth ready to eat				1105.07	1105.07
+ 52		3		 Beans gluten free				162.39	162.39
+ 66		9		 Spaghetti baby				261.71	261.71
+ 82		1		 Gram flour baby				1839.78	1839.78
+ 105		2		 Pasta integral				348.61	348.61
+ 114		6		 Amaranth with dark cocoa				839.40	839.40
+ 120		1		 Broad Beans organic				186.48	186.48
+ 128		6		 Broad Beans veggie				1046.81	1046.81
+ 136		1		 Tangerine baby				1854.59	1854.5
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		0		 Papaya organic				1035.41	1035.41
+ 9		0		 Dried chiles with agave syrup				1647.18	1647.18
+ 13		0		 Peanut butter with agave syrup				92.23	92.23
+ 31		0		 Soy sauce integral				1334.50	1334.50
+ 38		0		 Avocado gluten free				447.60	447.60
+ 48		0		 Soy sauce extra big				1115.51	1115.51
+ 51		0		 Pear ready to eat				1579.50	1579.50
+ 57		0		 Pear extra big				573.08	573.08
+ 58		0		 Oat with coconut oil				858.65	858.65
+ 74		0		 Ezekiel organic				982.30	982.30
+ 126		0		 Carrot integral				769.98	769.98
+ 140		0		 Tangerine vegan				1510.16	1510.1

@@ -1,0 +1,45 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 01:01:03.012
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 9		1		 Avocado vegan				111.64	111.64
+ 21		1		 Chia seed with coconut oil				231.98	231.98
+ 22		9		 Chayotes with coconut oil				205.74	205.74
+ 45		1		 Grams  gmo free				1663.28	1663.28
+ 69		7		 Lemons gluten free				1750.91	1750.91
+ 77		6		 Spaghetti organic				1670.04	1670.04
+ 81		2		 Peas baby				879.05	879.05
+ 91		1		 Pasta with agave syrup				1.11	1.11
+ 112		2		 Soap with coconut oil				170.75	170.75
+ 129		4		 Oat with dark cocoa				1169.00	1169.00
+ 131		8		 Sweet potato integral				1141.86	1141.86
+ 136		1		 Quinoa with agave syrup				1609.39	1609.39
+ 141		3		 Mango integral				450.10	450.10
+ 149		2		 Carrot baby				1743.40	1743.4
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 3		0		 Lentils integral				338.99	338.99
+ 8		0		 Cucumber integral				839.47	839.47
+ 10		0		 Chia seed gmo free				828.71	828.71
+ 11		0		 Quinoa flour baby				574.54	574.54
+ 20		0		 Peas extra big				1114.32	1114.32
+ 33		0		 Peas ready to eat				984.50	984.50
+ 35		0		 Lemons with dark cocoa				473.21	473.21
+ 40		0		 Almonds with agave syrup				1848.39	1848.39
+ 49		0		 Lentils ready to eat				1646.39	1646.39
+ 72		0		 Gram flour gmo free				1574.23	1574.23
+ 88		0		 Rice vegan				447.19	447.19
+ 90		0		 Pasta gluten free				1821.71	1821.71
+ 102		0		 Rice with coconut oil				621.60	621.60
+ 111		0		 Rice vinegar with dark cocoa				143.72	143.72
+ 119		0		 Almonds with sea salt				1149.54	1149.54
+ 120		0		 Tangerine with sea salt				655.44	655.44
+ 127		0		 Cucumber baby				1709.80	1709.80
+ 138		0		 Peas gluten free				748.54	748.54
+ 139		0		 Soybeans integral				898.34	898.34
+ 145		0		 Dried chiles gmo free				1133.59	1133.59
+ 146		0		 Rice with dark cocoa				273.01	273.01
+ 147		0		 Tangerine ready to eat				1790.93	1790.9

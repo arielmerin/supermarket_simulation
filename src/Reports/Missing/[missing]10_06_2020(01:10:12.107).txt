@@ -1,0 +1,29 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 01:10:04.104
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		2		 Soap integral				1711.63	1711.63
+ 7		1		 Beans baby				1228.29	1228.29
+ 28		1		 Chayotes veggie				587.37	587.37
+ 36		1		 Lentils extra big				947.48	947.48
+ 47		1		 Gram flour veggie				636.61	636.61
+ 52		5		 Cucumber ready to eat				924.34	924.34
+ 76		1		 Quinoa gluten free				822.92	822.92
+ 84		8		 Apples ready to eat				1268.69	1268.69
+ 113		1		 Rice organic				1410.16	1410.16
+ 136		7		 Ezekiel with coconut oil				1686.55	1686.55
+ 138		2		 Chia seed with sea salt				426.51	426.51
+ 142		7		 Wheat flour with sea salt				364.43	364.43
+ 144		1		 Strawberries with sea salt				1852.84	1852.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 8		0		 Pan with agave syrup				530.51	530.51
+ 49		0		 Pan ready to eat				1485.64	1485.64
+ 55		0		 Cucumber integral				369.80	369.80
+ 107		0		 Soap ready to eat				1049.44	1049.44
+ 120		0		 Pear veggie				1398.11	1398.11
+ 123		0		 Tangerine ready to eat				10.69	10.69
+ 149		0		 Spaghetti with sea salt				12.71	12.7
