@@ -8,4 +8,4 @@ set xrange [0:15]
 set xtic (1,2,3,4,5,6,7,8,9,10,11,12,13,14)
 set pointsize 1
 plot  "plot/datos.dat" using 2:1 with circles lc rgb "blue" ti "Tiempo de espera ", \
-      '' u 2:1 with line2
+      '' u 2:1 with line
