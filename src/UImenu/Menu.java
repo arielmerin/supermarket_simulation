@@ -206,8 +206,10 @@ public class Menu {
                     boolean isWindows = System.getProperty("os.name").toLowerCase().startsWith("windows");
                     if (!isWindows){
                         try {
-                            Process processBuilder = Runtime.getRuntime().exec("./histGraph.sh");
-                            Process openImg = Runtime.getRuntime().exec("mimeopen plot/histGraph.png");
+                            Process processHistogram = Runtime.getRuntime().exec("./histGraph.sh");
+                            Process processMainGraph = Runtime.getRuntime().exec("./mainGraph.sh");
+                            Process openImgHist = Runtime.getRuntime().exec("mimeopen plot/histGraph.png");
+                            Process openImgMain = Runtime.getRuntime().exec("mimeopen plot/mainGraph.png");
                         } catch (IOException e) {
                             e.printStackTrace();
                         }
