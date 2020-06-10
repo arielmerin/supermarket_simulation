@@ -1,0 +1,35 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 10:06:37.463
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 10		1		 Rice vinegar gmo free				1232.26	1232.26
+ 30		5		 Lentils extra big				1842.25	1842.25
+ 40		2		 Cereals veggie				1011.27	1011.27
+ 61		2		 Mango with sea salt				1779.48	1779.48
+ 78		1		 Apples veggie				270.10	270.10
+ 92		1		 Chayotes organic				803.22	803.22
+ 95		1		 Spaghetti veggie				455.33	455.33
+ 104		1		 Soybeans integral				865.00	865.00
+ 112		6		 Pear gmo free				1786.89	1786.89
+ 135		1		 Broad Beans integral				1672.08	1672.08
+ 140		1		 Rice vinegar organic				52.04	52.04
+ 144		4		 Lemons with sea salt				1488.96	1488.9
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 16		0		 Gram flour with dark cocoa				1703.77	1703.77
+ 22		0		 Tangerine extra big				177.39	177.39
+ 23		0		 Soybeans with agave syrup				1756.11	1756.11
+ 24		0		 Oat flour gluten free				1588.53	1588.53
+ 49		0		 Mango gluten free				332.77	332.77
+ 51		0		 Integral flour with agave syrup				743.21	743.21
+ 55		0		 Nuts with agave syrup				27.64	27.64
+ 65		0		 Nuts gmo free				424.44	424.44
+ 74		0		 Soy sauce gmo free				1770.85	1770.85
+ 86		0		 Tangerine extra big				1088.53	1088.53
+ 103		0		 Grams  baby				648.76	648.76
+ 132		0		 Chayotes gluten free				423.21	423.21
+ 139		0		 Lentils extra big				1383.82	1383.82
+ 141		0		 Pan vegan				1795.73	1795.7

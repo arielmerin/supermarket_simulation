@@ -1,0 +1,37 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:16:57.221
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		1		 Integral flour vegan				1378.67	1378.67
+ 8		2		 Pasta gmo free				1804.59	1804.59
+ 11		1		 Quinoa integral				280.71	280.71
+ 23		1		 Gram flour vegan				1284.13	1284.13
+ 42		3		 Tofu gluten free				1683.54	1683.54
+ 82		3		 Avocado with agave syrup				609.24	609.24
+ 85		4		 Almonds veggie				468.85	468.85
+ 89		2		 Kale with sea salt				1233.53	1233.53
+ 100		1		 Tangerine with dark cocoa				1733.72	1733.72
+ 135		1		 Beans gmo free				1202.34	1202.34
+ 138		1		 Quinoa flour gluten free				83.84	83.84
+ 146		2		 Pan baby				816.79	816.7
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 22		0		 Gram flour with agave syrup				655.73	655.73
+ 27		0		 Soybeans gluten free				1651.23	1651.23
+ 33		0		 Papaya vegan				353.87	353.87
+ 36		0		 Oat flour integral				1160.23	1160.23
+ 40		0		 Soap baby				214.47	214.47
+ 51		0		 Rice vinegar with sea salt				1155.85	1155.85
+ 60		0		 Soy sauce ready to eat				732.82	732.82
+ 63		0		 Dried chiles ready to eat				1890.16	1890.16
+ 76		0		 Apples with dark cocoa				428.55	428.55
+ 91		0		 Splenda organic				631.31	631.31
+ 93		0		 Kale veggie				1527.94	1527.94
+ 99		0		 Soup with dark cocoa				309.33	309.33
+ 108		0		 Avocado integral				89.49	89.49
+ 133		0		 Amaranth with coconut oil				657.55	657.55
+ 148		0		 Soybeans integral				1544.39	1544.39
+ 149		0		 Tofu integral				1031.52	1031.5

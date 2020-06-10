@@ -1,0 +1,37 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 10:06:29.315
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 7		3		 Lentils ready to eat				1879.90	1879.90
+ 8		1		 Cucumber gluten free				1375.32	1375.32
+ 9		1		 Grams  with agave syrup				532.37	532.37
+ 16		4		 Avocado baby				166.28	166.28
+ 21		1		 Soy sauce organic				130.53	130.53
+ 35		1		 Cucumber integral				1341.71	1341.71
+ 38		1		 Nuts gluten free				1217.70	1217.70
+ 52		1		 Soap organic				1421.25	1421.25
+ 85		2		 Pan veggie				760.43	760.43
+ 86		1		 Rice vinegar with sea salt				746.57	746.57
+ 119		2		 Quinoa extra big				134.97	134.97
+ 121		1		 Kale extra big				1194.78	1194.78
+ 140		1		 Cereals with coconut oil				554.17	554.1
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 41		0		 Integral flour vegan				552.90	552.90
+ 43		0		 Spaghetti with coconut oil				483.70	483.70
+ 60		0		 Dried chiles gluten free				207.74	207.74
+ 66		0		 Tangerine with dark cocoa				243.85	243.85
+ 67		0		 Pear ready to eat				325.12	325.12
+ 68		0		 Soy sauce extra big				1005.44	1005.44
+ 71		0		 Nuts extra big				1142.46	1142.46
+ 80		0		 Pear baby				754.92	754.92
+ 81		0		 Ezekiel with agave syrup				710.35	710.35
+ 82		0		 Peanut butter gluten free				603.96	603.96
+ 88		0		 Almonds ready to eat				883.15	883.15
+ 102		0		 Oat veggie				1785.40	1785.40
+ 123		0		 Soap gluten free				294.85	294.85
+ 147		0		 Rice vinegar ready to eat				1466.76	1466.76
+ 148		0		 Rice ready to eat				770.25	770.2

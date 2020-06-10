@@ -1,0 +1,46 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:16:49.193
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 4		1		 Broad Beans gluten free				779.37	779.37
+ 8		6		 Gram flour extra big				1492.33	1492.33
+ 10		2		 Chayotes vegan				264.82	264.82
+ 15		4		 Rice with agave syrup				37.97	37.97
+ 24		2		 Splenda with sea salt				112.64	112.64
+ 41		2		 Peas veggie				519.30	519.30
+ 45		8		 Chia seed integral				78.32	78.32
+ 46		1		 Almonds extra big				671.74	671.74
+ 47		3		 Cereals gmo free				780.47	780.47
+ 48		1		 Integral flour gluten free				921.52	921.52
+ 66		1		 Soy sauce integral				1635.24	1635.24
+ 81		1		 Rice vinegar baby				1565.60	1565.60
+ 83		2		 Cereals gmo free				1256.53	1256.53
+ 88		1		 Cucumber veggie				1874.29	1874.29
+ 91		4		 Papaya with coconut oil				642.02	642.02
+ 105		1		 Peas with coconut oil				1338.86	1338.86
+ 109		5		 Mango extra big				153.65	153.65
+ 111		1		 Oat flour gluten free				1558.40	1558.40
+ 121		2		 Pear gluten free				799.11	799.11
+ 133		1		 Carrot gmo free				811.89	811.89
+ 149		3		 Rice vinegar organic				1314.20	1314.2
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 6		0		 Soap extra big				1783.30	1783.30
+ 7		0		 Mango integral				860.74	860.74
+ 22		0		 Soup veggie				947.78	947.78
+ 37		0		 Splenda organic				1550.76	1550.76
+ 38		0		 Ezekiel with dark cocoa				1175.88	1175.88
+ 39		0		 Kale extra big				257.60	257.60
+ 57		0		 Pear with coconut oil				1840.90	1840.90
+ 86		0		 Wheat flour with sea salt				1220.42	1220.42
+ 92		0		 Tofu extra big				1363.86	1363.86
+ 94		0		 Gram flour with agave syrup				790.19	790.19
+ 113		0		 Soup vegan				980.62	980.62
+ 115		0		 Mango veggie				1853.32	1853.32
+ 123		0		 Splenda with dark cocoa				992.30	992.30
+ 136		0		 Lentils with dark cocoa				95.28	95.28
+ 141		0		 Wheat flour integral				1665.19	1665.19
+ 147		0		 Beans organic				1409.84	1409.8

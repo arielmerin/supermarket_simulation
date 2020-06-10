@@ -1,0 +1,42 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 10:07:09.610
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 9		3		 Beans gmo free				1769.07	1769.07
+ 14		5		 Avocado extra big				1627.36	1627.36
+ 30		2		 Soap with coconut oil				1405.80	1405.80
+ 47		5		 Cereals vegan				544.02	544.02
+ 48		3		 Soy sauce organic				805.83	805.83
+ 51		1		 Amaranth extra big				1617.75	1617.75
+ 59		1		 Soybeans gmo free				688.84	688.84
+ 74		4		 Cucumber with coconut oil				913.51	913.51
+ 75		5		 Coffee ready to eat				46.13	46.13
+ 78		1		 Almonds gluten free				1436.03	1436.03
+ 101		4		 Cucumber veggie				924.58	924.58
+ 104		2		 Coffee gluten free				668.64	668.64
+ 107		4		 Papaya with dark cocoa				900.35	900.35
+ 113		1		 Gram flour ready to eat				1648.37	1648.37
+ 120		1		 Tofu vegan				1856.18	1856.18
+ 140		2		 Peanut butter vegan				856.60	856.6
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		0		 Cereals with sea salt				1336.46	1336.46
+ 10		0		 Lemons baby				1842.74	1842.74
+ 11		0		 Pasta extra big				1338.69	1338.69
+ 15		0		 Soybeans with agave syrup				141.56	141.56
+ 18		0		 Mango integral				1216.53	1216.53
+ 20		0		 Pumpkins veggie				145.61	145.61
+ 27		0		 Almonds with dark cocoa				647.52	647.52
+ 73		0		 Rice vinegar gmo free				1871.40	1871.40
+ 80		0		 Oat flour gmo free				48.89	48.89
+ 95		0		 Soap vegan				164.86	164.86
+ 115		0		 Tangerine integral				376.41	376.41
+ 119		0		 Mango with sea salt				1041.22	1041.22
+ 124		0		 Peanut butter gmo free				87.82	87.82
+ 129		0		 Dried chiles veggie				1150.34	1150.34
+ 134		0		 Tofu baby				838.35	838.35
+ 136		0		 Rice vinegar extra big				174.58	174.58
+ 148		0		 Integral flour with dark cocoa				441.70	441.7

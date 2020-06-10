@@ -1,0 +1,42 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 10:07:17.641
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		1		 Broad Beans gmo free				1168.64	1168.64
+ 8		1		 Kale gluten free				1086.97	1086.97
+ 14		1		 Chayotes with sea salt				861.93	861.93
+ 47		4		 Beans with sea salt				1069.88	1069.88
+ 52		1		 Mango organic				1096.75	1096.75
+ 61		3		 Pan organic				1353.28	1353.28
+ 62		1		 Pasta vegan				620.22	620.22
+ 70		3		 Chia seed baby				278.57	278.57
+ 75		7		 Soybeans extra big				757.16	757.16
+ 80		3		 Tangerine integral				99.23	99.23
+ 87		3		 Chia seed baby				1353.94	1353.94
+ 109		2		 Chayotes integral				367.53	367.53
+ 131		1		 Grams  baby				1275.03	1275.0
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 6		0		 Pumpkins gluten free				391.85	391.85
+ 10		0		 Gram flour organic				369.50	369.50
+ 19		0		 Soap gmo free				41.38	41.38
+ 40		0		 Cereals veggie				856.28	856.28
+ 41		0		 Ezekiel gluten free				582.64	582.64
+ 51		0		 Cereals with coconut oil				188.51	188.51
+ 63		0		 Chia seed veggie				641.49	641.49
+ 72		0		 Splenda gmo free				1711.83	1711.83
+ 89		0		 Amaranth vegan				1329.73	1329.73
+ 94		0		 Spaghetti integral				1836.29	1836.29
+ 99		0		 Peanut butter with dark cocoa				439.56	439.56
+ 105		0		 Dried chiles with sea salt				335.49	335.49
+ 107		0		 Soap with agave syrup				353.58	353.58
+ 110		0		 Sweet potato vegan				458.50	458.50
+ 111		0		 Soup extra big				1799.69	1799.69
+ 116		0		 Avocado organic				1494.88	1494.88
+ 119		0		 Rice organic				1383.44	1383.44
+ 128		0		 Lentils with coconut oil				683.41	683.41
+ 140		0		 Sweet potato with agave syrup				1432.82	1432.82
+ 149		0		 Avocado integral				1561.47	1561.4

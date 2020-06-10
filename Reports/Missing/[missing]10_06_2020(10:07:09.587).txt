@@ -1,0 +1,37 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 10:07:01.582
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 3		1		 Broad Beans with agave syrup				717.06	717.06
+ 19		5		 Oat flour gmo free				657.27	657.27
+ 28		2		 Broad Beans integral				39.26	39.26
+ 39		5		 Gram flour with sea salt				103.35	103.35
+ 41		1		 Cereals gmo free				1215.25	1215.25
+ 58		3		 Soup with sea salt				820.17	820.17
+ 71		1		 Oat with coconut oil				1253.56	1253.56
+ 75		1		 Cucumber integral				842.05	842.05
+ 84		5		 Quinoa ready to eat				86.49	86.49
+ 94		4		 Pear extra big				459.60	459.60
+ 119		4		 Lentils integral				1466.73	1466.73
+ 122		1		 Gram flour integral				1741.91	1741.91
+ 129		1		 Quinoa with agave syrup				728.53	728.5
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 27		0		 Coffee gmo free				470.50	470.50
+ 30		0		 Nuts extra big				1445.27	1445.27
+ 45		0		 Integral flour gmo free				1015.97	1015.97
+ 46		0		 Peas with sea salt				1649.76	1649.76
+ 60		0		 Nuts ready to eat				842.44	842.44
+ 62		0		 Integral flour with dark cocoa				1329.08	1329.08
+ 63		0		 Cucumber with dark cocoa				729.84	729.84
+ 65		0		 Lemons with dark cocoa				311.16	311.16
+ 68		0		 Beans integral				648.83	648.83
+ 82		0		 Oat gluten free				591.37	591.37
+ 105		0		 Sweet potato with coconut oil				946.66	946.66
+ 107		0		 Avocado vegan				1770.38	1770.38
+ 108		0		 Oat flour vegan				1845.11	1845.11
+ 123		0		 Peanut butter vegan				347.45	347.45
+ 133		0		 Chayotes ready to eat				735.39	735.3

@@ -1,0 +1,46 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:16:25.098
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 6		8		 Amaranth veggie				722.71	722.71
+ 14		3		 Tangerine with coconut oil				73.44	73.44
+ 22		2		 Cucumber with sea salt				1584.74	1584.74
+ 25		9		 Amaranth with agave syrup				343.28	343.28
+ 38		2		 Carrot with dark cocoa				1407.57	1407.57
+ 43		1		 Carrot gluten free				230.77	230.77
+ 53		3		 Spaghetti ready to eat				1606.02	1606.02
+ 83		9		 Soy sauce with agave syrup				1689.07	1689.07
+ 87		2		 Sweet potato with coconut oil				870.44	870.44
+ 101		1		 Pasta vegan				672.96	672.96
+ 117		2		 Apples organic				1432.14	1432.14
+ 124		1		 Strawberries vegan				1358.88	1358.88
+ 138		2		 Dried chiles with agave syrup				1266.06	1266.06
+ 142		1		 Peanut butter vegan				1015.15	1015.15
+ 146		1		 Amaranth with coconut oil				990.87	990.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		0		 Grams  integral				1414.71	1414.71
+ 26		0		 Quinoa baby				1199.79	1199.79
+ 29		0		 Gram flour with coconut oil				686.01	686.01
+ 31		0		 Peas organic				745.70	745.70
+ 40		0		 Chia seed extra big				1614.99	1614.99
+ 45		0		 Amaranth integral				1817.49	1817.49
+ 46		0		 Almonds ready to eat				335.27	335.27
+ 50		0		 Cucumber gmo free				1254.52	1254.52
+ 54		0		 Wheat flour baby				915.27	915.27
+ 59		0		 Soup gmo free				1195.73	1195.73
+ 75		0		 Broad Beans extra big				451.06	451.06
+ 78		0		 Carrot extra big				1149.41	1149.41
+ 85		0		 Spaghetti with sea salt				959.28	959.28
+ 88		0		 Tangerine ready to eat				587.30	587.30
+ 90		0		 Soy sauce with coconut oil				627.52	627.52
+ 93		0		 Cereals integral				587.14	587.14
+ 95		0		 Wheat flour gmo free				305.89	305.89
+ 97		0		 Quinoa with dark cocoa				626.33	626.33
+ 109		0		 Oat flour ready to eat				356.93	356.93
+ 110		0		 Soup gluten free				1814.62	1814.62
+ 125		0		 Broad Beans gluten free				1245.01	1245.01
+ 145		0		 Carrot with dark cocoa				1611.03	1611.0

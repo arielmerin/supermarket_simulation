@@ -1,0 +1,41 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:17:05.250
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 32		1		 Pear with coconut oil				920.08	920.08
+ 47		1		 Apples organic				1632.12	1632.12
+ 70		1		 Splenda baby				27.26	27.26
+ 71		5		 Broad Beans gmo free				1603.60	1603.60
+ 74		8		 Pan vegan				1421.05	1421.05
+ 79		1		 Soybeans ready to eat				999.09	999.09
+ 85		1		 Cereals baby				260.87	260.87
+ 88		1		 Quinoa flour with dark cocoa				1075.94	1075.94
+ 89		5		 Soup gmo free				1383.80	1383.80
+ 102		1		 Pumpkins with sea salt				1295.60	1295.60
+ 114		1		 Quinoa baby				68.32	68.32
+ 120		1		 Pumpkins with agave syrup				579.11	579.11
+ 126		3		 Avocado gluten free				269.02	269.02
+ 132		1		 Peanut butter baby				173.13	173.13
+ 138		2		 Pear gluten free				1479.75	1479.75
+ 139		5		 Wheat flour extra big				1400.18	1400.18
+ 144		1		 Kale with coconut oil				1393.04	1393.04
+ 145		3		 Amaranth extra big				1180.89	1180.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 17		0		 Soybeans ready to eat				500.42	500.42
+ 18		0		 Peas extra big				14.40	14.40
+ 20		0		 Dried chiles with sea salt				1181.92	1181.92
+ 24		0		 Almonds extra big				189.87	189.87
+ 31		0		 Spaghetti integral				664.72	664.72
+ 33		0		 Chia seed gmo free				1217.08	1217.08
+ 59		0		 Oat flour ready to eat				788.56	788.56
+ 75		0		 Dried chiles integral				870.77	870.77
+ 97		0		 Quinoa flour with agave syrup				651.44	651.44
+ 104		0		 Peas vegan				1599.75	1599.75
+ 105		0		 Rice vinegar with coconut oil				1735.41	1735.41
+ 117		0		 Broad Beans gmo free				1390.06	1390.06
+ 124		0		 Carrot integral				1048.44	1048.44
+ 129		0		 Amaranth ready to eat				1072.75	1072.7

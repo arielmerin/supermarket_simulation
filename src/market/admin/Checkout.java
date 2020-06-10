@@ -14,12 +14,12 @@ public class Checkout implements Serializable, Comparable<Checkout> {
     /**
      *
      */
-    protected double salesOfDay;
+    private double salesOfDay;
 
     /**
      *
      */
-    protected int customersOfDay;
+    private int customersOfDay;
 
     /**
      *
@@ -44,6 +44,13 @@ public class Checkout implements Serializable, Comparable<Checkout> {
         this.isQuick = esRapida;
     }
 
+    /**
+     *
+     * @return
+     */
+    public int getCustomersOfDay() {
+        return customersOfDay;
+    }
 
     /**
      *

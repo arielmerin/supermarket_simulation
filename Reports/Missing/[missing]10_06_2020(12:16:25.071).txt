@@ -1,0 +1,46 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:16:17.066
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 25		1		 Rice vinegar organic				216.53	216.53
+ 30		1		 Broad Beans ready to eat				1198.91	1198.91
+ 41		2		 Papaya ready to eat				323.48	323.48
+ 43		2		 Lemons gmo free				1808.43	1808.43
+ 64		2		 Tofu veggie				738.83	738.83
+ 67		3		 Wheat flour baby				8.45	8.45
+ 75		5		 Pasta veggie				1150.35	1150.35
+ 78		2		 Apples gluten free				1425.87	1425.87
+ 96		1		 Avocado gluten free				1827.94	1827.94
+ 104		1		 Papaya with agave syrup				261.79	261.79
+ 112		6		 Ezekiel with dark cocoa				570.16	570.16
+ 114		1		 Quinoa flour with agave syrup				554.90	554.90
+ 120		1		 Peas ready to eat				1856.76	1856.76
+ 136		3		 Kale gmo free				639.68	639.68
+ 139		1		 Peas vegan				959.29	959.29
+ 148		2		 Tofu vegan				950.04	950.0
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 10		0		 Pan with coconut oil				503.24	503.24
+ 18		0		 Quinoa flour with dark cocoa				966.56	966.56
+ 26		0		 Soy sauce organic				1101.82	1101.82
+ 37		0		 Ezekiel organic				605.09	605.09
+ 38		0		 Pear with dark cocoa				1857.49	1857.49
+ 39		0		 Splenda veggie				122.96	122.96
+ 42		0		 Soap extra big				1213.80	1213.80
+ 54		0		 Rice vinegar ready to eat				1809.47	1809.47
+ 63		0		 Pumpkins baby				155.87	155.87
+ 74		0		 Oat with dark cocoa				1385.93	1385.93
+ 81		0		 Grams  veggie				1087.31	1087.31
+ 82		0		 Grams  vegan				229.98	229.98
+ 98		0		 Tangerine with coconut oil				1077.15	1077.15
+ 100		0		 Rice with dark cocoa				835.51	835.51
+ 101		0		 Chayotes with agave syrup				1044.89	1044.89
+ 103		0		 Cucumber ready to eat				1413.18	1413.18
+ 111		0		 Oat flour baby				52.26	52.26
+ 118		0		 Chayotes vegan				1539.15	1539.15
+ 130		0		 Coffee gmo free				446.18	446.18
+ 131		0		 Tangerine with sea salt				386.74	386.74
+ 138		0		 Broad Beans veggie				1527.56	1527.5

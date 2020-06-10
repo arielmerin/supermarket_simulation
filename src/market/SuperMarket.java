@@ -2,6 +2,7 @@ package market;
 
 import market.admin.*;
 import util.Lista;
+import util.MaxHeap;
 import util.MinHeap;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -245,18 +246,27 @@ public class SuperMarket  implements Serializable {
     @Override
     public String toString() {
         String now = formatter.format(date);
-        Lista<Checkout> cajasOrdenadas = new Lista<>();
+        MaxHeap<Checkout> cajasOrdenadas = new MaxHeap<>();
+        MaxHeap<Double> salesPerClient = new MaxHeap<>();
+        MaxHeap<Integer> costumersPerClient = new MaxHeap<>();
         for (Checkout caja: checkouts){
-            cajasOrdenadas.agregar(caja);
+            cajasOrdenadas.agrega(caja);
+            salesPerClient.agrega(caja.computeTotalSale());
+            costumersPerClient.agrega(caja.getCustomersOfDay());
         }
-        Checkout masVendioNormal = cajasOrdenadas.getElemento( cajasOrdenadas.longitud() > 1? cajasOrdenadas.longitud()-1: 1);
+
+
 
         return String.format(":::  SUPERMARKET  :::\n\nDATE: %s\nTOTAL SALES: $%.2f\nThere where attended %d clients " +
-                        " with at the most 20 items\n\nThere where attended %d clients with more than 20 items\n\nTotal of customers " +
+                        " with at the most 20 items\n\nThere where attended %d clients with more than 20 items\n" +
+                        "\nTotal of customers " +
                         "attended: %d \n" +
                         " \nWITH THE FOLLLOWING CHECKOUTS: \n%s\n %s" +
-                        "\n\n The large checkout that had attended more customers was: \n %s",
-                now,getTotalVentas(), numFastClients, numLargeClients, tickets.longitud() , checkouts, singleLine, masVendioNormal);
+                        "\n\n The large checkout that had attended more customers was: \n %s " +
+                        "\nBest selling box sold: $ %.2f\n" +
+                        "\nthe box with the most clients served %d clients.",
+                now,getTotalVentas(), numFastClients, numLargeClients, tickets.longitud() , checkouts, singleLine,
+                cajasOrdenadas.elimina(), salesPerClient.elimina(), costumersPerClient.elimina());
     }
 
 }

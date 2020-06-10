@@ -1,0 +1,40 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 10:07:41.722
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 16		1		 Ezekiel gmo free				432.23	432.23
+ 41		1		 Quinoa flour veggie				1813.21	1813.21
+ 58		5		 Chayotes gmo free				321.78	321.78
+ 78		8		 Oat flour with agave syrup				672.86	672.86
+ 80		1		 Pear ready to eat				1536.42	1536.42
+ 87		1		 Integral flour integral				1886.94	1886.94
+ 89		1		 Strawberries extra big				1823.02	1823.02
+ 108		1		 Ezekiel veggie				1165.13	1165.13
+ 125		3		 Peanut butter with sea salt				420.31	420.31
+ 135		1		 Rice extra big				1083.04	1083.04
+ 138		1		 Soup vegan				160.82	160.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 5		0		 Kale veggie				486.12	486.12
+ 19		0		 Cereals with sea salt				193.35	193.35
+ 23		0		 Dried chiles integral				584.28	584.28
+ 24		0		 Cucumber with dark cocoa				1333.17	1333.17
+ 36		0		 Rice vinegar vegan				386.73	386.73
+ 37		0		 Quinoa integral				1107.81	1107.81
+ 38		0		 Chayotes ready to eat				1595.22	1595.22
+ 40		0		 Lentils with sea salt				230.46	230.46
+ 44		0		 Dried chiles with dark cocoa				131.58	131.58
+ 57		0		 Soup with sea salt				665.33	665.33
+ 64		0		 Peanut butter with agave syrup				1008.75	1008.75
+ 65		0		 Amaranth gmo free				398.22	398.22
+ 68		0		 Wheat flour baby				283.48	283.48
+ 77		0		 Almonds with coconut oil				547.97	547.97
+ 82		0		 Ezekiel baby				803.02	803.02
+ 95		0		 Chia seed with agave syrup				1511.28	1511.28
+ 107		0		 Pear baby				148.74	148.74
+ 114		0		 Rice with sea salt				1058.81	1058.81
+ 140		0		 Strawberries with dark cocoa				592.91	592.91
+ 144		0		 Carrot ready to eat				160.81	160.8

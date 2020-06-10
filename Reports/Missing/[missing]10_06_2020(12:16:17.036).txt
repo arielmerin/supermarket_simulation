@@ -1,0 +1,46 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:16:09.031
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 9		1		 Dried chiles integral				1366.46	1366.46
+ 14		6		 Pan baby				1156.30	1156.30
+ 20		1		 Oat flour organic				898.60	898.60
+ 22		1		 Ezekiel with coconut oil				482.85	482.85
+ 42		3		 Quinoa gmo free				1625.56	1625.56
+ 43		1		 Strawberries integral				589.17	589.17
+ 47		1		 Almonds veggie				34.57	34.57
+ 52		1		 Tofu extra big				1244.69	1244.69
+ 59		4		 Dried chiles with sea salt				889.85	889.85
+ 62		6		 Mango with coconut oil				804.81	804.81
+ 64		1		 Rice vinegar integral				907.64	907.64
+ 68		2		 Avocado with coconut oil				1135.18	1135.18
+ 71		1		 Oat flour with coconut oil				1468.71	1468.71
+ 108		3		 Mango organic				212.16	212.16
+ 115		3		 Pasta with coconut oil				1176.71	1176.71
+ 125		1		 Soup with agave syrup				911.64	911.64
+ 126		8		 Splenda ready to eat				708.08	708.08
+ 138		3		 Splenda veggie				1219.93	1219.93
+ 139		3		 Wheat flour ready to eat				12.78	12.78
+ 140		2		 Nuts gluten free				1369.73	1369.73
+ 146		1		 Amaranth ready to eat				1794.54	1794.5
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		0		 Tangerine gmo free				406.65	406.65
+ 12		0		 Chia seed organic				1728.53	1728.53
+ 27		0		 Broad Beans with coconut oil				1418.70	1418.70
+ 29		0		 Splenda vegan				223.33	223.33
+ 37		0		 Nuts with dark cocoa				703.30	703.30
+ 80		0		 Oat with coconut oil				154.89	154.89
+ 81		0		 Oat extra big				432.16	432.16
+ 86		0		 Tofu with coconut oil				1213.90	1213.90
+ 88		0		 Pear organic				1536.27	1536.27
+ 89		0		 Almonds gluten free				1790.27	1790.27
+ 96		0		 Rice organic				841.98	841.98
+ 97		0		 Quinoa with coconut oil				1627.95	1627.95
+ 106		0		 Nuts with sea salt				116.33	116.33
+ 112		0		 Rice vinegar gmo free				1827.13	1827.13
+ 114		0		 Soup with dark cocoa				209.48	209.48
+ 145		0		 Grams  gmo free				710.95	710.9
