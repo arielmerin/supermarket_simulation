@@ -11,7 +11,7 @@ import java.util.NoSuchElementException;
  * esta clase sirve perfectamente para modelarlas. Sin embargo no es lo suficientemente
  * específica para modelar algun árbol completamente. Por lo que la implementación
  * final depende de las clases concretas que hereden de ésta.</p>
- * @author Alejandro Hernández Mora <alejandrohmora@ciencias.unam.mx>
+ * @author Alejandro Hernández Mora
  * @version 1.0
  */
 

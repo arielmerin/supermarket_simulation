@@ -16,7 +16,7 @@ import static util.Utilities.*;
 /**
  * <h1>Menu</h1>
  * This class handles the interaction with the user and the auxiliary methods that depend on it,
- * @author Ariel Merino & Armando Aquino
+ * @author Ariel Merino and Armando Aquino
  * @version 1.0
  */
 public class Menu {

@@ -7,13 +7,15 @@ import static util.Utilities.randomD;
 /**
  * <h1>Item Builder</h1>
  *
+ * Builds a random item
  * @author Ariel Merin & Armando Aquino
  * @version 1.0
  */
+
 public class ItemBuilder implements Iterator<Item> {
 
     /**
-     *
+     * list of random names provided by me ;)
      */
     private final String[] nombres = {"Apples", "Pear", "Papaya", "Mango", "Tangerine", "Sweet potato",
             "Pumpkins", "Rice", "Soup", "Pasta", "Spaghetti", "Soy sauce", "Rice vinegar", "Wheat flour",
@@ -23,13 +25,11 @@ public class ItemBuilder implements Iterator<Item> {
             "Carrot", "Amaranth", "Chia seed", "Strawberries", "Tofu", "Peanut butter", "Kale"};
 
     /**
-     *
+     * list of complements in this names, provided by me
      */
     private final String[] complementos = {" integral", " organic", " gmo free", " gluten free", " with agave syrup",
             " vegan", " veggie", " with coconut oil", " extra big", " baby", " ready to eat", " with sea salt",
             " with dark cocoa"};
-
-
 
     @Override
     public boolean hasNext() {

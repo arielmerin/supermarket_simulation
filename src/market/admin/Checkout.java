@@ -7,7 +7,7 @@ import java.io.Serializable;
  *<h1>Checkout</h1>
  *
  * This class allows to simulate and model the behavior of a checkout into a supermarket (simulation)
- * @author Ariel Merino & Armando Aquino
+ * @author Ariel Merino and Armando Aquino
  * @version 1.0
  */
 public class Checkout implements Serializable, Comparable<Checkout> {

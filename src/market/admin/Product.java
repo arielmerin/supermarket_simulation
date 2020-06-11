@@ -6,7 +6,8 @@ import java.util.Objects;
 /**
  *<h1>Product</h1>
  *
- * @author Ariel Merino & Armando Aquino
+ * captures the qualities and functionalities of an article within this simulation of a supermarket
+ * @author Ariel Merino and Armando Aquino
  * @version 1.1
  */
 public class Product implements Comparable<Product>, Serializable {
@@ -17,35 +18,35 @@ public class Product implements Comparable<Product>, Serializable {
     private int id;
 
     /**
-     *
+     * the number of units that a product has in existences
      */
     private int units;
 
     /**
-     *
+     * the description of the product
      */
     private String name;
 
     /**
-     *
+     * the cost of the product
      */
     private float price;
 
     /**
-     *
+     * how much times the product had been brought by a customer
      */
     private int times = 1;
 
     /**
-     *
+     * Let us know if there existences for the product in the stock
      */
     private boolean available;
 
     /**
-     *
-     * @param units
-     * @param name
-     * @param price
+     * Main construct that uses the essential qualities and atributes of the item to build it
+     * @param units existences in stock
+     * @param name description
+     * @param price cost of product
      */
     public Product(int units, String name, float price){
         this.units= units;
@@ -55,56 +56,56 @@ public class Product implements Comparable<Product>, Serializable {
     }
 
     /**
-     *
-     * @param id
+     * only by item's id
+     * @param id id to be register
      */
     public Product(int id){
         this.id = id;
     }
 
     /**
-     *
-     * @return
+     * acces de name of the product
+     * @return description from the product
      */
     public String getName() {
         return name;
     }
 
     /**
-     *
-     * @return
+     * compute the times by the price
+     * @return total of sale (by this product)
      */
     public float getTotal() {
         return times * price;
     }
 
     /**
-     *
-     * @return
+     * units in existence
+     * @return number of units in the stock
      */
     public int getUnits() {
         return units;
     }
 
     /**
-     *
-     * @return
+     * access de price into the product
+     * @return cost
      */
     public float getPrice() {
         return price;
     }
 
     /**
-     *
-     * @param id
+     * assign the item's id
+     * @param id identification
      */
     public void setId(int id) {
         this.id = id;
     }
 
     /**
-     *
-     * @param units
+     * modify the number of exitences
+     * @param units units in stock
      */
     public void setUnits(int units) {
         checkUnits();
@@ -112,23 +113,23 @@ public class Product implements Comparable<Product>, Serializable {
     }
 
     /**
-     *
-     * @param price
+     * assing the price of a product
+     * @param price price of the product
      */
     public void setPrice(float price) {
         this.price = price;
     }
 
     /**
-     *
-     * @param name
+     * assign the description from a product
+     * @param name description of a product
      */
     public void setName(String name) {
         this.name = name;
     }
 
     /**
-     *
+     * assign the times that this product had been bought
      * @param times
      */
     public void setTimes(int times) {
@@ -136,7 +137,7 @@ public class Product implements Comparable<Product>, Serializable {
     }
 
     /**
-     *
+     * this look for the units and set the availability
      */
     private void checkUnits(){
         if (units <= 0 ){

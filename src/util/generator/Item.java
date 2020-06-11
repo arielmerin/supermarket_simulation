@@ -3,31 +3,32 @@ package util.generator;
 /**
  * <h1>Item</h1>
  *
- * @author Ariel Merin & Armando Aquino
+ * Simulates the components of a product in the supermarket
+ * @author Ariel Merino and Armando Aquino
  * @version 1.0
  */
 public class Item {
 
     /**
-     *
+     * price of the product
      */
     private double price;
 
     /**
-     *
+     * name of the product
      */
     private String description;
 
     /**
-     *
+     * quantity of this product in existences
      */
     private int qty;
 
     /**
-     *
-     * @param qty
-     * @param description
-     * @param price
+     * only constructor to provide the essential parameters
+     * @param qty existences
+     * @param description name
+     * @param price cost
      */
     public Item(int qty, String description, double price){
         this.qty = qty;

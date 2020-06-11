@@ -5,15 +5,16 @@ import java.io.*;
 /**
  * <h1>Serializer </h1>
  *
+ * This class uses serialization properties within the project to save and achieve data persistence
  * @author Armando Aquino and Kevin Ariel Merino Peña
  * @version 1
  */
 public class Serializer implements Serializable {
 
     /**
-     *
-     * @param objetToSerialize
-     * @param path
+     * Write into a path the object provided
+     * @param objetToSerialize object to save
+     * @param path where to write, must include extension
      */
     public void write(Object objetToSerialize, String path){
         ObjectOutputStream writer = null;
@@ -35,9 +36,9 @@ public class Serializer implements Serializable {
     }
 
     /**
-     *
-     * @param object
-     * @param path
+     * this explicit write the string object, diffrent from the first method int the clas that serialize in binary some object
+     * @param object object to be saved into a readable txt
+     * @param path where to save txt with extension please
      */
     public void writeTXT(Object object, String path){
         FileWriter fichero = null;
@@ -60,8 +61,8 @@ public class Serializer implements Serializable {
     }
 
     /**
-     *
-     * @param nameDir
+     * creates a directory in case this does not exists already
+     * @param nameDir name of the directory
      */
     public void makeDir(String nameDir) {
         File directory = new File(nameDir);
@@ -75,9 +76,9 @@ public class Serializer implements Serializable {
     }
 
     /**
-     *
-     * @param path
-     * @return
+     * allow us to read a binary object that had been serialized before
+     * @param path where to read
+     * @return the object read
      */
     public Object read(String path){
         ObjectInputStream in = null;

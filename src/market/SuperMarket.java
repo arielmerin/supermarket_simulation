@@ -17,12 +17,11 @@ import static util.Utilities.random;
  *<h1> Supermarket </h1>
  *
  * This class models the behavior of a supermarket and its operations, using a warehouse of products
- * @author Ariel Merino & Armando Aquino
+ * @author Ariel Merino and Armando Aquino
  * @version 1.0
  *
  */
 public class SuperMarket  implements Serializable {
-
 
     /**
      * the main warehouse for the supermaket's use
@@ -65,18 +64,18 @@ public class SuperMarket  implements Serializable {
     private Date date = new Date();
 
     /**
-     *
-     * @param rapidas
-     * @param normales
+     * Main construcot to provide the number of fast and normal checkout to be used in this simulation
+     * @param quickly number of quick checkouts
+     * @param large number of large checkout
      */
-    public SuperMarket(int rapidas, int normales) {
+    public SuperMarket(int quickly, int large) {
         this.singleLine = new MinHeap<>();
         this.checkouts = new MinHeap<>();
         this.mainWarehouse = new Warehouse();
-        for (int i = 1; i <= rapidas; i++) {
+        for (int i = 1; i <= quickly; i++) {
             enableCheckout(true);
         }
-        for (int i = 1; i <= normales; i++) {
+        for (int i = 1; i <= large; i++) {
             enableCheckout(false);
         }
 
@@ -108,10 +107,10 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     *
-     * @return
+     * Give us the total number of sales in a day
+     * @return sum of sales
      */
-    private double getTotalVentas() {
+    private double getTotalSales() {
         double suma = 0;
         for (Checkout cajaRapida: singleLine) {
             suma += cajaRapida.computeTotalSale();
@@ -123,16 +122,17 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     *
-     * @param product
+     * this allow to integrate a product into the warehouse
+     * @param product pructo to be register into the warehouse
      */
     public void toRegisterProduct(Product product) {
         mainWarehouse.addProduct(product);
     }
 
     /**
-     *
-     * @param isQuick
+     * this method builds a checkout in function of a parameter that give us the information about if it is a quick checkout
+     * or not
+     * @param isQuick property of the checkout
      */
     public void enableCheckout(boolean isQuick){
         if (isQuick){
@@ -145,9 +145,9 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     *
-     * @param customer
-     * @return
+     * Distribute the client into the checkouts by the number of items
+     * @param customer the person to be form up
+     * @return true if it had been added to the checkout false and any other case
      */
     public boolean trainCustumer(Customer customer){
         if (customer.getItems() != 0){
@@ -169,9 +169,9 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     *
-     * @param clientsProducts
-     * @return
+     * allows to add in the purchase of each client the number o random productos
+     * @param clientsProducts number o products
+     * @return client with the products int its bag ;)
      */
     private Customer addShoppingCart(int clientsProducts){
         Customer customer = new Customer();
@@ -183,10 +183,10 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     *
-     * @param customer
-     * @param id
-     * @param quantity
+     * Give us the power to assign a producto in quantity and item id to a provided client
+     * @param customer customer to be modify
+     * @param id item id
+     * @param quantity number of times that a producto will be added
      */
     private void assingProduct(Customer customer, int id, int quantity){
         Product toAdd = mainWarehouse.getWhareHouse().busquedaElemento(new Product(id));
@@ -279,7 +279,7 @@ public class SuperMarket  implements Serializable {
                         "\n\n The large checkout that had attended more customers was: \n %s " +
                         "\nBest selling box sold: $ %.2f\n" +
                         "\nthe box with the most items served %d times.",
-                now,getTotalVentas(), numFastClients, numLargeClients, tickets.longitud() , checkouts, singleLine,
+                now, getTotalSales(), numFastClients, numLargeClients, tickets.longitud() , checkouts, singleLine,
                 cajasOrdenadas.elimina(), salesPerClient.elimina(), costumersPerClient.elimina());
     }
 
