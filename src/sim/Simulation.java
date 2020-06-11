@@ -30,6 +30,14 @@ public class Simulation implements Serializable {
      */
     private int quickCheckouts;
 
+    public void setQuickCheckouts(int quickCheckouts) {
+        this.quickCheckouts = quickCheckouts;
+    }
+
+    public void setLargeCheckout(int largeCheckout) {
+        this.largeCheckout = largeCheckout;
+    }
+
     /**
      *
      */
@@ -39,6 +47,10 @@ public class Simulation implements Serializable {
      *
      */
     private int times;
+
+    public void setCostco(SuperMarket costco) {
+        this.costco = costco;
+    }
 
     /**
      *
@@ -132,7 +144,6 @@ public class Simulation implements Serializable {
      */
     public void simulate(){
         genRandomProd(150);
-        loadProductsList("");
         Timer timer = new Timer(true);
         TimerTask entradaClientes = new enterClient();
         timer.schedule(entradaClientes, 0, 50);
