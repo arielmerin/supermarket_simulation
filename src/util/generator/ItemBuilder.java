@@ -8,7 +8,7 @@ import static util.Utilities.randomD;
  * <h1>Item Builder</h1>
  *
  * Builds a random item
- * @author Ariel Merin & Armando Aquino
+ * @author Ariel Merin and Armando Aquino
  * @version 1.0
  */
 

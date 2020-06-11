@@ -130,7 +130,7 @@ public class Product implements Comparable<Product>, Serializable {
 
     /**
      * assign the times that this product had been bought
-     * @param times
+     * @param times times to be added
      */
     public void setTimes(int times) {
         this.times = times;

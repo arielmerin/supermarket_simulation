@@ -9,7 +9,7 @@ import java.util.Iterator;
  * mínimo con <em>n</em> elementos en tiempo <em>O</em>(<em>n</em>), y podemos
  * agregar y actualizar elementos en tiempo <em>O</em>(log <em>n</em>). Eliminar
  * el elemento mínimo también nos toma tiempo <em>O</em>(log <em>n</em>).
- * @param <T>
+ * @param <T> x
  */
 public abstract class Heap<T extends Comparable<T>> implements Coleccionable<T>, Serializable {
 
@@ -71,7 +71,7 @@ public abstract class Heap<T extends Comparable<T>> implements Coleccionable<T>,
     }
 
     /**
-     * Constructor sin parámetros. Es más eficiente usar {@link#HeapMinimo(Lista)}, pero se ofrece este constructor por completez.
+     * Constructor sin parámetros. Es más eficiente usar pero se ofrece este constructor por completez.
      */
     public Heap() {
         this.arreglo = creaArregloGenerico(300);
@@ -239,6 +239,10 @@ public abstract class Heap<T extends Comparable<T>> implements Coleccionable<T>,
     /** Método auxiliar que regresa el índice en el arreglo que
      * tiene al elemento menor de tres.
      * Recibe tres índices de elementos en el arreglo.
+     * @return  menor
+     * @param d derecho
+     * @param elemento elemento
+     * @param i izquierdo
      */
     private int getMenor(int elemento, int i, int d){
         if (i == -1 && d != -1 && elemento != -1) {
@@ -262,6 +266,9 @@ public abstract class Heap<T extends Comparable<T>> implements Coleccionable<T>,
     /** Método auxiliar que regresa el índice en el arreglo que
      * tiene al elemento menor de tres.
      * Recibe tres índices de elementos en el arreglo.
+     * @return  mayor
+     * @param d derecho
+     * @param i izquierdo
      */
     private int getMayor(int elemento, int i, int d){
         if (i == -1 && d != -1 && elemento != -1) {

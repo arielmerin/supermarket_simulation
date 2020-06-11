@@ -28,6 +28,7 @@ public class Lista<T> implements Listable<T>, Iterable<T>, Serializable {
 
         /**
          *  Unico constructor de la clase
+         * @param elemento s
          **/
         public Nodo(T elemento){
             this.elemento=elemento;
@@ -85,6 +86,7 @@ public class Lista<T> implements Listable<T>, Iterable<T>, Serializable {
     /**
      *  Constructor copia de la clase. Recibe una lista con elementos.
      *  Crea una nueva lista exactamente igual a la que recibimos como parámetro.
+     * @param  l s
      **/
     public Lista( Lista<T> l){
         Lista<T> nueva = l.copia();
@@ -96,6 +98,7 @@ public class Lista<T> implements Listable<T>, Iterable<T>, Serializable {
     /**
      *  Constructor de la clase que recibe parámetros.
      *  Crea una nueva lista con los elementos de la estructura iterable que recibe como parámetro.
+     * @param  iterable s
      **/
     public Lista(Iterable<T> iterable){
         longitud = 0;
@@ -249,7 +252,7 @@ public class Lista<T> implements Listable<T>, Iterable<T>, Serializable {
      * @param i La posición cuyo elemento deseamos conocer.
      * @return <code> elemento </code> El elemento que contiene la lista,
      * <code>null</code> si no se encuentra
-     * @throws IndexOutOfBoundsException Si el índice es < 0 o >longitud()
+     * @throws IndexOutOfBoundsException Si el índice es menor 0 o mayor que longitud()
      */
     public T getElemento(int i)throws IndexOutOfBoundsException{
         if (i > longitud || i <= 0)

@@ -77,7 +77,7 @@ public class Pila<T> implements Coleccionable<T>, Serializable {
      * Crea una pila donde el primer elemento del arreglo es el que queda al
      * fondo de la pila, el último elemento del arreglo queda en el tope
      * de la pila.
-     * @param elementos
+     * @param elementos x
      */
     public Pila(T[] elementos) {
         for(T elem: elementos){
