@@ -1,12 +1,10 @@
 package UImenu;
 
-import market.SuperMarket;
 import market.admin.Product;
 import market.admin.Warehouse;
 import serializer.Serializer;
 import sim.Simulation;
 import util.Lista;
-
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
@@ -17,31 +15,31 @@ import static util.Utilities.*;
 
 /**
  * <h1>Menu</h1>
- *
+ * This class handles the interaction with the user and the auxiliary methods that depend on it,
  * @author Ariel Merino & Armando Aquino
  * @version 1.0
  */
 public class Menu {
 
-
     /**
-     *
+     * Auxiliary object to manage data persistence during the program
      */
     private Serializer serializer;
 
     /**
-     *
+     * Main object designed to carry out some simulations run during the program
      */
     private Simulation simulation;
 
-    Lista<String> plotting = new Lista<>();
-
+    /**
+     * Default constructor that initializes the simulation
+     */
     public Menu(){
         serializer = new Serializer();
     }
 
     /**
-     *
+     * Main menu, is responsible for directing the user in their decision and diffuses the options
      */
     public void mainMenu(){
         System.out.println("Bienvedidx al supermercado");
@@ -62,25 +60,26 @@ public class Menu {
                 case 3:
                     System.out.println("¡Hasta pronto!");
                     continuar = false;
+                    save();
+                    break;
                 default:
                     save();
                     System.out.println("Ingrese una opción válida");
                     break;
-
             }
 
         }while (continuar);
     }
 
     /**
-     *
+     * Allows you to save the object that will be used as a warehouse
      */
     private void save(){
         serializer.write(simulation.getCostco().getAlmacen(), "dataD.ser");
     }
 
     /**
-     *
+     * Check if the stocks of any product are still available.
      */
     private void checkExistences(){
         File file = new File("dataD.ser");
@@ -93,7 +92,7 @@ public class Menu {
     }
 
     /**
-     *
+     * The menu displayed when they choose the supermarket manager option
      */
     private void adminMenu(){
         boolean continua = true;
@@ -109,7 +108,7 @@ public class Menu {
 
             switch (anInt){
                 case 1:
-                    simulation.getCostco().darAltaProducto(addProduct());
+                    simulation.getCostco().toRegisterProduct(addProduct());
                     save();
                     break;
                 case 2:
@@ -131,6 +130,7 @@ public class Menu {
                     String fileToLoad = getStr("\nIngrese el nombre del archivo (.txt) a cargar como almacen: ",
                             "Intente de nuevo, ocurrió un error");
                     simulation.loadProductsList(fileToLoad);
+                    save();
                     break;
                 case 5:
                     System.out.println(simulation.getCostco().getAlmacen().getWhareHouse());
@@ -157,9 +157,10 @@ public class Menu {
             int answer = getInt("\nIngrese la opción deseada: ", "Error, intente de nuevo");
             switch (answer){
                 case 1:
+                    Lista<String> plotting = new Lista<>();
                     try{
                         for (int i = 1; i < 15; i++) {
-                            Simulation simulationPart = new Simulation(i,15-i,2);
+                            Simulation simulationPart = new Simulation(i,15-i);
                             simulationPart.getCostco().setMainWarehouse(simulation.getCostco().getAlmacen());
                             simulationPart.simulate();
                             simulationPart.getReports();
@@ -188,7 +189,7 @@ public class Menu {
                         int largeCheckouts = getInt(String.format("Día [%d] de %d\nIngrese el número de cajas largas: ", i + 1, days),
                                 "Error, intente de nuevo");
                         System.out.println("\nSimulando el día " + (i+1));
-                        Simulation simulationCas = new Simulation(quickCheckouts, largeCheckouts,1);
+                        Simulation simulationCas = new Simulation(quickCheckouts, largeCheckouts);
                         simulationCas.getCostco().setMainWarehouse(simulation.getCostco().getAlmacen());
                         simulationCas.simulate();
                         simulationCas.getReports();
@@ -213,8 +214,8 @@ public class Menu {
     }
 
     /**
-     *
-     * @return
+     * Asks the user if they want to add a new product to the warehouse
+     * @return product that was added
      */
     private Product addProduct(){
         Scanner scanner = new Scanner(System.in);
@@ -226,8 +227,8 @@ public class Menu {
     }
 
     /**
-     *
-     * @return
+     * Add the number of stocks of a certain product
+     * @return true if it was successful
      */
     private boolean resurtirProducto(){
         int numero = getInt("Ingrese el id del producto a resurtir: ", "Error, intente de nuevo");
@@ -239,6 +240,9 @@ public class Menu {
         return false;
     }
 
+    /**
+     * Asks the user if she wants to generate some simulation graphs
+     */
     private void execPlot(){
         boolean contAsking = true;
         do {

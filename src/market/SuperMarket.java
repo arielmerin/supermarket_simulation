@@ -16,6 +16,7 @@ import static util.Utilities.random;
 /**
  *<h1> Supermarket </h1>
  *
+ * This class models the behavior of a supermarket and its operations, using a warehouse of products
  * @author Ariel Merino & Armando Aquino
  * @version 1.0
  *
@@ -23,49 +24,43 @@ import static util.Utilities.random;
 public class SuperMarket  implements Serializable {
 
 
-    public void setMainWarehouse(Warehouse mainWarehouse) {
-        this.mainWarehouse = mainWarehouse;
-    }
-
     /**
-     *
+     * the main warehouse for the supermaket's use
      */
     private Warehouse mainWarehouse;
 
     /**
-     *
+     * counter of fast/quick clients
      */
     private int numFastClients;
 
-
     /**
-     *
+     * count of large clients
      */
     private int numLargeClients;
 
     /**
-     *
+     * the tickets of this whole supermarket
      */
     private Lista<Customer> tickets;
 
-
     /**
-     *
+     * the singe line where the clients may be form up
      */
     private MinHeap<Checkout> singleLine;
 
     /**
-     *
+     * the large checkouts where the client can be form up in this structure by using it in the best way
      */
     private MinHeap<Checkout> checkouts;
 
     /**
-     *
+     * give us the formar for the report's date
      */
     private final SimpleDateFormat formatter = new SimpleDateFormat(("dd/MM/yyyy - HH:mm:ss.SSS"));
 
     /**
-     *
+     * This give us the date
      */
     private Date date = new Date();
 
@@ -89,16 +84,24 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     *
-     * @return
+     * Allow to set the warehouse to be used
+     * @param mainWarehouse object o be use as a warehouse
+     */
+    public void setMainWarehouse(Warehouse mainWarehouse) {
+        this.mainWarehouse = mainWarehouse;
+    }
+
+    /**
+     * Let know the tickets generated in this simulated day
+     * @return list with the clients of all the day
      */
     public Lista<Customer> getTickets() {
         return tickets;
     }
 
     /**
-     *
-     * @return
+     * Allows to get the main warehouse
+     * @return warehouse
      */
     public Warehouse getAlmacen() {
         return mainWarehouse;
@@ -123,7 +126,7 @@ public class SuperMarket  implements Serializable {
      *
      * @param product
      */
-    public void darAltaProducto(Product product) {
+    public void toRegisterProduct(Product product) {
         mainWarehouse.addProduct(product);
     }
 
@@ -201,40 +204,47 @@ public class SuperMarket  implements Serializable {
     }
 
     /**
-     *
-     * @param path
+     * allows to generate a warehouse from a path, it turns into a product-able object line
+     * @param path where the file will be read
      */
     public void loadProducts(String path){
         try {
             Scanner input = new Scanner(new File(path));
             while (input.hasNextLine()) {
+
                 String line = input.nextLine();
                 String[] lineFromTxt = line.split(",");
                 int quant = Integer.parseInt(lineFromTxt[0]);
+
                 String name = lineFromTxt[1];
                 float price = Float.parseFloat(lineFromTxt[2]);
+
                 Product newProduct = new Product(quant, name, price);
                 mainWarehouse.addProduct(newProduct);
             }
             input.close();
         } catch (FileNotFoundException e){
+
             System.out.println("NO se encontro el archivo para cargar los productos");
+
         } catch (Exception ex) {
+
             System.out.println("El documento de los productos no se pudo abrir, intente de nuevo");
+
         }
     }
 
     /**
-     *
-     * @return
+     * allows to generate a new customer with a random number of items in a range 18-27 items
+     * @return the customer generated
      */
     public Customer genCustomer(){
         return addShoppingCart(random(10) + 18);
     }
 
     /**
-     *
-     * @return
+     * check the missing or limited existences and make a report of it
+     * @return report
      */
     public String reportMissingExistences(){
         return "   :::    CRITICAL EXISTENCES DAILY REPORT  :::\n    DATE: " + formatter.format(date) +
@@ -250,9 +260,11 @@ public class SuperMarket  implements Serializable {
     @Override
     public String toString() {
         String now = formatter.format(date);
+
         MaxHeap<Checkout> cajasOrdenadas = new MaxHeap<>();
         MaxHeap<Double> salesPerClient = new MaxHeap<>();
         MaxHeap<Integer> costumersPerClient = new MaxHeap<>();
+
         for (Checkout caja: checkouts){
             cajasOrdenadas.agrega(caja);
             salesPerClient.agrega(caja.computeTotalSale());

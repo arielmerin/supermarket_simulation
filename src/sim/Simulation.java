@@ -5,7 +5,6 @@ import market.admin.Customer;
 import serializer.Serializer;
 import util.Lista;
 import util.generator.ItemBuilder;
-
 import java.io.Serializable;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -15,66 +14,50 @@ import java.util.TimerTask;
 /**
  * <h1>Simulation</h1>
  *
+ * This class models all the behavior of a simulation, from the time a client enters to the time it took to wait.
  * @author Armando Aquino and Ariel Merino
  * @version 1.0
  */
 public class Simulation implements Serializable {
 
     /**
-     *
+     * Number of total checkouts in the sumermarket
      */
     private int checkouts;
 
     /**
-     *
+     * Number of chekouts of type quick
      */
     private int quickCheckouts;
 
-    public void setQuickCheckouts(int quickCheckouts) {
-        this.quickCheckouts = quickCheckouts;
-    }
-
-    public void setLargeCheckout(int largeCheckout) {
-        this.largeCheckout = largeCheckout;
-    }
-
     /**
-     *
+     * Number of checkouts of type large
      */
     private int largeCheckout;
 
     /**
-     *
-     */
-    private int times;
-
-    public void setCostco(SuperMarket costco) {
-        this.costco = costco;
-    }
-
-    /**
-     *
+     * The object that allows to carry out the operations of a supermarket in this simulation
      */
     private SuperMarket costco;
 
     /**
-     *
+     * List of clients that had been attended during the simulation
      */
     private Lista<Customer> customers;
 
     /**
-     * Objeto que permitirá guardar archivos y serializarlos
+     * This object will provide us the ability to save all simulation data
      */
     private Serializer serializer;
 
     /**
      * <h2>Entrada Cliente</h2>
-     *
+     * Simula la entrada de un cliente al supermercado, en este apartado es donde se emplean los hilos de ejecución
      */
     private class enterClient extends TimerTask implements Serializable{
 
         /**
-         * el cliente que será ingresado en la tarea
+         * El cliente que será ingresado en la tarea
          */
         public Customer customerEntrando;
 
@@ -112,10 +95,10 @@ public class Simulation implements Serializable {
         }
 
     }
-    public SuperMarket getCostco() {
-        return costco;
-    }
 
+    /**
+     * Default constructor for the class, initialize the supermarket with 13,13 (Average) checkouts
+     */
     public Simulation(){
         costco = new SuperMarket(13,13);
         serializer = new Serializer();
@@ -123,24 +106,48 @@ public class Simulation implements Serializable {
     }
 
     /**
-     *
-     * @param quickCheckouts
-     * @param largeCheckouts
-     * @param times
+     * Main constructor for the simulation, when it is in use allows to specify the number of different checkouts
+     * @param quickCheckouts number of quick checkouts that will be generated
+     * @param largeCheckouts number of large checkouts that will be generated
      */
-    public Simulation(int quickCheckouts, int largeCheckouts, int times){
+    public Simulation(int quickCheckouts, int largeCheckouts){
         this.largeCheckout = largeCheckouts;
         this.quickCheckouts = quickCheckouts;
         this.checkouts = largeCheckouts + quickCheckouts;
-        this.times = times;
         costco = new SuperMarket(quickCheckouts, largeCheckouts);
         serializer = new Serializer();
         customers = new Lista<>();
     }
 
     /**
-     *
-     * @return
+     * It allows access to the supermarket
+     * @return supermarket
+     */
+    public SuperMarket getCostco() {
+        return costco;
+    }
+
+    /**
+     * It generates the reports for this simulation and mkdir for the folders if them aren't created yet
+     */
+    public void getReports(){
+        SimpleDateFormat sdt = new SimpleDateFormat(("dd_MM_yyyy(HH:mm:ss.SSS)"));
+        String idFromDate = sdt.format(new Date());
+
+        serializer.makeDir("Reports");
+        serializer.makeDir("plot");
+
+        serializer.makeDir("Reports/Tickets");
+        serializer.makeDir("Reports/DailyReports");
+        serializer.makeDir("Reports/Missing");
+
+        serializer.writeTXT(costco, "Reports/DailyReports"+ "/"+ "[report]"+idFromDate+".txt");
+        serializer.writeTXT(costco.reportMissingExistences(), "Reports/Missing"+ "/"+ "[missing]"+idFromDate+".txt");
+        serializer.writeTXT(costco.getTickets(), "Reports/Tickets"+ "/"+ "[tickets]" +idFromDate+".txt");
+    }
+
+    /**
+     * Main operation, it makes the whole job of form up a customer in this simulation
      */
     public void simulate(){
         genRandomProd(150);
@@ -156,8 +163,8 @@ public class Simulation implements Serializable {
     }
 
     /**
-     *
-     * @return
+     * The numerical main method that allows to know the average for each client by waiting.
+     * @return the average of time by waiting on a client
      */
     public double averagingTime() {
         int fastClients = 0;
@@ -180,16 +187,21 @@ public class Simulation implements Serializable {
     }
 
     /**
-     *
-     * @return
+     * Allows to observe the information that we need to plot into a graph
+     * @return a line with the parameter obtained from this simulation
      */
     public String writeLine() {
         int[] cli = attendedClientsByItems();
-        String caden = String.format("%.2f\t%d\t%d\t%d\t%d\n", averagingTime(), quickCheckouts, cli[0], cli[1],cli[0] + cli[1] );
+        String caden = String.format("%.2f\t%d\t%d\t%d\t%d \n", averagingTime(), quickCheckouts,
+                cli[0], cli[1],cli[0] + cli[1] );
         return caden;
     }
 
-    public int[] attendedClientsByItems(){
+    /**
+     * Auxiliary method in calculate the number of items in fast and large checkouts
+     * @return array with the sum of items
+     */
+    private int[] attendedClientsByItems(){
         int[] results = new int[2];
         int largeCustomer = 0;
         int fastClients = 0;
@@ -206,25 +218,8 @@ public class Simulation implements Serializable {
     }
 
     /**
-     *
-     */
-    public void getReports(){
-        SimpleDateFormat sdt = new SimpleDateFormat(("dd_MM_yyyy(HH:mm:ss.SSS)"));
-        String idFromDate = sdt.format(new Date());
-        serializer.makeDir("Reports");
-        serializer.makeDir("plot");
-        serializer.makeDir("Reports/Tickets");
-        serializer.makeDir("Reports/DailyReports");
-        serializer.makeDir("Reports/Missing");
-
-        serializer.writeTXT(costco, "Reports/DailyReports"+ "/"+ "[report]"+idFromDate+".txt");
-        serializer.writeTXT(costco.reportMissingExistences(), "Reports/Missing"+ "/"+ "[missing]"+idFromDate+".txt");
-        serializer.writeTXT(costco.getTickets(), "Reports/Tickets"+ "/"+ "[tickets]" +idFromDate+".txt");
-    }
-
-    /**
-     *
-     * @param products
+     * Random generate the number of products indicated
+     * @param products number of products to generate
      */
     public void genRandomProd(int products){
         ItemBuilder itemBuilder = new ItemBuilder();
@@ -236,8 +231,8 @@ public class Simulation implements Serializable {
     }
 
     /**
-     *
-     * @param path
+     * This load the list of products provided to supply the warehouse
+     * @param path list to be readed
      */
     public void loadProductsList(String path){
         if (path == ""){
