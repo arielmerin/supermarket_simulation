@@ -1,15 +1,15 @@
 package util;
 
-import java.io.File;
 import java.io.Serializable;
 import java.util.Random;
 import java.util.Scanner;
 
 /**
  * <h1>Utilidades</h1>
+ *
  * En esta clase se tiene la funcionalidad de contar con metodos auxiliares a la clase UIMenu pues  para el ingreso
  * de datos y la validacion de los mismos ha sido necesario implementar esta clase
- * @author Ariel Merino Peña, Armando Aquino Chapa
+ * @author Ariel Merino Peña and Armando Aquino Chapa
  * @version 1
  */
 public class Utilities implements Serializable {
@@ -99,12 +99,12 @@ public class Utilities implements Serializable {
         return cadena;
     }
 
-    public static int ranInt(int cotaInferior, int cotaSuperior){
-        Random random = new Random();
-        int resultado = cotaInferior + random.nextInt(cotaSuperior);
-        return resultado < 0?  -resultado: resultado;
-    }
 
+    /**
+     * Obtiene un número aleatorio positivo en cierto rango
+     * @param k rango en el que se obtendra
+     * @return numero aleatorio generado
+     */
     public static int random(int k){
         Random rdm = new Random();
         int i = rdm.nextInt();
@@ -112,6 +112,11 @@ public class Utilities implements Serializable {
         return i % k;
     }
 
+    /**
+     * Obtiene un número con punto decimal aleatorio positivo en cierto rango
+     * @param k rango en el que se obtendra
+     * @return numero aleatorio generado
+     */
     public static double randomD(int k){
         Random rdm = new Random();
         double i = rdm.nextDouble();

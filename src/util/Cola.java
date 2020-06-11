@@ -8,7 +8,7 @@ import java.util.NoSuchElementException;
  * <p> Clase concreta para modelar la estructura de datos Cola</p>
  * <p>Esta clase implementa una Cola genérica, es decir que es homogénea pero
  * puede tener elementos de cualquier tipo.
- * @author Kevin Ariel Merino Peña <arielmerino@ciencias.unam.mx>
+ * @author Kevin Ariel Merino Peña
  * @version 1.0
  * @param <T> Tipo que tienen los objetos que guarda esta cola.
  */

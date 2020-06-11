@@ -6,28 +6,30 @@ import static util.Utilities.random;
 /**
  * <h1>Customer</h1>
  *
- * @author Ariel Merino & Armando Aquino
+ * Provides the behavior of a client into a supermarket
+ * @author Ariel Merino and Armando Aquino
  * @version 1.1
  */
 public class Customer implements Comparable<Customer> {
 
     /**
-     *
+     * each client has one and only one purchase for its products
      */
     private Purchase purchase = new Purchase();
 
     /**
-     * <h1>Purchase </h1>
+     * <h2>Purchase </h2>
+     * Models the behavior of a shopping cart
      */
     private class Purchase implements Comparable{
 
         /**
-         *
+         * the structure where to save products
          */
         private Pila<Product> shoppingCart = new Pila<>();
 
         /**
-         *
+         * aux to calculate the size of this purchase
          */
         private double total;
         @Override
@@ -60,8 +62,8 @@ public class Customer implements Comparable<Customer> {
     }
 
     /**
-     *
-     * @return
+     * calculate the total of the sale
+     * @return sum of the total
      */
     public double computeTotal(){
         double sum = 0;
@@ -72,33 +74,34 @@ public class Customer implements Comparable<Customer> {
     }
 
     /**
-     *
-     * @return
+     * Access to te items
+     * @return number of items bought
      */
     public int getItems(){
         return purchase.shoppingCart.getTamanio();
     }
 
     /**
-     *
-     * @param product
+     * adding to this cart some product
+     * @param product item to be added
      */
     public void addToCart(Product product) {
         purchase.shoppingCart.agrega(product);
     }
 
     /**
-     *
-     * @param total
-     * @return
+     * calculate the taxes from a sale
+     * @param total total of sales
+     * @return the taxes calculated
      */
     public double computeTaxes(double total){
         return total * 0.16;
     }
 
     /**
-     *
-     * @return
+     * sum and aproximate the time that this client had been waiting in the supermarket, taking in consider the objects
+     * and if its bought is or not less than 20 items
+     * @return the average time
      */
     public long getWaitingTime() {
         int tiempoTardaPorArticulo = purchase.shoppingCart.getTamanio() >= 20 ? random(9) + 28: random(5) + 1;
