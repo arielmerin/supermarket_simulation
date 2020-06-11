@@ -1,0 +1,39 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 20:24:09.320
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 12		1		 Pumpkins integral				1770.19	1770.19
+ 79		1		 Pasta ready to eat				1220.72	1220.72
+ 80		1		 Tofu ready to eat				1253.01	1253.01
+ 86		2		 Dried chiles vegan				796.52	796.52
+ 94		2		 Amaranth integral				1031.89	1031.89
+ 104		1		 Apples vegan				694.38	694.38
+ 108		3		 Integral flour vegan				1359.61	1359.61
+ 109		2		 Rice extra big				1833.30	1833.30
+ 110		4		 Nuts organic				1253.06	1253.06
+ 112		9		 Dried chiles with agave syrup				421.33	421.33
+ 119		3		 Peanut butter with sea salt				1275.17	1275.17
+ 128		1		 Lemons with coconut oil				517.97	517.97
+ 131		1		 Soy sauce with dark cocoa				275.94	275.9
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 8		0		 Wheat flour with sea salt				1256.34	1256.34
+ 9		0		 Broad Beans extra big				120.76	120.76
+ 19		0		 Nuts extra big				1058.97	1058.97
+ 35		0		 Beans baby				970.06	970.06
+ 36		0		 Dried chiles ready to eat				1269.76	1269.76
+ 39		0		 Coffee organic				1065.31	1065.31
+ 44		0		 Cereals ready to eat				132.88	132.88
+ 58		0		 Kale gmo free				1174.95	1174.95
+ 61		0		 Kale veggie				544.90	544.90
+ 69		0		 Peanut butter with agave syrup				568.13	568.13
+ 72		0		 Tangerine baby				910.42	910.42
+ 83		0		 Beans with agave syrup				259.75	259.75
+ 105		0		 Oat flour organic				1179.35	1179.35
+ 140		0		 Ezekiel gmo free				719.83	719.83
+ 143		0		 Lentils with dark cocoa				137.15	137.15
+ 144		0		 Ezekiel veggie				1525.49	1525.49
+ 146		0		 Mango gmo free				1804.80	1804.8

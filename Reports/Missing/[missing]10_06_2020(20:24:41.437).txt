@@ -1,0 +1,50 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 20:24:33.432
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 9		1		 Almonds organic				1191.36	1191.36
+ 14		2		 Spaghetti organic				1056.90	1056.90
+ 19		2		 Spaghetti with agave syrup				1397.71	1397.71
+ 32		2		 Soy sauce ready to eat				108.69	108.69
+ 36		1		 Carrot baby				1310.82	1310.82
+ 39		8		 Peanut butter veggie				1444.30	1444.30
+ 46		1		 Beans baby				568.68	568.68
+ 47		1		 Almonds with coconut oil				787.54	787.54
+ 51		4		 Soup gluten free				676.69	676.69
+ 70		1		 Quinoa gluten free				281.18	281.18
+ 83		1		 Splenda with dark cocoa				450.07	450.07
+ 84		2		 Ezekiel veggie				461.10	461.10
+ 85		1		 Oat organic				651.24	651.24
+ 98		2		 Integral flour gluten free				1322.10	1322.10
+ 108		2		 Rice baby				216.64	216.64
+ 111		3		 Nuts organic				1879.67	1879.67
+ 121		1		 Oat extra big				1475.32	1475.32
+ 129		2		 Gram flour with sea salt				1464.79	1464.79
+ 132		2		 Tofu gluten free				1836.42	1836.42
+ 134		1		 Soap baby				609.38	609.38
+ 138		2		 Tofu with dark cocoa				1035.95	1035.95
+ 148		3		 Splenda extra big				1444.41	1444.4
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 13		0		 Broad Beans baby				0.18	0.18
+ 17		0		 Quinoa gluten free				1870.96	1870.96
+ 21		0		 Oat flour baby				1400.45	1400.45
+ 26		0		 Integral flour with dark cocoa				930.22	930.22
+ 27		0		 Peas with sea salt				506.97	506.97
+ 50		0		 Pear extra big				304.04	304.04
+ 53		0		 Carrot vegan				861.26	861.26
+ 65		0		 Mango veggie				1592.75	1592.75
+ 71		0		 Chia seed with agave syrup				1665.90	1665.90
+ 72		0		 Gram flour extra big				745.00	745.00
+ 77		0		 Cereals with dark cocoa				44.94	44.94
+ 80		0		 Integral flour gluten free				507.60	507.60
+ 89		0		 Oat integral				513.24	513.24
+ 100		0		 Ezekiel ready to eat				1049.15	1049.15
+ 116		0		 Oat flour gluten free				783.24	783.24
+ 120		0		 Rice vegan				1827.57	1827.57
+ 122		0		 Coffee veggie				680.85	680.85
+ 130		0		 Quinoa with sea salt				1651.33	1651.33
+ 135		0		 Rice veggie				180.74	180.7

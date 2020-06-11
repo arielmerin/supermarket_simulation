@@ -23,10 +23,14 @@ import static util.Utilities.random;
 public class SuperMarket  implements Serializable {
 
 
+    public void setMainWarehouse(Warehouse mainWarehouse) {
+        this.mainWarehouse = mainWarehouse;
+    }
+
     /**
      *
      */
-    private final Warehouse mainWarehouse;
+    private Warehouse mainWarehouse;
 
     /**
      *

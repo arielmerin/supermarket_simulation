@@ -1,0 +1,83 @@
+:::  SUPERMARKET  :::
+
+DATE: 10/06/2020 - 20:38:29.444
+TOTAL SALES: $5151981.00
+There where attended 158 clients  with at the most 20 items
+
+There where attended 0 clients with more than 20 items
+
+Total of customers attended: 158 
+ 
+WITH THE FOLLLOWING CHECKOUTS: 
+ LARGE CHECKOUT
+Total sales : $0.00
+Attended customers: 0
+
+| LARGE CHECKOUT
+Total sales : $0.00
+Attended customers: 0
+
+
+  QUICK CHECKOUT
+Total sales : $815745.00
+Attended customers: 12
+
+| QUICK CHECKOUT
+Total sales : $825010.09
+Attended customers: 12
+
+| QUICK CHECKOUT
+Total sales : $855686.49
+Attended customers: 12
+
+| QUICK CHECKOUT
+Total sales : $780969.14
+Attended customers: 12
+
+| QUICK CHECKOUT
+Total sales : $730234.84
+Attended customers: 12
+
+| QUICK CHECKOUT
+Total sales : $765554.42
+Attended customers: 12
+
+| QUICK CHECKOUT
+Total sales : $855504.78
+Attended customers: 13
+
+| QUICK CHECKOUT
+Total sales : $856984.51
+Attended customers: 12
+
+| QUICK CHECKOUT
+Total sales : $802987.14
+Attended customers: 12
+
+| QUICK CHECKOUT
+Total sales : $903352.59
+Attended customers: 12
+
+| QUICK CHECKOUT
+Total sales : $603283.66
+Attended customers: 12
+
+| QUICK CHECKOUT
+Total sales : $727121.64
+Attended customers: 12
+
+| QUICK CHECKOUT
+Total sales : $781528.24
+Attended customers: 13
+
+
+
+ The large checkout that had attended more customers was: 
+  LARGE CHECKOUT
+Total sales : $0.00
+Attended customers: 0
+
+ 
+Best selling box sold: $ 0.00
+
+the box with the most items served 0 times.

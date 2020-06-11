@@ -1,0 +1,53 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 20:29:40.222
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 16		3		 Pasta extra big				1055.78	1055.78
+ 22		5		 Tangerine ready to eat				663.26	663.26
+ 30		6		 Quinoa flour extra big				1308.21	1308.21
+ 45		1		 Carrot with agave syrup				1705.00	1705.00
+ 100		1		 Almonds vegan				1563.12	1563.12
+ 106		5		 Lentils veggie				1685.59	1685.59
+ 157		1		 Broad Beans extra big				706.26	706.26
+ 164		2		 Splenda ready to eat				1065.99	1065.99
+ 184		8		 Quinoa baby				409.84	409.84
+ 198		9		 Sweet potato integral				1309.62	1309.62
+ 251		2		 Splenda with agave syrup				1547.06	1547.06
+ 260		2		 Grams  extra big				1291.80	1291.80
+ 274		2		 Peanut butter with dark cocoa				1630.50	1630.50
+ 315		3		 Dried chiles with dark cocoa				1307.66	1307.66
+ 367		5		 Ezekiel with sea salt				710.13	710.13
+ 378		1		 Lemons ready to eat				924.52	924.52
+ 442		7		 Quinoa with sea salt				58.53	58.53
+ 459		3		 Rice vinegar ready to eat				580.61	580.61
+ 462		6		 Chayotes ready to eat				219.27	219.27
+ 463		1		 Rice vinegar extra big				1338.79	1338.79
+ 481		7		 Almonds with dark cocoa				1471.72	1471.72
+ 507		3		 Apples with coconut oil				1006.45	1006.45
+ 613		6		 Grams  veggie				1378.80	1378.80
+ 693		3		 Amaranth with sea salt				1676.69	1676.69
+ 713		9		 Amaranth gmo free				1615.36	1615.36
+ 728		1		 Rice vinegar with coconut oil				109.69	109.69
+ 730		6		 Gram flour extra big				1025.60	1025.60
+ 743		1		 Chia seed baby				1180.02	1180.02
+ 860		7		 Coffee gmo free				1864.62	1864.62
+ 869		6		 Amaranth baby				975.16	975.16
+ 900		2		 Gram flour ready to eat				305.10	305.10
+ 914		8		 Kale veggie				158.30	158.30
+ 917		1		 Apples vegan				1320.32	1320.32
+ 930		2		 Tangerine with coconut oil				238.34	238.34
+ 939		1		 Almonds organic				1246.73	1246.7
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 3		0		 Splenda baby				409.13	409.13
+ 133		0		 Peanut butter integral				913.97	913.97
+ 146		0		 Coffee gmo free				486.05	486.05
+ 248		0		 Soybeans with sea salt				240.26	240.26
+ 437		0		 Quinoa gluten free				109.64	109.64
+ 504		0		 Peas veggie				687.86	687.86
+ 614		0		 Integral flour gluten free				222.92	222.92
+ 640		0		 Dried chiles baby				1518.18	1518.18
+ 749		0		 Rice vinegar with agave syrup				1267.68	1267.6

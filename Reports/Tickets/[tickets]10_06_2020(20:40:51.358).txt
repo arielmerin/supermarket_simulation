@@ -1,0 +1,48 @@
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 199		1		 Tangerine with coconut oil				432.96	432.96
+
+                           Subtotal:   363.69
+                           taxes:        69.27
+                           total:      432.96
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 678		1		 Lemons with dark cocoa				561.74	561.74
+
+                           Subtotal:   471.86
+                           taxes:        89.88
+                           total:      561.74
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 113		1		 Peas with coconut oil				1680.40	1680.40
+
+                           Subtotal:   1411.54
+                           taxes:        268.86
+                           total:      1680.40
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 262		1		 Soybeans with dark cocoa				567.85	567.85
+
+                           Subtotal:   476.99
+                           taxes:        90.86
+                           total:      567.85
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+---------------------------------------------------

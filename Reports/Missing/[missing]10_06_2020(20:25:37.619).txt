@@ -1,0 +1,38 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 20:25:29.616
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 3		6		 Pumpkins with agave syrup				1853.64	1853.64
+ 26		7		 Coffee gluten free				572.86	572.86
+ 32		1		 Beans gmo free				651.33	651.33
+ 50		1		 Tangerine gmo free				171.56	171.56
+ 63		2		 Peas with coconut oil				1643.25	1643.25
+ 64		3		 Peanut butter with dark cocoa				786.66	786.66
+ 76		6		 Grams  gluten free				353.04	353.04
+ 78		1		 Peas extra big				652.59	652.59
+ 109		1		 Kale with sea salt				266.00	266.00
+ 121		1		 Rice with dark cocoa				918.82	918.82
+ 127		3		 Wheat flour baby				1404.80	1404.80
+ 131		2		 Lemons with agave syrup				576.93	576.93
+ 136		2		 Avocado extra big				84.19	84.19
+ 147		1		 Tofu integral				1763.52	1763.5
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 8		0		 Beans with agave syrup				945.63	945.63
+ 42		0		 Oat vegan				79.05	79.05
+ 57		0		 Soy sauce with coconut oil				1404.92	1404.92
+ 66		0		 Oat flour integral				1641.83	1641.83
+ 69		0		 Tofu vegan				1894.20	1894.20
+ 82		0		 Kale with sea salt				800.20	800.20
+ 103		0		 Ezekiel integral				1741.48	1741.48
+ 111		0		 Soybeans integral				494.31	494.31
+ 117		0		 Tangerine vegan				1587.98	1587.98
+ 119		0		 Kale with coconut oil				1445.67	1445.67
+ 120		0		 Coffee veggie				950.47	950.47
+ 129		0		 Kale with agave syrup				955.95	955.95
+ 130		0		 Kale baby				1184.47	1184.47
+ 132		0		 Nuts veggie				959.23	959.23
+ 142		0		 Gram flour with agave syrup				1762.53	1762.5

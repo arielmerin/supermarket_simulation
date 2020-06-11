@@ -1,0 +1,32 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 20:25:37.641
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 10		1		 Almonds integral				47.07	47.07
+ 28		1		 Apples with agave syrup				1412.41	1412.41
+ 38		8		 Gram flour with agave syrup				713.43	713.43
+ 44		4		 Lemons baby				1305.33	1305.33
+ 70		1		 Broad Beans integral				213.24	213.24
+ 78		2		 Cereals with dark cocoa				1781.54	1781.54
+ 90		3		 Soap ready to eat				773.43	773.43
+ 91		7		 Soup integral				1360.49	1360.49
+ 115		1		 Pumpkins extra big				1378.39	1378.39
+ 127		8		 Spaghetti with coconut oil				478.46	478.46
+ 137		1		 Nuts baby				436.37	436.37
+ 139		1		 Papaya extra big				500.40	500.40
+ 143		3		 Soybeans vegan				1092.07	1092.0
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 11		0		 Almonds ready to eat				574.98	574.98
+ 27		0		 Splenda extra big				1456.01	1456.01
+ 53		0		 Tofu veggie				581.63	581.63
+ 76		0		 Rice veggie				951.92	951.92
+ 85		0		 Avocado with dark cocoa				593.27	593.27
+ 88		0		 Pumpkins baby				37.80	37.80
+ 117		0		 Quinoa flour organic				682.47	682.47
+ 124		0		 Ezekiel integral				155.09	155.09
+ 131		0		 Spaghetti gluten free				530.17	530.17
+ 138		0		 Soup with dark cocoa				1248.70	1248.7

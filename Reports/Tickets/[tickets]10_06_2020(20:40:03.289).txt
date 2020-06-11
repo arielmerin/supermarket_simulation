@@ -1,0 +1,795 @@
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 945		1		 Grams  veggie				588.79	588.79
+
+                           Subtotal:   494.58
+                           taxes:        94.21
+                           total:      588.79
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 781		5		 Avocado veggie				627.02	3135.10
+ 897		1		 Pear with coconut oil				953.90	953.90
+
+                           Subtotal:   3434.76
+                           taxes:        654.24
+                           total:      4089.00
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 565		12		 Cereals with coconut oil				1320.43	15845.16
+
+                           Subtotal:   13309.93
+                           taxes:        2535.23
+                           total:      15845.16
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 295		1		 Soup with agave syrup				1571.61	1571.61
+
+                           Subtotal:   1320.15
+                           taxes:        251.46
+                           total:      1571.61
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 324		6		 Ezekiel gluten free				1597.26	9583.56
+
+                           Subtotal:   8050.19
+                           taxes:        1533.37
+                           total:      9583.56
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 907		2		 Coffee gmo free				1552.67	3105.34
+ 686		15		 Lentils with coconut oil				442.38	6635.70
+
+                           Subtotal:   8182.47
+                           taxes:        1558.57
+                           total:      9741.04
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 898		9		 Broad Beans with dark cocoa				949.51	8545.59
+ 426		9		 Peanut butter vegan				1434.38	12909.42
+ 372		5		 Beans with coconut oil				186.24	931.20
+
+                           Subtotal:   18804.42
+                           taxes:        3581.79
+                           total:      22386.21
+Total number of items sold: 3
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 90		3		 Beans organic				465.70	1397.10
+
+                           Subtotal:   1173.56
+                           taxes:        223.54
+                           total:      1397.10
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 426		4		 Peanut butter vegan				1434.38	5737.52
+
+                           Subtotal:   4819.52
+                           taxes:        918.00
+                           total:      5737.52
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 429		7		 Beans organic				1088.17	7617.19
+ 426		3		 Peanut butter vegan				1434.38	4303.14
+
+                           Subtotal:   10013.08
+                           taxes:        1907.25
+                           total:      11920.33
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 686		1		 Lentils with coconut oil				442.38	442.38
+ 426		4		 Peanut butter vegan				1434.38	5737.52
+ 19		8		 Chayotes with agave syrup				714.94	5719.52
+
+                           Subtotal:   9995.51
+                           taxes:        1903.91
+                           total:      11899.42
+Total number of items sold: 3
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 426		7		 Peanut butter vegan				1434.38	10040.66
+ 65		5		 Almonds with agave syrup				80.20	401.00
+
+                           Subtotal:   8770.99
+                           taxes:        1670.67
+                           total:      10441.66
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 65		3		 Almonds with agave syrup				80.20	240.60
+
+                           Subtotal:   202.10
+                           taxes:        38.50
+                           total:      240.60
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 945		3		 Grams  veggie				588.79	1766.37
+ 300		8		 Pan ready to eat				1180.83	9446.64
+
+                           Subtotal:   9418.93
+                           taxes:        1794.08
+                           total:      11213.01
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 612		14		 Lemons ready to eat				1684.53	23583.42
+
+                           Subtotal:   19810.07
+                           taxes:        3773.35
+                           total:      23583.42
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 741		13		 Wheat flour integral				530.46	6895.98
+ 250		13		 Ezekiel with dark cocoa				505.44	6570.72
+
+                           Subtotal:   11312.03
+                           taxes:        2154.67
+                           total:      13466.70
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 113		1		 Peas with coconut oil				1680.40	1680.40
+
+                           Subtotal:   1411.54
+                           taxes:        268.86
+                           total:      1680.40
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 781		10		 Avocado veggie				627.02	6270.20
+
+                           Subtotal:   5266.97
+                           taxes:        1003.23
+                           total:      6270.20
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 645		1		 Soybeans with agave syrup				1889.80	1889.80
+
+                           Subtotal:   1587.43
+                           taxes:        302.37
+                           total:      1889.80
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 512		1		 Soy sauce gluten free				835.07	835.07
+
+                           Subtotal:   701.46
+                           taxes:        133.61
+                           total:      835.07
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 247		1		 Coffee with sea salt				1025.92	1025.92
+ 414		4		 Coffee ready to eat				974.54	3898.16
+
+                           Subtotal:   4136.23
+                           taxes:        787.85
+                           total:      4924.08
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 686		9		 Lentils with coconut oil				442.38	3981.42
+
+                           Subtotal:   3344.39
+                           taxes:        637.03
+                           total:      3981.42
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 565		12		 Cereals with coconut oil				1320.43	15845.16
+
+                           Subtotal:   13309.93
+                           taxes:        2535.23
+                           total:      15845.16
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 738		10		 Rice organic				1617.43	16174.30
+
+                           Subtotal:   13586.41
+                           taxes:        2587.89
+                           total:      16174.30
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 674		3		 Quinoa extra big				1857.98	5573.94
+ 426		7		 Peanut butter vegan				1434.38	10040.66
+ 680		1		 Soap with sea salt				482.85	482.85
+
+                           Subtotal:   13521.86
+                           taxes:        2575.59
+                           total:      16097.45
+Total number of items sold: 3
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 565		1		 Cereals with coconut oil				1320.43	1320.43
+
+                           Subtotal:   1109.16
+                           taxes:        211.27
+                           total:      1320.43
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 612		9		 Lemons ready to eat				1684.53	15160.77
+
+                           Subtotal:   12735.05
+                           taxes:        2425.72
+                           total:      15160.77
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 739		1		 Oat baby				857.98	857.98
+
+                           Subtotal:   720.70
+                           taxes:        137.28
+                           total:      857.98
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 346		13		 Peas with agave syrup				970.71	12619.23
+
+                           Subtotal:   10600.15
+                           taxes:        2019.08
+                           total:      12619.23
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 65		12		 Almonds with agave syrup				80.20	962.40
+
+                           Subtotal:   808.42
+                           taxes:        153.98
+                           total:      962.40
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 612		15		 Lemons ready to eat				1684.53	25267.95
+
+                           Subtotal:   21225.08
+                           taxes:        4042.87
+                           total:      25267.95
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 760		3		 Tangerine baby				772.76	2318.28
+ 612		2		 Lemons ready to eat				1684.53	3369.06
+
+                           Subtotal:   4777.37
+                           taxes:        909.97
+                           total:      5687.34
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 833		2		 Quinoa flour gluten free				1773.29	3546.58
+ 346		3		 Peas with agave syrup				970.71	2912.13
+ 65		10		 Almonds with agave syrup				80.20	802.00
+
+                           Subtotal:   6099.00
+                           taxes:        1161.71
+                           total:      7260.71
+Total number of items sold: 3
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 324		7		 Ezekiel gluten free				1597.26	11180.82
+ 295		1		 Soup with agave syrup				1571.61	1571.61
+
+                           Subtotal:   10712.04
+                           taxes:        2040.39
+                           total:      12752.43
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 300		15		 Pan ready to eat				1180.83	17712.45
+
+                           Subtotal:   14878.46
+                           taxes:        2833.99
+                           total:      17712.45
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 741		12		 Wheat flour integral				530.46	6365.52
+
+                           Subtotal:   5347.04
+                           taxes:        1018.48
+                           total:      6365.52
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 612		12		 Lemons ready to eat				1684.53	20214.36
+ 833		14		 Quinoa flour gluten free				1773.29	24826.06
+
+                           Subtotal:   37833.95
+                           taxes:        7206.47
+                           total:      45040.42
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 714		3		 Tofu with coconut oil				1391.33	4173.99
+
+                           Subtotal:   3506.15
+                           taxes:        667.84
+                           total:      4173.99
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 741		11		 Wheat flour integral				530.46	5835.06
+
+                           Subtotal:   4901.45
+                           taxes:        933.61
+                           total:      5835.06
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 250		9		 Ezekiel with dark cocoa				505.44	4548.96
+
+                           Subtotal:   3821.13
+                           taxes:        727.83
+                           total:      4548.96
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 346		11		 Peas with agave syrup				970.71	10677.81
+
+                           Subtotal:   8969.36
+                           taxes:        1708.45
+                           total:      10677.81
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 368		12		 Quinoa flour gmo free				1046.22	12554.64
+
+                           Subtotal:   10545.90
+                           taxes:        2008.74
+                           total:      12554.64
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 368		4		 Quinoa flour gmo free				1046.22	4184.88
+
+                           Subtotal:   3515.30
+                           taxes:        669.58
+                           total:      4184.88
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 71		2		 Soap baby				1595.66	3191.32
+
+                           Subtotal:   2680.71
+                           taxes:        510.61
+                           total:      3191.32
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 565		14		 Cereals with coconut oil				1320.43	18486.02
+
+                           Subtotal:   15528.26
+                           taxes:        2957.76
+                           total:      18486.02
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 324		9		 Ezekiel gluten free				1597.26	14375.34
+
+                           Subtotal:   12075.29
+                           taxes:        2300.05
+                           total:      14375.34
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 5		1		 Pasta with coconut oil				1522.41	1522.41
+ 346		7		 Peas with agave syrup				970.71	6794.97
+
+                           Subtotal:   6986.60
+                           taxes:        1330.78
+                           total:      8317.38
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 300		5		 Pan ready to eat				1180.83	5904.15
+ 781		4		 Avocado veggie				627.02	2508.08
+
+                           Subtotal:   7066.27
+                           taxes:        1345.96
+                           total:      8412.23
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 429		1		 Beans organic				1088.17	1088.17
+
+                           Subtotal:   914.06
+                           taxes:        174.11
+                           total:      1088.17
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 945		13		 Grams  veggie				588.79	7654.27
+ 300		4		 Pan ready to eat				1180.83	4723.32
+ 833		4		 Quinoa flour gluten free				1773.29	7093.16
+
+                           Subtotal:   16355.43
+                           taxes:        3115.32
+                           total:      19470.75
+Total number of items sold: 3
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 250		8		 Ezekiel with dark cocoa				505.44	4043.52
+
+                           Subtotal:   3396.56
+                           taxes:        646.96
+                           total:      4043.52
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 429		8		 Beans organic				1088.17	8705.36
+
+                           Subtotal:   7312.50
+                           taxes:        1392.86
+                           total:      8705.36
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 686		1		 Lentils with coconut oil				442.38	442.38
+ 429		4		 Beans organic				1088.17	4352.68
+
+                           Subtotal:   4027.85
+                           taxes:        767.21
+                           total:      4795.06
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 300		3		 Pan ready to eat				1180.83	3542.49
+
+                           Subtotal:   2975.69
+                           taxes:        566.80
+                           total:      3542.49
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 324		7		 Ezekiel gluten free				1597.26	11180.82
+
+                           Subtotal:   9391.89
+                           taxes:        1788.93
+                           total:      11180.82
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 346		1		 Peas with agave syrup				970.71	970.71
+ 324		2		 Ezekiel gluten free				1597.26	3194.52
+
+                           Subtotal:   3498.79
+                           taxes:        666.44
+                           total:      4165.23
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 781		8		 Avocado veggie				627.02	5016.16
+
+                           Subtotal:   4213.57
+                           taxes:        802.59
+                           total:      5016.16
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 765		3		 Spaghetti gluten free				344.72	1034.16
+
+                           Subtotal:   868.69
+                           taxes:        165.47
+                           total:      1034.16
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 686		15		 Lentils with coconut oil				442.38	6635.70
+
+                           Subtotal:   5573.99
+                           taxes:        1061.71
+                           total:      6635.70
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 738		4		 Rice organic				1617.43	6469.72
+ 612		1		 Lemons ready to eat				1684.53	1684.53
+
+                           Subtotal:   6849.57
+                           taxes:        1304.68
+                           total:      8154.25
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 760		11		 Tangerine baby				772.76	8500.36
+
+                           Subtotal:   7140.30
+                           taxes:        1360.06
+                           total:      8500.36
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 208		1		 Soybeans gluten free				1468.62	1468.62
+ 940		1		 Quinoa flour integral				362.80	362.80
+
+                           Subtotal:   1538.39
+                           taxes:        293.03
+                           total:      1831.42
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 738		5		 Rice organic				1617.43	8087.15
+
+                           Subtotal:   6793.21
+                           taxes:        1293.94
+                           total:      8087.15
+Total number of items sold: 1
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+----------------------------------------------------
+			CASH RECEIPT
+----------------------------------------------------
+#Item  QTY     Description    Price   Total
+ 836		2		 Grams  gluten free				1737.03	3474.06
+ 310		1		 Sweet potato baby				1609.06	1609.06
+
+                           Subtotal:   4269.82
+                           taxes:        813.30
+                           total:      5083.12
+Total number of items sold: 2
+----------------------------------------------------
+		THANK YOU FOR SHOPPING!
+---------------------------------------------------

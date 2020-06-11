@@ -1,0 +1,156 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 20:34:01.415
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 16		3		 Pasta extra big				1055.78	1055.78
+ 34		3		 Carrot ready to eat				247.35	247.35
+ 45		1		 Carrot with agave syrup				1705.00	1705.00
+ 50		9		 Dried chiles baby				1077.37	1077.37
+ 51		5		 Oat flour gluten free				1123.04	1123.04
+ 58		2		 Kale integral				561.40	561.40
+ 67		4		 Lentils with sea salt				103.01	103.01
+ 88		1		 Soup organic				1354.59	1354.59
+ 99		2		 Strawberries organic				1852.83	1852.83
+ 106		1		 Lentils veggie				1685.59	1685.59
+ 112		3		 Lemons baby				1661.37	1661.37
+ 115		1		 Coffee baby				685.30	685.30
+ 124		1		 Soup baby				819.03	819.03
+ 134		1		 Papaya baby				609.60	609.60
+ 136		1		 Pear integral				1179.45	1179.45
+ 151		1		 Amaranth with agave syrup				586.16	586.16
+ 158		1		 Coffee vegan				860.43	860.43
+ 159		1		 Cucumber integral				1050.44	1050.44
+ 164		1		 Splenda ready to eat				1065.99	1065.99
+ 196		4		 Tofu baby				335.00	335.00
+ 198		1		 Sweet potato integral				1309.62	1309.62
+ 210		3		 Gram flour gluten free				888.35	888.35
+ 226		1		 Coffee organic				1700.28	1700.28
+ 230		1		 Sweet potato with coconut oil				5.17	5.17
+ 238		3		 Tofu veggie				21.47	21.47
+ 252		8		 Wheat flour gluten free				1849.15	1849.15
+ 257		2		 Pumpkins with sea salt				1463.23	1463.23
+ 260		1		 Grams  extra big				1291.80	1291.80
+ 286		3		 Cereals extra big				552.37	552.37
+ 292		2		 Beans ready to eat				1522.29	1522.29
+ 296		1		 Coffee veggie				1132.63	1132.63
+ 315		1		 Dried chiles with dark cocoa				1307.66	1307.66
+ 317		1		 Broad Beans ready to eat				1514.26	1514.26
+ 328		1		 Gram flour vegan				1203.10	1203.10
+ 344		1		 Soap with sea salt				1130.21	1130.21
+ 365		3		 Sweet potato with sea salt				1316.85	1316.85
+ 396		3		 Peas vegan				1028.77	1028.77
+ 408		1		 Wheat flour with agave syrup				1296.83	1296.83
+ 434		7		 Lentils gmo free				1816.49	1816.49
+ 436		1		 Spaghetti organic				930.81	930.81
+ 463		2		 Rice vinegar extra big				1338.79	1338.79
+ 465		1		 Pear baby				739.43	739.43
+ 477		2		 Coffee organic				526.27	526.27
+ 496		5		 Cucumber with dark cocoa				199.07	199.07
+ 576		1		 Pear integral				1709.09	1709.09
+ 584		1		 Integral flour with sea salt				967.49	967.49
+ 589		3		 Kale with sea salt				1790.85	1790.85
+ 590		6		 Gram flour organic				117.49	117.49
+ 614		1		 Integral flour gluten free				222.92	222.92
+ 615		1		 Chia seed extra big				1358.37	1358.37
+ 618		1		 Soup organic				584.53	584.53
+ 640		1		 Dried chiles baby				1518.18	1518.18
+ 676		1		 Dried chiles baby				202.72	202.72
+ 690		2		 Soy sauce with agave syrup				289.54	289.54
+ 693		1		 Amaranth with sea salt				1676.69	1676.69
+ 695		1		 Carrot integral				1539.58	1539.58
+ 699		2		 Kale extra big				1570.47	1570.47
+ 703		1		 Quinoa flour gluten free				1279.97	1279.97
+ 717		4		 Integral flour with dark cocoa				99.37	99.37
+ 728		3		 Rice vinegar with coconut oil				109.69	109.69
+ 733		3		 Broad Beans with coconut oil				337.51	337.51
+ 743		1		 Chia seed baby				1180.02	1180.02
+ 748		2		 Pear with coconut oil				1843.48	1843.48
+ 758		2		 Pan integral				1666.13	1666.13
+ 763		1		 Cereals baby				1287.89	1287.89
+ 778		2		 Pan gluten free				307.50	307.50
+ 780		3		 Cucumber gluten free				1742.25	1742.25
+ 787		1		 Gram flour integral				900.75	900.75
+ 794		1		 Soybeans with coconut oil				1811.93	1811.93
+ 821		3		 Spaghetti vegan				1490.19	1490.19
+ 844		1		 Dried chiles ready to eat				1764.03	1764.03
+ 845		1		 Soybeans baby				658.23	658.23
+ 848		8		 Mango with agave syrup				305.85	305.85
+ 850		1		 Papaya with sea salt				1080.97	1080.97
+ 860		1		 Coffee gmo free				1864.62	1864.62
+ 869		2		 Amaranth baby				975.16	975.16
+ 872		2		 Mango vegan				633.69	633.69
+ 891		3		 Soap vegan				1722.06	1722.06
+ 895		5		 Papaya baby				25.74	25.74
+ 914		2		 Kale veggie				158.30	158.30
+ 921		2		 Ezekiel integral				692.74	692.74
+ 928		1		 Peanut butter with dark cocoa				594.56	594.56
+ 939		1		 Almonds organic				1246.73	1246.7
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 3		0		 Splenda baby				409.13	409.13
+ 7		0		 Lemons organic				559.83	559.83
+ 22		0		 Tangerine ready to eat				663.26	663.26
+ 30		0		 Quinoa flour extra big				1308.21	1308.21
+ 52		0		 Cucumber baby				145.98	145.98
+ 100		0		 Almonds vegan				1563.12	1563.12
+ 109		0		 Lemons baby				171.31	171.31
+ 114		0		 Amaranth integral				1482.97	1482.97
+ 131		0		 Ezekiel organic				716.66	716.66
+ 133		0		 Peanut butter integral				913.97	913.97
+ 146		0		 Coffee gmo free				486.05	486.05
+ 157		0		 Broad Beans extra big				706.26	706.26
+ 172		0		 Gram flour with dark cocoa				162.74	162.74
+ 177		0		 Cereals vegan				1828.59	1828.59
+ 178		0		 Soup extra big				1319.11	1319.11
+ 184		0		 Quinoa baby				409.84	409.84
+ 185		0		 Mango baby				1811.92	1811.92
+ 189		0		 Peanut butter extra big				1739.73	1739.73
+ 243		0		 Dried chiles with dark cocoa				1346.43	1346.43
+ 248		0		 Soybeans with sea salt				240.26	240.26
+ 251		0		 Splenda with agave syrup				1547.06	1547.06
+ 274		0		 Peanut butter with dark cocoa				1630.50	1630.50
+ 342		0		 Chia seed extra big				1531.57	1531.57
+ 367		0		 Ezekiel with sea salt				710.13	710.13
+ 370		0		 Avocado vegan				915.62	915.62
+ 376		0		 Integral flour vegan				484.22	484.22
+ 378		0		 Lemons ready to eat				924.52	924.52
+ 379		0		 Grams  with sea salt				635.56	635.56
+ 381		0		 Kale with dark cocoa				1866.53	1866.53
+ 400		0		 Grams  extra big				794.61	794.61
+ 418		0		 Strawberries organic				1785.00	1785.00
+ 437		0		 Quinoa gluten free				109.64	109.64
+ 442		0		 Quinoa with sea salt				58.53	58.53
+ 446		0		 Chia seed with coconut oil				73.82	73.82
+ 459		0		 Rice vinegar ready to eat				580.61	580.61
+ 462		0		 Chayotes ready to eat				219.27	219.27
+ 475		0		 Quinoa flour extra big				1893.03	1893.03
+ 481		0		 Almonds with dark cocoa				1471.72	1471.72
+ 504		0		 Peas veggie				687.86	687.86
+ 506		0		 Spaghetti gmo free				1304.62	1304.62
+ 507		0		 Apples with coconut oil				1006.45	1006.45
+ 508		0		 Cucumber veggie				802.67	802.67
+ 523		0		 Soup with sea salt				1122.52	1122.52
+ 559		0		 Grams  with agave syrup				517.24	517.24
+ 579		0		 Ezekiel with sea salt				825.36	825.36
+ 602		0		 Pear gluten free				183.09	183.09
+ 613		0		 Grams  veggie				1378.80	1378.80
+ 617		0		 Carrot with sea salt				1633.01	1633.01
+ 630		0		 Integral flour gmo free				1217.60	1217.60
+ 648		0		 Strawberries vegan				570.34	570.34
+ 665		0		 Gram flour extra big				1484.21	1484.21
+ 708		0		 Tofu gluten free				449.51	449.51
+ 713		0		 Amaranth gmo free				1615.36	1615.36
+ 730		0		 Gram flour extra big				1025.60	1025.60
+ 734		0		 Tangerine with agave syrup				251.69	251.69
+ 749		0		 Rice vinegar with agave syrup				1267.68	1267.68
+ 750		0		 Strawberries gmo free				1793.52	1793.52
+ 776		0		 Oat flour with dark cocoa				778.05	778.05
+ 864		0		 Ezekiel gluten free				798.80	798.80
+ 900		0		 Gram flour ready to eat				305.10	305.10
+ 915		0		 Strawberries with coconut oil				1841.32	1841.32
+ 917		0		 Apples vegan				1320.32	1320.32
+ 930		0		 Tangerine with coconut oil				238.34	238.34
+ 938		0		 Apples baby				1381.85	1381.8

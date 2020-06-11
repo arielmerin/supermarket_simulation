@@ -1,0 +1,36 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 20:25:05.538
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		1		 Pasta integral				258.47	258.47
+ 30		1		 Almonds with sea salt				198.99	198.99
+ 31		1		 Kale baby				214.20	214.20
+ 36		3		 Quinoa flour with coconut oil				1494.58	1494.58
+ 41		6		 Lemons vegan				1211.45	1211.45
+ 52		2		 Mango with agave syrup				1648.12	1648.12
+ 59		3		 Wheat flour baby				1357.61	1357.61
+ 60		1		 Chayotes ready to eat				465.68	465.68
+ 67		1		 Pear with sea salt				1729.99	1729.99
+ 88		1		 Kale with coconut oil				231.26	231.26
+ 108		6		 Soup baby				348.01	348.01
+ 138		1		 Grams  organic				1207.04	1207.04
+ 149		4		 Mango gmo free				1843.35	1843.3
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		0		 Mango organic				1265.76	1265.76
+ 6		0		 Beans with dark cocoa				1676.31	1676.31
+ 7		0		 Soy sauce with agave syrup				1304.23	1304.23
+ 22		0		 Pear extra big				1559.27	1559.27
+ 69		0		 Carrot vegan				371.05	371.05
+ 71		0		 Strawberries baby				81.39	81.39
+ 77		0		 Pan ready to eat				1589.54	1589.54
+ 89		0		 Wheat flour baby				1855.91	1855.91
+ 98		0		 Apples organic				1681.80	1681.80
+ 107		0		 Peanut butter integral				153.38	153.38
+ 121		0		 Broad Beans integral				574.46	574.46
+ 122		0		 Pear with sea salt				1502.39	1502.39
+ 124		0		 Chia seed veggie				1347.07	1347.07
+ 127		0		 Splenda veggie				467.66	467.6

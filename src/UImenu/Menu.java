@@ -2,6 +2,7 @@ package UImenu;
 
 import market.SuperMarket;
 import market.admin.Product;
+import market.admin.Warehouse;
 import serializer.Serializer;
 import sim.Simulation;
 import util.Lista;
@@ -22,9 +23,6 @@ import static util.Utilities.*;
  */
 public class Menu {
 
-    /**
-     *
-     */
 
     /**
      *
@@ -65,6 +63,7 @@ public class Menu {
                     System.out.println("¡Hasta pronto!");
                     continuar = false;
                 default:
+                    save();
                     System.out.println("Ingrese una opción válida");
                     break;
 
@@ -77,7 +76,7 @@ public class Menu {
      *
      */
     private void save(){
-        serializer.write(simulation, "dataD.ser");
+        serializer.write(simulation.getCostco().getAlmacen(), "dataD.ser");
     }
 
     /**
@@ -85,8 +84,9 @@ public class Menu {
      */
     private void checkExistences(){
         File file = new File("dataD.ser");
+        simulation = new Simulation();
         if (file.exists()){
-            simulation = (Simulation) serializer.read("dataD.ser");
+            simulation.getCostco().setMainWarehouse((Warehouse) serializer.read("dataD.ser"));
         }else {
             save();
         }
@@ -97,7 +97,6 @@ public class Menu {
      */
     private void adminMenu(){
         boolean continua = true;
-        simulation = new Simulation();
         do {
             System.out.println("\n[1]Dar de Alta algún prodcuto");
             System.out.println("[2]Resurtir existencias de algún producto");
@@ -122,10 +121,11 @@ public class Menu {
                     save();
                     break;
                 case 3:
-                    int numToGenerate = getInt("Ingrese el número de productos que desea generar(recomendable >100): ",
+                    int numToGenerate = getInt("Ingrese el número de productos que desea generar(recomendable >5,000): ",
                             "Error, intente de nuevo con un número válido");
                     simulation.genRandomProd(numToGenerate);
                     simulation.loadProductsList("");
+                    save();
                     break;
                 case 4:
                     String fileToLoad = getStr("\nIngrese el nombre del archivo (.txt) a cargar como almacen: ",
@@ -157,16 +157,27 @@ public class Menu {
             int answer = getInt("\nIngrese la opción deseada: ", "Error, intente de nuevo");
             switch (answer){
                 case 1:
-                    System.out.println("\nSimulando compras... espere por favor");
-                    for (int i = 1; i < 15; i++) {
-                        simulation = new Simulation(i,15-i,2);
-                        simulation.simulate();
-                        simulation.getReports();
-                        plotting.agregar(simulation.writeLine());
+                    try{
+                        for (int i = 1; i < 15; i++) {
+                            Simulation simulationPart = new Simulation(i,15-i,2);
+                            simulationPart.getCostco().setMainWarehouse(simulation.getCostco().getAlmacen());
+                            simulationPart.simulate();
+                            simulationPart.getReports();
+                            plotting.agregar(simulationPart.writeLine());
+                            if (i == 1) {
+                                System.out.println("\nSimulando compras... espere por favor");
+                            }
+                            if (i == 14){
+                                simulation = simulationPart;
+                            }
+                        }
+                        serializer.writeTXT(plotting, "plot/datos.dat");
+                        System.out.println("Terminó con éxito la simulación");
+                        execPlot();
+                        save();
+                    }catch (NullPointerException e){
+                        System.out.println("\nError, primero ingrese en el modo administrativo y genere o cargue un almacen");
                     }
-                    serializer.writeTXT(plotting, "plot/datos.dat");
-                    System.out.println("Terminó con éxito la simulación");
-                    execPlot();
                     break;
                 case 2:
                     int days = getInt("\nIngrese el número de días que quiere simular ", "Error, ingrese días válidos");
@@ -177,14 +188,19 @@ public class Menu {
                         int largeCheckouts = getInt(String.format("Día [%d] de %d\nIngrese el número de cajas largas: ", i + 1, days),
                                 "Error, intente de nuevo");
                         System.out.println("\nSimulando el día " + (i+1));
-                        simulation = new Simulation(quickCheckouts, largeCheckouts,1);
-                        simulation.simulate();
-                        simulation.getReports();
-                        data.agregar(simulation.writeLine());
+                        Simulation simulationCas = new Simulation(quickCheckouts, largeCheckouts,1);
+                        simulationCas.getCostco().setMainWarehouse(simulation.getCostco().getAlmacen());
+                        simulationCas.simulate();
+                        simulationCas.getReports();
+                        if (i == (days-1)){
+                            simulation = simulationCas;
+                        }
+                        data.agregar(simulationCas.writeLine());
                     }
                     serializer.writeTXT(data, "plot/datos.dat");
                     System.out.println("\nTerminó con éxito la simulación\n");
                     execPlot();
+                    save();
                     break;
                 case 3:
                 conti = false;

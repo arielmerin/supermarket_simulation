@@ -1,0 +1,35 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 20:24:49.487
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 40		2		 Quinoa flour with sea salt				1392.76	1392.76
+ 53		3		 Lentils gluten free				1297.58	1297.58
+ 64		6		 Chayotes integral				955.95	955.95
+ 99		1		 Tangerine gmo free				1528.36	1528.36
+ 115		1		 Pear with agave syrup				606.12	606.12
+ 123		7		 Tofu extra big				1808.10	1808.10
+ 127		3		 Tofu vegan				416.41	416.41
+ 139		1		 Rice vinegar with sea salt				1606.54	1606.54
+ 141		1		 Lentils veggie				1106.72	1106.7
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		0		 Soap vegan				1864.43	1864.43
+ 10		0		 Tangerine integral				790.10	790.10
+ 33		0		 Lentils with agave syrup				303.52	303.52
+ 37		0		 Cucumber gluten free				521.92	521.92
+ 46		0		 Pan extra big				1779.94	1779.94
+ 47		0		 Peas with dark cocoa				230.65	230.65
+ 63		0		 Pear baby				1485.70	1485.70
+ 67		0		 Lentils gluten free				1059.93	1059.93
+ 68		0		 Chayotes with coconut oil				1198.39	1198.39
+ 70		0		 Pasta integral				667.25	667.25
+ 72		0		 Apples extra big				1204.73	1204.73
+ 76		0		 Pear extra big				1681.59	1681.59
+ 77		0		 Lemons gluten free				790.25	790.25
+ 84		0		 Mango with agave syrup				333.96	333.96
+ 103		0		 Tangerine ready to eat				511.69	511.69
+ 119		0		 Grams  gmo free				783.33	783.33
+ 134		0		 Wheat flour veggie				1411.59	1411.5

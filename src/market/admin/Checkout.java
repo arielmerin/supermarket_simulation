@@ -6,24 +6,25 @@ import java.io.Serializable;
 /**
  *<h1>Checkout</h1>
  *
+ * This class allows to simulate and model the behavior of a checkout into a supermarket (simulation)
  * @author Ariel Merino & Armando Aquino
  * @version 1.0
  */
 public class Checkout implements Serializable, Comparable<Checkout> {
 
     /**
-     *
+     * Accumulate the sales of the simulation day
      */
     private double salesOfDay;
 
     /**
-     *
+     * Counter for the customers attended
      */
     private int customersOfDay;
 
     /**
-     *
-     * @return
+     * Allow us to know the number of items that each checkout had process
+     * @return number of items sold
      */
     public int getItemsClients() {
         int sum = 0;
@@ -34,39 +35,32 @@ public class Checkout implements Serializable, Comparable<Checkout> {
     }
 
     /**
-     *
+     * Each checkout has a row of customers waiting for be attended
      */
     protected Cola<Customer> clients;
 
     /**
-     *
+     * the rest of clients that the checkout needs to attend
      */
     private int forBeingServed;
 
     /**
-     *
+     * Serves to know if the num of items is lower than 20
      */
     private boolean isQuick;
 
     /**
-     *
+     * The main constructor allows to build a new checkout with the only condition to know if it is from the quick type
+     * @param isQuickly if the number of items is going to be a restriction
      */
-    public Checkout(boolean esRapida) {
+    public Checkout(boolean isQuickly) {
         clients = new Cola<>();
-        this.isQuick = esRapida;
+        this.isQuick = isQuickly;
     }
 
     /**
-     *
-     * @return
-     */
-    public int getCustomersOfDay() {
-        return customersOfDay;
-    }
-
-    /**
-     *
-     * @param customer
+     * Takes a decision about the checkout type and how is going to be taken for the client
+     * @param customer a client that needs to be lined up
      */
     public void trainingCustomer(Customer customer) {
         if((isQuick && customer.getItems() <= 20) || (!isQuick)){
@@ -77,8 +71,8 @@ public class Checkout implements Serializable, Comparable<Checkout> {
     }
 
     /**
-     *
-     * @return
+     * This method calculates the total amount by selling on a day
+     * @return sum of each total sale's customer
      */
     public double computeTotalSale(){
         for (Customer customer : clients){
