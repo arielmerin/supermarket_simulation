@@ -1,0 +1,19 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 21:39:35.426
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 9		1		 Vinagre de Arroz de baño				434.53	434.53
+ 28		7		 Chiles secos veggie				1806.07	1806.07
+ 39		2		 Café integral				842.07	842.07
+ 87		2		 Splenda de baño				1667.23	1667.23
+ 88		1		 Limones con jarabe de agave				790.71	790.71
+ 98		3		 Pepino integral				520.72	520.72
+ 119		2		 Harina integral vegan				668.05	668.05
+ 149		4		 Arroz bolsa grande				1749.30	1749.3
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 14		0		 Pasta vegan				1089.09	1089.09
+ 50		0		 Cereales gluten free				1834.66	1834.6

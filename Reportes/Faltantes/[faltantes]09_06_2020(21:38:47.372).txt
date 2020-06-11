@@ -1,0 +1,40 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 21:38:23.369
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 3		3		 Harina integral bolsa grande				499.29	499.29
+ 13		3		 Chicharos veggie				131.87	131.87
+ 23		1		 Harina integral con aceite de coco				697.93	697.93
+ 46		1		 Jabón bolsa grande				1414.94	1414.94
+ 54		5		 Pasta veggie				1781.94	1781.94
+ 56		5		 Limones de baño				1305.76	1305.76
+ 59		1		 Calabaza gluten free				28.58	28.58
+ 75		1		 Splenda veggie				886.92	886.92
+ 85		2		 Vinagre de Arroz con aceite de coco				1241.43	1241.43
+ 92		2		 Frijoles veggie				1095.87	1095.87
+ 103		2		 Pan integral				397.42	397.42
+ 107		2		 Papaya bolsa grande				1739.34	1739.34
+ 112		2		 Harina integral veggie				1434.80	1434.80
+ 137		3		 Mango con aceite de coco				379.89	379.89
+ 144		8		 Habas orgánico				383.11	383.1
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 5		0		 Mandarina gluten free				1728.32	1728.32
+ 7		0		 Vinagre de Arroz con jarabe de agave				823.34	823.34
+ 31		0		 Sopa vegan				968.53	968.53
+ 34		0		 Ezekiel veggie				1.05	1.05
+ 45		0		 Chayotes integral				437.20	437.20
+ 51		0		 Edamames gluten free				1723.30	1723.30
+ 72		0		 Nueces orgánico				321.84	321.84
+ 80		0		 Splenda vegan				1689.49	1689.49
+ 86		0		 Lentejas bolsa grande				1378.66	1378.66
+ 87		0		 Almendras bolsa grande				399.99	399.99
+ 89		0		 Jabón orgánico				1275.79	1275.79
+ 101		0		 Arroz gluten free				553.50	553.50
+ 127		0		 Frijoles con jarabe de agave				1200.66	1200.66
+ 129		0		 Harina integral con aceite de coco				1230.06	1230.06
+ 132		0		 Alubias orgánico				1418.27	1418.27
+ 143		0		 Ezekiel integral				1651.25	1651.2

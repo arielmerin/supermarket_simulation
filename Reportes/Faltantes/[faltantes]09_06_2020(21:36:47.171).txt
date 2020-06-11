@@ -1,0 +1,40 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 21:36:23.157
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 5		1		 Harina de garbanzo veggie				843.57	843.57
+ 6		6		 Jabón bolsa grande				684.10	684.10
+ 9		5		 Mango bolsa grande				1272.63	1272.63
+ 12		1		 Mango gluten free				303.53	303.53
+ 13		2		 Frijoles con aceite de coco				733.13	733.13
+ 18		1		 Almendras con aceite de coco				1191.81	1191.81
+ 22		2		 Almendras vegan				1006.20	1006.20
+ 27		3		 Habas integral				976.58	976.58
+ 38		4		 Manzana integral				762.82	762.82
+ 43		2		 Harina integral bolsa grande				615.96	615.96
+ 50		5		 Ezekiel con jarabe de agave				1804.04	1804.04
+ 58		1		 Chicharos bolsa grande				1163.94	1163.94
+ 60		1		 Harina de trigo gluten free				909.15	909.15
+ 87		1		 Chiles secos veggie				493.77	493.77
+ 89		2		 Harina de garbanzo orgánico				338.12	338.12
+ 90		2		 Jabón vegan				869.04	869.04
+ 123		4		 Habas integral				804.10	804.10
+ 127		5		 Harina integral con jarabe de agave				1370.08	1370.08
+ 132		3		 Arroz integral				238.23	238.2
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 15		0		 Spaghetti con aceite de coco				398.54	398.54
+ 16		0		 Frijoles de baño				765.81	765.81
+ 21		0		 Chayotes de baño				597.36	597.36
+ 26		0		 Almendras con aceite de coco				1790.27	1790.27
+ 53		0		 Mango bolsa grande				611.94	611.94
+ 82		0		 Avena de baño				431.22	431.22
+ 83		0		 Chayotes bolsa grande				970.91	970.91
+ 120		0		 Spaghetti vegan				999.56	999.56
+ 122		0		 Harina de quinoa bolsa grande				962.93	962.93
+ 126		0		 Almendras veggie				843.87	843.87
+ 134		0		 Cereales de baño				788.57	788.57
+ 142		0		 Limones vegan				1467.19	1467.1

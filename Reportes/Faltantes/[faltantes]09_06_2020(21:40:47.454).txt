@@ -1,0 +1,29 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 21:40:23.451
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 4		2		 Sopa vegan				317.74	317.74
+ 13		2		 Sopa veggie				1586.94	1586.94
+ 16		1		 Arroz con jarabe de agave				164.51	164.51
+ 23		2		 Lentejas integral				1168.91	1168.91
+ 52		2		 Chicharos con aceite de coco				1174.52	1174.52
+ 84		4		 Chayotes de baño				1876.21	1876.21
+ 105		1		 Pera de baño				290.25	290.25
+ 124		8		 Edamames vegan				746.52	746.52
+ 136		9		 Jabón con aceite de coco				408.25	408.25
+ 145		4		 Jabón bolsa grande				1862.93	1862.93
+ 148		1		 Harina de garbanzo veggie				640.80	640.8
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 8		0		 Splenda bolsa grande				692.54	692.54
+ 10		0		 Edamames bolsa grande				1399.35	1399.35
+ 14		0		 Jabón con jarabe de agave				39.53	39.53
+ 20		0		 Nueces veggie				983.92	983.92
+ 24		0		 Edamames bolsa grande				868.94	868.94
+ 40		0		 Frijoles bolsa grande				770.32	770.32
+ 51		0		 Calabaza vegan				765.20	765.20
+ 111		0		 Salsa de soya veggie				255.89	255.89
+ 113		0		 Limones orgánico				1845.54	1845.5

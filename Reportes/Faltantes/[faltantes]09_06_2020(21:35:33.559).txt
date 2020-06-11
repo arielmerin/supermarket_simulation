@@ -1,0 +1,15 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 21:35:09.354
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 37		9		 Mandarina bolsa grande				139.84	139.84
+ 102		7		 Camote bolsa grande				605.65	605.65
+ 105		9		 Vinagre de Arroz con aceite de coco				1667.71	1667.71
+ 118		2		 Almendras orgánico				1333.99	1333.99
+ 143		9		 Pepino con aceite de coco				518.62	518.6
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 135		0		 Avena con jarabe de agave				1680.65	1680.6
