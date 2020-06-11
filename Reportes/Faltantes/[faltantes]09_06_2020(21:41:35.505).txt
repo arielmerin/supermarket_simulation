@@ -1,0 +1,15 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 21:41:11.502
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 11		6		 Avena orgánico				834.79	834.79
+ 52		9		 Calabaza orgánico				1366.90	1366.90
+ 80		4		 Salsa de soya orgánico				27.02	27.02
+ 121		4		 Pepino con jarabe de agave				763.10	763.10
+ 144		3		 Vinagre de Arroz gluten free				102.30	102.3
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+

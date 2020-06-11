@@ -1,0 +1,15 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 21:40:47.489
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 93		1		 Limones vegan				553.78	553.78
+ 118		6		 Alubias vegan				628.11	628.11
+ 121		2		 Chicharos gluten free				75.20	75.20
+ 133		1		 Harina de quinoa integral				158.10	158.10
+ 148		7		 Sopa bolsa grande				613.86	613.8
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 21		0		 Pera con aceite de coco				192.10	192.1

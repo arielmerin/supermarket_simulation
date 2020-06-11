@@ -1,0 +1,12 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 21:37:59.355
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 7		2		 Sopa integral				1513.80	1513.80
+ 96		3		 Manzana gluten free				1665.81	1665.8
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 64		0		 Mandarina orgánico				1197.23	1197.2

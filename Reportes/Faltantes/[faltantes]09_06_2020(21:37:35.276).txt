@@ -1,0 +1,35 @@
+   :::    REPORTE DE POCAS EXISTENCIAS   :::
+    Fecha: 09/06/2020 - 21:37:11.270
+
+ ----------------- QUEDAN POCOS ------------------
+   ID    Cantidad         Nombre         Precio 
+ 17		1		 Vinagre de Arroz integral				1582.24	1582.24
+ 63		1		 Mandarina orgánico				314.23	314.23
+ 75		5		 Alubias integral				1434.08	1434.08
+ 84		1		 Mango de baño				2.00	2.00
+ 109		2		 Splenda integral				1523.79	1523.79
+ 116		3		 Harina de quinoa de baño				921.61	921.61
+ 120		1		 Pan vegan				923.90	923.90
+ 137		2		 Salsa de soya orgánico				718.71	718.71
+ 142		2		 Lentejas vegan				1452.46	1452.4
+
+
+ ---------------- FALTAN ----------------------
+   ID    Cantidad         Nombre         Precio 
+ 7		0		 Manzana veggie				176.07	176.07
+ 14		0		 Manzana orgánico				498.22	498.22
+ 29		0		 Avena bolsa grande				717.93	717.93
+ 32		0		 Pasta con jarabe de agave				1422.58	1422.58
+ 49		0		 Avena vegan				1000.37	1000.37
+ 52		0		 Limones orgánico				276.76	276.76
+ 57		0		 Frijoles veggie				652.41	652.41
+ 58		0		 Splenda de baño				1320.83	1320.83
+ 79		0		 Sopa con jarabe de agave				1553.58	1553.58
+ 85		0		 Harina de trigo veggie				342.46	342.46
+ 104		0		 Spaghetti orgánico				466.29	466.29
+ 117		0		 Harina de avena integral				1527.02	1527.02
+ 123		0		 Arroz gluten free				1337.94	1337.94
+ 124		0		 Frijoles de baño				1324.18	1324.18
+ 141		0		 Almendras bolsa grande				312.58	312.58
+ 144		0		 Pepino gluten free				539.98	539.98
+ 147		0		 Habas integral				606.90	606.9
