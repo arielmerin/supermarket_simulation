@@ -1,0 +1,47 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:20:53.937
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 4		1		 Soup with coconut oil				28.87	28.87
+ 5		1		 Tofu with agave syrup				1842.73	1842.73
+ 32		2		 Amaranth extra big				1351.76	1351.76
+ 41		1		 Splenda with sea salt				1170.67	1170.67
+ 44		1		 Strawberries organic				1380.53	1380.53
+ 48		1		 Pan gluten free				1759.10	1759.10
+ 49		5		 Pumpkins extra big				1815.14	1815.14
+ 71		4		 Quinoa organic				741.57	741.57
+ 85		1		 Soybeans gmo free				103.28	103.28
+ 87		5		 Soup gmo free				672.76	672.76
+ 100		1		 Lentils baby				1608.31	1608.31
+ 102		4		 Amaranth with coconut oil				457.83	457.83
+ 107		7		 Peas integral				1101.84	1101.84
+ 117		9		 Spaghetti with sea salt				1045.67	1045.67
+ 122		1		 Chia seed veggie				485.83	485.83
+ 127		2		 Avocado with dark cocoa				965.19	965.19
+ 128		6		 Almonds vegan				1298.51	1298.51
+ 137		2		 Wheat flour gluten free				1859.79	1859.7
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		0		 Kale veggie				840.85	840.85
+ 3		0		 Rice veggie				8.96	8.96
+ 15		0		 Peanut butter extra big				956.46	956.46
+ 20		0		 Coffee integral				1242.00	1242.00
+ 35		0		 Chayotes baby				1040.59	1040.59
+ 40		0		 Mango gluten free				357.33	357.33
+ 60		0		 Chayotes with agave syrup				1608.34	1608.34
+ 63		0		 Almonds with sea salt				314.21	314.21
+ 73		0		 Kale integral				1079.12	1079.12
+ 76		0		 Splenda gluten free				979.20	979.20
+ 92		0		 Tangerine with agave syrup				1097.31	1097.31
+ 93		0		 Lentils with coconut oil				1134.97	1134.97
+ 99		0		 Lemons baby				1173.20	1173.20
+ 104		0		 Amaranth extra big				832.20	832.20
+ 106		0		 Spaghetti gluten free				1593.84	1593.84
+ 109		0		 Almonds baby				1782.21	1782.21
+ 113		0		 Strawberries with dark cocoa				1579.22	1579.22
+ 115		0		 Papaya with coconut oil				350.52	350.52
+ 131		0		 Peas with sea salt				1751.62	1751.62
+ 139		0		 Amaranth with coconut oil				1117.81	1117.8

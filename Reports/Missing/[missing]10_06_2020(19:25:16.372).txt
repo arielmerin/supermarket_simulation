@@ -1,0 +1,37 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:25:08.369
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 7		2		 Dried chiles ready to eat				922.45	922.45
+ 47		1		 Spaghetti extra big				764.34	764.34
+ 48		3		 Broad Beans extra big				178.69	178.69
+ 55		3		 Dried chiles gluten free				1516.10	1516.10
+ 65		1		 Rice vinegar with dark cocoa				759.28	759.28
+ 84		9		 Mango integral				54.73	54.73
+ 96		2		 Soap vegan				1605.12	1605.12
+ 97		3		 Beans vegan				1144.42	1144.42
+ 98		2		 Pear integral				12.54	12.54
+ 106		1		 Dried chiles with sea salt				277.40	277.40
+ 114		3		 Rice vinegar with agave syrup				1196.12	1196.12
+ 125		1		 Dried chiles vegan				1498.26	1498.26
+ 144		1		 Peanut butter with agave syrup				1756.04	1756.04
+ 147		6		 Pasta vegan				1609.63	1609.63
+ 149		1		 Coffee integral				678.95	678.9
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 12		0		 Chia seed gmo free				1676.53	1676.53
+ 14		0		 Papaya baby				989.85	989.85
+ 16		0		 Broad Beans veggie				1535.66	1535.66
+ 26		0		 Tangerine veggie				1884.36	1884.36
+ 28		0		 Soup with sea salt				304.31	304.31
+ 44		0		 Nuts with agave syrup				1261.88	1261.88
+ 51		0		 Almonds veggie				1150.83	1150.83
+ 62		0		 Wheat flour with sea salt				1626.37	1626.37
+ 68		0		 Quinoa ready to eat				832.04	832.04
+ 69		0		 Integral flour gluten free				244.18	244.18
+ 73		0		 Broad Beans vegan				115.69	115.69
+ 129		0		 Papaya organic				1833.50	1833.50
+ 148		0		 Strawberries ready to eat				381.15	381.1

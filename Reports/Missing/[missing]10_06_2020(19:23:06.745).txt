@@ -1,0 +1,39 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:22:58.743
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		1		 Kale vegan				166.78	166.78
+ 2		1		 Beans with agave syrup				352.96	352.96
+ 4		8		 Pear gluten free				1459.45	1459.45
+ 43		1		 Tofu ready to eat				1565.91	1565.91
+ 58		6		 Cucumber vegan				349.69	349.69
+ 78		1		 Soap veggie				243.80	243.80
+ 87		8		 Wheat flour with dark cocoa				890.04	890.04
+ 105		1		 Beans integral				580.34	580.34
+ 113		1		 Splenda integral				656.09	656.09
+ 129		7		 Chia seed gluten free				150.75	150.75
+ 140		1		 Coffee vegan				1653.74	1653.7
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 7		0		 Nuts vegan				1355.53	1355.53
+ 8		0		 Rice vinegar vegan				816.58	816.58
+ 9		0		 Avocado vegan				543.25	543.25
+ 16		0		 Integral flour baby				324.49	324.49
+ 21		0		 Soybeans integral				1192.53	1192.53
+ 26		0		 Gram flour ready to eat				614.80	614.80
+ 49		0		 Tangerine extra big				775.02	775.02
+ 52		0		 Grams  integral				149.11	149.11
+ 59		0		 Nuts ready to eat				1144.99	1144.99
+ 67		0		 Nuts gmo free				1412.13	1412.13
+ 69		0		 Oat gmo free				803.61	803.61
+ 71		0		 Dried chiles integral				281.39	281.39
+ 85		0		 Soybeans organic				1761.39	1761.39
+ 104		0		 Peas with sea salt				1794.22	1794.22
+ 114		0		 Integral flour with coconut oil				1061.54	1061.54
+ 116		0		 Quinoa flour with dark cocoa				716.73	716.73
+ 127		0		 Gram flour baby				686.95	686.95
+ 141		0		 Chayotes with dark cocoa				1259.67	1259.67
+ 149		0		 Splenda with coconut oil				1100.87	1100.8

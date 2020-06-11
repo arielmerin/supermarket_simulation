@@ -1,0 +1,40 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:21:01.987
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 16		3		 Quinoa baby				1783.08	1783.08
+ 19		3		 Strawberries ready to eat				1583.22	1583.22
+ 24		7		 Sweet potato with dark cocoa				607.53	607.53
+ 35		5		 Nuts with sea salt				546.40	546.40
+ 42		4		 Quinoa veggie				1657.97	1657.97
+ 50		3		 Almonds veggie				68.60	68.60
+ 52		3		 Sweet potato with coconut oil				1530.49	1530.49
+ 61		1		 Pasta baby				1378.40	1378.40
+ 72		2		 Mango ready to eat				1749.44	1749.44
+ 77		3		 Pasta extra big				1056.82	1056.82
+ 95		2		 Nuts ready to eat				1272.46	1272.46
+ 98		1		 Nuts vegan				497.61	497.61
+ 118		1		 Oat flour with agave syrup				346.57	346.57
+ 121		2		 Dried chiles gmo free				533.15	533.1
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 4		0		 Wheat flour veggie				929.77	929.77
+ 7		0		 Gram flour with sea salt				309.14	309.14
+ 8		0		 Peanut butter vegan				1034.08	1034.08
+ 25		0		 Soap with sea salt				1239.49	1239.49
+ 27		0		 Broad Beans with agave syrup				414.38	414.38
+ 36		0		 Kale veggie				803.73	803.73
+ 37		0		 Gram flour organic				899.75	899.75
+ 44		0		 Peas with dark cocoa				807.49	807.49
+ 68		0		 Pear with sea salt				1003.85	1003.85
+ 81		0		 Rice vinegar with agave syrup				11.51	11.51
+ 82		0		 Rice with dark cocoa				387.23	387.23
+ 84		0		 Dried chiles veggie				72.36	72.36
+ 94		0		 Chia seed extra big				926.13	926.13
+ 99		0		 Avocado with dark cocoa				1603.15	1603.15
+ 108		0		 Rice with sea salt				576.60	576.60
+ 139		0		 Beans vegan				1191.97	1191.97
+ 142		0		 Dried chiles gmo free				925.74	925.7

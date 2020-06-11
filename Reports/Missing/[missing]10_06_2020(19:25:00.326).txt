@@ -1,0 +1,36 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:24:52.322
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 4		4		 Ezekiel integral				825.52	825.52
+ 23		2		 Integral flour with sea salt				1734.46	1734.46
+ 34		3		 Oat flour with sea salt				1379.88	1379.88
+ 58		1		 Spaghetti with coconut oil				1549.79	1549.79
+ 87		1		 Amaranth gluten free				1374.14	1374.14
+ 119		5		 Oat flour gluten free				1499.37	1499.37
+ 137		1		 Dried chiles extra big				1090.51	1090.5
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 12		0		 Pasta vegan				919.41	919.41
+ 13		0		 Almonds veggie				220.54	220.54
+ 24		0		 Papaya integral				1198.84	1198.84
+ 33		0		 Carrot vegan				311.51	311.51
+ 36		0		 Pasta gluten free				1153.95	1153.95
+ 39		0		 Tangerine with agave syrup				798.27	798.27
+ 44		0		 Cucumber vegan				785.62	785.62
+ 49		0		 Pear with agave syrup				401.97	401.97
+ 61		0		 Tangerine ready to eat				1888.54	1888.54
+ 67		0		 Peas gluten free				1322.80	1322.80
+ 71		0		 Apples with dark cocoa				1787.96	1787.96
+ 74		0		 Peanut butter with coconut oil				153.56	153.56
+ 80		0		 Dried chiles with dark cocoa				574.95	574.95
+ 85		0		 Apples ready to eat				796.80	796.80
+ 99		0		 Peanut butter organic				1369.74	1369.74
+ 100		0		 Splenda with agave syrup				673.71	673.71
+ 105		0		 Almonds gluten free				1700.22	1700.22
+ 131		0		 Quinoa with sea salt				471.55	471.55
+ 142		0		 Oat with sea salt				759.60	759.60
+ 145		0		 Splenda with dark cocoa				1260.36	1260.3

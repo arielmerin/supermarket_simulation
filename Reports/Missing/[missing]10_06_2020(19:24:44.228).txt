@@ -1,0 +1,44 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:24:36.217
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 9		9		 Integral flour vegan				511.67	511.67
+ 29		4		 Cucumber organic				1132.02	1132.02
+ 40		2		 Coffee baby				148.45	148.45
+ 52		1		 Beans vegan				1495.29	1495.29
+ 54		3		 Ezekiel gmo free				1299.98	1299.98
+ 55		1		 Chayotes veggie				527.23	527.23
+ 70		1		 Sweet potato veggie				1133.36	1133.36
+ 74		1		 Broad Beans gmo free				1727.08	1727.08
+ 88		1		 Cereals with dark cocoa				183.42	183.42
+ 95		4		 Carrot with sea salt				898.07	898.07
+ 106		9		 Quinoa with sea salt				1566.06	1566.06
+ 121		1		 Quinoa with dark cocoa				401.75	401.75
+ 129		3		 Lemons integral				762.97	762.9
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 20		0		 Tangerine vegan				1719.54	1719.54
+ 22		0		 Lentils with dark cocoa				766.56	766.56
+ 24		0		 Integral flour vegan				1751.56	1751.56
+ 31		0		 Rice vinegar with coconut oil				499.96	499.96
+ 34		0		 Beans with agave syrup				446.11	446.11
+ 35		0		 Soybeans integral				352.61	352.61
+ 38		0		 Coffee integral				1465.44	1465.44
+ 58		0		 Strawberries with dark cocoa				1260.16	1260.16
+ 63		0		 Avocado veggie				805.01	805.01
+ 64		0		 Pan organic				81.96	81.96
+ 71		0		 Chayotes ready to eat				1027.74	1027.74
+ 72		0		 Cucumber extra big				1757.02	1757.02
+ 75		0		 Carrot with sea salt				1584.08	1584.08
+ 84		0		 Rice vinegar with agave syrup				1091.36	1091.36
+ 85		0		 Pasta vegan				612.55	612.55
+ 102		0		 Kale baby				998.70	998.70
+ 104		0		 Rice vinegar gluten free				548.03	548.03
+ 111		0		 Soybeans gluten free				202.26	202.26
+ 115		0		 Pan gluten free				1321.54	1321.54
+ 118		0		 Almonds gluten free				1386.29	1386.29
+ 127		0		 Rice with agave syrup				1637.31	1637.31
+ 145		0		 Oat flour baby				177.48	177.4

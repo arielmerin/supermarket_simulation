@@ -1,0 +1,47 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:25:32.442
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 2		2		 Wheat flour veggie				719.58	719.58
+ 7		5		 Quinoa flour gluten free				964.34	964.34
+ 29		2		 Soup veggie				1258.54	1258.54
+ 30		3		 Integral flour gluten free				865.62	865.62
+ 40		4		 Quinoa vegan				38.43	38.43
+ 71		2		 Integral flour ready to eat				537.83	537.83
+ 77		3		 Almonds integral				1407.00	1407.00
+ 88		3		 Tangerine veggie				1784.84	1784.84
+ 101		1		 Dried chiles baby				1459.45	1459.45
+ 113		1		 Spaghetti with dark cocoa				209.88	209.88
+ 125		5		 Coffee with sea salt				689.98	689.98
+ 133		1		 Soy sauce extra big				192.23	192.23
+ 136		3		 Tofu with dark cocoa				408.68	408.68
+ 145		4		 Kale extra big				1576.56	1576.56
+ 149		3		 Tangerine with sea salt				1432.62	1432.6
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 6		0		 Soybeans ready to eat				30.98	30.98
+ 14		0		 Avocado with sea salt				1847.86	1847.86
+ 16		0		 Pear extra big				736.95	736.95
+ 22		0		 Lemons integral				993.39	993.39
+ 28		0		 Peanut butter organic				349.45	349.45
+ 35		0		 Lemons with sea salt				520.31	520.31
+ 38		0		 Rice gmo free				748.59	748.59
+ 39		0		 Beans vegan				1485.64	1485.64
+ 48		0		 Pumpkins veggie				1280.67	1280.67
+ 49		0		 Strawberries vegan				1835.36	1835.36
+ 51		0		 Amaranth ready to eat				1117.45	1117.45
+ 52		0		 Gram flour with agave syrup				266.14	266.14
+ 55		0		 Sweet potato ready to eat				157.82	157.82
+ 72		0		 Tangerine extra big				593.03	593.03
+ 84		0		 Soap with dark cocoa				413.68	413.68
+ 94		0		 Quinoa flour extra big				1662.23	1662.23
+ 95		0		 Nuts ready to eat				552.21	552.21
+ 100		0		 Tofu extra big				1889.85	1889.85
+ 102		0		 Oat flour veggie				1416.78	1416.78
+ 119		0		 Gram flour organic				53.94	53.94
+ 128		0		 Pasta baby				290.43	290.43
+ 135		0		 Tangerine with dark cocoa				1687.83	1687.83
+ 137		0		 Chayotes baby				568.92	568.9

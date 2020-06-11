@@ -1,0 +1,37 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:20:29.828
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 10		2		 Nuts gluten free				1559.88	1559.88
+ 21		1		 Quinoa flour ready to eat				1786.48	1786.48
+ 25		1		 Cereals vegan				1551.28	1551.28
+ 65		1		 Nuts ready to eat				1268.32	1268.32
+ 91		1		 Pasta baby				416.68	416.68
+ 105		3		 Rice vinegar gmo free				694.77	694.77
+ 108		6		 Oat flour with agave syrup				380.13	380.13
+ 121		4		 Almonds with sea salt				1880.93	1880.93
+ 123		1		 Pasta gluten free				819.27	819.27
+ 126		2		 Pasta gmo free				808.94	808.94
+ 139		2		 Peanut butter integral				1488.64	1488.64
+ 143		2		 Apples with dark cocoa				1530.47	1530.4
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 6		0		 Papaya ready to eat				1448.97	1448.97
+ 11		0		 Amaranth organic				990.36	990.36
+ 13		0		 Dried chiles veggie				147.26	147.26
+ 27		0		 Lentils gluten free				585.36	585.36
+ 31		0		 Amaranth with sea salt				1830.69	1830.69
+ 36		0		 Soybeans with sea salt				788.19	788.19
+ 71		0		 Papaya veggie				972.54	972.54
+ 82		0		 Amaranth ready to eat				1196.76	1196.76
+ 83		0		 Broad Beans integral				1085.02	1085.02
+ 86		0		 Quinoa flour integral				550.25	550.25
+ 93		0		 Soy sauce vegan				131.77	131.77
+ 97		0		 Kale gluten free				995.63	995.63
+ 113		0		 Gram flour ready to eat				1389.77	1389.77
+ 122		0		 Broad Beans with agave syrup				61.12	61.12
+ 125		0		 Wheat flour integral				732.62	732.62
+ 129		0		 Wheat flour gmo free				485.85	485.8

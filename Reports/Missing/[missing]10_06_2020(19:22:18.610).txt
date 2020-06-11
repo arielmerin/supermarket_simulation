@@ -1,0 +1,39 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:22:10.605
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 43		6		 Lemons veggie				64.52	64.52
+ 44		1		 Grams  integral				1154.86	1154.86
+ 47		3		 Tangerine extra big				948.23	948.23
+ 53		3		 Soy sauce with agave syrup				10.24	10.24
+ 59		1		 Almonds gmo free				744.23	744.23
+ 67		1		 Peas veggie				494.71	494.71
+ 98		1		 Papaya gluten free				1304.13	1304.13
+ 103		2		 Wheat flour baby				832.68	832.68
+ 108		4		 Amaranth gmo free				717.31	717.31
+ 114		1		 Pumpkins with coconut oil				1342.07	1342.07
+ 121		1		 Splenda with dark cocoa				575.15	575.15
+ 124		3		 Spaghetti baby				1443.12	1443.12
+ 134		6		 Peanut butter veggie				1291.23	1291.23
+ 138		2		 Sweet potato extra big				595.24	595.24
+ 148		1		 Integral flour baby				1473.99	1473.9
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 11		0		 Wheat flour organic				1898.75	1898.75
+ 15		0		 Coffee with coconut oil				1219.21	1219.21
+ 33		0		 Mango ready to eat				568.79	568.79
+ 37		0		 Grams  with dark cocoa				280.35	280.35
+ 48		0		 Apples integral				1546.76	1546.76
+ 51		0		 Carrot with agave syrup				476.75	476.75
+ 73		0		 Pan ready to eat				24.97	24.97
+ 74		0		 Spaghetti gluten free				1285.88	1285.88
+ 79		0		 Rice extra big				514.51	514.51
+ 90		0		 Cereals gluten free				1391.67	1391.67
+ 96		0		 Chayotes with coconut oil				1266.77	1266.77
+ 110		0		 Oat flour extra big				901.02	901.02
+ 116		0		 Pasta organic				1224.77	1224.77
+ 133		0		 Coffee with sea salt				496.06	496.06
+ 135		0		 Soup veggie				906.23	906.2

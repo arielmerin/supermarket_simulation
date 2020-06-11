@@ -1,0 +1,33 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:21:54.514
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		1		 Pan ready to eat				1093.50	1093.50
+ 42		5		 Strawberries gmo free				1145.42	1145.42
+ 46		8		 Nuts with sea salt				1115.97	1115.97
+ 66		1		 Peas with dark cocoa				243.42	243.42
+ 76		2		 Mango with agave syrup				1779.62	1779.62
+ 85		1		 Amaranth veggie				588.16	588.16
+ 93		2		 Grams  integral				482.68	482.68
+ 97		3		 Grams  gmo free				267.52	267.52
+ 101		1		 Soy sauce integral				1525.85	1525.85
+ 109		8		 Beans gluten free				177.35	177.35
+ 111		5		 Chayotes organic				1051.63	1051.63
+ 123		1		 Chia seed veggie				1560.96	1560.96
+ 138		3		 Pear gmo free				733.84	733.84
+ 148		5		 Quinoa flour extra big				1482.86	1482.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 4		0		 Tangerine gluten free				200.21	200.21
+ 8		0		 Wheat flour extra big				1743.98	1743.98
+ 22		0		 Splenda vegan				971.04	971.04
+ 58		0		 Quinoa flour with coconut oil				1707.05	1707.05
+ 80		0		 Quinoa flour ready to eat				803.27	803.27
+ 113		0		 Strawberries veggie				854.98	854.98
+ 124		0		 Pan veggie				119.75	119.75
+ 133		0		 Pasta with agave syrup				1381.61	1381.61
+ 139		0		 Coffee with sea salt				882.58	882.58
+ 149		0		 Soy sauce veggie				407.31	407.3

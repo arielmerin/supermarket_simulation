@@ -1,0 +1,36 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:22:42.698
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 6		1		 Broad Beans with dark cocoa				105.64	105.64
+ 31		2		 Ezekiel veggie				803.63	803.63
+ 36		1		 Almonds ready to eat				1068.83	1068.83
+ 83		3		 Splenda with sea salt				1375.93	1375.93
+ 88		2		 Beans with sea salt				301.76	301.76
+ 90		2		 Grams  with agave syrup				683.18	683.18
+ 95		4		 Almonds integral				308.92	308.92
+ 108		4		 Pumpkins extra big				650.76	650.76
+ 113		2		 Dried chiles gluten free				999.83	999.83
+ 126		1		 Sweet potato veggie				1373.19	1373.19
+ 141		1		 Broad Beans gluten free				1316.41	1316.41
+ 143		2		 Soap with coconut oil				1474.39	1474.39
+ 148		1		 Mango with agave syrup				562.32	562.3
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 3		0		 Chayotes baby				1463.55	1463.55
+ 4		0		 Cereals with dark cocoa				400.42	400.42
+ 19		0		 Avocado with coconut oil				1540.05	1540.05
+ 49		0		 Rice vinegar with coconut oil				422.45	422.45
+ 53		0		 Tangerine gluten free				450.07	450.07
+ 54		0		 Nuts gluten free				1069.71	1069.71
+ 59		0		 Soup organic				1816.38	1816.38
+ 66		0		 Pan ready to eat				486.54	486.54
+ 89		0		 Peas with coconut oil				1548.87	1548.87
+ 110		0		 Tangerine gmo free				55.48	55.48
+ 127		0		 Soup ready to eat				1726.88	1726.88
+ 131		0		 Broad Beans with sea salt				570.07	570.07
+ 137		0		 Pumpkins with dark cocoa				1177.39	1177.39
+ 146		0		 Chia seed vegan				592.39	592.3

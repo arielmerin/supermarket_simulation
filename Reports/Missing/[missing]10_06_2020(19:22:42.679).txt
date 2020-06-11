@@ -1,0 +1,38 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:22:34.676
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 3		1		 Peas organic				1166.60	1166.60
+ 13		1		 Rice with agave syrup				505.70	505.70
+ 27		1		 Quinoa extra big				24.36	24.36
+ 64		1		 Peas vegan				943.30	943.30
+ 70		1		 Oat organic				528.49	528.49
+ 72		1		 Mango with dark cocoa				130.87	130.87
+ 96		1		 Splenda vegan				235.99	235.99
+ 110		2		 Lemons with sea salt				732.32	732.32
+ 125		4		 Sweet potato with agave syrup				1387.74	1387.74
+ 128		1		 Chia seed organic				1260.07	1260.07
+ 133		1		 Kale with coconut oil				262.80	262.80
+ 139		3		 Tangerine with agave syrup				452.35	452.35
+ 145		3		 Nuts gluten free				1315.51	1315.51
+ 146		3		 Sweet potato with agave syrup				197.85	197.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 21		0		 Kale integral				549.92	549.92
+ 28		0		 Soybeans with agave syrup				290.49	290.49
+ 47		0		 Pan extra big				1347.66	1347.66
+ 58		0		 Tangerine veggie				1682.91	1682.91
+ 71		0		 Cereals with agave syrup				1777.45	1777.45
+ 73		0		 Oat with sea salt				442.79	442.79
+ 85		0		 Pasta baby				1739.68	1739.68
+ 93		0		 Soybeans ready to eat				1481.60	1481.60
+ 107		0		 Amaranth gluten free				843.81	843.81
+ 109		0		 Carrot extra big				1212.55	1212.55
+ 115		0		 Lentils integral				1876.24	1876.24
+ 121		0		 Coffee ready to eat				1175.44	1175.44
+ 123		0		 Cereals ready to eat				1362.44	1362.44
+ 141		0		 Apples vegan				697.80	697.80
+ 149		0		 Quinoa flour baby				1747.02	1747.0

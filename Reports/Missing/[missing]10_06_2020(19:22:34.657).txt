@@ -1,0 +1,44 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:22:26.654
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 4		1		 Papaya integral				697.79	697.79
+ 8		1		 Lentils vegan				415.41	415.41
+ 9		7		 Pear extra big				1248.78	1248.78
+ 14		4		 Grams  gmo free				956.00	956.00
+ 27		1		 Grams  with coconut oil				1751.83	1751.83
+ 28		1		 Cereals extra big				336.30	336.30
+ 41		5		 Soy sauce organic				1171.25	1171.25
+ 45		1		 Coffee gluten free				224.89	224.89
+ 61		2		 Soup with dark cocoa				606.28	606.28
+ 70		2		 Pumpkins gluten free				208.34	208.34
+ 76		6		 Chia seed extra big				1210.88	1210.88
+ 78		1		 Grams  vegan				45.78	45.78
+ 89		1		 Oat with dark cocoa				798.84	798.84
+ 90		7		 Soap gmo free				599.98	599.98
+ 99		1		 Chayotes with sea salt				998.27	998.27
+ 110		1		 Kale veggie				70.78	70.78
+ 130		7		 Amaranth integral				995.61	995.61
+ 142		2		 Quinoa ready to eat				571.07	571.0
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 3		0		 Tofu integral				1502.52	1502.52
+ 10		0		 Ezekiel baby				570.52	570.52
+ 13		0		 Oat gmo free				1509.62	1509.62
+ 29		0		 Cereals gluten free				463.79	463.79
+ 32		0		 Pan with coconut oil				1047.88	1047.88
+ 50		0		 Tangerine integral				168.69	168.69
+ 53		0		 Soy sauce with coconut oil				224.73	224.73
+ 91		0		 Rice vinegar integral				801.75	801.75
+ 94		0		 Tofu gluten free				702.68	702.68
+ 114		0		 Rice gmo free				461.51	461.51
+ 115		0		 Apples gmo free				1499.92	1499.92
+ 116		0		 Pasta vegan				1318.47	1318.47
+ 118		0		 Pear gluten free				153.31	153.31
+ 120		0		 Pumpkins with agave syrup				1478.41	1478.41
+ 123		0		 Rice gluten free				1267.70	1267.70
+ 147		0		 Rice vinegar extra big				1556.43	1556.43
+ 148		0		 Integral flour with coconut oil				696.58	696.5

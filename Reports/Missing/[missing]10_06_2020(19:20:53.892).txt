@@ -1,0 +1,33 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 19:20:45.888
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 14		1		 Chia seed vegan				1758.86	1758.86
+ 29		2		 Almonds vegan				458.00	458.00
+ 31		2		 Beans baby				1449.80	1449.80
+ 36		1		 Sweet potato organic				741.00	741.00
+ 69		1		 Quinoa flour with agave syrup				998.01	998.01
+ 74		6		 Lemons gmo free				814.39	814.39
+ 84		4		 Apples with sea salt				1116.37	1116.37
+ 88		1		 Apples ready to eat				727.99	727.99
+ 101		1		 Amaranth organic				200.97	200.97
+ 128		8		 Pasta vegan				575.61	575.61
+ 136		2		 Grams  extra big				137.82	137.8
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 25		0		 Sweet potato with coconut oil				562.72	562.72
+ 35		0		 Lemons baby				1418.10	1418.10
+ 37		0		 Chia seed ready to eat				1404.95	1404.95
+ 38		0		 Nuts vegan				1470.29	1470.29
+ 39		0		 Quinoa with coconut oil				626.68	626.68
+ 45		0		 Oat with coconut oil				34.58	34.58
+ 48		0		 Strawberries with dark cocoa				39.43	39.43
+ 49		0		 Mango with sea salt				394.95	394.95
+ 59		0		 Quinoa flour veggie				917.40	917.40
+ 61		0		 Integral flour with agave syrup				937.28	937.28
+ 75		0		 Amaranth gluten free				1811.66	1811.66
+ 89		0		 Quinoa flour integral				121.96	121.96
+ 115		0		 Soap organic				14.23	14.2
