@@ -23,6 +23,18 @@ public class Checkout implements Serializable, Comparable<Checkout> {
 
     /**
      *
+     * @return
+     */
+    public int getItemsClients() {
+        int sum = 0;
+        for (Customer customer: clients){
+            sum += customer.getItems();
+        }
+        return sum;
+    }
+
+    /**
+     *
      */
     protected Cola<Customer> clients;
 

@@ -1,0 +1,41 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:43:32.690
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 5		2		 Wheat flour integral				1867.34	1867.34
+ 9		2		 Quinoa flour organic				1705.43	1705.43
+ 10		2		 Strawberries with coconut oil				1275.71	1275.71
+ 15		1		 Quinoa with coconut oil				63.71	63.71
+ 16		5		 Coffee vegan				1143.53	1143.53
+ 41		1		 Nuts veggie				1626.33	1626.33
+ 60		1		 Tangerine baby				207.92	207.92
+ 68		3		 Quinoa ready to eat				390.02	390.02
+ 75		2		 Mango with dark cocoa				226.17	226.17
+ 78		2		 Rice extra big				265.53	265.53
+ 84		2		 Strawberries gmo free				1560.06	1560.06
+ 108		1		 Almonds baby				1608.79	1608.79
+ 114		3		 Sweet potato veggie				1279.47	1279.47
+ 126		1		 Chia seed with coconut oil				1156.19	1156.19
+ 138		3		 Peas with agave syrup				391.18	391.18
+ 148		1		 Pumpkins gmo free				978.51	978.5
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 8		0		 Papaya with sea salt				1854.20	1854.20
+ 14		0		 Soup integral				889.99	889.99
+ 22		0		 Gram flour with sea salt				1298.53	1298.53
+ 26		0		 Grams  extra big				1207.58	1207.58
+ 32		0		 Oat flour extra big				235.37	235.37
+ 39		0		 Rice integral				1490.03	1490.03
+ 44		0		 Integral flour organic				1708.62	1708.62
+ 59		0		 Cereals with dark cocoa				1570.23	1570.23
+ 77		0		 Papaya gmo free				1790.38	1790.38
+ 79		0		 Beans extra big				402.29	402.29
+ 80		0		 Cucumber ready to eat				1567.69	1567.69
+ 82		0		 Rice with coconut oil				489.30	489.30
+ 98		0		 Lemons extra big				547.84	547.84
+ 104		0		 Tangerine with agave syrup				350.65	350.65
+ 127		0		 Coffee gmo free				874.55	874.55
+ 147		0		 Carrot gluten free				111.62	111.6

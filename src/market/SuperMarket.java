@@ -252,10 +252,8 @@ public class SuperMarket  implements Serializable {
         for (Checkout caja: checkouts){
             cajasOrdenadas.agrega(caja);
             salesPerClient.agrega(caja.computeTotalSale());
-            costumersPerClient.agrega(caja.getCustomersOfDay());
+            costumersPerClient.agrega(caja.getItemsClients());
         }
-
-
 
         return String.format(":::  SUPERMARKET  :::\n\nDATE: %s\nTOTAL SALES: $%.2f\nThere where attended %d clients " +
                         " with at the most 20 items\n\nThere where attended %d clients with more than 20 items\n" +
@@ -264,7 +262,7 @@ public class SuperMarket  implements Serializable {
                         " \nWITH THE FOLLLOWING CHECKOUTS: \n%s\n %s" +
                         "\n\n The large checkout that had attended more customers was: \n %s " +
                         "\nBest selling box sold: $ %.2f\n" +
-                        "\nthe box with the most clients served %d clients.",
+                        "\nthe box with the most items served %d times.",
                 now,getTotalVentas(), numFastClients, numLargeClients, tickets.longitud() , checkouts, singleLine,
                 cajasOrdenadas.elimina(), salesPerClient.elimina(), costumersPerClient.elimina());
     }

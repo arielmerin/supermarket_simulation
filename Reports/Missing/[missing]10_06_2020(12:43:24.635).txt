@@ -1,0 +1,44 @@
+   :::    CRITICAL EXISTENCES DAILY REPORT  :::
+    DATE: 10/06/2020 - 12:43:16.632
+
+ ----------------- LIMITED EXISTENCES ------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 1		1		 Lemons veggie				503.20	503.20
+ 10		3		 Cucumber gluten free				311.40	311.40
+ 18		1		 Nuts with dark cocoa				1805.59	1805.59
+ 19		5		 Spaghetti gluten free				1408.32	1408.32
+ 25		1		 Cucumber veggie				1879.38	1879.38
+ 30		3		 Integral flour veggie				1299.74	1299.74
+ 39		1		 Soap organic				745.51	745.51
+ 46		2		 Beans extra big				1530.66	1530.66
+ 60		7		 Carrot integral				1761.61	1761.61
+ 70		3		 Lentils with sea salt				1300.77	1300.77
+ 72		2		 Wheat flour with coconut oil				1186.21	1186.21
+ 83		3		 Nuts gmo free				1127.59	1127.59
+ 86		1		 Quinoa flour with agave syrup				1073.41	1073.41
+ 130		1		 Wheat flour gluten free				44.95	44.95
+ 134		1		 Sweet potato gluten free				1636.61	1636.61
+ 145		1		 Soap vegan				475.25	475.25
+ 148		1		 Pear organic				612.25	612.2
+
+
+ ---------------- MISSING PRODUCTS ----------------------
+   ITEM    QUANTITY         DESCRIPTION         PRICE 
+ 26		0		 Avocado integral				1539.69	1539.69
+ 32		0		 Splenda with sea salt				1832.44	1832.44
+ 52		0		 Oat organic				507.32	507.32
+ 57		0		 Peas organic				1661.34	1661.34
+ 77		0		 Peas with agave syrup				856.61	856.61
+ 85		0		 Rice vegan				1883.24	1883.24
+ 90		0		 Broad Beans extra big				1191.71	1191.71
+ 91		0		 Oat flour baby				320.47	320.47
+ 99		0		 Broad Beans organic				1296.46	1296.46
+ 102		0		 Amaranth baby				1586.99	1586.99
+ 103		0		 Pumpkins with coconut oil				194.16	194.16
+ 109		0		 Pear veggie				405.45	405.45
+ 110		0		 Oat with coconut oil				656.63	656.63
+ 111		0		 Soybeans with dark cocoa				98.54	98.54
+ 119		0		 Tangerine with agave syrup				330.86	330.86
+ 122		0		 Tofu veggie				164.66	164.66
+ 129		0		 Kale organic				1791.37	1791.37
+ 139		0		 Apples gluten free				1269.15	1269.1
