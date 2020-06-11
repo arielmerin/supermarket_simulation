@@ -1,0 +1,57 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,mexico]{babel}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{svg}
+\usepackage{amsfonts}
+\usepackage{subcaption}
+\usepackage[margin=1.5cm,
+vmargin={1cm,0.3cm},
+includefoot]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+\begin{document}
+	\setlength{\unitlength}{1cm}
+	\thispagestyle{empty}
+	\begin{picture}(19,3)
+	\put(-0.5,1.2){\includegraphics[scale=.20]{unam1.png}}
+	\put(16,1){\includegraphics[scale=.29]{fciencias1.png}}
+	\end{picture}
+
+\begin{center}
+\vspace{-114pt}
+\textbf{\large Estructuras de Datos}\\
+\textbf{ Semestre 2020-2}\\
+Prof. Alejandro Hernández Mora\\
+Ayud. Pablo Camacho González  \\ 
+Ayud. Lab. Luis Manuel Martínez Dámaso   \\
+\rule{17cm}{0.3mm}\\
+\textbf{Simulador Supermercado}\\
+\huge\textbf{Readme}\\[0.1cm]
+\normalsize Kevin Ariel Merino Peña\footnote{317031326}\\
+Armando Abraham Aquino Chapa\footnote{317058163}\\
+\rule{17cm}{0.3mm}
+\end{center}
+%\vspace{-10pt}
+%\begin{flushright}
+%\vspace{-3pt}
+%end{flushright}
+\section*{Aclaraciones}
+En el programa presentado se presentan dos modalidades de ejecución en el menú principal, la primera permite generar y cargar un documento para alimentar el almacén, resurtirlo o añadir algún producto y en la segunda opción (como usuario) se permite generar una simulación aleatoria (En realidad se realizan 14 simulaciones), cada simulación corresponde a un día, también ofrece la oportunidad de que el usuario eliga cuántas simulaciones va a realizar y que modifique en cada una el número de cajas rápidas o normales con las que se hará, al final de estas dos opciones se presenta la oportunidad de graficar las simulaciones que se hayan hecho, en un histograma y en una gráfica plana.
+\section*{Instrucciones}
+Para simplificar el proceso de compilado se propuso integrar el  código de la carpeta \textit{src} en el directorio \textbf{toExec/} para que al ingresar allí se ejecute el siguiente comando y el programa pueda ser probado
+\begin{center}
+	\textit{java -jar supermarket$\_$simulation.jar}
+\end{center}
+Cabe mencionar que se trata \textbf{del mismo código que se puede encontrar en src/} pero nos parece más real o al menos más cercano a una aplicación fidedigna de una entrega en el campo de la industria.
+
+
+Esta carpeta cuenta con archivos \textit{.gp, .sh} que servirán para generar las gráficas con \textbf{gnuplot} mismo software que se requiere al menos en su versión \textit{5.0}
+\end{document}
